@@ -119,7 +119,7 @@ function App() {
         )}
 
         {primaryTab === 'other' && (
-          <OtherTasks />
+          <OtherTasks watchList={watchList} />
         )}
       </main>
     </div>

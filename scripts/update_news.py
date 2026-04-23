@@ -36,6 +36,23 @@ def get_stock_data(ticker):
         print(f"Error fetching data for {ticker}: {e}")
         return 0.0, 0.0
 
+def get_earnings_date(ticker):
+    """yfinance를 사용하여 다음 실적발표일을 가져옵니다."""
+    try:
+        stock = yf.Ticker(ticker)
+        cal = stock.calendar
+        if cal and 'Earnings Date' in cal and len(cal['Earnings Date']) > 0:
+            date_obj = cal['Earnings Date'][0]
+            if isinstance(date_obj, datetime.date):
+                return date_obj.strftime('%Y-%m-%d')
+            elif hasattr(date_obj, 'date'):
+                return date_obj.date().strftime('%Y-%m-%d')
+            else:
+                return str(date_obj)[:10]
+    except Exception as e:
+        print(f"Error fetching earnings date for {ticker}: {e}")
+    return "TBD"
+
 import urllib.parse
 
 def scrape_raw_news(ticker, company_name):
@@ -93,6 +110,8 @@ def main():
         "summaries": []
     }
     
+    earnings_calendar = []
+    
     # 2. 각 회사별로 주가와 뉴스 원문(Snippet) 생성
     for company in COMPANIES:
         ticker = company['ticker']
@@ -101,6 +120,13 @@ def main():
         
         price, change = get_stock_data(ticker)
         news_info = scrape_raw_news(ticker, name)
+        earnings_date = get_earnings_date(ticker)
+        
+        earnings_calendar.append({
+            "ticker": ticker,
+            "name": name,
+            "earningsDate": earnings_date
+        })
         
         summary_item = {
             "ticker": ticker,
@@ -114,7 +140,13 @@ def main():
         
     # 3. 데이터베이스 업데이트 (최신순으로 정렬)
     db[today_str] = today_data
-    sorted_db = dict(sorted(db.items(), key=lambda item: item[0], reverse=True))
+    db["earningsCalendar"] = earnings_calendar
+    
+    # earningsCalendar 키는 날짜 정렬에서 제외
+    sorted_db = {k: db[k] for k in ["earningsCalendar"] if k in db}
+    for k in sorted(db.keys(), reverse=True):
+        if k != "earningsCalendar":
+            sorted_db[k] = db[k]
     
     # 이 파일(mockDatabase.json)을 GitHub에 덮어쓰면, Openclaw 에이전트가 이를 읽어 재가공 가능
     with open(DATA_FILE_PATH, 'w', encoding='utf-8') as f:

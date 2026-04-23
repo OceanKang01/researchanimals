@@ -1,10 +1,29 @@
-import React from 'react';
+import React, { useState } from 'react';
+import EarningsCalendar from './EarningsCalendar';
+import NewsSearch from './NewsSearch';
 
-function OtherTasks() {
+function OtherTasks({ watchList }) {
+  const [secondaryTab, setSecondaryTab] = useState('earnings'); // 'earnings' | 'search'
+
   return (
-    <div style={{ textAlign: 'center', padding: '4rem 0', color: 'var(--text-secondary)', background: 'var(--glass-bg)', borderRadius: '16px', border: '1px solid var(--border-color)' }}>
-      <h2 style={{ marginBottom: '1rem', color: 'var(--text-primary)' }}>추가 업무 공간</h2>
-      <p style={{ fontSize: '1.1rem' }}>이곳에 추후 다른 뉴스나 데이터 관련 업무 기능이 추가될 예정입니다.</p>
+    <div>
+      <nav className="nav-secondary">
+        <button 
+          className={`nav-secondary-tab ${secondaryTab === 'earnings' ? 'active' : ''}`}
+          onClick={() => setSecondaryTab('earnings')}
+        >
+          실적발표 일정
+        </button>
+        <button 
+          className={`nav-secondary-tab ${secondaryTab === 'search' ? 'active' : ''}`}
+          onClick={() => setSecondaryTab('search')}
+        >
+          뉴스 검색
+        </button>
+      </nav>
+
+      {secondaryTab === 'earnings' && <EarningsCalendar watchList={watchList} />}
+      {secondaryTab === 'search' && <NewsSearch />}
     </div>
   );
 }
