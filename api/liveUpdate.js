@@ -7,16 +7,16 @@ export default async function handler(req, res) {
 
   const tickerList = tickers.split(',').map(t => t.trim().toUpperCase());
   
-  // Format dates for KST
-  const now = new Date();
-  const kstOptions = { timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit' };
-  const kstParts = new Intl.DateTimeFormat('ko-KR', kstOptions).formatToParts(now);
-  const yyyy = kstParts.find(p => p.type === 'year').value;
-  const mm = kstParts.find(p => p.type === 'month').value;
-  const dd = kstParts.find(p => p.type === 'day').value;
-  const todayStr = `${yyyy}-${mm}-${dd}`;
+  // Bulletproof KST date string (add 9 hours to UTC)
+  const kstDate = new Date(new Date().getTime() + 9 * 60 * 60 * 1000);
+  const todayStr = kstDate.toISOString().split('T')[0];
   
-  const lastUpdatedStr = new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' }) + ' (Live)';
+  let lastUpdatedStr = "Live";
+  try {
+    lastUpdatedStr = new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' }) + ' (Live)';
+  } catch(e) {
+    lastUpdatedStr = kstDate.toISOString().replace('T', ' ').substring(0, 19) + ' (Live)';
+  }
 
   try {
     const results = {
@@ -28,55 +28,59 @@ export default async function handler(req, res) {
 
     // Process all tickers in parallel
     const promises = tickerList.map(async (ticker) => {
-      // 1. Fetch News (Zero-dependency RSS parsing using fetch & regex)
+      // 1. Fetch News (Using Yahoo Finance Search API - JSON, fast, reliable)
       try {
-        const query = encodeURIComponent(`${ticker} stock news`);
-        const feedUrl = `https://news.google.com/rss/search?q=${query}&hl=en-US&gl=US&ceid=US:en`;
+        const newsUrl = `https://query2.finance.yahoo.com/v1/finance/search?q=${ticker}&quotesCount=0&newsCount=3`;
+        const newsRes = await fetch(newsUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } });
         
-        const rssRes = await fetch(feedUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } });
-        if (!rssRes.ok) throw new Error('RSS fetch failed');
-        const xmlText = await rssRes.text();
-        
-        const newsItems = [];
-        const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-        let match;
-        while ((match = itemRegex.exec(xmlText)) !== null && newsItems.length < 3) {
-          const itemXml = match[1];
-          const titleMatch = itemXml.match(/<title>([^<]+)<\/title>/);
-          const linkMatch = itemXml.match(/<link>([^<]+)<\/link>/);
-          const sourceMatch = itemXml.match(/<source[^>]*>([^<]+)<\/source>/);
-          
-          if (titleMatch && linkMatch) {
-            // Replace HTML entities loosely
-            const decodeHtml = (html) => {
-                return html.replace(/&amp;/g, '&')
-                           .replace(/&lt;/g, '<')
-                           .replace(/&gt;/g, '>')
-                           .replace(/&quot;/g, '"')
-                           .replace(/&#39;/g, "'")
-                           .replace(/&apos;/g, "'");
-            };
-            
-            newsItems.push({
-              title: decodeHtml(titleMatch[1]),
-              link: linkMatch[1],
-              source: sourceMatch ? decodeHtml(sourceMatch[1]) : 'Google News'
-            });
+        let sources = [];
+        if (newsRes.ok) {
+          const newsData = await newsRes.json();
+          if (newsData.news && newsData.news.length > 0) {
+            sources = newsData.news.map(n => ({
+              provider: n.publisher || 'Yahoo Finance',
+              title: n.title,
+              url: n.link
+            }));
           }
         }
         
-        // Map to format expected by Dashboard
+        // If we still don't have sources, try Google News RSS as fallback
+        if (sources.length === 0) {
+           try {
+             const query = encodeURIComponent(`${ticker} stock news`);
+             const feedUrl = `https://news.google.com/rss/search?q=${query}&hl=en-US&gl=US&ceid=US:en`;
+             const rssRes = await fetch(feedUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+             if (rssRes.ok) {
+               const xmlText = await rssRes.text();
+               const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+               let match;
+               while ((match = itemRegex.exec(xmlText)) !== null && sources.length < 3) {
+                 const itemXml = match[1];
+                 const titleMatch = itemXml.match(/<title>([^<]+)<\/title>/);
+                 const linkMatch = itemXml.match(/<link>([^<]+)<\/link>/);
+                 const sourceMatch = itemXml.match(/<source[^>]*>([^<]+)<\/source>/);
+                 
+                 if (titleMatch && linkMatch) {
+                   const decodeHtml = (html) => html.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&apos;/g, "'");
+                   sources.push({
+                     provider: sourceMatch ? decodeHtml(sourceMatch[1]) : 'Google News',
+                     title: decodeHtml(titleMatch[1]),
+                     url: linkMatch[1]
+                   });
+                 }
+               }
+             }
+           } catch(e) {}
+        }
+        
         const summaryObj = {
           ticker: ticker,
           name: ticker,
           price: 0,
           changePercent: 0,
           summary: "실시간 라이브 업데이트 모드입니다. 원문 기사만 제공되며, AI 요약본은 다음 정기 업데이트 시 반영됩니다.",
-          sources: newsItems.map(n => ({
-            provider: n.source,
-            title: n.title,
-            url: n.link
-          }))
+          sources: sources
         };
         results.summaries.push(summaryObj);
       } catch (e) {
@@ -109,8 +113,6 @@ export default async function handler(req, res) {
             const hour = dateObj.getUTCHours(); // EST diff approx
             
             let timing = "TBD";
-            // Rough approximation of BMO/AMC based on UTC hours returned by Yahoo
-            // Yahoo usually returns 12:00 UTC (8am EDT) for BMO, 20:00 UTC (4pm EDT) for AMC
             if (hour >= 10 && hour <= 15) {
                timing = "BMO (개장 전)";
             } else if (hour >= 19 && hour <= 23) {
