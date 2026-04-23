@@ -21,14 +21,18 @@ export default async function handler(req, res) {
     const data = await response.json();
     
     if (data.quotes && data.quotes.length > 0) {
-      const quote = data.quotes[0];
+      // Filter out non-equity/futures if needed, but mostly we just return top 5
+      const results = data.quotes.slice(0, 5).map(quote => ({
+        ticker: quote.symbol,
+        name: quote.shortname || quote.longname || quote.symbol
+      }));
+      
       return res.status(200).json({ 
         success: true, 
-        ticker: quote.symbol, 
-        name: quote.shortname || quote.longname || quote.symbol 
+        results: results 
       });
     } else {
-      return res.status(404).json({ success: false, error: 'Company not found' });
+      return res.status(200).json({ success: true, results: [] });
     }
     
   } catch (error) {

@@ -30,7 +30,8 @@ const KOREAN_DICTIONARY = [
 
 function WatchList({ watchList, setWatchList }) {
   const [query, setQuery] = useState('');
-  const [suggestions, setSuggestions] = useState([]);
+  const [localSuggestions, setLocalSuggestions] = useState([]);
+  const [apiSuggestions, setApiSuggestions] = useState([]);
   const [isSearching, setIsSearching] = useState(false);
   const [showDropdown, setShowDropdown] = useState(false);
   const wrapperRef = useRef(null);
@@ -45,12 +46,45 @@ function WatchList({ watchList, setWatchList }) {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, [wrapperRef]);
 
+  // Debounced API search
+  useEffect(() => {
+    const trimmed = query.trim();
+    if (!trimmed) {
+      setApiSuggestions([]);
+      return;
+    }
+
+    const timer = setTimeout(async () => {
+      // Only fetch if query doesn't contain Korean characters (to save API calls since Yahoo doesn't support Korean)
+      const hasKorean = /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/.test(trimmed);
+      if (!hasKorean) {
+        setIsSearching(true);
+        try {
+          const res = await fetch(`/api/company?ticker=${encodeURIComponent(trimmed)}`);
+          const data = await res.json();
+          if (data.success && data.results) {
+            setApiSuggestions(data.results);
+          }
+        } catch (e) {
+          console.error(e);
+        } finally {
+          setIsSearching(false);
+        }
+      } else {
+        setApiSuggestions([]);
+      }
+    }, 400);
+
+    return () => clearTimeout(timer);
+  }, [query]);
+
   const handleQueryChange = (e) => {
     const val = e.target.value;
     setQuery(val);
     
     if (val.trim() === '') {
-      setSuggestions([]);
+      setLocalSuggestions([]);
+      setApiSuggestions([]);
       setShowDropdown(false);
       return;
     }
@@ -62,7 +96,7 @@ function WatchList({ watchList, setWatchList }) {
       item.ko.some(k => k.includes(lowerVal))
     ).slice(0, 5);
 
-    setSuggestions(matches);
+    setLocalSuggestions(matches);
     setShowDropdown(true);
   };
 
@@ -73,41 +107,39 @@ function WatchList({ watchList, setWatchList }) {
     }
     setWatchList([...watchList, company]);
     setQuery('');
-    setSuggestions([]);
+    setLocalSuggestions([]);
+    setApiSuggestions([]);
     setShowDropdown(false);
   };
 
-  const handleAddSubmit = async (e) => {
+  const handleAddSubmit = (e) => {
     e.preventDefault();
     if (!query.trim()) return;
 
-    // Check if query exactly matches a suggestion
-    const exactMatch = suggestions.find(s => 
+    // Check if query exactly matches a local suggestion
+    const exactLocalMatch = localSuggestions.find(s => 
       s.ticker.toLowerCase() === query.toLowerCase() || 
       s.ko.includes(query)
     );
 
-    if (exactMatch) {
-      addCompany({ ticker: exactMatch.ticker, name: exactMatch.name });
+    if (exactLocalMatch) {
+      addCompany({ ticker: exactLocalMatch.ticker, name: exactLocalMatch.name });
       return;
     }
 
-    // Assume query is a ticker, lookup via API
-    setIsSearching(true);
-    try {
-      const response = await fetch(`/api/company?ticker=${encodeURIComponent(query.trim())}`);
-      const data = await response.json();
-      
-      if (data.success) {
-        addCompany({ ticker: data.ticker, name: data.name });
-      } else {
-        alert(`기업 정보를 찾을 수 없습니다: ${query}\n올바른 티커(심볼)를 입력해주세요.`);
-      }
-    } catch (error) {
-      console.error(error);
-      alert('검색 중 오류가 발생했습니다.');
-    } finally {
-      setIsSearching(false);
+    // Check if exactly matches API suggestion
+    const exactApiMatch = apiSuggestions.find(s => s.ticker.toLowerCase() === query.toLowerCase());
+    if (exactApiMatch) {
+      addCompany({ ticker: exactApiMatch.ticker, name: exactApiMatch.name });
+      return;
+    }
+
+    // Fallback: Use the top suggestion if available, else just add as typed
+    const topSuggestion = localSuggestions[0] || apiSuggestions[0];
+    if (topSuggestion) {
+      addCompany({ ticker: topSuggestion.ticker, name: topSuggestion.name });
+    } else {
+      addCompany({ ticker: query.toUpperCase(), name: query.toUpperCase() });
     }
   };
 
@@ -115,11 +147,19 @@ function WatchList({ watchList, setWatchList }) {
     setWatchList(watchList.filter(item => item.ticker !== tickerToRemove));
   };
 
+  // Combine and deduplicate suggestions
+  const combinedSuggestions = [...localSuggestions];
+  apiSuggestions.forEach(apiItem => {
+    if (!combinedSuggestions.some(localItem => localItem.ticker === apiItem.ticker)) {
+      combinedSuggestions.push({ ...apiItem, ko: [] }); // API items don't have Korean names
+    }
+  });
+
   return (
     <div className="watch-list-container">
       <h2 style={{ color: 'var(--text-primary)', marginBottom: '1.5rem' }}>관심 기업 설정 (Watch List)</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '1.5rem', fontSize: '0.95rem' }}>
-        한국어 기업명(예: 애플, 엔비디아)이나 영문 티커(예: TSLA)를 입력하세요.
+        한국어 기업명(예: 애플)이나 영문/티커(예: TSLA, apple)를 입력하세요.
       </p>
 
       <form className="add-company-form" onSubmit={handleAddSubmit} ref={wrapperRef} style={{ position: 'relative' }}>
@@ -129,12 +169,11 @@ function WatchList({ watchList, setWatchList }) {
           placeholder="기업명 또는 티커 검색..."
           value={query}
           onChange={handleQueryChange}
-          onFocus={() => { if(suggestions.length > 0) setShowDropdown(true); }}
-          disabled={isSearching}
+          onFocus={() => { if(combinedSuggestions.length > 0) setShowDropdown(true); }}
           style={{ width: '100%', marginBottom: 0 }}
         />
         
-        {showDropdown && suggestions.length > 0 && (
+        {showDropdown && combinedSuggestions.length > 0 && (
           <ul style={{
             position: 'absolute',
             top: '100%',
@@ -147,9 +186,16 @@ function WatchList({ watchList, setWatchList }) {
             padding: '0.5rem 0',
             margin: '0.5rem 0 0 0',
             zIndex: 10,
-            boxShadow: '0 4px 6px rgba(0,0,0,0.3)'
+            boxShadow: '0 4px 6px rgba(0,0,0,0.3)',
+            maxHeight: '300px',
+            overflowY: 'auto'
           }}>
-            {suggestions.map(s => (
+            {isSearching && (
+              <li style={{ padding: '0.5rem 1rem', fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
+                야후 파이낸스에서 검색 중...
+              </li>
+            )}
+            {combinedSuggestions.map(s => (
               <li 
                 key={s.ticker}
                 style={{ padding: '0.75rem 1rem', cursor: 'pointer', borderBottom: '1px solid var(--border-color)' }}
@@ -159,7 +205,9 @@ function WatchList({ watchList, setWatchList }) {
               >
                 <div style={{ display: 'flex', justifyContent: 'space-between' }}>
                   <strong style={{ color: 'var(--accent-color)' }}>{s.ticker}</strong>
-                  <span style={{ color: 'var(--text-secondary)', fontSize: '0.9rem' }}>{s.ko.join(', ')}</span>
+                  {s.ko && s.ko.length > 0 && (
+                    <span style={{ color: 'var(--text-secondary)', fontSize: '0.9rem' }}>{s.ko.join(', ')}</span>
+                  )}
                 </div>
                 <div style={{ color: 'var(--text-primary)', fontSize: '0.9rem', marginTop: '0.25rem' }}>
                   {s.name}
@@ -169,8 +217,8 @@ function WatchList({ watchList, setWatchList }) {
           </ul>
         )}
         
-        <button type="submit" className="btn-add" disabled={isSearching || !query.trim()} style={{ whiteSpace: 'nowrap' }}>
-          {isSearching ? '검색 중...' : '추가하기'}
+        <button type="submit" className="btn-add" disabled={!query.trim()} style={{ whiteSpace: 'nowrap' }}>
+          추가하기
         </button>
       </form>
 
