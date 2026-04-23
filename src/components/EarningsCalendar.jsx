@@ -1,9 +1,9 @@
 import React from 'react';
 import mockDatabase from '../mockDatabase.json';
 
-function EarningsCalendar({ watchList }) {
+function EarningsCalendar({ watchList, liveEarningsData }) {
   // Get earnings data
-  const earningsData = mockDatabase.earningsCalendar || [];
+  const earningsData = liveEarningsData || mockDatabase.earningsCalendar || [];
   
   // Filter by watchList
   const watchedTickers = watchList.map(item => item.ticker);

@@ -19,6 +19,10 @@ function App() {
   // Use today's data from mockDatabase for the main dashboard
   const dateKeys = Object.keys(mockDatabase).filter(k => k !== 'earningsCalendar');
   const todayDate = dateKeys.sort((a, b) => new Date(b) - new Date(a))[0];
+  
+  const [liveData, setLiveData] = useState(null);
+  const [isUpdating, setIsUpdating] = useState(false);
+  
   const [newsData, setNewsData] = useState(null);
   const [loading, setLoading] = useState(true);
   
@@ -52,6 +56,30 @@ function App() {
     }, 600);
   }, []);
 
+  const handleLiveUpdate = async () => {
+    if (watchList.length === 0) {
+      alert("관심기업을 먼저 설정해주세요!");
+      return;
+    }
+    
+    setIsUpdating(true);
+    const tickers = watchList.map(w => w.ticker).join(',');
+    try {
+      const res = await fetch(`/api/liveUpdate?tickers=${encodeURIComponent(tickers)}`);
+      const data = await res.json();
+      if (data.success && data.data) {
+        setLiveData(data.data);
+      } else {
+        alert("업데이트 중 오류가 발생했습니다.");
+      }
+    } catch (e) {
+      console.error(e);
+      alert("서버 연결에 실패했습니다.");
+    } finally {
+      setIsUpdating(false);
+    }
+  };
+
   if (loading) {
     return (
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', color: 'var(--text-secondary)' }}>
@@ -60,15 +88,40 @@ function App() {
     );
   }
 
+  // Use live data if available
+  const displayData = liveData || newsData;
+
   return (
     <div>
-      <header className="header">
-        <div>
-          <h1>주식 및 업무 대시보드</h1>
+      <header className="header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+          <h1 style={{ margin: 0 }}>주식 및 업무 대시보드</h1>
+          <button 
+            onClick={handleLiveUpdate} 
+            disabled={isUpdating}
+            style={{
+              background: isUpdating ? 'var(--card-bg)' : 'var(--accent-color)',
+              color: 'white',
+              border: 'none',
+              padding: '0.5rem 1rem',
+              borderRadius: '20px',
+              cursor: isUpdating ? 'not-allowed' : 'pointer',
+              fontWeight: 'bold',
+              display: 'flex',
+              alignItems: 'center',
+              gap: '0.5rem',
+              transition: 'background 0.3s',
+              fontSize: '0.9rem'
+            }}
+          >
+            {isUpdating ? '업데이트 중...' : '⟳ 실시간 업데이트'}
+          </button>
         </div>
         <div className="date-info">
-          <span className="date">{newsData.date} 기준</span>
-          <span className="last-updated">최종 업데이트: {newsData.lastUpdated}</span>
+          <span className="date">{displayData.date} 기준</span>
+          <span className="last-updated" style={{ color: liveData ? '#34d399' : 'inherit' }}>
+            최종 업데이트: {displayData.lastUpdated}
+          </span>
         </div>
       </header>
 
@@ -120,7 +173,7 @@ function App() {
             </nav>
 
             {/* News Sub-views */}
-            {secondaryTab === 'dashboard' && <Dashboard newsData={newsData} watchList={watchList} />}
+            {secondaryTab === 'dashboard' && <Dashboard newsData={displayData} watchList={watchList} />}
             {secondaryTab === 'pastnews' && <PastNews watchList={watchList} />}
             {secondaryTab === 'search' && <NewsSearch />}
           </div>
@@ -134,7 +187,7 @@ function App() {
 
         {primaryTab === 'earnings' && (
           <div style={{ marginTop: '1rem' }}>
-            <EarningsCalendar watchList={watchList} />
+            <EarningsCalendar watchList={watchList} liveEarningsData={liveData?.earnings} />
           </div>
         )}
       </main>
