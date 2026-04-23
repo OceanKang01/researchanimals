@@ -7,16 +7,24 @@ export default async function handler(req, res) {
 
   const tickerList = tickers.split(',').map(t => t.trim().toUpperCase());
   
-  // Bulletproof KST date string (add 9 hours to UTC)
   const kstDate = new Date(new Date().getTime() + 9 * 60 * 60 * 1000);
   const todayStr = kstDate.toISOString().split('T')[0];
-  
   let lastUpdatedStr = "Live";
-  try {
-    lastUpdatedStr = new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' }) + ' (Live)';
-  } catch(e) {
-    lastUpdatedStr = kstDate.toISOString().replace('T', ' ').substring(0, 19) + ' (Live)';
-  }
+  try { lastUpdatedStr = new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' }) + ' (Live)'; } catch(e) { lastUpdatedStr = kstDate.toISOString().replace('T', ' ').substring(0, 19) + ' (Live)'; }
+
+  // Helper for timeouts to prevent Vercel 10s limit
+  const fetchWithTimeout = async (url, options = {}, timeoutMs = 3000) => {
+    const controller = new AbortController();
+    const id = setTimeout(() => controller.abort(), timeoutMs);
+    try {
+      const response = await fetch(url, { ...options, signal: controller.signal });
+      clearTimeout(id);
+      return response;
+    } catch (err) {
+      clearTimeout(id);
+      throw err;
+    }
+  };
 
   try {
     const results = {
@@ -26,12 +34,11 @@ export default async function handler(req, res) {
       earnings: []
     };
 
-    // Process all tickers in parallel
     const promises = tickerList.map(async (ticker) => {
-      // 1. Fetch News (Using Yahoo Finance Search API - JSON, fast, reliable)
+      // 1. Fetch News
       try {
         const newsUrl = `https://query2.finance.yahoo.com/v1/finance/search?q=${ticker}&quotesCount=0&newsCount=3`;
-        const newsRes = await fetch(newsUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+        const newsRes = await fetchWithTimeout(newsUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } }, 3500);
         
         let sources = [];
         if (newsRes.ok) {
@@ -45,12 +52,11 @@ export default async function handler(req, res) {
           }
         }
         
-        // If we still don't have sources, try Google News RSS as fallback
         if (sources.length === 0) {
            try {
              const query = encodeURIComponent(`${ticker} stock news`);
              const feedUrl = `https://news.google.com/rss/search?q=${query}&hl=en-US&gl=US&ceid=US:en`;
-             const rssRes = await fetch(feedUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+             const rssRes = await fetchWithTimeout(feedUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } }, 3500);
              if (rssRes.ok) {
                const xmlText = await rssRes.text();
                const itemRegex = /<item>([\s\S]*?)<\/item>/g;
@@ -60,7 +66,6 @@ export default async function handler(req, res) {
                  const titleMatch = itemXml.match(/<title>([^<]+)<\/title>/);
                  const linkMatch = itemXml.match(/<link>([^<]+)<\/link>/);
                  const sourceMatch = itemXml.match(/<source[^>]*>([^<]+)<\/source>/);
-                 
                  if (titleMatch && linkMatch) {
                    const decodeHtml = (html) => html.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&apos;/g, "'");
                    sources.push({
@@ -74,55 +79,45 @@ export default async function handler(req, res) {
            } catch(e) {}
         }
         
-        const summaryObj = {
+        results.summaries.push({
           ticker: ticker,
           name: ticker,
           price: 0,
           changePercent: 0,
           summary: "실시간 라이브 업데이트 모드입니다. 원문 기사만 제공되며, AI 요약본은 다음 정기 업데이트 시 반영됩니다.",
           sources: sources
-        };
-        results.summaries.push(summaryObj);
+        });
       } catch (e) {
-        console.error(`News fetch failed for ${ticker}`, e);
         results.summaries.push({
           ticker: ticker,
           name: ticker,
           price: 0,
           changePercent: 0,
-          summary: "실시간 뉴스를 가져오는데 실패했습니다.",
+          summary: "뉴스 서버 연결 지연으로 기사를 가져오지 못했습니다.",
           sources: []
         });
       }
 
-      // 2. Fetch Earnings from Yahoo Finance
+      // 2. Fetch Earnings
       try {
         const url = `https://query2.finance.yahoo.com/v10/finance/quoteSummary/${ticker}?modules=calendarEvents`;
-        const response = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+        const response = await fetchWithTimeout(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, 3000);
         if (response.ok) {
           const data = await response.json();
           const cal = data.quoteSummary?.result?.[0]?.calendarEvents;
-          
           if (cal && cal.earnings && cal.earnings.earningsDate && cal.earnings.earningsDate.length > 0) {
             const rawTimestamp = cal.earnings.earningsDate[0].raw;
             const dateObj = new Date(rawTimestamp * 1000);
-            
             const e_yyyy = dateObj.getFullYear();
             const e_mm = String(dateObj.getMonth() + 1).padStart(2, '0');
             const e_dd = String(dateObj.getDate()).padStart(2, '0');
-            const hour = dateObj.getUTCHours(); // EST diff approx
+            const hour = dateObj.getUTCHours();
             
             let timing = "TBD";
-            if (hour >= 10 && hour <= 15) {
-               timing = "BMO (개장 전)";
-            } else if (hour >= 19 && hour <= 23) {
-               timing = "AMC (마감 후)";
-            }
+            if (hour >= 10 && hour <= 15) timing = "BMO (개장 전)";
+            else if (hour >= 19 && hour <= 23) timing = "AMC (마감 후)";
             
-            results.earnings.push({
-              ticker: ticker,
-              earningsDate: `${e_yyyy}-${e_mm}-${e_dd} ${timing}`
-            });
+            results.earnings.push({ ticker: ticker, earningsDate: `${e_yyyy}-${e_mm}-${e_dd} ${timing}` });
           } else {
             results.earnings.push({ ticker: ticker, earningsDate: 'TBD' });
           }
@@ -130,17 +125,14 @@ export default async function handler(req, res) {
           results.earnings.push({ ticker: ticker, earningsDate: 'TBD' });
         }
       } catch (e) {
-        console.error(`Earnings fetch failed for ${ticker}`, e);
         results.earnings.push({ ticker: ticker, earningsDate: 'TBD' });
       }
     });
 
     await Promise.all(promises);
-
     res.status(200).json({ success: true, data: results });
     
   } catch (error) {
-    console.error('Live update error:', error);
-    res.status(500).json({ success: false, error: 'Failed to perform live update' });
+    res.status(500).json({ success: false, error: 'Live update failed' });
   }
 }

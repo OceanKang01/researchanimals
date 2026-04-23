@@ -28,9 +28,9 @@ function Dashboard({ newsData, watchList }) {
               <h2 className="company-name">{item.name}</h2>
             </div>
             <div className="price-info">
-              <div className="stock-price">${item.price.toFixed(2)}</div>
-              <div className={`stock-change ${item.changePercent >= 0 ? 'positive' : 'negative'}`}>
-                {item.changePercent >= 0 ? '+' : ''}{item.changePercent}%
+              <div className="stock-price">${(item.price || 0).toFixed(2)}</div>
+              <div className={`stock-change ${(item.changePercent || 0) >= 0 ? 'positive' : 'negative'}`}>
+                {(item.changePercent || 0) >= 0 ? '+' : ''}{item.changePercent || 0}%
               </div>
             </div>
           </header>
@@ -40,7 +40,7 @@ function Dashboard({ newsData, watchList }) {
           <div className="sources-list">
             <h3 className="sources-title">오늘의 뉴스 출처</h3>
             <ul>
-              {item.sources.map((source, idx) => (
+              {(item.sources || []).map((source, idx) => (
                 <li key={idx} className="source-item">
                   <span className="provider-tag">{source.provider}</span>
                   <a href={source.url} className="source-link" target="_blank" rel="noopener noreferrer">

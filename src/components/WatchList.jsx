@@ -105,7 +105,9 @@ function WatchList({ watchList, setWatchList }) {
       alert('이미 추가된 기업입니다.');
       return;
     }
-    setWatchList([...watchList, company]);
+    const newList = [...watchList, company];
+    setWatchList(newList);
+    try { localStorage.setItem('usStockWatchList', JSON.stringify(newList)); } catch(e){}
     setQuery('');
     setLocalSuggestions([]);
     setApiSuggestions([]);
@@ -144,7 +146,9 @@ function WatchList({ watchList, setWatchList }) {
   };
 
   const handleDelete = (tickerToRemove) => {
-    setWatchList(watchList.filter(item => item.ticker !== tickerToRemove));
+    const newList = watchList.filter(item => item.ticker !== tickerToRemove);
+    setWatchList(newList);
+    try { localStorage.setItem('usStockWatchList', JSON.stringify(newList)); } catch(e){}
   };
 
   // Combine and deduplicate suggestions
