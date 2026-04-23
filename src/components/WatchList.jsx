@@ -162,62 +162,66 @@ function WatchList({ watchList, setWatchList }) {
         한국어 기업명(예: 애플)이나 영문/티커(예: TSLA, apple)를 입력하세요.
       </p>
 
-      <form className="add-company-form" onSubmit={handleAddSubmit} ref={wrapperRef} style={{ position: 'relative' }}>
-        <input
-          type="text"
-          className="form-input"
-          placeholder="기업명 또는 티커 검색..."
-          value={query}
-          onChange={handleQueryChange}
-          onFocus={() => { if(combinedSuggestions.length > 0) setShowDropdown(true); }}
-          style={{ width: '100%', marginBottom: 0 }}
-        />
+      <form className="add-company-form" onSubmit={handleAddSubmit} ref={wrapperRef}>
+        <div style={{ position: 'relative', flex: 1, display: 'flex', flexDirection: 'column' }}>
+          <input
+            type="text"
+            className="form-input"
+            placeholder="기업명 또는 티커 검색..."
+            value={query}
+            onChange={handleQueryChange}
+            onFocus={() => { if(combinedSuggestions.length > 0) setShowDropdown(true); }}
+            style={{ width: '100%', marginBottom: 0 }}
+          />
+          
+          {showDropdown && combinedSuggestions.length > 0 && (
+            <ul style={{
+              position: 'absolute',
+              top: 'calc(100% + 4px)',
+              left: 0,
+              right: 0,
+              background: 'var(--card-bg)',
+              border: '1px solid var(--border-color)',
+              borderRadius: '8px',
+              listStyle: 'none',
+              padding: '0.5rem 0',
+              margin: 0,
+              zIndex: 50,
+              boxShadow: '0 10px 15px -3px rgba(0, 0, 0, 0.5), 0 4px 6px -2px rgba(0, 0, 0, 0.3)',
+              maxHeight: '300px',
+              overflowY: 'auto'
+            }}>
+              {isSearching && (
+                <li style={{ padding: '0.5rem 1rem', fontSize: '0.8rem', color: 'var(--text-secondary)', textAlign: 'center' }}>
+                  야후 파이낸스에서 검색 중...
+                </li>
+              )}
+              {combinedSuggestions.map(s => (
+                <li 
+                  key={s.ticker}
+                  style={{ padding: '0.75rem 1rem', cursor: 'pointer', borderBottom: '1px solid var(--border-color)', transition: 'background 0.2s' }}
+                  onClick={() => addCompany({ ticker: s.ticker, name: s.name })}
+                  onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.08)'}
+                  onMouseLeave={(e) => e.currentTarget.style.background = 'transparent'}
+                >
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                    <strong style={{ color: 'var(--accent-color)', fontSize: '1.1rem' }}>{s.ticker}</strong>
+                    {s.ko && s.ko.length > 0 && (
+                      <span style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', background: 'rgba(255,255,255,0.1)', padding: '0.1rem 0.4rem', borderRadius: '4px' }}>
+                        {s.ko.join(', ')}
+                      </span>
+                    )}
+                  </div>
+                  <div style={{ color: 'var(--text-primary)', fontSize: '0.95rem', marginTop: '0.3rem' }}>
+                    {s.name}
+                  </div>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
         
-        {showDropdown && combinedSuggestions.length > 0 && (
-          <ul style={{
-            position: 'absolute',
-            top: '100%',
-            left: 0,
-            right: 0,
-            background: 'var(--card-bg)',
-            border: '1px solid var(--border-color)',
-            borderRadius: '8px',
-            listStyle: 'none',
-            padding: '0.5rem 0',
-            margin: '0.5rem 0 0 0',
-            zIndex: 10,
-            boxShadow: '0 4px 6px rgba(0,0,0,0.3)',
-            maxHeight: '300px',
-            overflowY: 'auto'
-          }}>
-            {isSearching && (
-              <li style={{ padding: '0.5rem 1rem', fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
-                야후 파이낸스에서 검색 중...
-              </li>
-            )}
-            {combinedSuggestions.map(s => (
-              <li 
-                key={s.ticker}
-                style={{ padding: '0.75rem 1rem', cursor: 'pointer', borderBottom: '1px solid var(--border-color)' }}
-                onClick={() => addCompany({ ticker: s.ticker, name: s.name })}
-                onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
-                onMouseLeave={(e) => e.currentTarget.style.background = 'transparent'}
-              >
-                <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-                  <strong style={{ color: 'var(--accent-color)' }}>{s.ticker}</strong>
-                  {s.ko && s.ko.length > 0 && (
-                    <span style={{ color: 'var(--text-secondary)', fontSize: '0.9rem' }}>{s.ko.join(', ')}</span>
-                  )}
-                </div>
-                <div style={{ color: 'var(--text-primary)', fontSize: '0.9rem', marginTop: '0.25rem' }}>
-                  {s.name}
-                </div>
-              </li>
-            ))}
-          </ul>
-        )}
-        
-        <button type="submit" className="btn-add" disabled={!query.trim()} style={{ whiteSpace: 'nowrap' }}>
+        <button type="submit" className="btn-add" disabled={!query.trim()} style={{ whiteSpace: 'nowrap', height: 'fit-content' }}>
           추가하기
         </button>
       </form>
