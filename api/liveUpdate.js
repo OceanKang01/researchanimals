@@ -1,7 +1,3 @@
-import Parser from 'rss-parser';
-
-const parser = new Parser();
-
 export default async function handler(req, res) {
   const { tickers } = req.query;
 
@@ -10,30 +6,64 @@ export default async function handler(req, res) {
   }
 
   const tickerList = tickers.split(',').map(t => t.trim().toUpperCase());
-  const todayStr = new Date().toISOString().split('T')[0];
+  
+  // Format dates for KST
+  const now = new Date();
+  const kstOptions = { timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit' };
+  const kstParts = new Intl.DateTimeFormat('ko-KR', kstOptions).formatToParts(now);
+  const yyyy = kstParts.find(p => p.type === 'year').value;
+  const mm = kstParts.find(p => p.type === 'month').value;
+  const dd = kstParts.find(p => p.type === 'day').value;
+  const todayStr = `${yyyy}-${mm}-${dd}`;
+  
+  const lastUpdatedStr = new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' }) + ' (Live)';
 
   try {
     const results = {
       date: todayStr,
-      lastUpdated: new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' }) + ' (Live)',
+      lastUpdated: lastUpdatedStr,
       summaries: [],
       earnings: []
     };
 
     // Process all tickers in parallel
     const promises = tickerList.map(async (ticker) => {
-      // 1. Fetch News
+      // 1. Fetch News (Zero-dependency RSS parsing using fetch & regex)
       try {
         const query = encodeURIComponent(`${ticker} stock news`);
         const feedUrl = `https://news.google.com/rss/search?q=${query}&hl=en-US&gl=US&ceid=US:en`;
-        const feed = await parser.parseURL(feedUrl);
         
-        // Take top 3 news
-        const newsItems = feed.items.slice(0, 3).map((item, idx) => ({
-          title: item.title,
-          link: item.link,
-          source: item.source || 'Google News'
-        }));
+        const rssRes = await fetch(feedUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+        if (!rssRes.ok) throw new Error('RSS fetch failed');
+        const xmlText = await rssRes.text();
+        
+        const newsItems = [];
+        const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+        let match;
+        while ((match = itemRegex.exec(xmlText)) !== null && newsItems.length < 3) {
+          const itemXml = match[1];
+          const titleMatch = itemXml.match(/<title>([^<]+)<\/title>/);
+          const linkMatch = itemXml.match(/<link>([^<]+)<\/link>/);
+          const sourceMatch = itemXml.match(/<source[^>]*>([^<]+)<\/source>/);
+          
+          if (titleMatch && linkMatch) {
+            // Replace HTML entities loosely
+            const decodeHtml = (html) => {
+                return html.replace(/&amp;/g, '&')
+                           .replace(/&lt;/g, '<')
+                           .replace(/&gt;/g, '>')
+                           .replace(/&quot;/g, '"')
+                           .replace(/&#39;/g, "'")
+                           .replace(/&apos;/g, "'");
+            };
+            
+            newsItems.push({
+              title: decodeHtml(titleMatch[1]),
+              link: linkMatch[1],
+              source: sourceMatch ? decodeHtml(sourceMatch[1]) : 'Google News'
+            });
+          }
+        }
         
         // Map to format expected by Dashboard
         const summaryObj = {
@@ -73,9 +103,9 @@ export default async function handler(req, res) {
             const rawTimestamp = cal.earnings.earningsDate[0].raw;
             const dateObj = new Date(rawTimestamp * 1000);
             
-            const yyyy = dateObj.getFullYear();
-            const mm = String(dateObj.getMonth() + 1).padStart(2, '0');
-            const dd = String(dateObj.getDate()).padStart(2, '0');
+            const e_yyyy = dateObj.getFullYear();
+            const e_mm = String(dateObj.getMonth() + 1).padStart(2, '0');
+            const e_dd = String(dateObj.getDate()).padStart(2, '0');
             const hour = dateObj.getUTCHours(); // EST diff approx
             
             let timing = "TBD";
@@ -89,7 +119,7 @@ export default async function handler(req, res) {
             
             results.earnings.push({
               ticker: ticker,
-              earningsDate: `${yyyy}-${mm}-${dd} ${timing}`
+              earningsDate: `${e_yyyy}-${e_mm}-${e_dd} ${timing}`
             });
           } else {
             results.earnings.push({ ticker: ticker, earningsDate: 'TBD' });
