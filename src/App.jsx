@@ -87,12 +87,6 @@ function App() {
           실적발표 일정
         </button>
         <button 
-          className={`nav-primary-tab ${primaryTab === 'search' ? 'active' : ''}`}
-          onClick={() => setPrimaryTab('search')}
-        >
-          뉴스 검색
-        </button>
-        <button 
           className={`nav-primary-tab ${primaryTab === 'watchlist' ? 'active' : ''}`}
           onClick={() => setPrimaryTab('watchlist')}
         >
@@ -117,11 +111,18 @@ function App() {
               >
                 지난 뉴스
               </button>
+              <button 
+                className={`nav-secondary-tab ${secondaryTab === 'search' ? 'active' : ''}`}
+                onClick={() => setSecondaryTab('search')}
+              >
+                뉴스 검색
+              </button>
             </nav>
 
             {/* News Sub-views */}
             {secondaryTab === 'dashboard' && <Dashboard newsData={newsData} watchList={watchList} />}
             {secondaryTab === 'pastnews' && <PastNews watchList={watchList} />}
+            {secondaryTab === 'search' && <NewsSearch />}
           </div>
         )}
 
@@ -134,12 +135,6 @@ function App() {
         {primaryTab === 'earnings' && (
           <div style={{ marginTop: '1rem' }}>
             <EarningsCalendar watchList={watchList} />
-          </div>
-        )}
-
-        {primaryTab === 'search' && (
-          <div style={{ marginTop: '1rem' }}>
-            <NewsSearch />
           </div>
         )}
       </main>
