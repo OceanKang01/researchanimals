@@ -37,9 +37,34 @@ def get_stock_data(ticker):
         return 0.0, 0.0
 
 def get_earnings_date(ticker):
-    """yfinance를 사용하여 다음 실적발표일을 가져옵니다."""
+    """yfinance를 사용하여 다음 실적발표일과 시장 개장 전/후(BMO/AMC) 정보를 가져옵니다."""
     try:
         stock = yf.Ticker(ticker)
+        dates = stock.get_earnings_dates()
+        
+        if dates is not None and not dates.empty:
+            # 미래 날짜 중 가장 가까운 날짜 찾기
+            now = datetime.datetime.now(datetime.timezone.utc)
+            future_dates = dates[dates.index > now]
+            
+            if not future_dates.empty:
+                next_date_index = future_dates.index[0] # 오름차순/내림차순에 따라 다를 수 있으나 보통 가장 가까운 미래
+            else:
+                next_date_index = dates.index[0] # 미래가 없으면 가장 최근(과거)
+                
+            date_str = next_date_index.strftime('%Y-%m-%d')
+            hour = next_date_index.hour
+            
+            timing = "TBD"
+            # 0~10시는 보통 BMO(장전), 11~23시는 보통 AMC(장후)
+            if 0 <= hour <= 10:
+                timing = "BMO (개장 전)"
+            elif hour >= 13:
+                timing = "AMC (마감 후)"
+                
+            return f"{date_str} {timing}"
+            
+        # calendar fallback
         cal = stock.calendar
         if cal and 'Earnings Date' in cal and len(cal['Earnings Date']) > 0:
             date_obj = cal['Earnings Date'][0]

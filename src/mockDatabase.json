@@ -3,27 +3,27 @@
     {
       "ticker": "LITE",
       "name": "Lumentum Holdings Inc.",
-      "earningsDate": "2026-05-06"
+      "earningsDate": "2026-05-05 AMC (마감 후)"
     },
     {
       "ticker": "INTC",
       "name": "Intel Corporation",
-      "earningsDate": "2026-04-24"
+      "earningsDate": "2026-04-23 AMC (마감 후)"
     },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "earningsDate": "2026-05-06"
+      "earningsDate": "2026-05-05 AMC (마감 후)"
     },
     {
       "ticker": "MU",
       "name": "Micron Technology, Inc.",
-      "earningsDate": "2026-06-25"
+      "earningsDate": "2026-06-24 AMC (마감 후)"
     }
   ],
   "2026-04-23": {
     "date": "2026-04-23",
-    "lastUpdated": "11:40 AM KST",
+    "lastUpdated": "01:10 PM KST",
     "summaries": [
       {
         "ticker": "LITE",
@@ -54,16 +54,16 @@
         "name": "Intel Corporation",
         "price": 65.27,
         "changePercent": -1.49,
-        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here’s Why Wall Street is Cautious on Intel Corporation (INTC) - Yahoo Finance: Here’s Why Wall Street is Cautious on Intel Corporation (INTC) Yahoo Finance...\n- Intel Corporation $INTC Stock Position Reduced by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat: Intel Corporation $INTC Stock Position Reduced by Universal Beteiligungs und Servicegesellschaft mbH MarketBeat...\n- Intel Q1 Earnings Preview: Server CPUs seen as key driver, but foundry, margin pressures remain (INTC:NASDAQ) - Seeking Alpha: Intel Q1 Earnings Preview: Server CPUs seen as key driver, but foundry, margin pressures remain (INTC:NASDAQ) Seeking Alpha...",
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation $INTC Stock Position Reduced by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat: Intel Corporation $INTC Stock Position Reduced by Universal Beteiligungs und Servicegesellschaft mbH MarketBeat...\n- Here’s Why Wall Street is Cautious on Intel Corporation (INTC) - Yahoo Finance: Here’s Why Wall Street is Cautious on Intel Corporation (INTC) Yahoo Finance...\n- Intel Q1 Earnings Preview: Server CPUs seen as key driver, but foundry, margin pressures remain (INTC:NASDAQ) - Seeking Alpha: Intel Q1 Earnings Preview: Server CPUs seen as key driver, but foundry, margin pressures remain (INTC:NASDAQ) Seeking Alpha...",
         "sources": [
-          {
-            "title": "Here’s Why Wall Street is Cautious on Intel Corporation (INTC) - Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWtLREVULVJPbndYWVlzTE1jcHh5Zmh6STBheGQySVpvSTdaOU5rX3BJTHYtX3p2bWhDTzlKZVdWTU5fTHJVVVdfTjdHZkdDUW15S0swZWdCV3lzM3ZpbHRpanJZaW1hak5ZaWpHTmszRWRYM0psXzR1Zm9ha3BrNXNSLUh6UHBxMUpnVDl2c0VrNk9tSXdPRm1pOA?oc=5",
-            "provider": "Google News"
-          },
           {
             "title": "Intel Corporation $INTC Stock Position Reduced by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat",
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYkZOdEVSVzc2VGNOUktQOURUVksxYVRvTVBsc1MycEZhbkdrUHljQ25BbVdFNTJXTUVKYmNrbmRldVF1SU5wOUFFMmo3dWI5UXpzUmpaM2tQSWVJUFNEY2FobmdIckc5ZjJxVlZTa1NGYk5hQ0o3clk5cTd6QWFpUXFrQlZ6Z29PWjI2bktBcnlvQ2JWejVVZlhPUncwbHFYQnlCS0c0em1lVmNjbFlZQVpGRXRJaTNNREFGc043QXh4U0hwdG1oOVBoUWlMcmhtVnAxenVyMEdMX2lBUS1EdzVkOHVDMk56Q3BWandTTEYyQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Here’s Why Wall Street is Cautious on Intel Corporation (INTC) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWtLREVULVJPbndYWVlzTE1jcHh5Zmh6STBheGQySVpvSTdaOU5rX3BJTHYtX3p2bWhDTzlKZVdWTU5fTHJVVVdfTjdHZkdDUW15S0swZWdCV3lzM3ZpbHRpanJZaW1hak5ZaWpHTmszRWRYM0psXzR1Zm9ha3BrNXNSLUh6UHBxMUpnVDl2c0VrNk9tSXdPRm1pOA?oc=5",
             "provider": "Google News"
           },
           {
@@ -78,7 +78,7 @@
         "name": "Advanced Micro Devices, Inc.",
         "price": 303.46,
         "changePercent": 6.67,
-        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- This Is Why Advanced Micro Devices (AMD) Is a Top AI Stock to Own - Yahoo Finance: This Is Why Advanced Micro Devices (AMD) Is a Top AI Stock to Own Yahoo Finance...\n- AMD Stock Quote Price and Forecast - CNN: AMD Stock Quote Price and Forecast CNN...\n- AMD Finally Found Its Edge (NASDAQ:AMD) - Seeking Alpha: AMD Finally Found Its Edge (NASDAQ:AMD) Seeking Alpha...",
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- This Is Why Advanced Micro Devices (AMD) Is a Top AI Stock to Own - Yahoo Finance: This Is Why Advanced Micro Devices (AMD) Is a Top AI Stock to Own Yahoo Finance...\n- AMD Finally Found Its Edge (NASDAQ:AMD) - Seeking Alpha: AMD Finally Found Its Edge (NASDAQ:AMD) Seeking Alpha...\n- Why Is AMD Stock Surging On Wednesday? - Benzinga: Why Is AMD Stock Surging On Wednesday? Benzinga...",
         "sources": [
           {
             "title": "This Is Why Advanced Micro Devices (AMD) Is a Top AI Stock to Own - Yahoo Finance",
@@ -86,13 +86,13 @@
             "provider": "Google News"
           },
           {
-            "title": "AMD Stock Quote Price and Forecast - CNN",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndUxfbjJEeVZYMi1wd2lPajZ3LTVYZkF0NVZ2Q1RuNDBPWkhGN184UlFoQ09FdmNBdl8wNFYtMURTNUU0Qm14aWVwcXFuV28?oc=5",
+            "title": "AMD Finally Found Its Edge (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0ZEpKQ0dpVFo2YjNCeWRMTVo3b3o4Uy00TVVZNkxMM1JuN3Ric3hGTVRkOUhOQmhISU12ZFFMcmJRUEVtSzFQRVJicHY4dk1fNlFKa1Z1aFpVVTZNaWZFNHdPam9kTkVRNzF0eVIzWE5NdmEtYmc?oc=5",
             "provider": "Google News"
           },
           {
-            "title": "AMD Finally Found Its Edge (NASDAQ:AMD) - Seeking Alpha",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0ZEpKQ0dpVFo2YjNCeWRMTVo3b3o4Uy00TVVZNkxMM1JuN3Ric3hGTVRkOUhOQmhISU12ZFFMcmJRUEVtSzFQRVJicHY4dk1fNlFKa1Z1aFpVVTZNaWZFNHdPam9kTkVRNzF0eVIzWE5NdmEtYmc?oc=5",
+            "title": "Why Is AMD Stock Surging On Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYmZKN05RZ0hucTZTYTRiTVhlNFhIWVRPcXc3TU4xNlpIUjFuVVo5aWxBR1RhelU2T2tkQnppLXRjM3Fha0p3TmZuTmQ4X3BPeDZSYWZHQjNzd2NaNERzM3BuZXQyNXppYW5mR29Wa0RiSjRpdDJ4TmJEZ1lQSjJpeEtpOHJFVTdZZEx2eHdfLUN5N1BoVS1yMmFaRXFCS0k?oc=5",
             "provider": "Google News"
           }
         ]
@@ -102,7 +102,7 @@
         "name": "Micron Technology, Inc.",
         "price": 487.48,
         "changePercent": 8.48,
-        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- MU Stock Quote Price and Forecast - CNN: MU Stock Quote Price and Forecast CNN...\n- Here’s What Citi and UBS Think About Micron Technology (MU) - Yahoo Finance: Here’s What Citi and UBS Think About Micron Technology (MU) Yahoo Finance...\n- What's Going On With Micron Stock Wednesday? - Benzinga: What's Going On With Micron Stock Wednesday? Benzinga...",
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- MU Stock Quote Price and Forecast - CNN: MU Stock Quote Price and Forecast CNN...\n- Here’s What Citi and UBS Think About Micron Technology (MU) - Yahoo Finance: Here’s What Citi and UBS Think About Micron Technology (MU) Yahoo Finance...\n- MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill: MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) ChartMill...",
         "sources": [
           {
             "title": "MU Stock Quote Price and Forecast - CNN",
@@ -115,8 +115,8 @@
             "provider": "Google News"
           },
           {
-            "title": "What's Going On With Micron Stock Wednesday? - Benzinga",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRXBfOTJseFh5Qk5ScC11V2V6VVpETGItYUtoMGVfNHh0cjA3aFhGLTFaSzZlLUVzZ2JTRG1qcS05MnJhcTI4clRWZWhGWThKNGJ1VlZTT2xaeWhQUHoxSU5FeTYzZDBDd1V4Ni1SRzk5TDUtOXNna0o2eENOQmlnSXRtQUwtdGN4QWdzdVhlSXRzUm0zR09WNjZDRHJ5VC1TMjNSYlJlSnU?oc=5",
+            "title": "MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wV1lPV1FIalVQRlhBVG0tQ1hQMjBVTDBNQ0piOGM1X3QzdUxyalQyejBoTWJtRWNaRFJmVU8zSF9BRXQ2aTVlcVh3bWhRd0pORmpxX2hMT2M1Tlo1?oc=5",
             "provider": "Google News"
           }
         ]

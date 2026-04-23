@@ -13,14 +13,17 @@ function EarningsCalendar({ watchList }) {
   const sortedEarnings = [...filteredEarnings].sort((a, b) => {
     if (a.earningsDate === 'TBD') return 1;
     if (b.earningsDate === 'TBD') return -1;
-    return new Date(a.earningsDate) - new Date(b.earningsDate);
+    const dateA = a.earningsDate.split(' ')[0];
+    const dateB = b.earningsDate.split(' ')[0];
+    return new Date(dateA) - new Date(dateB);
   });
 
   const calculateDDay = (dateString) => {
     if (dateString === 'TBD') return '미정';
+    const datePart = dateString.split(' ')[0];
     const today = new Date();
     today.setHours(0, 0, 0, 0);
-    const targetDate = new Date(dateString);
+    const targetDate = new Date(datePart);
     const diffTime = targetDate - today;
     const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
     
@@ -59,8 +62,15 @@ function EarningsCalendar({ watchList }) {
                     <span style={{ color: 'var(--accent-color)' }}>{item.ticker}</span>
                     <span style={{ fontSize: '1rem', color: 'var(--text-secondary)', fontWeight: 'normal' }}>{item.name}</span>
                   </h3>
-                  <div style={{ color: 'var(--text-primary)', fontSize: '1.2rem', fontWeight: '500' }}>
-                    {item.earningsDate === 'TBD' ? '일정 미정' : item.earningsDate}
+                  <div style={{ color: 'var(--text-primary)', fontSize: '1.2rem', fontWeight: '500', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                    {item.earningsDate === 'TBD' ? '일정 미정' : item.earningsDate.split(' ')[0]}
+                    
+                    {item.earningsDate.includes('BMO') && (
+                      <span style={{ fontSize: '0.8rem', padding: '0.2rem 0.5rem', background: 'rgba(52, 211, 153, 0.2)', color: '#34d399', borderRadius: '4px' }}>개장 전</span>
+                    )}
+                    {item.earningsDate.includes('AMC') && (
+                      <span style={{ fontSize: '0.8rem', padding: '0.2rem 0.5rem', background: 'rgba(248, 113, 113, 0.2)', color: '#f87171', borderRadius: '4px' }}>마감 후</span>
+                    )}
                   </div>
                 </div>
                 
