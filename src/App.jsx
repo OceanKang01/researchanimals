@@ -4,7 +4,8 @@ import './index.css';
 import Dashboard from './components/Dashboard';
 import WatchList from './components/WatchList';
 import PastNews from './components/PastNews';
-import OtherTasks from './components/OtherTasks';
+import EarningsCalendar from './components/EarningsCalendar';
+import NewsSearch from './components/NewsSearch';
 
 // Initial default watch list
 const DEFAULT_WATCH_LIST = [
@@ -80,10 +81,16 @@ function App() {
           뉴스 관련 업무
         </button>
         <button 
-          className={`nav-primary-tab ${primaryTab === 'other' ? 'active' : ''}`}
-          onClick={() => setPrimaryTab('other')}
+          className={`nav-primary-tab ${primaryTab === 'earnings' ? 'active' : ''}`}
+          onClick={() => setPrimaryTab('earnings')}
         >
-          다른 업무
+          실적발표 일정
+        </button>
+        <button 
+          className={`nav-primary-tab ${primaryTab === 'search' ? 'active' : ''}`}
+          onClick={() => setPrimaryTab('search')}
+        >
+          뉴스 검색
         </button>
       </nav>
 
@@ -119,8 +126,16 @@ function App() {
           </div>
         )}
 
-        {primaryTab === 'other' && (
-          <OtherTasks watchList={watchList} />
+        {primaryTab === 'earnings' && (
+          <div style={{ marginTop: '1rem' }}>
+            <EarningsCalendar watchList={watchList} />
+          </div>
+        )}
+
+        {primaryTab === 'search' && (
+          <div style={{ marginTop: '1rem' }}>
+            <NewsSearch />
+          </div>
         )}
       </main>
     </div>
