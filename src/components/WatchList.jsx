@@ -180,14 +180,14 @@ function WatchList({ watchList, setWatchList }) {
               top: 'calc(100% + 4px)',
               left: 0,
               right: 0,
-              background: 'var(--card-bg)',
-              border: '1px solid var(--border-color)',
+              background: '#1e293b', // Solid background instead of transparent var(--card-bg)
+              border: '1px solid #334155',
               borderRadius: '8px',
               listStyle: 'none',
               padding: '0.5rem 0',
               margin: 0,
-              zIndex: 50,
-              boxShadow: '0 10px 15px -3px rgba(0, 0, 0, 0.5), 0 4px 6px -2px rgba(0, 0, 0, 0.3)',
+              zIndex: 999,
+              boxShadow: '0 20px 25px -5px rgba(0, 0, 0, 0.8), 0 10px 10px -5px rgba(0, 0, 0, 0.5)',
               maxHeight: '300px',
               overflowY: 'auto'
             }}>
