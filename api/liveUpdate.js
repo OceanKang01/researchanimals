@@ -98,28 +98,47 @@ export default async function handler(req, res) {
         });
       }
 
-      // 2. Fetch Earnings
+      // 2. Fetch Earnings from Nasdaq API (Very reliable, no crumb needed)
       try {
-        const url = `https://query2.finance.yahoo.com/v10/finance/quoteSummary/${ticker}?modules=calendarEvents`;
-        const response = await fetchWithTimeout(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, 3000);
+        const url = `https://api.nasdaq.com/api/analyst/${ticker}/earnings-date`;
+        const response = await fetchWithTimeout(url, { 
+          headers: { 
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'application/json, text/plain, */*',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Origin': 'https://www.nasdaq.com',
+            'Referer': 'https://www.nasdaq.com/'
+          } 
+        }, 3000);
+        
         if (response.ok) {
           const data = await response.json();
-          const cal = data.quoteSummary?.result?.[0]?.calendarEvents;
-          if (cal && cal.earnings && cal.earnings.earningsDate && cal.earnings.earningsDate.length > 0) {
-            const rawTimestamp = cal.earnings.earningsDate[0].raw;
-            const dateObj = new Date(rawTimestamp * 1000);
-            const e_yyyy = dateObj.getFullYear();
-            const e_mm = String(dateObj.getMonth() + 1).padStart(2, '0');
-            const e_dd = String(dateObj.getDate()).padStart(2, '0');
-            const hour = dateObj.getUTCHours();
+          const reportText = data?.data?.reportText || "";
+          const dateMatch = reportText.match(/(\d{2}\/\d{2}\/\d{4})\s+(after market close|before market open|time not specified)/i);
+          
+          if (dateMatch) {
+            const rawDate = dateMatch[1]; // MM/DD/YYYY
+            const rawTiming = dateMatch[2].toLowerCase();
+            const [mm, dd, yyyy] = rawDate.split('/');
             
             let timing = "TBD";
-            if (hour >= 10 && hour <= 15) timing = "BMO (개장 전)";
-            else if (hour >= 19 && hour <= 23) timing = "AMC (마감 후)";
+            if (rawTiming.includes("after")) timing = "AMC (마감 후)";
+            else if (rawTiming.includes("before")) timing = "BMO (개장 전)";
             
-            results.earnings.push({ ticker: ticker, earningsDate: `${e_yyyy}-${e_mm}-${e_dd} ${timing}` });
+            results.earnings.push({ ticker: ticker, earningsDate: `${yyyy}-${mm}-${dd} ${timing}` });
           } else {
-            results.earnings.push({ ticker: ticker, earningsDate: 'TBD' });
+            // Check announcement if reportText fails
+            const announcement = data?.data?.announcement || "";
+            const annMatch = announcement.match(/([A-Z][a-z]{2})\s+(\d{1,2}),\s+(\d{4})/i);
+            if (annMatch) {
+                const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+                const mm = String(monthNames.indexOf(annMatch[1]) + 1).padStart(2, '0');
+                const dd = String(annMatch[2]).padStart(2, '0');
+                const yyyy = annMatch[3];
+                results.earnings.push({ ticker: ticker, earningsDate: `${yyyy}-${mm}-${dd} TBD` });
+            } else {
+                results.earnings.push({ ticker: ticker, earningsDate: 'TBD' });
+            }
           }
         } else {
           results.earnings.push({ ticker: ticker, earningsDate: 'TBD' });
