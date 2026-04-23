@@ -92,6 +92,12 @@ function App() {
         >
           뉴스 검색
         </button>
+        <button 
+          className={`nav-primary-tab ${primaryTab === 'watchlist' ? 'active' : ''}`}
+          onClick={() => setPrimaryTab('watchlist')}
+        >
+          관심기업 설정
+        </button>
       </nav>
 
       <main>
@@ -111,18 +117,17 @@ function App() {
               >
                 지난 뉴스
               </button>
-              <button 
-                className={`nav-secondary-tab ${secondaryTab === 'watchlist' ? 'active' : ''}`}
-                onClick={() => setSecondaryTab('watchlist')}
-              >
-                관심 기업 설정
-              </button>
             </nav>
 
             {/* News Sub-views */}
             {secondaryTab === 'dashboard' && <Dashboard newsData={newsData} watchList={watchList} />}
             {secondaryTab === 'pastnews' && <PastNews watchList={watchList} />}
-            {secondaryTab === 'watchlist' && <WatchList watchList={watchList} setWatchList={setWatchList} />}
+          </div>
+        )}
+
+        {primaryTab === 'watchlist' && (
+          <div style={{ marginTop: '1rem' }}>
+            <WatchList watchList={watchList} setWatchList={setWatchList} />
           </div>
         )}
 

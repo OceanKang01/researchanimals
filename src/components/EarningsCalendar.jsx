@@ -32,6 +32,35 @@ function EarningsCalendar({ watchList }) {
     return `D+${Math.abs(diffDays)}`;
   };
 
+  const formatKoreanTime = (dateString) => {
+    if (dateString === 'TBD') return { date: '일정 미정', badge: null };
+    
+    const parts = dateString.split(' ');
+    const baseDateStr = parts[0]; // e.g. 2026-05-06
+    const isAMC = dateString.includes('AMC');
+    const isBMO = dateString.includes('BMO');
+    
+    let kstDate = new Date(baseDateStr);
+    let timeLabel = '';
+    
+    if (isAMC) {
+      // AMC (After Market Close in US) -> Next day morning in KST
+      kstDate.setDate(kstDate.getDate() + 1);
+      timeLabel = '오전';
+    } else if (isBMO) {
+      // BMO (Before Market Open in US) -> Same day evening in KST
+      timeLabel = '저녁';
+    }
+    
+    const formattedDate = `${kstDate.getFullYear()}-${String(kstDate.getMonth() + 1).padStart(2, '0')}-${String(kstDate.getDate()).padStart(2, '0')}`;
+    
+    return {
+      date: formattedDate,
+      badge: timeLabel ? `${timeLabel} (한국시간)` : null,
+      originalIsNear: isAMC || isBMO
+    };
+  };
+
   return (
     <div className="earnings-container">
       <h2 style={{ color: 'var(--text-primary)', marginBottom: '1.5rem' }}>다가오는 실적발표 일정</h2>
@@ -45,6 +74,7 @@ function EarningsCalendar({ watchList }) {
           {sortedEarnings.map((item) => {
             const dday = calculateDDay(item.earningsDate);
             const isNear = dday.startsWith('D-') && parseInt(dday.replace('D-', '')) <= 7;
+            const kstInfo = formatKoreanTime(item.earningsDate);
             
             return (
               <div key={item.ticker} className="earnings-card" style={{
@@ -63,13 +93,12 @@ function EarningsCalendar({ watchList }) {
                     <span style={{ fontSize: '1rem', color: 'var(--text-secondary)', fontWeight: 'normal' }}>{item.name}</span>
                   </h3>
                   <div style={{ color: 'var(--text-primary)', fontSize: '1.2rem', fontWeight: '500', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                    {item.earningsDate === 'TBD' ? '일정 미정' : item.earningsDate.split(' ')[0]}
+                    {kstInfo.date}
                     
-                    {item.earningsDate.includes('BMO') && (
-                      <span style={{ fontSize: '0.8rem', padding: '0.2rem 0.5rem', background: 'rgba(52, 211, 153, 0.2)', color: '#34d399', borderRadius: '4px' }}>개장 전</span>
-                    )}
-                    {item.earningsDate.includes('AMC') && (
-                      <span style={{ fontSize: '0.8rem', padding: '0.2rem 0.5rem', background: 'rgba(248, 113, 113, 0.2)', color: '#f87171', borderRadius: '4px' }}>마감 후</span>
+                    {kstInfo.badge && (
+                      <span style={{ fontSize: '0.8rem', padding: '0.2rem 0.5rem', background: 'rgba(59, 130, 246, 0.2)', color: '#60a5fa', borderRadius: '4px' }}>
+                        {kstInfo.badge}
+                      </span>
                     )}
                   </div>
                 </div>
@@ -91,7 +120,7 @@ function EarningsCalendar({ watchList }) {
       )}
       
       <p style={{ marginTop: '1.5rem', fontSize: '0.85rem', color: 'var(--text-secondary)', textAlign: 'center' }}>
-        * 실적발표 일정은 yfinance(Yahoo Finance) 데이터를 기반으로 하며, 실제 기업의 사정에 따라 변동될 수 있습니다.
+        * 실적발표 일정은 yfinance(Yahoo Finance) 데이터를 기반으로 변환된 한국시간 기준이며, 실제 기업 사정에 따라 다를 수 있습니다.
       </p>
     </div>
   );
