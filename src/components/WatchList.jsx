@@ -156,93 +156,137 @@ function WatchList({ watchList, setWatchList }) {
   });
 
   return (
-    <div className="watch-list-container">
-      <h2 style={{ color: 'var(--text-primary)', marginBottom: '1.5rem' }}>관심 기업 설정 (Watch List)</h2>
-      <p style={{ color: 'var(--text-secondary)', marginBottom: '1.5rem', fontSize: '0.95rem' }}>
-        한국어 기업명(예: 애플)이나 영문/티커(예: TSLA, apple)를 입력하세요.
-      </p>
+    <div className="watch-list-container" style={{ display: 'flex', gap: '2rem', alignItems: 'flex-start', flexWrap: 'wrap' }}>
+      {/* Left Column: Search & Add */}
+      <div style={{ flex: '1 1 400px' }}>
+        <h2 style={{ color: 'var(--text-primary)', marginBottom: '1.5rem' }}>관심 기업 설정 (Watch List)</h2>
+        <p style={{ color: 'var(--text-secondary)', marginBottom: '1.5rem', fontSize: '0.95rem' }}>
+          한국어 기업명(예: 애플)이나 영문/티커(예: TSLA, apple)를 입력하세요.
+        </p>
 
-      <form className="add-company-form" onSubmit={handleAddSubmit} ref={wrapperRef}>
-        <div style={{ position: 'relative', flex: 1, display: 'flex', flexDirection: 'column' }}>
-          <input
-            type="text"
-            className="form-input"
-            placeholder="기업명 또는 티커 검색..."
-            value={query}
-            onChange={handleQueryChange}
-            onFocus={() => { if(combinedSuggestions.length > 0) setShowDropdown(true); }}
-            style={{ width: '100%', marginBottom: 0 }}
-          />
+        <form className="add-company-form" onSubmit={handleAddSubmit} ref={wrapperRef}>
+          <div style={{ position: 'relative', flex: 1, display: 'flex', flexDirection: 'column' }}>
+            <input
+              type="text"
+              className="form-input"
+              placeholder="기업명 또는 티커 검색..."
+              value={query}
+              onChange={handleQueryChange}
+              onFocus={() => { if(combinedSuggestions.length > 0) setShowDropdown(true); }}
+              style={{ width: '100%', marginBottom: 0 }}
+            />
+            
+            {showDropdown && combinedSuggestions.length > 0 && (
+              <ul style={{
+                position: 'absolute',
+                top: 'calc(100% + 4px)',
+                left: 0,
+                right: 0,
+                background: '#1e293b', // Solid background instead of transparent var(--card-bg)
+                border: '1px solid #334155',
+                borderRadius: '8px',
+                listStyle: 'none',
+                padding: '0.5rem 0',
+                margin: 0,
+                zIndex: 999,
+                boxShadow: '0 20px 25px -5px rgba(0, 0, 0, 0.8), 0 10px 10px -5px rgba(0, 0, 0, 0.5)',
+                maxHeight: '300px',
+                overflowY: 'auto'
+              }}>
+                {isSearching && (
+                  <li style={{ padding: '0.5rem 1rem', fontSize: '0.8rem', color: 'var(--text-secondary)', textAlign: 'center' }}>
+                    야후 파이낸스에서 검색 중...
+                  </li>
+                )}
+                {combinedSuggestions.map(s => (
+                  <li 
+                    key={s.ticker}
+                    style={{ padding: '0.75rem 1rem', cursor: 'pointer', borderBottom: '1px solid var(--border-color)', transition: 'background 0.2s' }}
+                    onClick={() => addCompany({ ticker: s.ticker, name: s.name })}
+                    onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.08)'}
+                    onMouseLeave={(e) => e.currentTarget.style.background = 'transparent'}
+                  >
+                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                      <strong style={{ color: 'var(--accent-color)', fontSize: '1.1rem' }}>{s.ticker}</strong>
+                      {s.ko && s.ko.length > 0 && (
+                        <span style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', background: 'rgba(255,255,255,0.1)', padding: '0.1rem 0.4rem', borderRadius: '4px' }}>
+                          {s.ko.join(', ')}
+                        </span>
+                      )}
+                    </div>
+                    <div style={{ color: 'var(--text-primary)', fontSize: '0.95rem', marginTop: '0.3rem' }}>
+                      {s.name}
+                    </div>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
           
-          {showDropdown && combinedSuggestions.length > 0 && (
-            <ul style={{
-              position: 'absolute',
-              top: 'calc(100% + 4px)',
-              left: 0,
-              right: 0,
-              background: '#1e293b', // Solid background instead of transparent var(--card-bg)
-              border: '1px solid #334155',
-              borderRadius: '8px',
-              listStyle: 'none',
-              padding: '0.5rem 0',
-              margin: 0,
-              zIndex: 999,
-              boxShadow: '0 20px 25px -5px rgba(0, 0, 0, 0.8), 0 10px 10px -5px rgba(0, 0, 0, 0.5)',
-              maxHeight: '300px',
-              overflowY: 'auto'
-            }}>
-              {isSearching && (
-                <li style={{ padding: '0.5rem 1rem', fontSize: '0.8rem', color: 'var(--text-secondary)', textAlign: 'center' }}>
-                  야후 파이낸스에서 검색 중...
-                </li>
-              )}
-              {combinedSuggestions.map(s => (
-                <li 
-                  key={s.ticker}
-                  style={{ padding: '0.75rem 1rem', cursor: 'pointer', borderBottom: '1px solid var(--border-color)', transition: 'background 0.2s' }}
-                  onClick={() => addCompany({ ticker: s.ticker, name: s.name })}
-                  onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.08)'}
+          <button type="submit" className="btn-add" disabled={!query.trim()} style={{ whiteSpace: 'nowrap', height: 'fit-content' }}>
+            추가하기
+          </button>
+        </form>
+      </div>
+
+      {/* Right Column: List of saved companies */}
+      <div style={{ 
+        flex: '0 0 350px', 
+        background: 'var(--card-bg)', 
+        borderRadius: '12px', 
+        padding: '1.5rem', 
+        border: '1px solid var(--border-color)' 
+      }}>
+        <h3 style={{ margin: '0 0 1rem 0', fontSize: '1.1rem', color: 'var(--text-secondary)', display: 'flex', justifyContent: 'space-between' }}>
+          <span>내 관심 기업</span>
+          <span style={{ background: 'var(--accent-color)', color: 'white', padding: '0.1rem 0.5rem', borderRadius: '10px', fontSize: '0.8rem' }}>
+            {watchList.length}
+          </span>
+        </h3>
+        
+        {watchList.length > 0 ? (
+          <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+            {watchList.map((company, index) => (
+              <li key={index} style={{ 
+                display: 'flex', 
+                justifyContent: 'space-between', 
+                alignItems: 'center', 
+                padding: '0.75rem', 
+                background: 'rgba(255, 255, 255, 0.03)', 
+                borderRadius: '8px',
+                border: '1px solid rgba(255,255,255,0.05)'
+              }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', overflow: 'hidden' }}>
+                  <strong style={{ color: 'var(--accent-color)', fontSize: '0.95rem' }}>{company.ticker}</strong>
+                  <span style={{ fontSize: '0.85rem', color: 'var(--text-primary)', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', maxWidth: '150px' }}>
+                    {company.name}
+                  </span>
+                </div>
+                <button 
+                  onClick={() => handleDelete(company.ticker)} 
+                  style={{ 
+                    background: 'transparent', 
+                    border: 'none', 
+                    color: '#ef4444', 
+                    fontSize: '0.8rem', 
+                    cursor: 'pointer',
+                    padding: '0.2rem 0.5rem',
+                    borderRadius: '4px'
+                  }}
+                  onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(239, 68, 68, 0.1)'}
                   onMouseLeave={(e) => e.currentTarget.style.background = 'transparent'}
                 >
-                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                    <strong style={{ color: 'var(--accent-color)', fontSize: '1.1rem' }}>{s.ticker}</strong>
-                    {s.ko && s.ko.length > 0 && (
-                      <span style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', background: 'rgba(255,255,255,0.1)', padding: '0.1rem 0.4rem', borderRadius: '4px' }}>
-                        {s.ko.join(', ')}
-                      </span>
-                    )}
-                  </div>
-                  <div style={{ color: 'var(--text-primary)', fontSize: '0.95rem', marginTop: '0.3rem' }}>
-                    {s.name}
-                  </div>
-                </li>
-              ))}
-            </ul>
-          )}
-        </div>
-        
-        <button type="submit" className="btn-add" disabled={!query.trim()} style={{ whiteSpace: 'nowrap', height: 'fit-content' }}>
-          추가하기
-        </button>
-      </form>
-
-      {watchList.length > 0 ? (
-        <ul className="company-list" style={{ marginTop: '2rem' }}>
-          {watchList.map((company, index) => (
-            <li key={index} className="company-list-item">
-              <div>
-                <strong style={{ color: 'var(--accent-color)', marginRight: '0.5rem' }}>{company.ticker}</strong>
-                <span>{company.name}</span>
-              </div>
-              <button onClick={() => handleDelete(company.ticker)} className="btn-delete">삭제</button>
-            </li>
-          ))}
-        </ul>
-      ) : (
-        <div style={{ textAlign: 'center', padding: '2rem', color: 'var(--text-secondary)', border: '1px dashed var(--border-color)', borderRadius: '8px', marginTop: '2rem' }}>
-          현재 등록된 관심 기업이 없습니다.
-        </div>
-      )}
+                  삭제
+                </button>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <div style={{ textAlign: 'center', padding: '2rem 1rem', color: 'var(--text-secondary)', fontSize: '0.9rem', border: '1px dashed var(--border-color)', borderRadius: '8px' }}>
+            현재 등록된 관심 기업이 없습니다.
+          </div>
+        )}
+      </div>
     </div>
   );
 }
