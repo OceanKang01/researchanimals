@@ -36,11 +36,14 @@ def get_stock_data(ticker):
         print(f"Error fetching data for {ticker}: {e}")
         return 0.0, 0.0
 
+import urllib.parse
+
 def scrape_raw_news(ticker, company_name):
     """Google News RSS를 통해 해당 기업의 최신 영문 기사 원문 링크와 스니펫을 수집합니다."""
     # Google News RSS (검색어 기반)
     query = f"{ticker} stock OR {company_name}"
-    rss_url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
+    encoded_query = urllib.parse.quote(query)
+    rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en-US&gl=US&ceid=US:en"
     
     feed = feedparser.parse(rss_url)
     sources = []
@@ -48,17 +51,18 @@ def scrape_raw_news(ticker, company_name):
     
     # 상위 3개 뉴스만 추출
     for entry in feed.entries[:3]:
-        title = entry.title
-        link = entry.link
+        title = getattr(entry, 'title', 'No Title')
+        link = getattr(entry, 'link', 'No Link')
         
         # HTML 태그 제거하여 순수 텍스트 스니펫 추출
-        soup = BeautifulSoup(entry.summary, 'html.parser')
+        summary_html = getattr(entry, 'summary', '')
+        soup = BeautifulSoup(summary_html, 'html.parser')
         snippet = soup.get_text(separator=' ', strip=True)
         
         sources.append({
             "title": title,
             "url": link,
-            "provider": "Google News / Yahoo Finance" # 출처는 RSS 기반으로 임시 고정
+            "provider": "Google News"
         })
         raw_snippets.append(f"- {title}: {snippet[:200]}...")
         
