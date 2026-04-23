@@ -1,0 +1,510 @@
+:root {
+  --bg-color: #0f1117;
+  --surface-color: #1a1d24;
+  --surface-hover: #232730;
+  --text-primary: #f0f2f5;
+  --text-secondary: #9aa0a6;
+  --accent-color: #3b82f6;
+  --accent-hover: #60a5fa;
+  --border-color: rgba(255, 255, 255, 0.08);
+  --glass-bg: rgba(26, 29, 36, 0.6);
+  --card-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  --success-color: #10b981;
+  --danger-color: #ef4444;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  line-height: 1.6;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Header Styles */
+.header {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.header h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  background: linear-gradient(135deg, #fff 0%, #a5b4fc 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0.5rem;
+}
+
+.header .date-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.header .date {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.header .last-updated {
+  font-size: 0.85rem;
+  color: var(--accent-color);
+  margin-top: 0.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.header .last-updated::before {
+  content: '';
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background-color: #10b981;
+  border-radius: 50%;
+  box-shadow: 0 0 8px #10b981;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }
+  70% { transform: scale(1); box-shadow: 0 0 0 6px rgba(16, 185, 129, 0); }
+  100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+}
+
+/* Primary Tab Navigation (1st Level) */
+.nav-primary {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.nav-primary-tab {
+  background: transparent;
+  border: none;
+  color: var(--text-secondary);
+  font-size: 1.3rem;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 0.5rem 0;
+  position: relative;
+  transition: color 0.2s ease;
+}
+
+.nav-primary-tab:hover {
+  color: var(--text-primary);
+}
+
+.nav-primary-tab.active {
+  color: var(--text-primary);
+}
+
+.nav-primary-tab.active::after {
+  content: '';
+  position: absolute;
+  bottom: -0.5rem;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(90deg, var(--accent-color), #a5b4fc);
+  border-radius: 4px;
+}
+
+/* Secondary Tab Navigation (2nd Level) */
+.nav-secondary {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border-color);
+  flex-wrap: wrap;
+}
+
+.nav-secondary-tab {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid transparent;
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  transition: all 0.2s ease;
+}
+
+.nav-secondary-tab:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-primary);
+}
+
+.nav-secondary-tab.active {
+  background: rgba(59, 130, 246, 0.15);
+  border-color: rgba(59, 130, 246, 0.4);
+  color: var(--accent-hover);
+}
+
+/* Dashboard Grid */
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 2rem;
+}
+
+/* Card Styles */
+.news-card {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 1.5rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+  box-shadow: var(--card-shadow);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.news-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.6);
+  background-color: var(--surface-hover);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.company-info {
+  display: flex;
+  align-items: center;
+}
+
+.ticker-badge {
+  background: rgba(59, 130, 246, 0.15);
+  color: var(--accent-hover);
+  padding: 0.35rem 0.75rem;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-right: 0.75rem;
+  border: 1px solid rgba(59, 130, 246, 0.3);
+}
+
+.company-name {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.price-info {
+  text-align: right;
+}
+
+.stock-price {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.stock-change {
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+}
+
+.stock-change.positive {
+  color: var(--success-color);
+  background: rgba(16, 185, 129, 0.1);
+}
+
+.stock-change.negative {
+  color: var(--danger-color);
+  background: rgba(239, 68, 68, 0.1);
+}
+
+.card-summary {
+  font-size: 0.95rem;
+  color: #d1d5db;
+  margin-bottom: 1.5rem;
+  flex-grow: 1;
+  line-height: 1.6;
+}
+
+.sources-list {
+  list-style: none;
+  border-top: 1px solid var(--border-color);
+  padding-top: 1rem;
+}
+
+.sources-title {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-secondary);
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+.source-item {
+  margin-bottom: 0.75rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.source-item:last-child {
+  margin-bottom: 0;
+}
+
+.provider-tag {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  background: rgba(255, 255, 255, 0.1);
+  color: #aaa;
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+  display: inline-block;
+  margin-bottom: 0.2rem;
+  width: max-content;
+}
+
+.source-link {
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: flex-start;
+  transition: color 0.2s ease;
+  line-height: 1.4;
+}
+
+.source-link:hover {
+  color: var(--accent-hover);
+}
+
+.source-link::before {
+  content: '→';
+  margin-right: 0.5rem;
+  font-size: 0.8rem;
+  opacity: 0.7;
+  margin-top: 0.1rem;
+}
+
+/* Watch List Styles */
+.watch-list-container {
+  background: var(--glass-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 2rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.watch-list-container h2 {
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+}
+
+.add-company-form {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.form-input {
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  flex: 1;
+}
+
+.form-input:focus {
+  outline: none;
+  border-color: var(--accent-color);
+}
+
+.btn-add {
+  background: var(--accent-color);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.btn-add:hover {
+  background: var(--accent-hover);
+}
+
+.company-list {
+  list-style: none;
+}
+
+.company-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  margin-bottom: 0.5rem;
+}
+
+.btn-delete {
+  background: transparent;
+  color: var(--danger-color);
+  border: 1px solid var(--danger-color);
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: all 0.2s;
+}
+
+.btn-delete:hover {
+  background: var(--danger-color);
+  color: white;
+}
+
+/* Date Selector Styles */
+.date-selector-container {
+  background: var(--glass-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.date-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.date-chips {
+  display: flex;
+  gap: 0.75rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+  flex-grow: 1;
+  /* Hide scrollbar for webkit */
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.date-chips::-webkit-scrollbar {
+  display: none;
+}
+
+.date-chip {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  padding: 0.6rem 1.2rem;
+  border-radius: 20px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+}
+
+.date-chip:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.date-chip.active {
+  background: var(--accent-color);
+  border-color: var(--accent-color);
+  color: white;
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4);
+}
+
+.custom-date-picker {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 0.4rem 0.8rem;
+}
+
+.calendar-icon {
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.calendar-input {
+  background: transparent;
+  border: none;
+  color: var(--text-primary);
+  font-family: inherit;
+  font-size: 0.95rem;
+  outline: none;
+}
+.calendar-input::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+  cursor: pointer;
+  opacity: 0.6;
+  transition: opacity 0.2s;
+}
+.calendar-input::-webkit-calendar-picker-indicator:hover {
+  opacity: 1;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+  
+  .header .date-info {
+    align-items: flex-start;
+  }
+  
+  .dashboard-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .add-company-form {
+    flex-direction: column;
+  }
+
+  .date-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

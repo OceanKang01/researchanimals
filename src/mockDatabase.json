@@ -1,0 +1,146 @@
+{
+  "2026-04-22": {
+    "date": "2026-04-22",
+    "lastUpdated": "07:00 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 52.40,
+        "changePercent": 2.5,
+        "summary": "루멘텀은 데이터 센터 및 통신 네트워크 수요 증가에 힘입어 광통신 부품 사업 부문에서 긍정적인 전망을 제시했습니다. 새로운 고속 광 트랜시버 모듈 출시 계획이 시장의 기대를 모으고 있습니다.",
+        "sources": [
+          { "title": "Lumentum Outlines Growth Strategy Driven by AI Networking", "url": "#", "provider": "Yahoo Finance" },
+          { "title": "Analysts Maintain Buy Rating on LITE Due to Strong Telecom Demand", "url": "#", "provider": "Seeking Alpha" }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 34.50,
+        "changePercent": -1.25,
+        "summary": "인텔은 차세대 AI PC용 프로세서인 '코어 울트라' 시리즈의 출하량을 확대하며 시장 점유율 방어에 나섰습니다. 또한, 새로운 파운드리 고객 확보 소식이 전해지며 장 초반 소폭 상승세를 보였습니다.",
+        "sources": [
+          { "title": "Intel Expands Core Ultra Shipments for AI PCs", "url": "#", "provider": "Google News" },
+          { "title": "Intel Foundry Services Secures New Major Client", "url": "#", "provider": "Yahoo Finance" }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 165.20,
+        "changePercent": 1.8,
+        "summary": "AMD는 서버용 CPU 에픽(EPYC)의 점유율이 지속적으로 확대되고 있으며, 새로운 AI 가속기 'MI300' 시리즈가 주요 클라우드 사업자들의 채택을 늘려가고 있다고 밝혔습니다.",
+        "sources": [
+          { "title": "AMD EPYC CPUs Gain Further Server Market Share", "url": "#", "provider": "Seeking Alpha" },
+          { "title": "Cloud Providers Ramp Up Adoption of AMD MI300 AI Accelerators", "url": "#", "provider": "Yahoo Finance" }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 118.75,
+        "changePercent": -0.5,
+        "summary": "마이크론은 AI 서버 수요 폭증으로 인한 HBM(고대역폭메모리) 제품의 공급 부족 현상이 심화되고 있다고 발표했습니다. 이로 인해 메모리 반도체 가격 상승세가 지속될 것이란 전망이 우세합니다.",
+        "sources": [
+          { "title": "Micron Reports Severe HBM Supply Shortage Amid AI Boom", "url": "#", "provider": "Google News" },
+          { "title": "Memory Chip Prices Expected to Rise Further on Strong Demand", "url": "#", "provider": "Seeking Alpha" }
+        ]
+      }
+    ]
+  },
+  "2026-04-21": {
+    "date": "2026-04-21",
+    "lastUpdated": "07:00 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 51.12,
+        "changePercent": 1.1,
+        "summary": "루멘텀의 1분기 실적 발표를 앞두고 애널리스트들의 긍정적인 보고서가 이어졌습니다. 통신 인프라 투자가 회복세를 보이고 있다는 분석이 주가 상승을 견인했습니다.",
+        "sources": [
+          { "title": "Pre-earnings Analysis: Lumentum positioned well for Q1", "url": "#", "provider": "Seeking Alpha" }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 34.94,
+        "changePercent": 0.5,
+        "summary": "인텔은 독일 마그데부르크에 위치한 신규 반도체 공장 건설에 대한 정부 보조금 협상을 성공적으로 마무리했습니다. 이는 인텔의 유럽 내 생산 기지 확대 전략에 큰 힘이 될 것으로 보입니다.",
+        "sources": [
+          { "title": "Intel Finalizes Subsidy Agreement for German Fab", "url": "#", "provider": "Yahoo Finance" }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 162.28,
+        "changePercent": -2.1,
+        "summary": "AMD는 전반적인 반도체 섹터의 조정장 속에서 동반 하락했습니다. 차익 실현 매물이 쏟아지며 장중 한때 3% 이상 하락하기도 했습니다.",
+        "sources": [
+          { "title": "Tech Stocks Slide, AMD Down Amid Profit Taking", "url": "#", "provider": "Google News" }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 119.35,
+        "changePercent": 3.4,
+        "summary": "마이크론은 새로운 고용량 DDR5 메모리 모듈의 양산을 시작했다고 발표했습니다. 이 소식에 힘입어 주가는 강한 상승세를 보였습니다.",
+        "sources": [
+          { "title": "Micron Begins Volume Production of New DDR5 Modules", "url": "#", "provider": "Yahoo Finance" },
+          { "title": "Why Micron Stock is Up Today", "url": "#", "provider": "Seeking Alpha" }
+        ]
+      }
+    ]
+  },
+  "2026-04-20": {
+    "date": "2026-04-20",
+    "lastUpdated": "07:00 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 50.56,
+        "changePercent": -0.8,
+        "summary": "특별한 뉴스 없이 시장 전반의 흐름에 따라 루멘텀 주가는 소폭 하락 마감했습니다.",
+        "sources": [
+          { "title": "Market Update: Tech Sector Cools Down", "url": "#", "provider": "Google News" }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 34.77,
+        "changePercent": -1.5,
+        "summary": "경쟁사인 AMD의 신제품 발표 소식에 인텔 주가는 하락 압력을 받았습니다. PC 시장 회복 지연에 대한 우려도 일부 작용했습니다.",
+        "sources": [
+          { "title": "Intel Shares Dip as AMD Unveils New Chips", "url": "#", "provider": "Yahoo Finance" }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 165.76,
+        "changePercent": 4.2,
+        "summary": "AMD는 차세대 데스크탑 프로세서 아키텍처에 대한 세부 정보를 공개하며 투자자들의 큰 호응을 얻었습니다. 주요 IT 매체들로부터 긍정적인 평가를 받았습니다.",
+        "sources": [
+          { "title": "AMD Reveals Next-Gen Desktop Architecture Details", "url": "#", "provider": "Seeking Alpha" },
+          { "title": "Analysts Cheer AMD's New Product Roadmap", "url": "#", "provider": "Yahoo Finance" }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 115.42,
+        "changePercent": 1.2,
+        "summary": "대만 지진의 여파로 메모리 생산에 일부 차질이 생겼으나, 마이크론은 재고를 통해 수요에 차질 없이 대응하고 있다고 밝혔습니다.",
+        "sources": [
+          { "title": "Micron Assures Supply Stability Following Taiwan Quake", "url": "#", "provider": "Google News" }
+        ]
+      }
+    ]
+  }
+}
