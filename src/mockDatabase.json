@@ -3,48 +3,48 @@
     {
       "ticker": "LITE",
       "name": "Lumentum Holdings Inc.",
-      "earningsDate": "2026-05-05 AMC (마감 후)"
+      "earningsDate": "TBD"
     },
     {
       "ticker": "INTC",
       "name": "Intel Corporation",
-      "earningsDate": "2026-04-23 AMC (마감 후)"
+      "earningsDate": "TBD"
     },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "earningsDate": "2026-05-05 AMC (마감 후)"
+      "earningsDate": "TBD"
     },
     {
       "ticker": "MU",
       "name": "Micron Technology, Inc.",
-      "earningsDate": "2026-06-24 AMC (마감 후)"
+      "earningsDate": "TBD"
     }
   ],
   "2026-04-23": {
     "date": "2026-04-23",
-    "lastUpdated": "01:10 PM KST",
+    "lastUpdated": "10:53 PM KST",
     "summaries": [
       {
         "ticker": "LITE",
         "name": "Lumentum Holdings Inc.",
-        "price": 873.6,
-        "changePercent": 4.38,
-        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- ​Lumentum Holdings (LITE) Sold Out Through 2027 on High Demand - Yahoo Finance: ​Lumentum Holdings (LITE) Sold Out Through 2027 on High Demand Yahoo Finance...\n- WMG Financial Advisors LLC Buys Shares of 1,203 Lumentum Holdings Inc. $LITE - MarketBeat: WMG Financial Advisors LLC Buys Shares of 1,203 Lumentum Holdings Inc. $LITE MarketBeat...\n- I Am Still Buying Lumentum, But For A Better Reason Now (NASDAQ:LITE) - Seeking Alpha: I Am Still Buying Lumentum, But For A Better Reason Now (NASDAQ:LITE) Seeking Alpha...",
+        "price": 846.89,
+        "changePercent": -3.06,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Peregrine Capital Management LLC Sells 30,237 Shares of Lumentum Holdings Inc. $LITE - MarketBeat: Peregrine Capital Management LLC Sells 30,237 Shares of Lumentum Holdings Inc. $LITE MarketBeat...\n- I Am Still Buying Lumentum, But For A Better Reason Now (NASDAQ:LITE) - Seeking Alpha: I Am Still Buying Lumentum, But For A Better Reason Now (NASDAQ:LITE) Seeking Alpha...\n- Lumentum Holdings Inc. (LITE): Light-Based AI Networking Is New Big Thing - Yahoo Finance: Lumentum Holdings Inc. (LITE): Light-Based AI Networking Is New Big Thing Yahoo Finance...",
         "sources": [
           {
-            "title": "​Lumentum Holdings (LITE) Sold Out Through 2027 on High Demand - Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbzZCN1pSbFd2Q2k0RWNORFhhZ3U3RjFEM3pyNEVNeGZqRnlZSDdEd09EVm1sZHVJSVc4endBTkdSZkdmT3FuOC1VYVI2blpROFlTQ0N5OWhMYkdQV3BNQ1RVNENpUXl6RWp5bk50M0pzN1A0WTdQcHh0eWxjSEN5N1ppRUlFcGxFRTFpdUZHLXQyQUM1TDJwZ19uNXNLZw?oc=5",
-            "provider": "Google News"
-          },
-          {
-            "title": "WMG Financial Advisors LLC Buys Shares of 1,203 Lumentum Holdings Inc. $LITE - MarketBeat",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRTNrN2ttQmNGUjRSekdhaXdicnc4cVVOdGR0TEpOSkZDclh0OHpKSzM3WERBUXIyRC1QSEFjUV9HNFFrZnVYeGhROXZTQVlseHhnc2NXZ0ZvNE9iVkFfTm45LVlRRjZVZDJpZG95ZzhucWFoc0JDdjZGY3JOWnBvZk1HVTRqc0FmZXZHS1VRTlN1OHdUbnpYWlg4X1UwbS12M3l0SGNJU0ZzZ2h6eU44X2l6X3dmQjR3Z3VVOUpVUDVna255c2hkdlRkUE01OGM?oc=5",
+            "title": "Peregrine Capital Management LLC Sells 30,237 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXFmc3JqUmQtZkp5eGNPaE1MNXZZTFNwenFVSzZSWU5fY002ekpfUUZraXgweUVPTl95TlV1azd0SF9zNEl1SUZIclJ1T2lBU3c4T3VkaURtcFAtenNUUjFWSHlMUElQVjBhQzJMb0JYd2h3c2I4SVJDUXppaGkxd1pHcEtDV21BeVVVVHlJSHlmMDJERURpbGhhN1RYQWFLOTAtZVVzaEsySFQ2SWowcXRuVjc1T0NIWHl5NlhvVGs5SXZhMjdwMVN1cFNuS2dVVmNqMjdBNzBIdw?oc=5",
             "provider": "Google News"
           },
           {
             "title": "I Am Still Buying Lumentum, But For A Better Reason Now (NASDAQ:LITE) - Seeking Alpha",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEFzOVV2ZGRxbFl2ZTlodFJoYlJwNmlySGdIMGxWX0NtVzBQcWI2ZFdFSVJ0X19sVld0cTUyVm9PdTJEUVhSWnRCdDRKMXhab2FWX1VTM2tLWWx1Zl9KazVFZmV4SDFyeWpRaEVGSE9YMlNZdWtiNjFVY0hkSElHNTNUTEF5a1BiQk5manRYcWlpZE41MXZpZ3RTdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. (LITE): Light-Based AI Networking Is New Big Thing - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYlJKSmx2WXdTTVhDdmJqOGRuNDVpWWt1WjBydURRNmt5M2EybERTWGpKeWJjUEhGRTh2OTFSVHVwMkk3T1BXY0h1M2lvUGNvQXM3eEhVZXZQNVJtNGVuT21VSTJxdnJYT0NVVFlNMEtLODFlRnJtRlpxemZKREp4TzFrbEplT04tdFF3bFc0QUlHSnN3Z21YSnBTdC00dw?oc=5",
             "provider": "Google News"
           }
         ]
@@ -52,23 +52,23 @@
       {
         "ticker": "INTC",
         "name": "Intel Corporation",
-        "price": 65.27,
-        "changePercent": -1.49,
-        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation $INTC Stock Position Reduced by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat: Intel Corporation $INTC Stock Position Reduced by Universal Beteiligungs und Servicegesellschaft mbH MarketBeat...\n- Here’s Why Wall Street is Cautious on Intel Corporation (INTC) - Yahoo Finance: Here’s Why Wall Street is Cautious on Intel Corporation (INTC) Yahoo Finance...\n- Intel Q1 Earnings Preview: Server CPUs seen as key driver, but foundry, margin pressures remain (INTC:NASDAQ) - Seeking Alpha: Intel Q1 Earnings Preview: Server CPUs seen as key driver, but foundry, margin pressures remain (INTC:NASDAQ) Seeking Alpha...",
+        "price": 66.78,
+        "changePercent": 2.31,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel surges as Q1 results, guidance blow past Wall Street's forecast (INTC:NASDAQ) - Seeking Alpha: Intel surges as Q1 results, guidance blow past Wall Street's forecast (INTC:NASDAQ) Seeking Alpha...\n- Intel stock soars on Q1 earnings beat, strong outlook - Yahoo Finance: Intel stock soars on Q1 earnings beat, strong outlook Yahoo Finance...\n- Intel posts $3.7B Q1 loss even as revenue climbs and Q2 sales top $13.8B - Stock Titan: Intel posts $3.7B Q1 loss even as revenue climbs and Q2 sales top $13.8B Stock Titan...",
         "sources": [
           {
-            "title": "Intel Corporation $INTC Stock Position Reduced by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYkZOdEVSVzc2VGNOUktQOURUVksxYVRvTVBsc1MycEZhbkdrUHljQ25BbVdFNTJXTUVKYmNrbmRldVF1SU5wOUFFMmo3dWI5UXpzUmpaM2tQSWVJUFNEY2FobmdIckc5ZjJxVlZTa1NGYk5hQ0o3clk5cTd6QWFpUXFrQlZ6Z29PWjI2bktBcnlvQ2JWejVVZlhPUncwbHFYQnlCS0c0em1lVmNjbFlZQVpGRXRJaTNNREFGc043QXh4U0hwdG1oOVBoUWlMcmhtVnAxenVyMEdMX2lBUS1EdzVkOHVDMk56Q3BWandTTEYyQQ?oc=5",
+            "title": "Intel surges as Q1 results, guidance blow past Wall Street's forecast (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa1RDTXBPMVRUTXJaSTFldlBSWHF2YjduczFoNm81bVdCWmlxd0YyUFJFOWpPc2JLVEtqcWxjR3l4d0IweXk1QVlPVkRHSHQtb3RvUnVDTFZNRGxXZG1DYUVyRi1GNkhQOUJVWWFWOXpJMHhTLU1DUF95ZG1Oc0w0Q2NFSFhFM3M5aldHUmRvdzRMQTYwaWd5THprODBoUVVpVzloRzJqOVc?oc=5",
             "provider": "Google News"
           },
           {
-            "title": "Here’s Why Wall Street is Cautious on Intel Corporation (INTC) - Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWtLREVULVJPbndYWVlzTE1jcHh5Zmh6STBheGQySVpvSTdaOU5rX3BJTHYtX3p2bWhDTzlKZVdWTU5fTHJVVVdfTjdHZkdDUW15S0swZWdCV3lzM3ZpbHRpanJZaW1hak5ZaWpHTmszRWRYM0psXzR1Zm9ha3BrNXNSLUh6UHBxMUpnVDl2c0VrNk9tSXdPRm1pOA?oc=5",
+            "title": "Intel stock soars on Q1 earnings beat, strong outlook - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ2pwTTJWcjJOMmNxSWcyUXRBNFlxTlo2OWhCeEdnc3hZeEd6S0lLVDlKaklQbTVKa1lFOU9XQTdZUEhLLWgwcDMtTXNrcnhZR1gtSENvNUpXUGJEdDRNTFZ6N0NJQy1nXzNCaGtwbzVzWnlocHp0V19fc09yeFdZalNxY0NoR1VOQm1PbTZpbG03UzMtUXlqTG9mSC12QWJkckMtZkItbkJvVXVqUjcyQ3pfWS1GRHBpaTlRdw?oc=5",
             "provider": "Google News"
           },
           {
-            "title": "Intel Q1 Earnings Preview: Server CPUs seen as key driver, but foundry, margin pressures remain (INTC:NASDAQ) - Seeking Alpha",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMlZaTHhXLXZocE0zdGMxN3owUExDSWM4SmRPTkNlcXRBS1Z0R3BIUTlReHhDTUV3UWM3NnlVNWRBOW9FU2hWWlgzWllCbW9Yc0dzamFaa3pManNlX20yYTRfZ3c1bkVZaUUwMkx5bDdlcHktaThmRjdMUHd5NFMzc245NGtaWDlsYVZqNVB2T3VlMHFWaXN2OTM4T2d3czFtY1VrUnRkdjR1Y0Y3UlY5VmFqMzUwRWZiNkdLckJJTHFvV1VPSzhKcjBB?oc=5",
+            "title": "Intel posts $3.7B Q1 loss even as revenue climbs and Q2 sales top $13.8B - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVRUSFVXM3d4OXZGNkFYTzNKZk1WMEw1S2N6cnpmaHpxdVpEeUl1M3pnRXJBTG95X3RadERySml5N3EtZkJXVjJuRXA5UjVRNUVOdFNQUXc1SHdrVFRhYzN1VnJZMjRKVG5Fdnhsa3R4dGhlajRwcWF4Y281Nm43MkJscGhCSG5CNFpiekZ2SHJHQUtRLUVFenZQODZFdw?oc=5",
             "provider": "Google News"
           }
         ]
@@ -76,9 +76,9 @@
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices, Inc.",
-        "price": 303.46,
-        "changePercent": 6.67,
-        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- This Is Why Advanced Micro Devices (AMD) Is a Top AI Stock to Own - Yahoo Finance: This Is Why Advanced Micro Devices (AMD) Is a Top AI Stock to Own Yahoo Finance...\n- AMD Finally Found Its Edge (NASDAQ:AMD) - Seeking Alpha: AMD Finally Found Its Edge (NASDAQ:AMD) Seeking Alpha...\n- Why Is AMD Stock Surging On Wednesday? - Benzinga: Why Is AMD Stock Surging On Wednesday? Benzinga...",
+        "price": 305.33,
+        "changePercent": 0.62,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- This Is Why Advanced Micro Devices (AMD) Is a Top AI Stock to Own - Yahoo Finance: This Is Why Advanced Micro Devices (AMD) Is a Top AI Stock to Own Yahoo Finance...\n- Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now? - Insider Monkey: Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now? Insider Monkey...\n- AMD, Arm Stocks Ride Intel's Coattails After Blowout Q1 Report - Benzinga: AMD, Arm Stocks Ride Intel's Coattails After Blowout Q1 Report Benzinga...",
         "sources": [
           {
             "title": "This Is Why Advanced Micro Devices (AMD) Is a Top AI Stock to Own - Yahoo Finance",
@@ -86,13 +86,13 @@
             "provider": "Google News"
           },
           {
-            "title": "AMD Finally Found Its Edge (NASDAQ:AMD) - Seeking Alpha",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0ZEpKQ0dpVFo2YjNCeWRMTVo3b3o4Uy00TVVZNkxMM1JuN3Ric3hGTVRkOUhOQmhISU12ZFFMcmJRUEVtSzFQRVJicHY4dk1fNlFKa1Z1aFpVVTZNaWZFNHdPam9kTkVRNzF0eVIzWE5NdmEtYmc?oc=5",
+            "title": "Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now? - Insider Monkey",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHBMSW5rX2xPVnhaSW9VVU9CMWpBN2NYcDFsbVJKSU01RV83WTdnY0hDR1NxdzVYdmdCNks4V0xJVzVjalozOE5BdWhzNXlHSzlnM3AwMGhSTUUtckxJcDFKLTdsZWdHQnBDNU1QOHN2TkRhU002NGRkXzJzcmU3OG1TWlROSzgyUlFVdGp3eUJoTUltLWZZUFJwS1pkUmJhdFUtMUFB0gGuAUFVX3lxTE5ubnBROG9zOGR0WU5EUU15NDJnVEVFUmFDUS1RbW04eEJIRmNucU1GdzRhZ1pOU0lNeGNhTVFnSFBPX3NocTZkbHFDLVFHNGg4WV9JREIwYzJZX3FSX09CbDdOWVdBWGNRU2MtNXE3SmxKY2JXaERNcFJPR1JuWHVPRUZ6cTVhd0I4LXJmMGNwMjFHVnU2SHRaR3FOa0FWLTV6cExDZjVJNUM2cF9Ndw?oc=5",
             "provider": "Google News"
           },
           {
-            "title": "Why Is AMD Stock Surging On Wednesday? - Benzinga",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYmZKN05RZ0hucTZTYTRiTVhlNFhIWVRPcXc3TU4xNlpIUjFuVVo5aWxBR1RhelU2T2tkQnppLXRjM3Fha0p3TmZuTmQ4X3BPeDZSYWZHQjNzd2NaNERzM3BuZXQyNXppYW5mR29Wa0RiSjRpdDJ4TmJEZ1lQSjJpeEtpOHJFVTdZZEx2eHdfLUN5N1BoVS1yMmFaRXFCS0k?oc=5",
+            "title": "AMD, Arm Stocks Ride Intel's Coattails After Blowout Q1 Report - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcktyYmNSNGUxNG9Ea1pSSnkxN1ZLSV9CQzBXaVo4NEUwYmdWSS1rcTRza19RYk5aWHF5OXdld3ViWWJ5SEhLX2RXLVpVYXV2X1ZqNW84Q0JRakJDWGtMd2pyd3NYYy1Kcm1RdWRYeHJqNWVmbk1HZUl6STRWQnhwbzQ0Rm1fSHNjWnZjQVJqcW5OT3U0RE90VUxGRWttSDNidjkwX2RPV2ZGWFVnQktTQzI1ZHlNT1ZpNDh3Vll3?oc=5",
             "provider": "Google News"
           }
         ]
@@ -100,23 +100,23 @@
       {
         "ticker": "MU",
         "name": "Micron Technology, Inc.",
-        "price": 487.48,
-        "changePercent": 8.48,
-        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- MU Stock Quote Price and Forecast - CNN: MU Stock Quote Price and Forecast CNN...\n- Here’s What Citi and UBS Think About Micron Technology (MU) - Yahoo Finance: Here’s What Citi and UBS Think About Micron Technology (MU) Yahoo Finance...\n- MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill: MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) ChartMill...",
+        "price": 481.72,
+        "changePercent": -1.18,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology, Inc. (MU) Hits Fresh High: Is There Still Room to Run? - Yahoo Finance: Micron Technology, Inc. (MU) Hits Fresh High: Is There Still Room to Run? Yahoo Finance...\n- Micron Is Up 68% YTD as HBM Demand Explodes. Is the Memory Rally Sustainable? - 24/7 Wall St.: Micron Is Up 68% YTD as HBM Demand Explodes. Is the Memory Rally Sustainable? 24/7 Wall St....\n- Micron Technology Inc (MU) Stock Price, Quote, News & History - Benzinga: Micron Technology Inc (MU) Stock Price, Quote, News & History Benzinga...",
         "sources": [
           {
-            "title": "MU Stock Quote Price and Forecast - CNN",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12OGhUSWtGTk9iWTJqbXhwZ2hpa25tNUxnRWlMam1RYkNBckpUdlVCMXgzY2ZDbG1HUkdxeFlUMWRkZ3ljR2xXUkdJb285UQ?oc=5",
+            "title": "Micron Technology, Inc. (MU) Hits Fresh High: Is There Still Room to Run? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2pwZUNFTFJrYkJxNHV3b0psUnVqbmNCaFhUMVNHNDM5QVBZQl8wczNBU0R3UldBZGR4ZU03T3JDZE5FQVZsZGFKamM5Q2Y4bjRKaUIxUUlqbHBYZy1hVWF6WmhMUmFueUJTQUdLU1JxRUIzanI3UXdxZ0xWOFdVa2NBZnpnb3RJeE9KNGdzZUIwWVMzRXhCNGVB?oc=5",
             "provider": "Google News"
           },
           {
-            "title": "Here’s What Citi and UBS Think About Micron Technology (MU) - Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNVp3MHc1MW0yRjNNcVVSSlppMHZ3bTVlOWx4TTlTT1doZlliSmp1ZGJEdmhKUTY1Rk9DSExOdnlDSEpXYzQweFVaU2JES0N0cUI1RFB6QkNnUU1qNFZSOGYwOGcwMkhtVE9hcmMzblcycXlzbndxYjAtUmZ3Vl81T0ItVWx6WV9aNjZmUnlkcjRTcDhHVlNWVnRXeFZLZw?oc=5",
+            "title": "Micron Is Up 68% YTD as HBM Demand Explodes. Is the Memory Rally Sustainable? - 24/7 Wall St.",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc1M1SnRWVWhpbTQ1RE1sMTBWYk5LWm5JTG9COE9RTUJ6SWhacE1rY05HVHFmbGtjQnpNVHlaYVpublMwaWpkZDZrcHJFeFdja2x0MWhYZHV5d04yMkpiUFJsZXA4N3JDZ0ItRXZnc3A3MENaM29tV0FuVG9qTy1YM1EyTGJ4cWd5eDVJTkRkS3RXaW9DYWZBUmF4VjRZaFZKUW5mLU4tYUtNOTI4RDd3VkhHWTdyUklsVmc?oc=5",
             "provider": "Google News"
           },
           {
-            "title": "MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wV1lPV1FIalVQRlhBVG0tQ1hQMjBVTDBNQ0piOGM1X3QzdUxyalQyejBoTWJtRWNaRFJmVU8zSF9BRXQ2aTVlcVh3bWhRd0pORmpxX2hMT2M1Tlo1?oc=5",
+            "title": "Micron Technology Inc (MU) Stock Price, Quote, News & History - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtRlpjanhXeldjMk1QZk5kOW96VVVSeldlZ1lPSnpxMVdBQ3dSRks5c1F2aXVQd2hJVVY2WHJGdmhvTy1raG4yUQ?oc=5",
             "provider": "Google News"
           }
         ]
