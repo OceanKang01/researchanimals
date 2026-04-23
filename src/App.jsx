@@ -16,7 +16,8 @@ const DEFAULT_WATCH_LIST = [
 
 function App() {
   // Use today's data from mockDatabase for the main dashboard
-  const todayDate = Object.keys(mockDatabase).sort((a, b) => new Date(b) - new Date(a))[0];
+  const dateKeys = Object.keys(mockDatabase).filter(k => k !== 'earningsCalendar');
+  const todayDate = dateKeys.sort((a, b) => new Date(b) - new Date(a))[0];
   const [newsData, setNewsData] = useState(null);
   const [loading, setLoading] = useState(true);
   

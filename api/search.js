@@ -1,4 +1,4 @@
-const Parser = require('rss-parser');
+import Parser from 'rss-parser';
 const parser = new Parser();
 
 export default async function handler(req, res) {
