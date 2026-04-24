@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-04-24": {
+    "date": "2026-04-24",
+    "lastUpdated": "10:44 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 881.64,
+        "changePercent": 4.1,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (NASDAQ:LITE) Stock Price Up 4.1% - Here's Why - MarketBeat: Lumentum (NASDAQ:LITE) Stock Price Up 4.1% - Here's Why MarketBeat...\n- Lumentum Holdings Inc (LITE) Shares Surge 4.1% -- What GF Score of 67 Tells Investors - GuruFocus: Lumentum Holdings Inc (LITE) Shares Surge 4.1% -- What GF Score of 67 Tells Investors GuruFocus...\n- BlackRock (NYSE: LITE) files 13G/A showing 7.3% stake in HOLDINGS INC - Stock Titan: BlackRock (NYSE: LITE) files 13G/A showing 7.3% stake in HOLDINGS INC Stock Titan...",
+        "sources": [
+          {
+            "title": "Lumentum (NASDAQ:LITE) Stock Price Up 4.1% - Here's Why - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZjQ1REcyRi0zRjhYMjh2OGctT0tBMk1uWThtSm0xLXM2R1FHbm50R0pfcVpDVlZCMl9FQU9BSXVsNmJqZUFJZV9JODV5N1luajFYSlBJTG0wbXYwVEJwLWZ4OGlfRHkwdnZFc0xma1MtZXV2WDh1cjBCTnJIQ2h3NGpmRUNXQU5yTUFVVWRMUTZRUTlkd19UNVlSZG94OFJodmpr?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Surge 4.1% -- What GF Score of 67 Tells Investors - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWUh0NThWdFNkeXAyVlVlV29LeXVTa2NqVEtibjFWNVVYZjJ6YmdCNFhwXzlSSDZNclE0R3ZSWGhMcjRBeGU0NDlXNFVBRXgyekVlZGtnSzZjX25lS2dXeEo4bGhvcDdfWHl1Mnk0aldzXzFReTNLNVJBcXhfYUJTQ1pCQlhGc1RldTl2aHRwd24zVlQteWtLWko4UmVCOHJUS0w0RDlrWHZGcnBmdG5FRmsyV0tpa3I0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "BlackRock (NYSE: LITE) files 13G/A showing 7.3% stake in HOLDINGS INC - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2N1al90WmlMN1ZYc0JjMjZpWGFIMm1lS3VHUi1qSFk4bTc3YzZST1ZsVWlKU0dQbURnbE9mMXhKeHVkRzk4ZXgtWkY4dGdHTTNsVU04a0ZQaXdCTzZKaTZjRkFIb3hMRUk2U0lsZzFMMlJFS2x3b3JpZTB4bGpmRElGb25RLWNLTHRjcEJRRnF4cE5SWlN3S1RKWktNaG5mYTM2OW9FZmRsZTlTSG55ZXZwN1VmUTk3TDJ2QlhMMDRNSVBITWhkZHdwOA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 82.54,
+        "changePercent": 23.6,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel stock price: INTC surges today after Q1 earnings reveal AI data center boom - Fast Company: Intel stock price: INTC surges today after Q1 earnings reveal AI data center boom Fast Company...\n- Intel 'starting to get their legs' in turnaround plan as stock surges - Yahoo Finance: Intel 'starting to get their legs' in turnaround plan as stock surges Yahoo Finance...\n- Intel surges as Q1 results, guidance blow past Wall Street's forecast (INTC:NASDAQ) - Seeking Alpha: Intel surges as Q1 results, guidance blow past Wall Street's forecast (INTC:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Intel stock price: INTC surges today after Q1 earnings reveal AI data center boom - Fast Company",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOczBtRExFWUZXclBHbXExNXplVGM4QXBzVTM2TzRiNGxzTG1wR2RHNW5hRkV5ZUc3a1FkeEtoU0JCZ0pFREgyY19TWHh1bnJlRFJMclNncW9TYW9JcDJReFFIX3F1Mkk1UUstU2NuODIzRS1ERDFFZVNCWks5Q1VoY2F0UGFmdzM0enZDSjJ6TTA1SEo4NFZtdF9mbG9DSUxEWFVhaVJYMTctZmQzZGpfczNkaGFCeHVw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel 'starting to get their legs' in turnaround plan as stock surges - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeXhrWWpZRlppNEhnQVdWWVVENURXTXVBYVFiSklqUFNDMGswLUhpeTNFbGlyUW43VDB5Ym5WMDM4d0FQcTZpUktFN0FzenI0VkltRzY4LUZzYUFKU2lpNDRfNkVmVG1aY216WVlJa1N0RnE1bFdpbDUyc3BkeEtTZjh4VlI5cDZNTVE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel surges as Q1 results, guidance blow past Wall Street's forecast (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa1RDTXBPMVRUTXJaSTFldlBSWHF2YjduczFoNm81bVdCWmlxd0YyUFJFOWpPc2JLVEtqcWxjR3l4d0IweXk1QVlPVkRHSHQtb3RvUnVDTFZNRGxXZG1DYUVyRi1GNkhQOUJVWWFWOXpJMHhTLU1DUF95ZG1Oc0w0Q2NFSFhFM3M5aldHUmRvdzRMQTYwaWd5THprODBoUVVpVzloRzJqOVc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 347.81,
+        "changePercent": 13.91,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD): Why This Stock Could Break Trillion Dollar Market Cap - Yahoo Finance: Advanced Micro Devices (AMD): Why This Stock Could Break Trillion Dollar Market Cap Yahoo Finance...\n- AMD Finally Found Its Edge (NASDAQ:AMD) - Seeking Alpha: AMD Finally Found Its Edge (NASDAQ:AMD) Seeking Alpha...\n- AMD Stock Tests Resistance As Intel Beat Sparks Sector Rally - Benzinga: AMD Stock Tests Resistance As Intel Beat Sparks Sector Rally Benzinga...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD): Why This Stock Could Break Trillion Dollar Market Cap - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTWpGdkNqUTZ6c1pVUVZuMnlRVXdrMzZTbm9idjNoN2hveWZ3bkg4b3hGTXpmSVNyc0xXTlFoNWtqbjA3c3ktMmdnMFhkeEdockJpZUx2b3lwR0NieWZ6S09lbXlSTEtMdm9tT29tODM0YkhDRFJLWU5DOXJjQzZrMEZoeUJxcmNFdlVhUnlDdnIxaExPclZOT19BYw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Finally Found Its Edge (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0ZEpKQ0dpVFo2YjNCeWRMTVo3b3o4Uy00TVVZNkxMM1JuN3Ric3hGTVRkOUhOQmhISU12ZFFMcmJRUEVtSzFQRVJicHY4dk1fNlFKa1Z1aFpVVTZNaWZFNHdPam9kTkVRNzF0eVIzWE5NdmEtYmc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Tests Resistance As Intel Beat Sparks Sector Rally - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjdHaTRlWktpaEdLSDNQSm56V1lES2hqZ1NKaldDNjByWlp2X2xmMU1TaFFCN3V0OEd6WE5rY2dmSXFQMEY2OG42QUJFQ3huNGlzNjhHQm03RDZCa3JUVUpwOFlqUlNzbGhNZzJ1VHk0S0xGUFVsZ1BObmFLMDdLOWdLaFpoOW9kZTNsUWVkZE9wZGdtckxHRFRBYUNDMS1xaFgxOElHaGt2Q1Fxc1lkdE11a3UtMEszWm82eWpR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 496.72,
+        "changePercent": 3.11,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- MICRON TECHNOLOGY INC (NASDAQ:MU): A Deep Value Play with Strong Fundamentals - ChartMill: MICRON TECHNOLOGY INC (NASDAQ:MU): A Deep Value Play with Strong Fundamentals ChartMill...\n- What's Going On With Micron Technology Stock Friday? - Benzinga: What's Going On With Micron Technology Stock Friday? Benzinga...\n- Micron Technology, Inc. (MU) Hits Fresh High: Is There Still Room to Run? - Yahoo Finance: Micron Technology, Inc. (MU) Hits Fresh High: Is There Still Room to Run? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "MICRON TECHNOLOGY INC (NASDAQ:MU): A Deep Value Play with Strong Fundamentals - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3F4cHF1YjVIaXVtaVQwOFppekk5ZldfTmhYeS11QXNfQ0V6dG4yQlpoaUJVYXZGWlZPbjJCR0xBV2ZRVmk0VG1RR05CTHpXQk5RVENhLTVLY0Nwb1VtSmFWWlpuNkNSUE1ubDh6TGYtT3EtVU9jT0FyMmJUTVhsRXc0UVd0OXhEdEhTZjQtZE1SRk01OGxwd19iWmtpSmdjUlF4X0Y5Z25JTW9aRjNUQ053YzJjVE5hUjZBZ0NkaVY?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With Micron Technology Stock Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObW4wbWNrSHlsUGFiUTNydGd6V0dIdGVPT2VwclQwLVV4dFViRXRvNnpzWmtXNXhKT2llbEJHX3c1U2RDTkRQZ3d2VHZtVXZ6OTRMZ3hqcjJLMmVycTE5UXkzbmhIS0JZb25sMDF2WmdLQjR1d3VLRm1aZXZjaVIxMjZyeEkwbHA1aFhOdklwbkxJRHk5UjUwWjJtcHp2YkZNSzBuX2IzMlEtakdNaWdJQw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology, Inc. (MU) Hits Fresh High: Is There Still Room to Run? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2pwZUNFTFJrYkJxNHV3b0psUnVqbmNCaFhUMVNHNDM5QVBZQl8wczNBU0R3UldBZGR4ZU03T3JDZE5FQVZsZGFKamM5Q2Y4bjRKaUIxUUlqbHBYZy1hVWF6WmhMUmFueUJTQUdLU1JxRUIzanI3UXdxZ0xWOFdVa2NBZnpnb3RJeE9KNGdzZUIwWVMzRXhCNGVB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-04-23": {
     "date": "2026-04-23",
     "lastUpdated": "10:53 PM KST",
