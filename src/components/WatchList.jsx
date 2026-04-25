@@ -186,14 +186,14 @@ function WatchList({ watchList, setWatchList }) {
                 top: 'calc(100% + 4px)',
                 left: 0,
                 right: 0,
-                background: '#1e293b', // Solid background instead of transparent var(--card-bg)
-                border: '1px solid #334155',
+                background: '#ffffff',
+                border: '1px solid var(--border-color)',
                 borderRadius: '8px',
                 listStyle: 'none',
                 padding: '0.5rem 0',
                 margin: 0,
                 zIndex: 999,
-                boxShadow: '0 20px 25px -5px rgba(0, 0, 0, 0.8), 0 10px 10px -5px rgba(0, 0, 0, 0.5)',
+                boxShadow: '0 10px 25px -5px rgba(0, 0, 0, 0.15), 0 4px 10px -5px rgba(0, 0, 0, 0.1)',
                 maxHeight: '300px',
                 overflowY: 'auto'
               }}>
@@ -207,13 +207,13 @@ function WatchList({ watchList, setWatchList }) {
                     key={s.ticker}
                     style={{ padding: '0.75rem 1rem', cursor: 'pointer', borderBottom: '1px solid var(--border-color)', transition: 'background 0.2s' }}
                     onClick={() => addCompany({ ticker: s.ticker, name: s.name })}
-                    onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.08)'}
+                    onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(59, 130, 246, 0.06)'}
                     onMouseLeave={(e) => e.currentTarget.style.background = 'transparent'}
                   >
                     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                       <strong style={{ color: 'var(--accent-color)', fontSize: '1.1rem' }}>{s.ticker}</strong>
                       {s.ko && s.ko.length > 0 && (
-                        <span style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', background: 'rgba(255,255,255,0.1)', padding: '0.1rem 0.4rem', borderRadius: '4px' }}>
+                        <span style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', background: 'rgba(0,0,0,0.05)', padding: '0.1rem 0.4rem', borderRadius: '4px' }}>
                           {s.ko.join(', ')}
                         </span>
                       )}
@@ -256,9 +256,9 @@ function WatchList({ watchList, setWatchList }) {
                 justifyContent: 'space-between', 
                 alignItems: 'center', 
                 padding: '0.75rem', 
-                background: 'rgba(255, 255, 255, 0.03)', 
+                background: 'rgba(0, 0, 0, 0.02)', 
                 borderRadius: '8px',
-                border: '1px solid rgba(255,255,255,0.05)'
+                border: '1px solid var(--border-color)'
               }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', overflow: 'hidden' }}>
                   <strong style={{ color: 'var(--accent-color)', fontSize: '0.95rem' }}>{company.ticker}</strong>

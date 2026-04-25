@@ -100,7 +100,7 @@ function App() {
             onClick={handleLiveUpdate} 
             disabled={isUpdating}
             style={{
-              background: isUpdating ? 'var(--card-bg)' : 'var(--accent-color)',
+              background: isUpdating ? '#94a3b8' : 'var(--accent-color)',
               color: 'white',
               border: 'none',
               padding: '0.5rem 1rem',

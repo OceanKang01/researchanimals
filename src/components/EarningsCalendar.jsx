@@ -1,13 +1,57 @@
-import React from 'react';
-import mockDatabase from '../mockDatabase.json';
+import React, { useState, useEffect } from 'react';
 
 function EarningsCalendar({ watchList, liveEarningsData }) {
-  // Get earnings data
-  const earningsData = liveEarningsData || mockDatabase.earningsCalendar || [];
-  
+  const [fetchedEarnings, setFetchedEarnings] = useState(null);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState('');
+
+  // Auto-fetch earnings when component mounts or watchList changes
+  useEffect(() => {
+    if (watchList.length === 0) return;
+
+    // If we already have live data from the parent, skip fetching
+    if (liveEarningsData && liveEarningsData.length > 0) return;
+
+    const fetchEarnings = async () => {
+      setLoading(true);
+      setError('');
+      const tickers = watchList.map(w => w.ticker).join(',');
+
+      try {
+        const res = await fetch(`/api/earnings?tickers=${encodeURIComponent(tickers)}`);
+        const data = await res.json();
+
+        if (data.success && data.earnings) {
+          setFetchedEarnings(data.earnings);
+        } else {
+          setError('실적발표 일정을 불러오지 못했습니다.');
+        }
+      } catch (e) {
+        console.error('Earnings fetch error:', e);
+        setError('서버 연결에 실패했습니다.');
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchEarnings();
+  }, [watchList, liveEarningsData]);
+
+  // Priority: liveEarningsData (from 실시간 업데이트) > fetchedEarnings (auto-fetch) > empty
+  const earningsData = liveEarningsData || fetchedEarnings || [];
+
+  // Merge with watchList to get company names
+  const enrichedEarnings = earningsData.map(item => {
+    const watchItem = watchList.find(w => w.ticker === item.ticker);
+    return {
+      ...item,
+      name: item.name || watchItem?.name || item.ticker
+    };
+  });
+
   // Filter by watchList
   const watchedTickers = watchList.map(item => item.ticker);
-  const filteredEarnings = earningsData.filter(item => watchedTickers.includes(item.ticker));
+  const filteredEarnings = enrichedEarnings.filter(item => watchedTickers.includes(item.ticker));
 
   // Sort by date (closest first)
   const sortedEarnings = [...filteredEarnings].sort((a, b) => {
@@ -26,7 +70,7 @@ function EarningsCalendar({ watchList, liveEarningsData }) {
     const targetDate = new Date(datePart);
     const diffTime = targetDate - today;
     const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-    
+
     if (diffDays === 0) return 'D-Day';
     if (diffDays > 0) return `D-${diffDays}`;
     return `D+${Math.abs(diffDays)}`;
@@ -34,26 +78,24 @@ function EarningsCalendar({ watchList, liveEarningsData }) {
 
   const formatKoreanTime = (dateString) => {
     if (dateString === 'TBD') return { date: '일정 미정', badge: null };
-    
+
     const parts = dateString.split(' ');
-    const baseDateStr = parts[0]; // e.g. 2026-05-06
+    const baseDateStr = parts[0];
     const isAMC = dateString.includes('AMC');
     const isBMO = dateString.includes('BMO');
-    
+
     let kstDate = new Date(baseDateStr);
     let timeLabel = '';
-    
+
     if (isAMC) {
-      // AMC (After Market Close in US) -> Next day morning in KST
       kstDate.setDate(kstDate.getDate() + 1);
       timeLabel = '오전';
     } else if (isBMO) {
-      // BMO (Before Market Open in US) -> Same day evening in KST
       timeLabel = '저녁';
     }
-    
+
     const formattedDate = `${kstDate.getFullYear()}-${String(kstDate.getMonth() + 1).padStart(2, '0')}-${String(kstDate.getDate()).padStart(2, '0')}`;
-    
+
     return {
       date: formattedDate,
       badge: timeLabel ? `${timeLabel} (한국시간)` : null,
@@ -61,11 +103,62 @@ function EarningsCalendar({ watchList, liveEarningsData }) {
     };
   };
 
+  const handleRefresh = async () => {
+    if (watchList.length === 0) return;
+    setLoading(true);
+    setError('');
+    const tickers = watchList.map(w => w.ticker).join(',');
+
+    try {
+      const res = await fetch(`/api/earnings?tickers=${encodeURIComponent(tickers)}`);
+      const data = await res.json();
+      if (data.success && data.earnings) {
+        setFetchedEarnings(data.earnings);
+      } else {
+        setError('실적발표 일정을 불러오지 못했습니다.');
+      }
+    } catch (e) {
+      setError('서버 연결에 실패했습니다.');
+    } finally {
+      setLoading(false);
+    }
+  };
+
   return (
     <div className="earnings-container">
-      <h2 style={{ color: 'var(--text-primary)', marginBottom: '1.5rem' }}>다가오는 실적발표 일정</h2>
-      
-      {sortedEarnings.length === 0 ? (
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem' }}>
+        <h2 style={{ color: 'var(--text-primary)', margin: 0 }}>다가오는 실적발표 일정</h2>
+        <button
+          onClick={handleRefresh}
+          disabled={loading}
+          style={{
+            background: loading ? '#94a3b8' : 'var(--accent-color)',
+            color: 'white',
+            border: 'none',
+            padding: '0.5rem 1rem',
+            borderRadius: '20px',
+            cursor: loading ? 'not-allowed' : 'pointer',
+            fontWeight: 'bold',
+            fontSize: '0.85rem',
+            transition: 'background 0.3s'
+          }}
+        >
+          {loading ? '불러오는 중...' : '⟳ 새로고침'}
+        </button>
+      </div>
+
+      {error && (
+        <div style={{ color: 'var(--danger-color)', padding: '1rem', background: 'rgba(239, 68, 68, 0.08)', borderRadius: '8px', marginBottom: '1rem', fontSize: '0.9rem' }}>
+          {error}
+        </div>
+      )}
+
+      {loading ? (
+        <div style={{ textAlign: 'center', padding: '3rem', color: 'var(--text-secondary)' }}>
+          <div style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>⏳</div>
+          Nasdaq에서 실적발표 일정을 가져오고 있습니다...
+        </div>
+      ) : sortedEarnings.length === 0 ? (
         <div style={{ textAlign: 'center', padding: '3rem', color: 'var(--text-secondary)' }}>
           관심 기업의 실적발표 일정이 없습니다.
         </div>
@@ -75,7 +168,7 @@ function EarningsCalendar({ watchList, liveEarningsData }) {
             const dday = calculateDDay(item.earningsDate);
             const isNear = dday.startsWith('D-') && parseInt(dday.replace('D-', '')) <= 7;
             const kstInfo = formatKoreanTime(item.earningsDate);
-            
+
             return (
               <div key={item.ticker} className="earnings-card" style={{
                 background: 'var(--card-bg)',
@@ -94,17 +187,17 @@ function EarningsCalendar({ watchList, liveEarningsData }) {
                   </h3>
                   <div style={{ color: 'var(--text-primary)', fontSize: '1.2rem', fontWeight: '500', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
                     {kstInfo.date}
-                    
+
                     {kstInfo.badge && (
-                      <span style={{ fontSize: '0.8rem', padding: '0.2rem 0.5rem', background: 'rgba(59, 130, 246, 0.2)', color: '#60a5fa', borderRadius: '4px' }}>
+                      <span style={{ fontSize: '0.8rem', padding: '0.2rem 0.5rem', background: 'rgba(59, 130, 246, 0.12)', color: '#2563eb', borderRadius: '4px' }}>
                         {kstInfo.badge}
                       </span>
                     )}
                   </div>
                 </div>
-                
+
                 <div style={{
-                  background: isNear ? 'rgba(59, 130, 246, 0.2)' : 'rgba(255, 255, 255, 0.05)',
+                  background: isNear ? 'rgba(59, 130, 246, 0.12)' : 'rgba(0, 0, 0, 0.04)',
                   color: isNear ? 'var(--accent-hover)' : 'var(--text-primary)',
                   padding: '0.5rem 1rem',
                   borderRadius: '20px',
@@ -118,9 +211,9 @@ function EarningsCalendar({ watchList, liveEarningsData }) {
           })}
         </div>
       )}
-      
+
       <p style={{ marginTop: '1.5rem', fontSize: '0.85rem', color: 'var(--text-secondary)', textAlign: 'center' }}>
-        * 실적발표 일정은 yfinance(Yahoo Finance) 데이터를 기반으로 변환된 한국시간 기준이며, 실제 기업 사정에 따라 다를 수 있습니다.
+        * Nasdaq API에서 실시간으로 가져온 데이터입니다. 실제 기업 사정에 따라 변동될 수 있습니다.
       </p>
     </div>
   );
