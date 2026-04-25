@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-04-25": {
+    "date": "2026-04-25",
+    "lastUpdated": "10:42 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 881.64,
+        "changePercent": 4.1,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc (LITE) Stock Price, Trades & News - GuruFocus: Lumentum Holdings Inc (LITE) Stock Price, Trades & News GuruFocus...\n- WT Asset Management Ltd Cuts Stock Holdings in Lumentum Holdings Inc. $LITE - MarketBeat: WT Asset Management Ltd Cuts Stock Holdings in Lumentum Holdings Inc. $LITE MarketBeat...\n- I Am Still Buying Lumentum, But For A Better Reason Now (NASDAQ:LITE) - Seeking Alpha: I Am Still Buying Lumentum, But For A Better Reason Now (NASDAQ:LITE) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Price, Trades & News - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FeDVZZDNISzJPWldidVNKYm9CUnhwRWpNMlV3U1JlbjhFTFNvRDdqeTZHc0hPbnpjTGFaVlJHMmtoSTl2bkxoR2JpbWdmcl9FdDdQWm9ZZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "WT Asset Management Ltd Cuts Stock Holdings in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYXRpenYxQlVELVZEbkg5d05tQ0JsemExOWVRbXpMemprQjBFM0tpZ0NVb3BMLXB5SzJFMG45c19fV0p0aTdkOXZuQTNZdFFlTEZtNFRLQWpiMlc4Q2hyN0tyVmlnWXJackYtWUJTTjd2dTNWOVJXazByRzhBamMwMmFCWGZObnhkLW1hQ0UxUTJmQ1JQaVJ3ZWNLU1Q5ZDUwenpXX0p4cUE1UVlHN3ZvU0lLSUdQX01WTWRfTEE5UVlfUHVpOWlpZlZzZTZ0ZmM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "I Am Still Buying Lumentum, But For A Better Reason Now (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEFzOVV2ZGRxbFl2ZTlodFJoYlJwNmlySGdIMGxWX0NtVzBQcWI2ZFdFSVJ0X19sVld0cTUyVm9PdTJEUVhSWnRCdDRKMXhab2FWX1VTM2tLWWx1Zl9KazVFZmV4SDFyeWpRaEVGSE9YMlNZdWtiNjFVY0hkSElHNTNUTEF5a1BiQk5manRYcWlpZE41MXZpZ3RTdw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 82.54,
+        "changePercent": 23.6,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- INTEL CORPORATION (INTC) - MSN: INTEL CORPORATION (INTC) MSN...\n- Intel's stock soars 20% as results top estimates, with chipmaker showing signs of growth - CNBC: Intel's stock soars 20% as results top estimates, with chipmaker showing signs of growth CNBC...\n- Intel (INTC) Stock Trades Up, Here Is Why - Yahoo Finance UK: Intel (INTC) Stock Trades Up, Here Is Why Yahoo Finance UK...",
+        "sources": [
+          {
+            "title": "INTEL CORPORATION (INTC) - MSN",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tUXJORC1CWF9OcDVWLWtUa3g2a1hPY3pZeDRqaDdxbXBWNHF0eXc0VTcxbVBwQTh2YklZQW5CcXFxU29INTRqdzF6NVVseTBtdVAyYjBYYU5CakJEN21kVFg3SG91V2pwMHNURnY0aWVhMUQwTVpB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel's stock soars 20% as results top estimates, with chipmaker showing signs of growth - CNBC",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wU19PWER2WW0tZHBobnhjRFBNbUdzUVkyRUZiMDBzNzZlTTVuY3VjUjc1Tlh3Y0tHTlhyeHQ1R0JxamZhRmUyT2VCVTgzdnRsTjl1b0NYSDhHSjVicFhrRTdCbGxYMFNZQXU3U1NTX042MF9jenRlNFV6ONIBgAFBVV95cUxOYWcwVFNyN2ZNNTlKb3R5X2hkZ2JlNFFYcXQ0R3N6czRBRmZFV2ZXQ1F3cEx3UV9oenl2a193dWdURzRFMnF6VTBiNWlSM0xacVc3TDZ1VkJEeHd1TXhQQUR5Sm9jTDdTRUV4azBaV0VxMjMtYlB0aExzVlRETjNNZQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (INTC) Stock Trades Up, Here Is Why - Yahoo Finance UK",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU0tzVmptTlRZQUVvQm1nbGNpLVV6RUJvTWxGTm1uRFVpVmdfR05pZzByTEVPQ1ZnZFNDTm1CemFEOHlBZ1g2NktLc3NKMG90UUlNQjFBbGRKeGJfdlZwLVNFUk1UNF9fWDBrb19GWnUteHpQTk10WXMtN212YXY2NWRR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 347.81,
+        "changePercent": 13.91,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD Finally Found Its Edge (NASDAQ:AMD) - Seeking Alpha: AMD Finally Found Its Edge (NASDAQ:AMD) Seeking Alpha...\n- Advanced Micro Devices (AMD): The Best Fast Growth Stock to Invest In Now - Yahoo Finance: Advanced Micro Devices (AMD): The Best Fast Growth Stock to Invest In Now Yahoo Finance...\n- AMD Stock Tests Resistance As Intel Beat Sparks Sector Rally - Benzinga: AMD Stock Tests Resistance As Intel Beat Sparks Sector Rally Benzinga...",
+        "sources": [
+          {
+            "title": "AMD Finally Found Its Edge (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0ZEpKQ0dpVFo2YjNCeWRMTVo3b3o4Uy00TVVZNkxMM1JuN3Ric3hGTVRkOUhOQmhISU12ZFFMcmJRUEVtSzFQRVJicHY4dk1fNlFKa1Z1aFpVVTZNaWZFNHdPam9kTkVRNzF0eVIzWE5NdmEtYmc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD): The Best Fast Growth Stock to Invest In Now - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjQzb0FsZzlPOWk1TTJCOEY2MVBtSC1yTWI5WC1HZ09GV2ZCeWdmWVNzbC0tYlozQUhsUHNpVUF1RGpYWklRMVB0cU5iWXlkQXNLYm9fVjM5SDFHOGZGajhScVZ4Y1RWR1dnczlQZzNRdjJraC1VaEFiR1ZfWHIxcG1aTHFCT0NvMF9CSXRuaV9Uc2s4UnkxUU1zM0E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Tests Resistance As Intel Beat Sparks Sector Rally - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjdHaTRlWktpaEdLSDNQSm56V1lES2hqZ1NKaldDNjByWlp2X2xmMU1TaFFCN3V0OEd6WE5rY2dmSXFQMEY2OG42QUJFQ3huNGlzNjhHQm03RDZCa3JUVUpwOFlqUlNzbGhNZzJ1VHk0S0xGUFVsZ1BObmFLMDdLOWdLaFpoOW9kZTNsUWVkZE9wZGdtckxHRFRBYUNDMS1xaFgxOElHaGt2Q1Fxc1lkdE11a3UtMEszWm82eWpR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 496.72,
+        "changePercent": 3.11,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Is Micron Technology, Inc. (MU) Among the Best AI Stocks to Buy According to Billionaire Ken Griffin? - Yahoo Finance: Is Micron Technology, Inc. (MU) Among the Best AI Stocks to Buy According to Billionaire Ken Griffin? Yahoo Finance...\n- MU Price Today: Micron Technology, Inc. Stock Price, Quote & Chart - MEXC: MU Price Today: Micron Technology, Inc. Stock Price, Quote & Chart MEXC...\n- MICRON TECHNOLOGY INC (NASDAQ:MU): A Deep Value Play with Strong Fundamentals - ChartMill: MICRON TECHNOLOGY INC (NASDAQ:MU): A Deep Value Play with Strong Fundamentals ChartMill...",
+        "sources": [
+          {
+            "title": "Is Micron Technology, Inc. (MU) Among the Best AI Stocks to Buy According to Billionaire Ken Griffin? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkQ0dGhMWnAtRDBFTU1LalhNQmlRZlRsZFc4UHZrSWxkNENqdnUyNDRXaGt1VkxoMXZfMzM5WG5nbWR0MEtRZUNyeVNwQVBaX1hBbHp6RldPZ0k5NkFzRTlVZ1lSVUlzMF9BcFRnY2FmbWEwOUwzblhtOGpzRWpTUTJveWJ4Q29WYXgwOU1COXhTSVlraGNVc19Pdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Price Today: Micron Technology, Inc. Stock Price, Quote & Chart - MEXC",
+            "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoMnZhX3Z0YXQ5MXpxV281YjZjM1FlZVY5QWFtQXJZQ1dabzNiSDVyOFhXdXBGa2hQOW93UzNtQlhMVjli?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MICRON TECHNOLOGY INC (NASDAQ:MU): A Deep Value Play with Strong Fundamentals - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3F4cHF1YjVIaXVtaVQwOFppekk5ZldfTmhYeS11QXNfQ0V6dG4yQlpoaUJVYXZGWlZPbjJCR0xBV2ZRVmk0VG1RR05CTHpXQk5RVENhLTVLY0Nwb1VtSmFWWlpuNkNSUE1ubDh6TGYtT3EtVU9jT0FyMmJUTVhsRXc0UVd0OXhEdEhTZjQtZE1SRk01OGxwd19iWmtpSmdjUlF4X0Y5Z25JTW9aRjNUQ053YzJjVE5hUjZBZ0NkaVY?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-04-24": {
     "date": "2026-04-24",
     "lastUpdated": "10:44 PM KST",
