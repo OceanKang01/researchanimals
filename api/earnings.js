@@ -48,8 +48,10 @@ export default async function handler(req, res) {
             let timing = "TBD";
             if (rawTiming.includes("after")) timing = "AMC";
             else if (rawTiming.includes("before")) timing = "BMO";
-            // Check Nasdaq's exact wording: "confirmed to report" vs "expected to report"
-            const isConfirmed = /\bconfirmed\b/i.test(reportText);
+            // Nasdaq uses "is expected*" (with asterisk) for unconfirmed, 
+            // "is confirmed" or no asterisk for confirmed dates
+            const isExpected = /expected\s*\*/i.test(reportText);
+            const isConfirmed = !isExpected && (/\bconfirmed\b/i.test(reportText) || !/expected/i.test(reportText));
             earnings.push({ ticker, earningsDate: `${yyyy}-${mm}-${dd} ${timing}`, confirmed: isConfirmed });
           } else {
             const announcement = data?.data?.announcement || "";
