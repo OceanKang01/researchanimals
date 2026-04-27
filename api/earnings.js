@@ -168,9 +168,29 @@ export default async function handler(req, res) {
                 const dateStr = date.toISOString().split('T')[0];
                 const isConfirmed = earningsDates.length === 1;
                 
+                // Also fetch Nasdaq to get AMC/BMO timing
+                let timing = '';
+                try {
+                  const nasdaqUrl = `https://api.nasdaq.com/api/analyst/${ticker}/earnings-date`;
+                  const nasdaqRes = await fetchWithTimeout(nasdaqUrl, {
+                    headers: {
+                      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                      'Accept': 'application/json',
+                      'Origin': 'https://www.nasdaq.com',
+                      'Referer': 'https://www.nasdaq.com/'
+                    }
+                  }, 4000);
+                  if (nasdaqRes.ok) {
+                    const nasdaqData = await nasdaqRes.json();
+                    const reportText = nasdaqData?.data?.reportText || '';
+                    if (/after market close/i.test(reportText)) timing = ' AMC';
+                    else if (/before market open/i.test(reportText)) timing = ' BMO';
+                  }
+                } catch (e) { /* timing stays empty */ }
+
                 earnings.push({
                   ticker,
-                  earningsDate: dateStr,
+                  earningsDate: `${dateStr}${timing}`,
                   confirmed: isConfirmed,
                   epsEstimate: calEvents.earnings?.earningsAverage?.raw || null,
                   revenueEstimate: calEvents.earnings?.revenueAverage?.raw || null,
