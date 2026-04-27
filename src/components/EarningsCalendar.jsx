@@ -198,16 +198,32 @@ function EarningsCalendar({ watchList, liveEarningsData }) {
                   </div>
                 </div>
 
-                <div style={{
-                  background: isNear ? 'rgba(59, 130, 246, 0.12)' : 'rgba(0, 0, 0, 0.04)',
-                  color: isNear ? 'var(--accent-hover)' : 'var(--text-primary)',
-                  padding: '0.3rem 0.7rem',
-                  borderRadius: '14px',
-                  fontWeight: 'bold',
-                  fontSize: '0.85rem',
-                  whiteSpace: 'nowrap'
-                }}>
-                  {dday}
+                <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.2rem' }}>
+                  {item.confirmed !== null && item.confirmed !== undefined && (
+                    <span style={{ 
+                      fontSize: '0.5rem', 
+                      color: item.confirmed ? '#10b981' : '#f59e0b', 
+                      fontWeight: 600 
+                    }}>
+                      {item.confirmed ? '✓ confirmed' : '○ expected'}
+                    </span>
+                  )}
+                  <div style={{
+                    background: isNear ? 'rgba(59, 130, 246, 0.12)' : 'rgba(0, 0, 0, 0.04)',
+                    color: isNear ? 'var(--accent-hover)' : 'var(--text-primary)',
+                    padding: '0.3rem 0.7rem',
+                    borderRadius: '14px',
+                    fontWeight: 'bold',
+                    fontSize: '0.85rem',
+                    whiteSpace: 'nowrap'
+                  }}>
+                    {dday}
+                  </div>
+                  {item.epsEstimate && (
+                    <span style={{ fontSize: '0.5rem', color: 'var(--text-secondary)' }}>
+                      EPS ${item.epsEstimate.toFixed(2)}
+                    </span>
+                  )}
                 </div>
               </div>
             );
