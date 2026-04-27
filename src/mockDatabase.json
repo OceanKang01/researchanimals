@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-04-27": {
+    "date": "2026-04-27",
+    "lastUpdated": "10:57 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 859.68,
+        "changePercent": -2.49,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Stock: Why I'm Buying In After A 1300% Run-Up (NASDAQ:LITE) - Seeking Alpha: Lumentum Stock: Why I'm Buying In After A 1300% Run-Up (NASDAQ:LITE) Seeking Alpha...\n- Lumentum (NASDAQ:LITE) Shares Down 2.6% - Time to Sell? - MarketBeat: Lumentum (NASDAQ:LITE) Shares Down 2.6% - Time to Sell? MarketBeat...\n- Lumentum Holdings Inc (LITE) Stock Price, Trades & News - GuruFocus: Lumentum Holdings Inc (LITE) Stock Price, Trades & News GuruFocus...",
+        "sources": [
+          {
+            "title": "Lumentum Stock: Why I'm Buying In After A 1300% Run-Up (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYzNqemhreW9TOEI2bUxJc0ZOcHUzbUg1bWhUdElRZXlCTTM0ODh6MTJZT1hBMDMyRnJwLTlaTkJnemVLLWtLMUc1Z2QxejI2MEZXempaVVNJZ1NYZUdKS3FETXdMcGZaTVNjYzIwUUlnMlFoZ3BPTTgwdHY2dnF2U19VRXBuX1RQV0VNSWp2bl9mMHZUSFUxdEFVYndnU3BGSmc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Shares Down 2.6% - Time to Sell? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR1A2b3UtYWFjZDhsOFVwZVdGdFFKckg2RmRyUVZZOENDdXVBNjUzb20xTVExVXVoTmJLS1hpUDFXVVhENG9PU1FMcTFTVDRzTURiNDluV09jRHdvT2xtRk5hcnhBMVI2c0h2c25TZmRQYjhYYlYzWU5tNlVfcDVwdEVyQTdwLVd5ZjdLMVp3ckp3T0toaHN2NlFHdEMzODVrVDRv?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Price, Trades & News - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FeDVZZDNISzJPWldidVNKYm9CUnhwRWpNMlV3U1JlbjhFTFNvRDdqeTZHc0hPbnpjTGFaVlJHMmtoSTl2bkxoR2JpbWdmcl9FdDdQWm9ZZw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 84.99,
+        "changePercent": 2.97,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel: Keep Your SOX On (NASDAQ:INTC) - Seeking Alpha: Intel: Keep Your SOX On (NASDAQ:INTC) Seeking Alpha...\n- Intel (NASDAQ:INTC) Stock Price Up 3% on Analyst Upgrade - MarketBeat: Intel (NASDAQ:INTC) Stock Price Up 3% on Analyst Upgrade MarketBeat...\n- Intel Corporation (INTC) Announces Fiscal Q1 2026 Results - Yahoo Finance: Intel Corporation (INTC) Announces Fiscal Q1 2026 Results Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Intel: Keep Your SOX On (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmTGZDdnB6RTZtUnNNeXRGV3ZnMU96NzN4SkItWERFQ1FTU3NBb1BEQnZ2c3JsMGtJSnNNVlhIUVR1eExQYlpJUWUzdzNnQnFDWGRhemtzYUkxcy1GdEN1clBaazZWemJGZ25ONWhBVU8?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Price Up 3% on Analyst Upgrade - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWDRTS2FJallvOWZ1bWQzaUhPZjE4bi1YdnFIanZ4aEJ2bnZLekJIdTY3SXV6eXgzRnJBeVduYkJWc2g0SUJjVUltR3lhdGV2RlhWOXowQ0NVY0g3SnZtc2N3eEIwVEdObXR4MjNiUE50OGJObTZ5UXFxYXFzd055ZVB2VE9aNU9nV1UxbnlTS21vdGdiZkxmdWdGbXdPSlFVLXVFMF9neWlHZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation (INTC) Announces Fiscal Q1 2026 Results - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYzAwWDhCQzB4Vkx0VlZhc0VUTXRuYURTc2JqeXp1Y1Y1c2pMa2h4UEhJNGZLd1dNMDk3eWlSQ3BYcnZWdFYzOVE1cHE5RnA5SWd1UnBLNmFQd010RVlaNFM4S3V3NW04Q0JnMkdaVDZzNV8weW5jZ1FhSER2SGZNY0htdFptTVlFSnJKNHl5dEdaNTB3dG1BY1RkbFBFelVHNnhVSWV2MA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 334.63,
+        "changePercent": -3.79,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Jim Cramer Shares Why You Should Buy Advanced Micro Devices (AMD) - Yahoo Finance: Jim Cramer Shares Why You Should Buy Advanced Micro Devices (AMD) Yahoo Finance...\n- Advanced Micro Devices Inc Stock (AMD) Moved Down by 3.44% on Apr 27: What Signal Does It Send? - TradingKey: Advanced Micro Devices Inc Stock (AMD) Moved Down by 3.44% on Apr 27: What Signal Does It Send? TradingKey...\n- AMD shares soar 12% on no company news. Here's what has investors so excited - CNBC: AMD shares soar 12% on no company news. Here's what has investors so excited CNBC...",
+        "sources": [
+          {
+            "title": "Jim Cramer Shares Why You Should Buy Advanced Micro Devices (AMD) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPemRFbTNXaWgzUTBaUDcwVGRydVRsSUEySlBQWVkxVXN4ZFY4dWczN3FWQjI4ck81dFg2NjIyVFZrTXNkdWllNTlmM2lDZmVPeExwSGdtY3NOd3RXci1zb1RoMWVpdldLVDBMVzY4bFc5X0tzMElOVVRvLXdfYi1seGNvOUFlSE9uUVVvTmxzSHFRWG95?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 3.44% on Apr 27: What Signal Does It Send? - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN3RCbk1hQ1VGVzJPS2x1N0dDRER1X0hXZUNWSXNXVDczdENrQ3BudHAzWl85bXNlVDZpc1Y1c0tQZUkwWDBjcklNZ0J4anZSQUt6eGlkZ3czX2JGTHgzYVRCYVdjVEotb1RySjVyM2s5aHZDQm1mZ3lfbnNSaHFQZHNrYnRQai00NHc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD shares soar 12% on no company news. Here's what has investors so excited - CNBC",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSjJNeFJybGJicUQwVG9HWlhoRmUtS0d1czd5cnBORXQ2a3puaVJ5ZzVPQ0R6TmIzZnJERElLS3NOVVc1aWp5Wl9LUU5Wd1B4VmJFbWlNdlJDb3Nwd2RaYlFBb0RmdFJ6eDRCc2RUaDFlTUc3NVRtMmxmWUhWT0J0TTNBU1NlWEI4ci12bGMzX3NTbWZ1ODVuNzVxX1lrdGtaelNHS0huLUFSc1XSAbABQVVfeXFMTjNfRTBSWEZRTDFGNEhhNzF0MlNMZHMxQmRLV0pxdWRydjZHbzNTN1k0S09VWHBFamljUFF1RXVtSUd5LVFDNTMtZTNpdDVYeFVHZWlvVTNPOHFaa0l1YTY0aHBGaDJoLTJQZmpmZDdSSFVkQXVUTGtBZGMtQ1pQNW1IdXhQYlcwcEZTVWVqYTNsc08tVFpYeGVaQktnX2F1X0dneUpFWEJQV3REbF95WjU?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 524.56,
+        "changePercent": 5.6,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Investors Heavily Search Micron Technology, Inc. (MU): Here is What You Need to Know - Yahoo Finance: Investors Heavily Search Micron Technology, Inc. (MU): Here is What You Need to Know Yahoo Finance...\n- Micron: The Cycle Is Evolving, Not Disappearing (NASDAQ:MU) - Seeking Alpha: Micron: The Cycle Is Evolving, Not Disappearing (NASDAQ:MU) Seeking Alpha...\n- MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill: MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) ChartMill...",
+        "sources": [
+          {
+            "title": "Investors Heavily Search Micron Technology, Inc. (MU): Here is What You Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjVWQUtaQWRqb01mcGM0SVFoZ2xTU282X0tvUHBDanE0d2ZLc2ZudTlKSlNycEFQYWtHNkhHUXJueFVOb0xrLXl1UjJ4NU1QQmdmZGVvVzMtMXVBQVVFR3F6SEp2cGpvX0ItTmpMMmhCOWlyQXc4MVViRDdldmxtUUVVdlA2cnJCSFpXTDRLYVRWX3RUbVBWenoycUV4YzVTRzl3SGxPS3J3bjg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The Cycle Is Evolving, Not Disappearing (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdU13eHY0bVpxenR4Rnc1bG1nLWVZZUJfTFNzQmhiaGtnSExEb3lSVUw0YnNBNDZWOTlVdy1jWlFybFdqOVhQS3Y5amxPTTdCdGVKNWo1YVBiNFAwYW9zZHRrTVFOMDV4eDZobXYtZXNjR2lVUkljWXRsS2E1cWdoLU1jLVM5ZkpSVXc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wV1lPV1FIalVQRlhBVG0tQ1hQMjBVTDBNQ0piOGM1X3QzdUxyalQyejBoTWJtRWNaRFJmVU8zSF9BRXQ2aTVlcVh3bWhRd0pORmpxX2hMT2M1Tlo1?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-04-26": {
     "date": "2026-04-26",
     "lastUpdated": "10:45 PM KST",
