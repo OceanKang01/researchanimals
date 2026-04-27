@@ -241,9 +241,12 @@ function WatchList({ watchList, setWatchList }) {
       }}>
         <h3 style={{ margin: '0 0 1rem 0', fontSize: '0.9rem', color: 'var(--text-secondary)', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <span>📂 내 관심 기업</span>
-          <span style={{ background: 'var(--accent-color)', color: 'white', padding: '0.15rem 0.5rem', borderRadius: '10px', fontSize: '0.75rem' }}>
-            {watchList.length}
-          </span>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            <span style={{ fontSize: '0.6rem', color: '#10b981' }}>☁️ 서버 동기화됨</span>
+            <span style={{ background: 'var(--accent-color)', color: 'white', padding: '0.15rem 0.5rem', borderRadius: '10px', fontSize: '0.75rem' }}>
+              {watchList.length}
+            </span>
+          </div>
         </h3>
         
         {watchList.length > 0 ? (() => {

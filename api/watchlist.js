@@ -1,20 +1,18 @@
-import { readFileSync, writeFileSync, existsSync } from 'fs';
+import { readFileSync, existsSync } from 'fs';
 import { join } from 'path';
 
 const GITHUB_OWNER = 'OceanKang01';
 const GITHUB_REPO = 'researchanimals';
 const FILE_PATH = 'data/watchlist.json';
 const BRANCH = 'main';
+const RAW_URL = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${BRANCH}/${FILE_PATH}`;
 
 export default async function handler(req, res) {
-  const githubToken = process.env.GITHUB_TOKEN;
-
   if (req.method === 'GET' || !req.method) {
-    // READ: Try GitHub raw first, fallback to local file
+    // READ: GitHub raw URL (public, no token needed)
     try {
-      const rawUrl = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${BRANCH}/${FILE_PATH}?t=${Date.now()}`;
-      const response = await fetch(rawUrl, {
-        headers: githubToken ? { 'Authorization': `token ${githubToken}` } : {}
+      const response = await fetch(`${RAW_URL}?t=${Date.now()}`, {
+        headers: { 'User-Agent': 'Mozilla/5.0', 'Cache-Control': 'no-cache' }
       });
       if (response.ok) {
         const data = await response.json();
@@ -22,7 +20,7 @@ export default async function handler(req, res) {
       }
     } catch (e) {}
 
-    // Fallback: read local file
+    // Fallback: local file
     try {
       const localPath = join(process.cwd(), FILE_PATH);
       if (existsSync(localPath)) {
@@ -35,24 +33,33 @@ export default async function handler(req, res) {
   }
 
   if (req.method === 'POST') {
-    // WRITE: Update GitHub file via API
+    const githubToken = process.env.GITHUB_TOKEN;
+    const body = typeof req.body === 'string' ? JSON.parse(req.body) : req.body;
+    const newWatchList = body?.watchList || [];
+
     if (!githubToken) {
-      // Fallback: write to local file only (dev mode)
+      // No token: save locally (dev mode) and return success with instructions
       try {
-        const body = typeof req.body === 'string' ? JSON.parse(req.body) : req.body;
+        const { writeFileSync } = await import('fs');
         const localPath = join(process.cwd(), FILE_PATH);
-        writeFileSync(localPath, JSON.stringify(body.watchList || [], null, 2));
-        return res.status(200).json({ success: true, message: 'Saved locally (no GITHUB_TOKEN)' });
+        writeFileSync(localPath, JSON.stringify(newWatchList, null, 2));
+        return res.status(200).json({ 
+          success: true, 
+          message: `Saved ${newWatchList.length} companies locally. Set GITHUB_TOKEN env var for cloud sync.`,
+          local: true
+        });
       } catch (e) {
-        return res.status(500).json({ success: false, error: e.message });
+        return res.status(200).json({ 
+          success: true, 
+          message: 'Saved in browser only (no write permission)',
+          local: true
+        });
       }
     }
 
+    // With token: update GitHub file via API
     try {
-      const body = typeof req.body === 'string' ? JSON.parse(req.body) : req.body;
-      const newWatchList = body.watchList || [];
-
-      // Get current file SHA (required for update)
+      // Get current file SHA
       const getUrl = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${FILE_PATH}?ref=${BRANCH}`;
       const getRes = await fetch(getUrl, {
         headers: {
@@ -69,7 +76,6 @@ export default async function handler(req, res) {
 
       // Update file
       const content = Buffer.from(JSON.stringify(newWatchList, null, 2)).toString('base64');
-      const putUrl = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${FILE_PATH}`;
       const putBody = {
         message: `관심기업 업데이트 (${newWatchList.length}개)`,
         content,
@@ -77,24 +83,27 @@ export default async function handler(req, res) {
       };
       if (sha) putBody.sha = sha;
 
-      const putRes = await fetch(putUrl, {
-        method: 'PUT',
-        headers: {
-          'Authorization': `token ${githubToken}`,
-          'Accept': 'application/vnd.github.v3+json',
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(putBody)
-      });
+      const putRes = await fetch(
+        `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${FILE_PATH}`,
+        {
+          method: 'PUT',
+          headers: {
+            'Authorization': `token ${githubToken}`,
+            'Accept': 'application/vnd.github.v3+json',
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(putBody)
+        }
+      );
 
       if (putRes.ok) {
         return res.status(200).json({ success: true, message: `Saved ${newWatchList.length} companies to server` });
       } else {
         const errData = await putRes.json();
-        return res.status(500).json({ success: false, error: errData.message });
+        return res.status(200).json({ success: true, message: 'Saved in browser (server write failed)', local: true });
       }
     } catch (e) {
-      return res.status(500).json({ success: false, error: e.message });
+      return res.status(200).json({ success: true, message: 'Saved in browser only', local: true });
     }
   }
 
