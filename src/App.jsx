@@ -30,23 +30,54 @@ function App() {
   const [primaryTab, setPrimaryTab] = useState('news'); // 'news' | 'other'
   const [secondaryTab, setSecondaryTab] = useState('dashboard'); // 'dashboard' | 'pastnews' | 'watchlist'
   
-  // WatchList State with localStorage
+  // WatchList State - server-synced
   const [watchList, setWatchList] = useState(() => {
+    // Use localStorage as fast cache on initial load
     const saved = localStorage.getItem('usStockWatchList');
     if (saved) {
-      try {
-        return JSON.parse(saved);
-      } catch (e) {
-        console.error("Failed to parse watch list from local storage", e);
-      }
+      try { return JSON.parse(saved); } catch (e) {}
     }
     return DEFAULT_WATCH_LIST;
   });
+  const [watchListLoaded, setWatchListLoaded] = useState(false);
 
-  // Save to localStorage whenever watchList changes
+  // On mount: fetch from server (source of truth)
+  useEffect(() => {
+    const fetchServerWatchList = async () => {
+      try {
+        const res = await fetch('/api/watchlist');
+        const data = await res.json();
+        if (data.success && data.watchList && data.watchList.length > 0) {
+          setWatchList(data.watchList);
+          localStorage.setItem('usStockWatchList', JSON.stringify(data.watchList));
+        }
+      } catch (e) {
+        console.log('Server watchlist fetch failed, using local cache');
+      }
+      setWatchListLoaded(true);
+    };
+    fetchServerWatchList();
+  }, []);
+
+  // Save to server + localStorage whenever watchList changes (after initial load)
   useEffect(() => {
     localStorage.setItem('usStockWatchList', JSON.stringify(watchList));
-  }, [watchList]);
+    if (!watchListLoaded) return; // Don't sync on initial load
+    
+    // Sync to server
+    const syncToServer = async () => {
+      try {
+        await fetch('/api/watchlist', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ watchList })
+        });
+      } catch (e) {
+        console.log('Server sync failed, saved locally');
+      }
+    };
+    syncToServer();
+  }, [watchList, watchListLoaded]);
 
   // Simulate fetching data
   useEffect(() => {

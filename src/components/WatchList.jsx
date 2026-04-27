@@ -107,7 +107,6 @@ function WatchList({ watchList, setWatchList }) {
     }
     const newList = [...watchList, company];
     setWatchList(newList);
-    try { localStorage.setItem('usStockWatchList', JSON.stringify(newList)); } catch(e){}
     setQuery('');
     setLocalSuggestions([]);
     setApiSuggestions([]);
@@ -148,7 +147,6 @@ function WatchList({ watchList, setWatchList }) {
   const handleDelete = (tickerToRemove) => {
     const newList = watchList.filter(item => item.ticker !== tickerToRemove);
     setWatchList(newList);
-    try { localStorage.setItem('usStockWatchList', JSON.stringify(newList)); } catch(e){}
   };
 
   // Combine and deduplicate suggestions

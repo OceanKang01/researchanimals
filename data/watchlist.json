@@ -1,0 +1,18 @@
+[
+  {
+    "ticker": "LITE",
+    "name": "Lumentum"
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel"
+  },
+  {
+    "ticker": "AMD",
+    "name": "AMD"
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron"
+  }
+]

@@ -25,8 +25,20 @@ function localApiPlugin() {
 
           const query = Object.fromEntries(url.searchParams)
 
+          // Parse POST body
+          let body = null;
+          if (req.method === 'POST' || req.method === 'PUT') {
+            body = await new Promise((resolve) => {
+              let data = '';
+              req.on('data', chunk => data += chunk);
+              req.on('end', () => {
+                try { resolve(JSON.parse(data)); } catch { resolve(data); }
+              });
+            });
+          }
+
           await mod.default(
-            { query, method: req.method, headers: req.headers },
+            { query, method: req.method, headers: req.headers, body },
             {
               _code: 200,
               _headers: {},
