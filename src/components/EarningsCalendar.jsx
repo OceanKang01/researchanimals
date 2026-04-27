@@ -198,16 +198,23 @@ function EarningsCalendar({ watchList, liveEarningsData }) {
                   </div>
                 </div>
 
-                <div style={{
-                  background: isNear ? 'rgba(59, 130, 246, 0.12)' : 'rgba(0, 0, 0, 0.04)',
-                  color: isNear ? 'var(--accent-hover)' : 'var(--text-primary)',
-                  padding: '0.3rem 0.7rem',
-                  borderRadius: '14px',
-                  fontWeight: 'bold',
-                  fontSize: '0.85rem',
-                  whiteSpace: 'nowrap'
-                }}>
-                  {dday}
+                <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.15rem' }}>
+                  {item.earningsDate !== 'TBD' && (
+                    <span style={{ fontSize: '0.5rem', color: '#10b981', fontWeight: 600, letterSpacing: '0.03em' }}>
+                      confirmed
+                    </span>
+                  )}
+                  <div style={{
+                    background: isNear ? 'rgba(59, 130, 246, 0.12)' : 'rgba(0, 0, 0, 0.04)',
+                    color: isNear ? 'var(--accent-hover)' : 'var(--text-primary)',
+                    padding: '0.3rem 0.7rem',
+                    borderRadius: '14px',
+                    fontWeight: 'bold',
+                    fontSize: '0.85rem',
+                    whiteSpace: 'nowrap'
+                  }}>
+                    {dday}
+                  </div>
                 </div>
               </div>
             );
