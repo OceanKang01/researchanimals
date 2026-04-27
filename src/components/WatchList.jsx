@@ -233,7 +233,7 @@ function WatchList({ watchList, setWatchList }) {
         </form>
       </div>
 
-      {/* Company List - below search */}
+      {/* Company List - Folder Style */}
       <div style={{ 
         width: '100%',
         background: 'var(--card-bg)', 
@@ -242,55 +242,90 @@ function WatchList({ watchList, setWatchList }) {
         border: '1px solid var(--border-color)' 
       }}>
         <h3 style={{ margin: '0 0 1rem 0', fontSize: '0.9rem', color: 'var(--text-secondary)', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <span>내 관심 기업</span>
+          <span>📂 내 관심 기업</span>
           <span style={{ background: 'var(--accent-color)', color: 'white', padding: '0.15rem 0.5rem', borderRadius: '10px', fontSize: '0.75rem' }}>
             {watchList.length}
           </span>
         </h3>
         
-        {watchList.length > 0 ? (
-          <div style={{ 
-            display: 'grid', 
-            gridTemplateColumns: 'repeat(auto-fill, minmax(180px, 1fr))', 
-            gap: '0.5rem'
-          }}>
-            {[...watchList].sort((a, b) => a.ticker.localeCompare(b.ticker)).map((company, index) => (
-              <div key={index} style={{ 
-                display: 'flex', 
-                justifyContent: 'space-between', 
-                alignItems: 'center', 
-                padding: '0.5rem 0.75rem', 
-                background: 'rgba(0, 0, 0, 0.02)', 
-                borderRadius: '8px',
-                border: '1px solid var(--border-color)'
-              }}>
-                <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', overflow: 'hidden', minWidth: 0 }}>
-                  <strong style={{ color: 'var(--accent-color)', fontSize: '0.8rem' }}>{company.ticker}</strong>
-                  <span style={{ fontSize: '0.7rem', color: 'var(--text-secondary)', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
-                    {company.name}
-                  </span>
+        {watchList.length > 0 ? (() => {
+          // Group by first letter
+          const sorted = [...watchList].sort((a, b) => a.ticker.localeCompare(b.ticker));
+          const groups = {};
+          sorted.forEach(company => {
+            const letter = company.ticker[0].toUpperCase();
+            if (!groups[letter]) groups[letter] = [];
+            groups[letter].push(company);
+          });
+
+          return (
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.75rem' }}>
+              {Object.entries(groups).map(([letter, companies]) => (
+                <div key={letter} style={{
+                  flex: '0 0 auto',
+                  minWidth: '160px',
+                  border: '1px solid var(--border-color)',
+                  borderRadius: '8px',
+                  overflow: 'hidden',
+                  background: '#fafbfc'
+                }}>
+                  {/* Folder Tab */}
+                  <div style={{
+                    background: 'linear-gradient(135deg, var(--accent-color), #60a5fa)',
+                    color: 'white',
+                    padding: '0.3rem 0.75rem',
+                    fontSize: '0.75rem',
+                    fontWeight: 700,
+                    letterSpacing: '0.05em',
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '0.4rem'
+                  }}>
+                    <span style={{ fontSize: '0.7rem' }}>📁</span> {letter}
+                    <span style={{ marginLeft: 'auto', fontSize: '0.6rem', opacity: 0.8 }}>{companies.length}</span>
+                  </div>
+                  {/* Files inside folder */}
+                  <div style={{ padding: '0.35rem 0' }}>
+                    {companies.map((company, idx) => (
+                      <div key={company.ticker} style={{
+                        display: 'flex',
+                        alignItems: 'center',
+                        padding: '0.3rem 0.6rem 0.3rem 0.75rem',
+                        fontSize: '0.78rem',
+                        borderBottom: idx < companies.length - 1 ? '1px solid rgba(0,0,0,0.04)' : 'none',
+                        gap: '0.4rem'
+                      }}>
+                        <span style={{ color: '#94a3b8', fontSize: '0.6rem', flexShrink: 0 }}>├─</span>
+                        <strong style={{ color: 'var(--accent-color)', fontSize: '0.78rem', flexShrink: 0 }}>{company.ticker}</strong>
+                        <span style={{ fontSize: '0.68rem', color: 'var(--text-secondary)', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', flex: 1 }}>
+                          {company.name}
+                        </span>
+                        <button 
+                          onClick={() => handleDelete(company.ticker)} 
+                          style={{ 
+                            background: 'transparent', 
+                            border: 'none', 
+                            color: '#cbd5e1', 
+                            fontSize: '0.65rem', 
+                            cursor: 'pointer',
+                            padding: '0.1rem 0.25rem',
+                            borderRadius: '3px',
+                            flexShrink: 0,
+                            transition: 'color 0.2s'
+                          }}
+                          onMouseEnter={(e) => { e.currentTarget.style.color = '#ef4444'; e.currentTarget.style.background = 'rgba(239,68,68,0.08)'; }}
+                          onMouseLeave={(e) => { e.currentTarget.style.color = '#cbd5e1'; e.currentTarget.style.background = 'transparent'; }}
+                        >
+                          ✕
+                        </button>
+                      </div>
+                    ))}
+                  </div>
                 </div>
-                <button 
-                  onClick={() => handleDelete(company.ticker)} 
-                  style={{ 
-                    background: 'transparent', 
-                    border: 'none', 
-                    color: '#ef4444', 
-                    fontSize: '0.7rem', 
-                    cursor: 'pointer',
-                    padding: '0.15rem 0.3rem',
-                    borderRadius: '4px',
-                    flexShrink: 0
-                  }}
-                  onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(239, 68, 68, 0.1)'}
-                  onMouseLeave={(e) => e.currentTarget.style.background = 'transparent'}
-                >
-                  ✕
-                </button>
-              </div>
-            ))}
-          </div>
-        ) : (
+              ))}
+            </div>
+          );
+        })() : (
           <div style={{ textAlign: 'center', padding: '1.5rem', color: 'var(--text-secondary)', fontSize: '0.85rem', border: '1px dashed var(--border-color)', borderRadius: '8px' }}>
             등록된 관심 기업이 없습니다.
           </div>

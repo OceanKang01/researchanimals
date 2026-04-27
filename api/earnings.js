@@ -48,7 +48,8 @@ export default async function handler(req, res) {
             let timing = "TBD";
             if (rawTiming.includes("after")) timing = "AMC";
             else if (rawTiming.includes("before")) timing = "BMO";
-            const isConfirmed = /confirmed/i.test(reportText);
+            // Check Nasdaq's exact wording: "confirmed to report" vs "expected to report"
+            const isConfirmed = /\bconfirmed\b/i.test(reportText);
             earnings.push({ ticker, earningsDate: `${yyyy}-${mm}-${dd} ${timing}`, confirmed: isConfirmed });
           } else {
             const announcement = data?.data?.announcement || "";
@@ -58,16 +59,17 @@ export default async function handler(req, res) {
               const mm2 = String(monthNames.indexOf(annMatch[1]) + 1).padStart(2, '0');
               const dd2 = String(annMatch[2]).padStart(2, '0');
               const yyyy2 = annMatch[3];
-              earnings.push({ ticker, earningsDate: `${yyyy2}-${mm2}-${dd2} TBD` });
+              // Announcement dates are unconfirmed by default
+              earnings.push({ ticker, earningsDate: `${yyyy2}-${mm2}-${dd2} TBD`, confirmed: false });
             } else {
-              earnings.push({ ticker, earningsDate: 'TBD' });
+              earnings.push({ ticker, earningsDate: 'TBD', confirmed: null });
             }
           }
         } else {
-          earnings.push({ ticker, earningsDate: 'TBD' });
+          earnings.push({ ticker, earningsDate: 'TBD', confirmed: null });
         }
       } catch (e) {
-        earnings.push({ ticker, earningsDate: 'TBD' });
+        earnings.push({ ticker, earningsDate: 'TBD', confirmed: null });
       }
     });
 
