@@ -160,7 +160,7 @@ function WatchList({ watchList, setWatchList }) {
   });
 
   return (
-    <div className="watch-list-container" style={{ display: 'flex', gap: '2rem', alignItems: 'flex-start', flexWrap: 'wrap' }}>
+    <div className="watch-list-container" style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
       {/* Left Column: Search & Add */}
       <div style={{ flex: '1 1 400px' }}>
         <h2 style={{ color: 'var(--text-primary)', marginBottom: '1.5rem' }}>관심 기업 설정 (Watch List)</h2>
@@ -233,17 +233,17 @@ function WatchList({ watchList, setWatchList }) {
         </form>
       </div>
 
-      {/* Right Column: List of saved companies */}
+      {/* Company List - below search */}
       <div style={{ 
-        flex: '1 1 auto', 
+        width: '100%',
         background: 'var(--card-bg)', 
         borderRadius: '12px', 
-        padding: '1rem 1.25rem', 
+        padding: '1.25rem 1.5rem', 
         border: '1px solid var(--border-color)' 
       }}>
-        <h3 style={{ margin: '0 0 0.75rem 0', fontSize: '0.75rem', color: 'var(--text-secondary)', display: 'flex', justifyContent: 'space-between', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
+        <h3 style={{ margin: '0 0 1rem 0', fontSize: '0.9rem', color: 'var(--text-secondary)', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <span>내 관심 기업</span>
-          <span style={{ background: 'var(--accent-color)', color: 'white', padding: '0.05rem 0.4rem', borderRadius: '8px', fontSize: '0.6rem' }}>
+          <span style={{ background: 'var(--accent-color)', color: 'white', padding: '0.15rem 0.5rem', borderRadius: '10px', fontSize: '0.75rem' }}>
             {watchList.length}
           </span>
         </h3>
@@ -251,23 +251,22 @@ function WatchList({ watchList, setWatchList }) {
         {watchList.length > 0 ? (
           <div style={{ 
             display: 'grid', 
-            gridTemplateColumns: 'repeat(5, 1fr)', 
-            gap: '0.3rem'
+            gridTemplateColumns: 'repeat(auto-fill, minmax(180px, 1fr))', 
+            gap: '0.5rem'
           }}>
             {[...watchList].sort((a, b) => a.ticker.localeCompare(b.ticker)).map((company, index) => (
               <div key={index} style={{ 
                 display: 'flex', 
                 justifyContent: 'space-between', 
                 alignItems: 'center', 
-                padding: '0.3rem 0.5rem', 
+                padding: '0.5rem 0.75rem', 
                 background: 'rgba(0, 0, 0, 0.02)', 
-                borderRadius: '5px',
-                border: '1px solid var(--border-color)',
-                gap: '0.2rem'
+                borderRadius: '8px',
+                border: '1px solid var(--border-color)'
               }}>
-                <div style={{ display: 'flex', alignItems: 'center', gap: '0.3rem', overflow: 'hidden', minWidth: 0 }}>
-                  <strong style={{ color: 'var(--accent-color)', fontSize: '0.5rem' }}>{company.ticker}</strong>
-                  <span style={{ fontSize: '0.4rem', color: 'var(--text-secondary)', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', overflow: 'hidden', minWidth: 0 }}>
+                  <strong style={{ color: 'var(--accent-color)', fontSize: '0.8rem' }}>{company.ticker}</strong>
+                  <span style={{ fontSize: '0.7rem', color: 'var(--text-secondary)', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
                     {company.name}
                   </span>
                 </div>
@@ -277,10 +276,10 @@ function WatchList({ watchList, setWatchList }) {
                     background: 'transparent', 
                     border: 'none', 
                     color: '#ef4444', 
-                    fontSize: '0.4rem', 
+                    fontSize: '0.7rem', 
                     cursor: 'pointer',
-                    padding: '0.1rem 0.2rem',
-                    borderRadius: '3px',
+                    padding: '0.15rem 0.3rem',
+                    borderRadius: '4px',
                     flexShrink: 0
                   }}
                   onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(239, 68, 68, 0.1)'}
@@ -292,7 +291,7 @@ function WatchList({ watchList, setWatchList }) {
             ))}
           </div>
         ) : (
-          <div style={{ textAlign: 'center', padding: '1rem', color: 'var(--text-secondary)', fontSize: '0.55rem', border: '1px dashed var(--border-color)', borderRadius: '6px' }}>
+          <div style={{ textAlign: 'center', padding: '1.5rem', color: 'var(--text-secondary)', fontSize: '0.85rem', border: '1px dashed var(--border-color)', borderRadius: '8px' }}>
             등록된 관심 기업이 없습니다.
           </div>
         )}

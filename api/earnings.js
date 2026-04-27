@@ -48,7 +48,8 @@ export default async function handler(req, res) {
             let timing = "TBD";
             if (rawTiming.includes("after")) timing = "AMC";
             else if (rawTiming.includes("before")) timing = "BMO";
-            earnings.push({ ticker, earningsDate: `${yyyy}-${mm}-${dd} ${timing}` });
+            const isConfirmed = /confirmed/i.test(reportText);
+            earnings.push({ ticker, earningsDate: `${yyyy}-${mm}-${dd} ${timing}`, confirmed: isConfirmed });
           } else {
             const announcement = data?.data?.announcement || "";
             const annMatch = announcement.match(/([A-Z][a-z]{2})\s+(\d{1,2}),\s+(\d{4})/i);
