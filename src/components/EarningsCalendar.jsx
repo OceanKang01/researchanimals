@@ -163,7 +163,11 @@ function EarningsCalendar({ watchList, liveEarningsData }) {
           관심 기업의 실적발표 일정이 없습니다.
         </div>
       ) : (
-        <div className="earnings-list">
+        <div className="earnings-list" style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
+          gap: '0.75rem'
+        }}>
           {sortedEarnings.map((item) => {
             const dday = calculateDDay(item.earningsDate);
             const isNear = dday.startsWith('D-') && parseInt(dday.replace('D-', '')) <= 7;
@@ -173,23 +177,21 @@ function EarningsCalendar({ watchList, liveEarningsData }) {
               <div key={item.ticker} className="earnings-card" style={{
                 background: 'var(--card-bg)',
                 border: isNear ? '1px solid var(--accent-color)' : '1px solid var(--border-color)',
-                borderRadius: '12px',
-                padding: '1.5rem',
-                marginBottom: '1rem',
+                borderRadius: '10px',
+                padding: '0.85rem 1rem',
                 display: 'flex',
                 justifyContent: 'space-between',
                 alignItems: 'center'
               }}>
                 <div>
-                  <h3 style={{ margin: '0 0 0.5rem 0', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                    <span style={{ color: 'var(--accent-color)' }}>{item.ticker}</span>
-                    <span style={{ fontSize: '1rem', color: 'var(--text-secondary)', fontWeight: 'normal' }}>{item.name}</span>
+                  <h3 style={{ margin: '0 0 0.25rem 0', display: 'flex', alignItems: 'center', gap: '0.4rem', fontSize: '0.9rem' }}>
+                    <span style={{ color: 'var(--accent-color)', fontWeight: 700 }}>{item.ticker}</span>
+                    <span style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', fontWeight: 'normal' }}>{item.name}</span>
                   </h3>
-                  <div style={{ color: 'var(--text-primary)', fontSize: '1.2rem', fontWeight: '500', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                  <div style={{ color: 'var(--text-primary)', fontSize: '0.9rem', fontWeight: '500', display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
                     {kstInfo.date}
-
                     {kstInfo.badge && (
-                      <span style={{ fontSize: '0.8rem', padding: '0.2rem 0.5rem', background: 'rgba(59, 130, 246, 0.12)', color: '#2563eb', borderRadius: '4px' }}>
+                      <span style={{ fontSize: '0.65rem', padding: '0.1rem 0.35rem', background: 'rgba(59, 130, 246, 0.12)', color: '#2563eb', borderRadius: '3px' }}>
                         {kstInfo.badge}
                       </span>
                     )}
@@ -199,10 +201,11 @@ function EarningsCalendar({ watchList, liveEarningsData }) {
                 <div style={{
                   background: isNear ? 'rgba(59, 130, 246, 0.12)' : 'rgba(0, 0, 0, 0.04)',
                   color: isNear ? 'var(--accent-hover)' : 'var(--text-primary)',
-                  padding: '0.5rem 1rem',
-                  borderRadius: '20px',
+                  padding: '0.3rem 0.7rem',
+                  borderRadius: '14px',
                   fontWeight: 'bold',
-                  fontSize: '1.1rem'
+                  fontSize: '0.85rem',
+                  whiteSpace: 'nowrap'
                 }}>
                   {dday}
                 </div>
