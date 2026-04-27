@@ -29,10 +29,16 @@ function localApiPlugin() {
             { query, method: req.method, headers: req.headers },
             {
               _code: 200,
+              _headers: {},
               status(code) { this._code = code; return this },
+              setHeader(key, val) { this._headers[key] = val },
               json(data) {
-                res.writeHead(this._code, { 'Content-Type': 'application/json' })
+                res.writeHead(this._code, { 'Content-Type': 'application/json', ...this._headers })
                 res.end(JSON.stringify(data))
+              },
+              end(data) {
+                res.writeHead(this._code, this._headers)
+                res.end(data)
               }
             }
           )
