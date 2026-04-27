@@ -230,9 +230,42 @@ function EarningsCalendar({ watchList, liveEarningsData }) {
           })}
         </div>
       )}
+      {/* CSV Export Link */}
+      {watchList.length > 0 && (
+        <div style={{ marginTop: '1.25rem', textAlign: 'center' }}>
+          <a
+            href={`/api/earnings-csv?tickers=${watchList.map(w => w.ticker).join(',')}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '0.4rem',
+              padding: '0.5rem 1.2rem',
+              background: 'rgba(59, 130, 246, 0.08)',
+              color: 'var(--accent-color)',
+              border: '1px solid rgba(59, 130, 246, 0.2)',
+              borderRadius: '8px',
+              fontSize: '0.8rem',
+              fontWeight: 600,
+              textDecoration: 'none',
+              transition: 'all 0.2s'
+            }}
+            onMouseEnter={(e) => { e.currentTarget.style.background = 'rgba(59,130,246,0.15)'; }}
+            onMouseLeave={(e) => { e.currentTarget.style.background = 'rgba(59,130,246,0.08)'; }}
+          >
+            📄 CSV 내보내기 ({watchList.length}개 기업)
+          </a>
+          <p style={{ fontSize: '0.65rem', color: 'var(--text-secondary)', marginTop: '0.5rem' }}>
+            AI Agent URL: <code style={{ background: 'rgba(0,0,0,0.05)', padding: '0.15rem 0.3rem', borderRadius: '3px', fontSize: '0.6rem' }}>
+              /api/earnings-csv?tickers={watchList.map(w => w.ticker).join(',')}
+            </code>
+          </p>
+        </div>
+      )}
 
-      <p style={{ marginTop: '1.5rem', fontSize: '0.85rem', color: 'var(--text-secondary)', textAlign: 'center' }}>
-        * Nasdaq API에서 실시간으로 가져온 데이터입니다. 실제 기업 사정에 따라 변동될 수 있습니다.
+      <p style={{ marginTop: '1rem', fontSize: '0.85rem', color: 'var(--text-secondary)', textAlign: 'center' }}>
+        * Yahoo Finance + Nasdaq API에서 실시간으로 가져온 데이터입니다. 실제 기업 사정에 따라 변동될 수 있습니다.
       </p>
     </div>
   );
