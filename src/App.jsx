@@ -41,15 +41,24 @@ function App() {
   });
   const [watchListLoaded, setWatchListLoaded] = useState(false);
 
-  // On mount: fetch from server (source of truth)
+  // On mount: fetch from server (source of truth) and merge
   useEffect(() => {
     const fetchServerWatchList = async () => {
       try {
         const res = await fetch('/api/watchlist');
         const data = await res.json();
-        if (data.success && data.watchList && data.watchList.length > 0) {
-          setWatchList(data.watchList);
-          localStorage.setItem('usStockWatchList', JSON.stringify(data.watchList));
+        if (data.success && data.watchList) {
+          setWatchList(prev => {
+            // Merge logic: Combine local and server, unique by ticker
+            const merged = [...prev];
+            data.watchList.forEach(serverItem => {
+              if (!merged.find(localItem => localItem.ticker === serverItem.ticker)) {
+                merged.push(serverItem);
+              }
+            });
+            localStorage.setItem('usStockWatchList', JSON.stringify(merged));
+            return merged;
+          });
         }
       } catch (e) {
         console.log('Server watchlist fetch failed, using local cache');

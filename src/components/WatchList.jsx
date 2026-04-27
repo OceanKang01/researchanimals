@@ -242,12 +242,63 @@ function WatchList({ watchList, setWatchList }) {
         <h3 style={{ margin: '0 0 1rem 0', fontSize: '0.9rem', color: 'var(--text-secondary)', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <span>📂 내 관심 기업</span>
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-            <span style={{ fontSize: '0.6rem', color: '#10b981' }}>☁️ 서버 동기화됨</span>
+            <button 
+              onClick={() => {
+                fetch('/api/watchlist', {
+                  method: 'POST',
+                  headers: { 'Content-Type': 'application/json' },
+                  body: JSON.stringify({ watchList })
+                }).then(res => res.json())
+                  .then(data => alert(data.message || '동기화 완료'))
+                  .catch(() => alert('동기화 실패'));
+              }}
+              style={{
+                fontSize: '0.65rem',
+                padding: '0.2rem 0.5rem',
+                background: 'rgba(59, 130, 246, 0.1)',
+                color: 'var(--accent-color)',
+                border: '1px solid var(--accent-color)',
+                borderRadius: '4px',
+                cursor: 'pointer'
+              }}
+            >
+              🔄 서버로 강제 동기화
+            </button>
             <span style={{ background: 'var(--accent-color)', color: 'white', padding: '0.15rem 0.5rem', borderRadius: '10px', fontSize: '0.75rem' }}>
               {watchList.length}
             </span>
           </div>
         </h3>
+
+        {/* Sync Center Toggle */}
+        <details style={{ marginBottom: '1rem', border: '1px dashed var(--border-color)', borderRadius: '6px', padding: '0.5rem' }}>
+          <summary style={{ fontSize: '0.7rem', cursor: 'pointer', color: 'var(--text-secondary)' }}>⚙️ 고급 관리 (JSON 백업/복구)</summary>
+          <div style={{ padding: '0.5rem 0' }}>
+            <textarea 
+              readOnly 
+              value={JSON.stringify(watchList)} 
+              style={{ width: '100%', height: '60px', fontSize: '0.6rem', background: '#f8f9fa', border: '1px solid #ddd', marginBottom: '0.5rem' }}
+              onClick={(e) => e.target.select()}
+            />
+            <button 
+              onClick={() => {
+                const data = prompt('JSON 데이터를 입력하세요:');
+                if (data) {
+                  try {
+                    const parsed = JSON.parse(data);
+                    if (Array.isArray(parsed)) {
+                      setWatchList(parsed);
+                      alert('복구되었습니다. 서버 동기화를 진행해주세요.');
+                    }
+                  } catch (e) { alert('잘못된 형식입니다.'); }
+                }
+              }}
+              style={{ fontSize: '0.65rem', padding: '0.2rem 0.5rem', cursor: 'pointer' }}
+            >
+              📥 JSON 데이터로 복구/병합
+            </button>
+          </div>
+        </details>
         
         {watchList.length > 0 ? (() => {
           // Group by first letter
