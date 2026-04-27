@@ -14,7 +14,7 @@ export default async function handler(req, res) {
 
   try {
     // Get watchlist from query or use defaults
-    const tickers = (req.query.tickers || 'LITE,AMD,INTC,MU').split(',').map(t => t.trim().toUpperCase());
+    const tickers = (req.query.tickers || 'LITE,INTC,AMD,MU,GLW,AAPL,META,MSFT,QCOM,FORM,FSLR,TSLA,NXT,TSEM,SNDK,NVDA,PLTR,GEV,MRVL,ARM,STX,GOOGL,AMZN,RXRX,TEM,COHR,285A.T').split(',').map(t => t.trim().toUpperCase());
 
     // --- Fetch earnings data (same logic as earnings.js) ---
     let cookies = '', crumb = '';

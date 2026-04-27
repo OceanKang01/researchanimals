@@ -9,10 +9,33 @@ import NewsSearch from './components/NewsSearch';
 
 // Initial default watch list
 const DEFAULT_WATCH_LIST = [
-  { ticker: 'LITE', name: 'Lumentum' },
-  { ticker: 'INTC', name: 'Intel' },
-  { ticker: 'AMD', name: 'AMD' },
-  { ticker: 'MU', name: 'Micron' }
+  {"ticker":"LITE","name":"Lumentum"},
+  {"ticker":"INTC","name":"Intel"},
+  {"ticker":"AMD","name":"AMD"},
+  {"ticker":"MU","name":"Micron"},
+  {"ticker":"GLW","name":"Corning"},
+  {"ticker":"AAPL","name":"Apple"},
+  {"ticker":"META","name":"Meta"},
+  {"ticker":"MSFT","name":"Microsoft"},
+  {"ticker":"QCOM","name":"Qualcomm"},
+  {"ticker":"FORM","name":"FormFactor"},
+  {"ticker":"FSLR","name":"First Solar"},
+  {"ticker":"TSLA","name":"Tesla"},
+  {"ticker":"NXT","name":"Nextracker"},
+  {"ticker":"TSEM","name":"Tower Semiconductor"},
+  {"ticker":"SNDK","name":"SNDK"},
+  {"ticker":"NVDA","name":"Nvidia"},
+  {"ticker":"PLTR","name":"Palantir"},
+  {"ticker":"GEV","name":"GE Vernova"},
+  {"ticker":"MRVL","name":"Marvell"},
+  {"ticker":"ARM","name":"Arm"},
+  {"ticker":"STX","name":"Seagate"},
+  {"ticker":"GOOGL","name":"Alphabet"},
+  {"ticker":"AMZN","name":"Amazon"},
+  {"ticker":"RXRX","name":"Recursion"},
+  {"ticker":"TEM","name":"Tempus AI"},
+  {"ticker":"COHR","name":"Coherent"},
+  {"ticker":"285A.T","name":"Lasertec"}
 ];
 
 function App() {
