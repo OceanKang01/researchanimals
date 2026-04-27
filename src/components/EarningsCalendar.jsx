@@ -200,8 +200,13 @@ function EarningsCalendar({ watchList, liveEarningsData }) {
 
                 <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.15rem' }}>
                   {item.earningsDate !== 'TBD' && item.confirmed !== null && item.confirmed !== undefined && (
-                    <span style={{ fontSize: '0.5rem', color: item.confirmed ? '#10b981' : '#f59e0b', fontWeight: 600, letterSpacing: '0.03em' }}>
-                      {item.confirmed ? '✓ confirmed' : '○ expected'}
+                    <span style={{ 
+                      fontSize: '0.5rem', 
+                      color: item.confirmed ? '#10b981' : '#3b82f6', 
+                      fontWeight: 600, 
+                      letterSpacing: '0.03em' 
+                    }}>
+                      {item.confirmed ? '✓ confirmed' : '📅 scheduled'}
                     </span>
                   )}
                   <div style={{
