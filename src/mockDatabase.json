@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-04-28": {
+    "date": "2026-04-28",
+    "lastUpdated": "11:00 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 791.37,
+        "changePercent": -7.95,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Teacher Retirement System of Texas Reduces Stock Holdings in Lumentum Holdings Inc. $LITE - MarketBeat: Teacher Retirement System of Texas Reduces Stock Holdings in Lumentum Holdings Inc. $LITE MarketBeat...\n- Fund Update: 30,234 LUMENTUM HOLDINGS (LITE) shares added to WHITTIER TRUST CO OF NEVADA INC portfolio - Quiver Quantitative: Fund Update: 30,234 LUMENTUM HOLDINGS (LITE) shares added to WHITTIER TRUST CO OF NEVADA INC portfolio Quiver Quantitative...\n- Lumentum Holdings Inc (LITE) Stock Down 8.0% but Still Overvalued -- GF Score: 67/100 - GuruFocus: Lumentum Holdings Inc (LITE) Stock Down 8.0% but Still Overvalued -- GF Score: 67/100 GuruFocus...",
+        "sources": [
+          {
+            "title": "Teacher Retirement System of Texas Reduces Stock Holdings in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcnUzMGZSMkRybXR3Y0FPTFhfdFNUTGFCV3RraWc3TW5ZQm41VWpqU3FfVEdHRkthN1h6Sl9ERU93V25UbGR6Um9sbTAyblBjdnNycm9pSEMtU2o0bTFUMU41bHJNR2kwUXNadl9SWFBOR01WYzVidnl4Q3hzdkNaVERwWVJPdDBTbVVuVzJ4WUtBeDRfUDdHNHFIa1JBa3NPSHBXdXhKMExWaUM4YU5LNmsyNHR0M0Y5TVFuRFJ6enZYQXdjU3dUQ3Z0YzRoc2ZMN1c4dmt6YnJFVWZkS1M5YTlB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Fund Update: 30,234 LUMENTUM HOLDINGS (LITE) shares added to WHITTIER TRUST CO OF NEVADA INC portfolio - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZTU0LVBxRFdiM2pDUHFhWUZ4bjJRMEdNdmxicmtJQl9zdG5QU2NiNExtVVJ4N3RLdVp4anUtdDQwaWhyeGcxb2p0MUFSajdxR1lVTXVMQTUtcWdOQl83RGZrLTJCdGIydWtZUllKVGhOanFxd3d4dGs5SWl0Unp2MEg5Ym1rOTdoMko2MXd5cFBKeWJabEZSNFViSkNGMnNTaC1GY1FBNnY0bkF4ZnI4YnFlQW5BdU9raXpKWFNDVWdPUmpUY0VSRzNVRGlRM1Itd1RhTW1pLTh5Yjg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Down 8.0% but Still Overvalued -- GF Score: 67/100 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDloOFZZWVJSV0VnMXp5VWxLOGV0VHNfWXQ5YVl0S1BBZnkyN1NnTjBSV0Q4WlNWQ0NZMHBvYmV5WGFhU3FhbFJIUGpyaWk1TUxwTGFKTUdDN01GZlJyRjI5V3REdU10bk9GUjExeXV5SXV6bjI4NHB2aVBhekY4NDRfc2NTRlhEYmRXWTN0V3hDZnFmVjRSMHloRFkwRnBFRHpLTVpkSy1BX3RLTldrSGRpZDBXUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 84.52,
+        "changePercent": -0.55,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know - Yahoo Finance Singapore: Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know Yahoo Finance Singapore...\n- Intel: Pump The Brakes (NASDAQ:INTC) - Seeking Alpha: Intel: Pump The Brakes (NASDAQ:INTC) Seeking Alpha...\n- KTF Investments LLC Purchases Shares of 10,000 Intel Corporation $INTC - MarketBeat: KTF Investments LLC Purchases Shares of 10,000 Intel Corporation $INTC MarketBeat...",
+        "sources": [
+          {
+            "title": "Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know - Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFBZVTR4Yl9NdWRUZGt4TjU1VkJwX0Q2ejRsbDRIU0NiU09idUtKTGdSVk4ta0xKOTJuaHVGVE9GYTh4UTVfZ0xXb1hrdHljaXlaanRrZ0RKa2RTQmJCY0pVcEY3Z2NlVnJ6QVdqQUM3TVR4elVWX3pqT25LRTMyZmN6QlZpWk5pMWV4TkJDaDlIY1I1Qnc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: Pump The Brakes (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xRXpsYWtwZmVkNFBwR25ybEYwY01aVWVJMmlVaHJkVGRJVFF6Y2Znd1JMd09EcjJYbmdaOTJ1Y3JoejV5UF9wSE5ua2JLam8zeEVqcmlLaU9ObW9vMUgxS2thWVkzTDl3OHA3N284WQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "KTF Investments LLC Purchases Shares of 10,000 Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazhjaFpwdmxIeW9qMHkwTzdIMWp3WE1BM1VIR1dFRTh5YkRuREtndVVhSHZUZ1JkUmdnRFliV3MzNklTV1BPYnBkNk1mb1BzTm5nQkI0WVAxMHdfYkQxUUF6Vk9xd3VWWTh2eW91LW5yM01qZmFwQXBjRnlrUzFleWJnZG9yYUpsMy16dkRVb3RYSUUzWTQ2bkVyZkFZeFFpSVk3ZlhhN25QWklMamE2U2hrOVM1WTFubHI3aUlFTjBlcElUR0x1dA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 323.21,
+        "changePercent": -3.41,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What Is Going On With AMD Stock On Tuesday? - Advanced Micro Devices (NASDAQ:AMD) - Benzinga: What Is Going On With AMD Stock On Tuesday? - Advanced Micro Devices (NASDAQ:AMD) Benzinga...\n- Is AMD Stock Buy, Sell, or Hold? - The Globe and Mail: Is AMD Stock Buy, Sell, or Hold? The Globe and Mail...\n- AMD CTO Papermaster (NASDAQ: AMD) sells 31,320 shares under 10b5-1 plan - Stock Titan: AMD CTO Papermaster (NASDAQ: AMD) sells 31,320 shares under 10b5-1 plan Stock Titan...",
+        "sources": [
+          {
+            "title": "What Is Going On With AMD Stock On Tuesday? - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZk8tQk1YakhycjJiVGhaNVNId1dFanFNdFRIbHd0eGhMcTNTWkVLcEh3OVJGamtuaVYtTzJ0SF9vVXA5RHpVa25BRTlzWTdtTk9DLW5fWERUMXpjb3FYMllkUDhJY0V4YzBrM3V5OHpEWjV1RkMzYVpmYlY5bFB5QU5DNGF2ZnVENDZmemhCc2dPM1dYWUd3bENWWQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is AMD Stock Buy, Sell, or Hold? - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXMtOXZ0ZVNUTmVISWlXTmRFUVdaMXpIaFlCbnV1ZlVIMk8ycTZVS3BHamwtVE9RVzN3YXFXWkdNd2hyMHNnMlljY0V4Q1NqSlBaVHJ6UTRxTWNXSVhrM1E2S1c1d2VZSnFob3Npd3JnSDlreUpIbzRYWm9NRnhXOTVOOG90Uk5lSFpUbDMtV3Jnb2JnckY3UE4xUDBCQnRZd0VuSUprSnRZWnc0SUY2TW1aa1ZJUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD CTO Papermaster (NASDAQ: AMD) sells 31,320 shares under 10b5-1 plan - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnJoeVNOSHNzR1A3YWllUGRvQVA2aTdRejBmd3FNRDJDNm9sNHZoaFA1b0c1MEJzb0ktb1BHMzFZSHBHakkzTTA3OXA2S1kyekJ0aTNKcklDNG92YTdrekhtUldveC1sOU0tTVRXNjFvVGN2X0V3R1ZJdEYyb2loWUJOZG1BTThBVWFmclYyTTQ2YlBWUlBXQWZqbF8zcnkxZUlQTGdMOHExVURPUEcwZHBFZzEtMklPVG9z?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 504.29,
+        "changePercent": -3.86,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Is Micron Technology (MU) The Best Memory Stock To Buy According To Analysts? - Yahoo Finance: Why Is Micron Technology (MU) The Best Memory Stock To Buy According To Analysts? Yahoo Finance...\n- What Is Going On With Micron Stock On Tuesday - Benzinga: What Is Going On With Micron Stock On Tuesday Benzinga...\n- Micron: Why I Think Another Leg Is Around The Corner (NASDAQ:MU) - Seeking Alpha: Micron: Why I Think Another Leg Is Around The Corner (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Why Is Micron Technology (MU) The Best Memory Stock To Buy According To Analysts? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVkl5cGE2azhEQU9lVXNtQk9vNmNuS28yNmtVWkx3c1FSYnQ3aHMycnZUUnZEdzlRVmdiZTdkcDFmT1J5UmhxWWgtVjVmb05sT2NfRVNYUWJ5cm5rOENmSTZqWGdUcmdQMG9vaWcwdl9jNUZOSWItMjVycldKVHNvRHkxQ21NRnc3NzM4YnF1ZWcxWFVaRnN2c3B3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going On With Micron Stock On Tuesday - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUS1QNVlfSkREdEtHM0J4VzJLdGttb3VVSFItLWtaM1ppSkZJenpwQWxQWXlhaWhMbDl4dnVMcUNJcGZ3QmFuZDEzMkZnRUxsY0ZBaFp6UVFQT1VxLXoxSHNYNktvS2Z4cmsyMlFqSkRHYUh3TmdnUUt5X2cyelloNWttT2IteENwNmFUdkQ4T3dWeEpzeDlUX1phRlBvSl9JckE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: Why I Think Another Leg Is Around The Corner (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanRwRDFiWkozbE9IM29TQmlyczNveVFZQ1dCejVPeXFoQ01DV0ZfQUZ2WkFCalZtQ2wzSG9YYTVlc053bVFQcEZudGlxZG1QS19iYzZyOWFSVnlVVTJSWVFWN0VwUGV0WjZaTS1vZE5iVTVydlBPMENUc1MzcU9EbloxNWk5VjhtNjhPVjZteTNVS0M0czhr?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-04-27": {
     "date": "2026-04-27",
     "lastUpdated": "10:57 PM KST",
