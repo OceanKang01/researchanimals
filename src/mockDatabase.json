@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-04-30": {
+    "date": "2026-04-30",
+    "lastUpdated": "10:57 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 902.32,
+        "changePercent": 5.13,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Wealth High Governance Capital Ltda Makes New Investment in Lumentum Holdings Inc. $LITE - MarketBeat: Wealth High Governance Capital Ltda Makes New Investment in Lumentum Holdings Inc. $LITE MarketBeat...\n- Lumentum Holdings Inc (LITE) Stock Up 5.1% but GF Value Says Ove - GuruFocus: Lumentum Holdings Inc (LITE) Stock Up 5.1% but GF Value Says Ove GuruFocus...\n- Vanguard holds 5.25M Lumentum shares (NASDAQ: LITE) - Stock Titan: Vanguard holds 5.25M Lumentum shares (NASDAQ: LITE) Stock Titan...",
+        "sources": [
+          {
+            "title": "Wealth High Governance Capital Ltda Makes New Investment in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbENDSFJzRnJXWnRiMGdLZHM5NlFDaG5kYngzc1BVa0t6THBySmkzYVV4WWpldTNhelRHenh5SVBtOUVJQXFQV3ItaWVBNFZvN1NjakJveGFudnZ0R29Ka2dUVDQyOTJjTmFUUFg1RW82cjVLWURhZEdYNWxaSDlFUGNScUN1T2M0R1UtZG5senU1ZW1CNC1oZEFhNy1ETkk5TVRYR0djY0ZETFhXODZjZldNT3Y0VWR1RjRWX3liQllBRGJ5OTluMEM2LUVWUEZCWFFsQldDMl9KUmxjSkVzUw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Up 5.1% but GF Value Says Ove - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY2Z4OHhKMzctcHY4YVpsdlpxN3owYnJqbEJaTXBDWmJHYXlIY09NVm1tNndFZ3BGNHo3aDF4RUl1UVhuWHJQOUdTM05Tb3JtQkYxMGhfOG1yV24tZ2hkNUdpUTVpb0pkaWhqZ1JaSUFrdlNqYjAzYjAySEFLSUFoVjk3dzlaaWZHbHduU0Y5Y21fMWprV0pOT3pwQ1hTVVpkRi1ocXZhbkwzaFZQejh0WGdFT3JiN0x5Z180R3hR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Vanguard holds 5.25M Lumentum shares (NASDAQ: LITE) - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGdGT1dyQUhtTWxtVkYtOTZZbmRNellneHp4MGwxYXBaTzRBeTdnTUZCekFfWGF0dU1PbGlFYjRmMEV2Rk5tVkxja05Tc21fQmxuWHpnWmNZbmYwNGYzdUxkLXh2NGVqS1ByQTZsMVRjUDBtdlZWWVVtT2RWRjZ5QlVNWHBacWVsbEg2ZTMtVGtPalppbTNRUl9GSy10UlRMVW5qeFJMckNmMTBBbkNIenYyUnNBcm5RMGYxYU1xY2o2ODh0QTNz?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 94.48,
+        "changePercent": -0.28,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Heritage Investment Group Inc. Buys New Shares in Intel Corporation $INTC - MarketBeat: Heritage Investment Group Inc. Buys New Shares in Intel Corporation $INTC MarketBeat...\n- Trump touts Intel stock surge, claims $30B gain for U.S. (INTC:NASDAQ) - Seeking Alpha: Trump touts Intel stock surge, claims $30B gain for U.S. (INTC:NASDAQ) Seeking Alpha...\n- Vanguard Capital Management (INTC) reports 327.5M shares, 6.52% stake - Stock Titan: Vanguard Capital Management (INTC) reports 327.5M shares, 6.52% stake Stock Titan...",
+        "sources": [
+          {
+            "title": "Heritage Investment Group Inc. Buys New Shares in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYVhUb1pqS1dybnhDMDlZQ2xVRnhWVndzRHhrWUtRRC1Pa2hMYmRtb3E1cm8zdlpkTWdycTNtTFpBQ2REbUdKMGNhVlVDbDBfWXFpUnBweFlFRUduZk1xS0JlNFZNUXVPcEhtbC1lem1SNTkzcEhjbGlQZEU5SUszWEhSSFp2YmN6cVM1VkVSam5yaEtuUjZrSVFRb3ZjRVdWNGk4QXdiNTZqR0drR05hR2ZzLXc5ZTI5S2d5TWtyOHlHRDBYNkpGZ21aa0I?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Trump touts Intel stock surge, claims $30B gain for U.S. (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2lQaWk1SXZvYTk0MGdRTGZrZWZ0OGlqQ1czUkt6VGgwRkRyVDF3NGIwYnFZdlVSV1RtXzAwelJoRlVjZXpBU21WelBXaG54aW84MzdLQVZzREt1c0VYN1Z6cThUdmVCQVlyZ1pPZjVOZmNqMjJjUGxZTHdxS3FjQXprY1FpWTVqcUREaFVRN2NZczZp?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Vanguard Capital Management (INTC) reports 327.5M shares, 6.52% stake - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3gxQ0NCUkRVcTRRRUVjVTIwZ2NsYTREeHNfd3Q1b2xsRHdJU1BCQ0RwZDktYldFNWdEQlA2bjhCek9xbk5MUUlyaEFyWVNkM25Pa0JkYXMwSjdxc05zVnRaSEYxTzJ4TGVTdENJdWdxUG54SEk1MjQ3QjJiUGRJUGRyWXI1Z0V1aTNtMURzWTQ5YVU1Rk0xalFfV1RkcU5PNEd6UFVXb0Z6UWJ2T3dCQVJIaGdGeEx6?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 354.49,
+        "changePercent": 5.16,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices Shares Have Surged Over 52% YTD As It Continues Expansion - Yahoo Finance: Advanced Micro Devices Shares Have Surged Over 52% YTD As It Continues Expansion Yahoo Finance...\n- AMD Q1 Preview: I Own It, But I’m Not Adding More Before The Print (NASDAQ:AMD) - Seeking Alpha: AMD Q1 Preview: I Own It, But I’m Not Adding More Before The Print (NASDAQ:AMD) Seeking Alpha...\n- AMD stock price forecast: May 5 earnings report in focus as AMD approaches $355 resistance - Traders Union: AMD stock price forecast: May 5 earnings report in focus as AMD approaches $355 resistance Traders Union...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices Shares Have Surged Over 52% YTD As It Continues Expansion - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRU1QLVU1NlgweU1VdlhTVWZiM28tSzZvRGNHazhXRDBsUkhWYVFuNEQ4VHdzNEx4YTdQVFZSd3BoVFVlNVhEZUNQUGFKNVBmbGFzMWg2U0NfWWtLMzVGMmRnNUhEdzVNLUloeEljaWF0U2FRSkxOLW5ZcE9sYTJOczFCU2pwZnRkdWdoY2o5b2doZU1VaEt4WWFGQVR1dDRmYzJr?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Q1 Preview: I Own It, But I’m Not Adding More Before The Print (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkZiSnhDc3dqNnVoVEEtOW01TU4za05CQW13OW1hZWwybktZOERzQ1pjaDU5WmdiR1BuUWVGVGFDM2lmUEdSY3V6NWVnWnlDWUE4ZW1zdnJpZVpnUzAwMDhhTEVza3dBYmozcU9VY1ZTOHNZMUpkN2RYLTMzUzRzVjV0LVVFS0pVUnVILUpGcUkxT0k4Z1VsX0hCU3hmRzBHWEE5QkM0NA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD stock price forecast: May 5 earnings report in focus as AMD approaches $355 resistance - Traders Union",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUU3emZwd0NtZVg2OW85NGl3cUoweTJSTUZKZWRnZXRJVzdMTU9UWFNkcVBDckJ1aUR6endJOHNFZnRxZ0hIcDJlbThudjZKLS1hN3hrRURnR3NrcGI1Z3p2clh1d3JrQUI2R2hYUENTTXRwZkU5OW9oVG04dVE2aFpIM2poVDU2UHcxQkJZcFY0cU1wSzN6NThB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 517.16,
+        "changePercent": -0.25,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology Inc (MU) Stock Price Quote Today & Current Price Chart - Capital.com: Micron Technology Inc (MU) Stock Price Quote Today & Current Price Chart Capital.com...\n- There Is Optimism Around Micron Technology’s HBM Business, Here Is What You Should Know? - Yahoo Finance: There Is Optimism Around Micron Technology’s HBM Business, Here Is What You Should Know? Yahoo Finance...\n- Micron: Why I Think Another Leg Is Around The Corner (NASDAQ:MU) - Seeking Alpha: Micron: Why I Think Another Leg Is Around The Corner (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron Technology Inc (MU) Stock Price Quote Today & Current Price Chart - Capital.com",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWJvZlhKcU5wazc3Z1hRVFhWSm44bW9KcGNKMDA3Ni1UXzd4a2VIalZZRHlZT3RkWUsxNVZ5a0x6ZmFJNWZLTC1wME1EX2RpWjJxRy1zWVNtcFdTQ1F1czlSWGR2N3hVMFU3YTFlQ1pqTmE1TnIzYnA3bzhJN2YyZHlXQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "There Is Optimism Around Micron Technology’s HBM Business, Here Is What You Should Know? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemVfM2c5cGJkbncyN1JVcVpndGRaVW9iMWYyRDFtUGpfNVZCdFlrWUlySlZ0UjR6VUdqMGNtbmo2YTFTZk1mZDJyYndKc0JRMkpjSHNsNmRzRVZST1JaNGxKR1o5WEdiVklhZzF2MHRPOHg1N2tfY3VjajVwbW1mRHlTWmt3amducXBTVnNCX19GWnVnWEhKcUQ0NGhFcjFvMjhPag?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: Why I Think Another Leg Is Around The Corner (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanRwRDFiWkozbE9IM29TQmlyczNveVFZQ1dCejVPeXFoQ01DV0ZfQUZ2WkFCalZtQ2wzSG9YYTVlc053bVFQcEZudGlxZG1QS19iYzZyOWFSVnlVVTJSWVFWN0VwUGV0WjZaTS1vZE5iVTVydlBPMENUc1MzcU9EbloxNWk5VjhtNjhPVjZteTNVS0M0czhr?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-04-29": {
     "date": "2026-04-29",
     "lastUpdated": "11:00 PM KST",
