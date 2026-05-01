@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-01": {
+    "date": "2026-05-01",
+    "lastUpdated": "10:54 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 949.93,
+        "changePercent": 5.28,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (NASDAQ:LITE) Reaches New 52-Week High - Still a Buy? - MarketBeat: Lumentum (NASDAQ:LITE) Reaches New 52-Week High - Still a Buy? MarketBeat...\n- Lumentum Holdings Inc Stock (LITE) Moved Up by 7.77% on May 1: What Signal Does It Send? - TradingKey: Lumentum Holdings Inc Stock (LITE) Moved Up by 7.77% on May 1: What Signal Does It Send? TradingKey...\n- Lumentum Stock: Why I'm Buying In After A 1300% Run-Up (NASDAQ:LITE) - Seeking Alpha: Lumentum Stock: Why I'm Buying In After A 1300% Run-Up (NASDAQ:LITE) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Lumentum (NASDAQ:LITE) Reaches New 52-Week High - Still a Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGFCME00ZGhkOF9VOG1KUGVDdzRtQUpxOGVhZnJrZlNEbVB3dXRMaUhPaXB5ZmxyQzZ3R0ppU0kwOURrZWRLeS1LWVAwbGpoSV9UbnB0eS1HYlRrQlJCYXczOVVCc2JQSjFDcVJ3SjU5NGJURWpMSmp5cERjc0xZVi1PS2F4amg5U2JkcVZlTW9OeHRFVmc5eUxTdjhUMXE2YkxxUFZXNF82RzBXSnZV?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Moved Up by 7.77% on May 1: What Signal Does It Send? - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOTJkb2V4M2hCUVpvNmJFVHA2VDNabzRIRG9Jd0ZCbHMtdlV2aTB2Zm1TQjZVS2Vyak91d2UxS1JDXzczR2hicjFMYlVwcXlfNEsxN1J1YlEzYUNEYTR2WE5Zbnh1MXJUOThGNmt4ZnhPdTBfZXdYZTZ1VTV1QVV2eEFvdWxHQTZHd1dF?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Stock: Why I'm Buying In After A 1300% Run-Up (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYzNqemhreW9TOEI2bUxJc0ZOcHUzbUg1bWhUdElRZXlCTTM0ODh6MTJZT1hBMDMyRnJwLTlaTkJnemVLLWtLMUc1Z2QxejI2MEZXempaVVNJZ1NYZUdKS3FETXdMcGZaTVNjYzIwUUlnMlFoZ3BPTTgwdHY2dnF2U19VRXBuX1RQV0VNSWp2bl9mMHZUSFUxdEFVYndnU3BGSmc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 99.62,
+        "changePercent": 5.44,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- INTC Stock Quote Price and Forecast - CNN: INTC Stock Quote Price and Forecast CNN...\n- What is next for Intel after its Q1 earnings blowout? (INTC:NASDAQ) - Seeking Alpha: What is next for Intel after its Q1 earnings blowout? (INTC:NASDAQ) Seeking Alpha...\n- New York State Teachers Retirement System Buys 22,881 Shares of Intel Corporation $INTC - MarketBeat: New York State Teachers Retirement System Buys 22,881 Shares of Intel Corporation $INTC MarketBeat...",
+        "sources": [
+          {
+            "title": "INTC Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lWkZjY0djMFFwSUlhcXJYVkRXQlptNHppd1R5NFlzSm9UckZacWJERUZpdWw5WlViaENhblBac0hQZ3BNdmZUZ1VONmU1dHp2?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What is next for Intel after its Q1 earnings blowout? (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS1kzQVBBM2EzQmJRQzlDVFdWZ0dRQmhwNDBBQmNrQWlXM2xjZWtzWktBOXdtaldOTE15MjZ4OUdLb0NieklDcHNPWGw5Q0YzZU9oNERzb3RIRmRLRHRpdzctUDM2aTFGdll2T2lzc09qWXZqTjljNnZ0RDhzcEEwanhldW5nOThjNEhleElzY1kteVJr?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "New York State Teachers Retirement System Buys 22,881 Shares of Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlBzNFR6bmtfbDN5Yk0wQXZpSWZsM0xHNmp5SWt0ZW9zWk9xX3N0MC1ra21RdVlLZ042Z1Q1YkxkeEtjMDlhd0tELWFNU3Nua08tTWo3VG1oZll0eks0NjA5Y1dHOVZrTjg5bnRDRnNNZE8xX0NoVEZtU2k1S0J3X0xYNlZkdG9MZXVhOVBNNWxfVUxiSXZzM2J0VVhFWFdON0VVakNwT3psb2dxeWpzYkhHYmtmWXNCLWxzN2JhR3lVWnNZLTVQMS1NRnBycC1wZGNSbzd4T1VxQVItMmx3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 360.54,
+        "changePercent": 1.71,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD Stock Quote Price and Forecast - CNN: AMD Stock Quote Price and Forecast CNN...\n- Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance UK: Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance UK...\n- What Is Going On With AMD Stock On Friday? - Benzinga: What Is Going On With AMD Stock On Friday? Benzinga...",
+        "sources": [
+          {
+            "title": "AMD Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndUxfbjJEeVZYMi1wd2lPajZ3LTVYZkF0NVZ2Q1RuNDBPWkhGN184UlFoQ09FdmNBdl8wNFYtMURTNUU0Qm14aWVwcXFuV28?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance UK",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTlhFQ1hmaXhZd2Zwb1AwU3YtRGU2NS1CVHY5VkwyaE5JcU9YSElIRnp4UXd0SlJlSEhYSjlJNEE0eDB5a0NVbURJOFpGR29TdnVydkZ5TURZVDJWTDdRV1VRV0FVN0NMOEZrdk94eUZYTzZPOUp3YkJCNnZKSmVJaGFLc2VZUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going On With AMD Stock On Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUpwX0NaUkVCb0ZwblNkb05uRHJadXJNY1J6T2JLYnNidW5NbktFMzZoMzZ6djN3ZW5JeWI5RDcwV2tZcEc2OThJVm84YUYtWkk2RjZkajF2azVPSjBPSVNESzBnWVRmNDVEU09BUzhXSnpMQmlyUDNsNktQT3pvbWtZdjU1VEY1aFJSOTZlaHlBV1N0aUlYS2RZYjY?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 542.21,
+        "changePercent": 4.84,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Is Micron Technology Stock Up On Friday? - Benzinga: Why Is Micron Technology Stock Up On Friday? Benzinga...\n- MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill: MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) ChartMill...\n- Micron: Why I Think Another Leg Is Around The Corner (NASDAQ:MU) - Seeking Alpha: Micron: Why I Think Another Leg Is Around The Corner (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Why Is Micron Technology Stock Up On Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdGl4bkNMVjc4ek1tWDhyaHQtdE1tVGNBX2d4dG5XdmRtMkhvOWRxSXc2cG9KMmRYQlVPbWJ5NDgzd0xDbHRLb3BtVmdITTdBLWFQYzhXZFhPY3VKRVhUaWpQMmthNmd5TnV5ZlRGRXEwemdNWlhQRDdFTUEtU3ZaM2RPS0pQM2F0YjRVMmZUSXpSczB1Rk94NXpjZURkcmdhczR4X3BQbw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wV1lPV1FIalVQRlhBVG0tQ1hQMjBVTDBNQ0piOGM1X3QzdUxyalQyejBoTWJtRWNaRFJmVU8zSF9BRXQ2aTVlcVh3bWhRd0pORmpxX2hMT2M1Tlo1?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: Why I Think Another Leg Is Around The Corner (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanRwRDFiWkozbE9IM29TQmlyczNveVFZQ1dCejVPeXFoQ01DV0ZfQUZ2WkFCalZtQ2wzSG9YYTVlc053bVFQcEZudGlxZG1QS19iYzZyOWFSVnlVVTJSWVFWN0VwUGV0WjZaTS1vZE5iVTVydlBPMENUc1MzcU9EbloxNWk5VjhtNjhPVjZteTNVS0M0czhr?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-04-30": {
     "date": "2026-04-30",
     "lastUpdated": "10:57 PM KST",
