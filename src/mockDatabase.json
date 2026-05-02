@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-02": {
+    "date": "2026-05-02",
+    "lastUpdated": "10:50 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 949.93,
+        "changePercent": 5.28,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- LITE stock hits record high – this analyst believes there’s good reason to hike their price target by 68% - MSN: LITE stock hits record high – this analyst believes there’s good reason to hike their price target by 68% MSN...\n- Jim Cramer Shares Key Insight About Lumentum (LITE) - Yahoo Finance: Jim Cramer Shares Key Insight About Lumentum (LITE) Yahoo Finance...\n- Lumentum Stock: Why I'm Buying In After A 1300% Run-Up (NASDAQ:LITE) - Seeking Alpha: Lumentum Stock: Why I'm Buying In After A 1300% Run-Up (NASDAQ:LITE) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "LITE stock hits record high – this analyst believes there’s good reason to hike their price target by 68% - MSN",
+            "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNcmxhMGxUMmFrWXFPQlFvWTZCV2tmbktEblFSajZDMHYtbFY1aUpmaHFzQzgzYmxsYVBfX1pmMU41OERMUDgyUHdaZVQ5RFdVY2l3OGM3MHF5UE11NVRaRWd6aXZwQk5zYTBFOC1JUVdFVTNRWnJsSW85RU9OMlR5Zk5NV096WUwwZVdYSF83QnJiRzJKaUxpbVdNU044SFE2RXN5VzVvMl9YWkYyMjZiSHgtWXRpbm5uTUdEbWlWUjRCRnYyYW53NHFXQlp1T2l1OXFjSDJ1WUhKdGxKQk5yMHhvTi1FTGRfN0MyWnlfYUNUdThkUDllZkctcHAtYnBfR1p3MkpJX0s5OW5HVEFuMnY1RUxLUUU2Nk04ZGpKSXpabmdVV1FlU3lwNkFESGppa1d3NmRyS2tBNWhFbVkwTmRjUWFRYW1ZS1RRa2g3UTNMS01BX1o3MEJ0dXQ1VEZvRTFNOURFSzZSZzhIUDlFSnFRODFabkhReERWVDNmMWkzaHZldjlKYm14T1g4cW9mTlZGck5xeVVZRWRfQmJXZzdKMA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Jim Cramer Shares Key Insight About Lumentum (LITE) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1J2VVRrd3ZyM0JaMTBJOUxGLXN6cldfdTBBTEgzUTlFYUNTeWJfM0pNX25RTHk0c2lwY19vSGlRaE9IcU1jZExWYkV3eEdpeU9teVUzUkxzdk9mbkpadE5JelZ2Mkt1U0duTENRaW9VQ0lTcUNKZ3B4ZHRMMG14TmVHdmZOZ19pQnNHZE5rVmJJNlZycUFTYnF3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Stock: Why I'm Buying In After A 1300% Run-Up (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYzNqemhreW9TOEI2bUxJc0ZOcHUzbUg1bWhUdElRZXlCTTM0ODh6MTJZT1hBMDMyRnJwLTlaTkJnemVLLWtLMUc1Z2QxejI2MEZXempaVVNJZ1NYZUdKS3FETXdMcGZaTVNjYzIwUUlnMlFoZ3BPTTgwdHY2dnF2U19VRXBuX1RQV0VNSWp2bl9mMHZUSFUxdEFVYndnU3BGSmc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 99.62,
+        "changePercent": 5.44,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Strs Ohio Sells 30,255 Shares of Intel Corporation $INTC - MarketBeat: Strs Ohio Sells 30,255 Shares of Intel Corporation $INTC MarketBeat...\n- Intel Corporation’s SambaNova AI Bet Clears U.S. Review as INTC Stock Nears $100 - TechStock²: Intel Corporation’s SambaNova AI Bet Clears U.S. Review as INTC Stock Nears $100 TechStock²...\n- Jim Cramer Shares Major Factor For Intel (INTC) - Yahoo Finance: Jim Cramer Shares Major Factor For Intel (INTC) Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Strs Ohio Sells 30,255 Shares of Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVJfOXZoWmgzeDgzWENhTzcwRko2YzJRZkxDUGl2c3FGYkVGdkVvR3F1ZldVQnVvWTJIWTl3cmtjdjI5MEZNdXhvbWUyUkxFOEswSGdXQkZRUlNCU3Q4anZCY0R2czFGd0h1QXpGcUxyWE9US1FGdmxZX1NFSzMwTDRFejRiVU1yRmxNZUh4S2lZVTV1c2R6dDhlNlpCVzRhbGg4TDhFR05MWnZxYkVvZWZNX0YyUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation’s SambaNova AI Bet Clears U.S. Review as INTC Stock Nears $100 - TechStock²",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUloZ2RtVGhfeEVnUE9BcnBQOGUwNjd4SVd4Zm05TUZEWmkxcVhWZU5VS1dZaFJDTmxFRGNadnAyb2RMR2w5Y3NUOTBQTGd5aVhoekh3SzZhRlhoQUpvYzBTX0VMVlFOdU9Dd1VGeFh5WTF4NHN1bXJWbjBhMk1yV0Z0X1JtNTVRaF9wSHZtMFdJMXJjREwyOWxERWg5dWs?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Jim Cramer Shares Major Factor For Intel (INTC) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdG1nbWU3cU90c0VJRGdQT21jQmxia2ZacFZtU0VoS2NZYzI3RDA4dXJPdkN6RlpGTnJUMnpOeFcyUG9JUlFpV0pfc0ZxWHdoRlNRMWZPNm1xMkFDeTcwakJ3c19BTXE3UnRBYzhIZnpqelAtU3FrQ1ppdnRBaGt5YjVDVWJuZXAwVUQ2V2ZaemVSZk44czI3SWFIWQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 360.54,
+        "changePercent": 1.71,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Missed Advanced Micro Devices' Big Move? Here's Why It's Still a Buy - The Globe and Mail: Missed Advanced Micro Devices' Big Move? Here's Why It's Still a Buy The Globe and Mail...\n- How Will Advanced Micro Devices Stock React To Its Upcoming Earnings? - Trefis: How Will Advanced Micro Devices Stock React To Its Upcoming Earnings? Trefis...\n- Deutsche Bank Keeps Hold Rating on AMD Ahead of Q1 Results - Yahoo Finance Singapore: Deutsche Bank Keeps Hold Rating on AMD Ahead of Q1 Results Yahoo Finance Singapore...",
+        "sources": [
+          {
+            "title": "Missed Advanced Micro Devices' Big Move? Here's Why It's Still a Buy - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS0M2VnVDOGNJMUNfT1NYamxtcDVoQ3FON2RPRUFDWThZNlRlMk9MeFpSTjZCbmxpSk1MVF9ya0s5cVlFd1FSWHFTUzJ3RDRQaUd4aHh5SmQ2TkRVSGJzMTdaTmIwb1A0LXVNVm1ieVhpTUdvM1JYdnhZeG1QNXZpbDVmbU5PYkF4bU5nbzBnVlowOExlSW8xbGdCUWVDVVB6aGNmRmZEaWpIZE90WktNWDNMbmE1dXpDSVhRVlozOWd1elYxWUtqMGxjNEVmQUlvMEZvU2lSU1htUkhvVmc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "How Will Advanced Micro Devices Stock React To Its Upcoming Earnings? - Trefis",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY3g2bm80OVREOFZNamdpQ0lKR1ZYYmEtekU2azZlY1V3N3F2Y0FnMkhGQTdwMldvc2IyM0J4a0YwcmZfaEw3Umg0TWg0Q05Tb1VJcVdxT2ZhZ3luUm1mdEZ1Y1dRN3ZQbld3TEVIWGFrRGVxQ1o4cjNzZHJSbzNqY2J2c0tvbTRGeHRJX05oZ3RDQ1FUS2lEUzRTcU1KeUlpbEt1Tzk5OFh2T3VscjFVWm01ejh5RmhPTW9OWkpEZUtUdnlsenE5YXln?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Deutsche Bank Keeps Hold Rating on AMD Ahead of Q1 Results - Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGNnYkpIMHhIbDhBcVdVMWtxTXhCcnZOSzl0Snl0Y1hfTFlTQ1N4NFRNQmFfWk93MHhzNU9fSGtfc3RkbzRQNmRuUWFJLUh1Sjd0SUstVGI4LXE4cElCVVFFS0lwX3UxYTZrWmp6aFZWcFEwUktRSFJ2R0lkS0xuY05jeWJPX3M?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 542.21,
+        "changePercent": 4.84,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- MU Stock Quote Price and Forecast - CNN: MU Stock Quote Price and Forecast CNN...\n- Mizuho Says Micron (MU) Cheap as Memory Demand Grows - Insider Monkey: Mizuho Says Micron (MU) Cheap as Memory Demand Grows Insider Monkey...\n- What Is Going On With Micron Stock On Tuesday - Benzinga: What Is Going On With Micron Stock On Tuesday Benzinga...",
+        "sources": [
+          {
+            "title": "MU Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12OGhUSWtGTk9iWTJqbXhwZ2hpa25tNUxnRWlMam1RYkNBckpUdlVCMXgzY2ZDbG1HUkdxeFlUMWRkZ3ljR2xXUkdJb285UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Mizuho Says Micron (MU) Cheap as Memory Demand Grows - Insider Monkey",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0pZLXlKQU8zUTJjaUwxQVZUUUhNNWhiV0l4WEdyNy1jT1htXzU2OUJZLThyT0tKR3V0Sm1EMlJQWDBOMHFvZVdGVTJGLVpEbC1RTV9VNFBWS2g2UzhCaXRFdDU5YkdBZWFvVWR0dUIwUC1EcWNYTHRJV1NnSXZEZDlNZXUzdUdqeHJvS2JacWtGak83Z1FHN1lB0gGiAUFVX3lxTFBDVjY4UU5SMkxjVWt5UkxrTjhfak1sekpoVFV3c25BcGVsSVg2WW85SldCV0Q3VzY0cDgtU1Y3WlZSVEQ0YlRXMGVXT3lRMGU4X2JvS0J4N3BQa1VmbUR3NThtWTRnRzJ2cDA5b01ERVJrRW11aHByU2dVNzNBUTVtazQ4Z3ltcG9MUjdSMjVJQVJTd0xMd0Fmc2pYZy1VdGVNUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going On With Micron Stock On Tuesday - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUS1QNVlfSkREdEtHM0J4VzJLdGttb3VVSFItLWtaM1ppSkZJenpwQWxQWXlhaWhMbDl4dnVMcUNJcGZ3QmFuZDEzMkZnRUxsY0ZBaFp6UVFQT1VxLXoxSHNYNktvS2Z4cmsyMlFqSkRHYUh3TmdnUUt5X2cyelloNWttT2IteENwNmFUdkQ4T3dWeEpzeDlUX1phRlBvSl9JckE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-01": {
     "date": "2026-05-01",
     "lastUpdated": "10:54 PM KST",
