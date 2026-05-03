@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-03": {
+    "date": "2026-05-03",
+    "lastUpdated": "10:51 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 949.93,
+        "changePercent": 5.28,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Is Lumentum Holdings Inc. (LITE) A Good Stock To Buy Now? - Yahoo Finance: Is Lumentum Holdings Inc. (LITE) A Good Stock To Buy Now? Yahoo Finance...\n- New York State Teachers Retirement System Sells 3,421 Shares of Lumentum Holdings Inc. $LITE - MarketBeat: New York State Teachers Retirement System Sells 3,421 Shares of Lumentum Holdings Inc. $LITE MarketBeat...\n- Strong Earnings Outlook for Lumentum Holdings (LITE) and Fastly (FSLY) - GuruFocus: Strong Earnings Outlook for Lumentum Holdings (LITE) and Fastly (FSLY) GuruFocus...",
+        "sources": [
+          {
+            "title": "Is Lumentum Holdings Inc. (LITE) A Good Stock To Buy Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnNEMmRvVnFPWU9fbWdobEI3a2VzZHBFZk80NXRmQTU2MktvOVdRa2pkOGpBV1M0eWNrNFYxRVJLLVU3YWtDMlRqd0YzcFBST0wxaVlrQkJpQnlCSDRnTC05Znp4SklHSFV1c2JOMnk0VzdtbUhLSWFGR09oczNNektldWdCR1E4djJhanMzQmQ1dDhwWnZxN2x3SFI?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "New York State Teachers Retirement System Sells 3,421 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZTgtdEJTak1zbUtXM3djczIyRGlfN2ZtYW04Mm15ODZ3NWpVSm93YUZkdUt5T2JXaElka3gyZjc3aHRNd05zeGJUdGtmZGNTdTZZcldmNHpPSktFbmtqU3hNVXRqaEh5aGNYNXJybFZXVnN2SlY3T01lU1RXMnJfQ2pLbi16UkIxaVNBZWRkZi1NQkxTSlNvVjFGZFB3SmdIMUZFWWJOTDAwUWwwRUZuZS1tTWpUb2VDM2o0UXVnVWZ0bGlDNEZjRzdJS0xjNlZoN1NZcklMcXFrSXFZREMtV2o4UjY?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Strong Earnings Outlook for Lumentum Holdings (LITE) and Fastly (FSLY) - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUwxempycTljZXdrNVFOSmlWcVFvRUswd0RpYS1COTRJMmMwc29FNThyYVhLbG5peWR6STJMaHY4REZuVkNTazNiZWJPZkF0WU1RU3MzZE9RZUI0ajd3UW1hQ0FPcmNsUG4xYzgxWXgyaU1WMmZZaFlOMkVYSlY2eWxRTEpPSlM3bmtOSjJra1BqYnJURmc1enBwRE9DRmktUHRUcmNJQjU?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 99.62,
+        "changePercent": 5.44,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- RIA Advisory Group LLC Has $1.92 Million Stake in Intel Corporation $INTC - MarketBeat: RIA Advisory Group LLC Has $1.92 Million Stake in Intel Corporation $INTC MarketBeat...\n- Is Intel Corporation (INTC) A Good Stock To Buy Now? - Insider Monkey: Is Intel Corporation (INTC) A Good Stock To Buy Now? Insider Monkey...\n- INTC Stock Price, Quote & Chart | INTEL CORP (NASDAQ:INTC) - ChartMill: INTC Stock Price, Quote & Chart | INTEL CORP (NASDAQ:INTC) ChartMill...",
+        "sources": [
+          {
+            "title": "RIA Advisory Group LLC Has $1.92 Million Stake in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd0ZQV2tIT3VSbjNFYWhCUU12aWhITEIzT2lieW1La01FMDNZTGVxNkhWRnNZcl8zNXI3RXVjSGx0UzlIRTJFNkFOZV9TWFJuOFRfYzRQYl91UDlScmRUZy1RbmQ2M05qRUE5N0JVV1dVZjM4WU1BbzlIRmpqaGRudzdON3k0Z1R2NzlpRm1tOUh4eGRXbEJKT09PZFItUEtoemFfNEx4M1VKNzlYaTBvQ2FUNDR6V2NBQklvMGlfcnk4TWo5MmR6SjJEYw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Intel Corporation (INTC) A Good Stock To Buy Now? - Insider Monkey",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUnh3MWRtNlJPVmV6R2MtY0s4TzU0all5MVN4SVYwVnRNVDM1TGk3MTdaLTVsYzEyd0t3ZzB5RzFLdHhhZnpKQ1lGbWgwYUQ2bVBDTno4dTU2Q3NMYUctUmQ0c25lZzBobnlnT0kyeVVkSkFDQU9hV0NMTzdNSVE4eTBWaHdLR2xsUWZ0X1ZSVDZwZzl1aEd4YTFOUdIBowFBVV95cUxQTHUzdUNna3F4QjlueHlHVGdGYVl3U3JUQ2ZWZEhBMWdZZFNyQmlUY3Q3U0tzVjZCeUtMY1NVdWhzcmVUZ0JGam5jVnYwSGI1SVBmbDhNNGlEb284TEFLa21EXzVEY0t4aGxRZVQzdi1Pa2F3T2Exb1pDZDJNejJRZk9kMWJHRHAxcENkV002YmJLeXUteTNpTlViWUJmSG96bzJn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Price, Quote & Chart | INTEL CORP (NASDAQ:INTC) - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sRkF5R0x1Q0tUVUpNTlpEQmhMRGdaSzRNSF9QVnRKWDg3UHZSMUZoX1lWSl9HbUxwb190c2tSdlVJYjJZaXlqYjhOeTZCQmFDN3dXR0x2eHVkWkFLMThn?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 360.54,
+        "changePercent": 1.71,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Is Advanced Micro Devices, Inc. (AMD) one of the Best Data Center Hardware Stocks? - Yahoo Finance: Is Advanced Micro Devices, Inc. (AMD) one of the Best Data Center Hardware Stocks? Yahoo Finance...\n- AMD: Cooling My Rating, Not My Conviction (NASDAQ:AMD) - Seeking Alpha: AMD: Cooling My Rating, Not My Conviction (NASDAQ:AMD) Seeking Alpha...\n- What Is Going On With AMD Stock On Friday? - Benzinga: What Is Going On With AMD Stock On Friday? Benzinga...",
+        "sources": [
+          {
+            "title": "Is Advanced Micro Devices, Inc. (AMD) one of the Best Data Center Hardware Stocks? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdlVLcXdJWXgxR1VMWFNFNmJXRlF6TEhFdU9wSTl4VGFyeGlXMkx3SmYyY3A5bUh1dGswbFN2bll5LVhJNE1yS3RPYjdZU1h3X1BBYTh0czkwR0U0dlRLSG5ZTjgwZWdKWWpCNFQyVnBkQ3hiaUdxM2RYQUJxcGdJOWlrdEE2cjZpRmUtX2J2M1NMLXhmY1NHRlM1RQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD: Cooling My Rating, Not My Conviction (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPanRXQnpSNm16N3E5LXVuZHhmLXp1YUlBdkppcFB6Zll4bGtxZkpCT0pWWEwyWGR2d2VxN212N1V3MzJzVktQS1NiaVJiQXUxV3k4Sjh3X0pMOXhWS3JVR0tMVkpYYTZGTUJRZ3l4dmtqVENLaDZKT1FOeXVxbExtTTNRSGlSUDA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going On With AMD Stock On Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUpwX0NaUkVCb0ZwblNkb05uRHJadXJNY1J6T2JLYnNidW5NbktFMzZoMzZ6djN3ZW5JeWI5RDcwV2tZcEc2OThJVm84YUYtWkk2RjZkajF2azVPSjBPSVNESzBnWVRmNDVEU09BUzhXSnpMQmlyUDNsNktQT3pvbWtZdjU1VEY1aFJSOTZlaHlBV1N0aUlYS2RZYjY?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 542.21,
+        "changePercent": 4.84,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Is Micron Technology, Inc. (MU) A Good Stock To Buy Now? - Yahoo Finance: Is Micron Technology, Inc. (MU) A Good Stock To Buy Now? Yahoo Finance...\n- MU Stock Quote Price and Forecast - CNN: MU Stock Quote Price and Forecast CNN...\n- MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill: MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) ChartMill...",
+        "sources": [
+          {
+            "title": "Is Micron Technology, Inc. (MU) A Good Stock To Buy Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0ptUnVOamVoZnpVRWFHZU9xQzF3UmRxNHItblNqcFF3bTY3UHJMLUtYXzRWSmk2LUVRTUs4dDBrbFRnai1uWGtKY3BOcEVFZUFtanpCZC11QjBtcXZ0LXBPWFNOVkVrWmhpTXZxdUJxX3RjTFhCLWhCZVhzNlBXdzViYnVxTng1NmItdmFrY3BJOEhBUU5Pb3dB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12OGhUSWtGTk9iWTJqbXhwZ2hpa25tNUxnRWlMam1RYkNBckpUdlVCMXgzY2ZDbG1HUkdxeFlUMWRkZ3ljR2xXUkdJb285UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wV1lPV1FIalVQRlhBVG0tQ1hQMjBVTDBNQ0piOGM1X3QzdUxyalQyejBoTWJtRWNaRFJmVU8zSF9BRXQ2aTVlcVh3bWhRd0pORmpxX2hMT2M1Tlo1?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-02": {
     "date": "2026-05-02",
     "lastUpdated": "10:50 PM KST",
