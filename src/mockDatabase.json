@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-06": {
+    "date": "2026-05-06",
+    "lastUpdated": "10:56 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 944.28,
+        "changePercent": -5.06,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- symbol__ Stock Quote Price and Forecast - CNN: symbol__ Stock Quote Price and Forecast CNN...\n- Lumentum Holdings Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:LITE) 2026-05-05 - Seeking Alpha: Lumentum Holdings Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:LITE) 2026-05-05 Seeking Alpha...\n- Highland Capital Management LLC Sells 7,387 Shares of Lumentum Holdings Inc. $LITE - MarketBeat: Highland Capital Management LLC Sells 7,387 Shares of Lumentum Holdings Inc. $LITE MarketBeat...",
+        "sources": [
+          {
+            "title": "symbol__ Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NVmtVMDJ1WWg5Yjh1ZFgyWUFsenRLU0xta05BVHMwZDlVNDdSMFBnNWxmZXZiWkZnOXd3ejI3cExJdjAtN0ZaQ3JRSkdlamJn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:LITE) 2026-05-05 - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTkl1VWc1bkUwMnhNaTZ5MklYMTNDa2JNQXVTeUFLUnRyZ0tuWUI2bThEeE1MbUJ3Z3hwWVpudVhCQ0JkTkpUblNOY3owdjNENklPaWZmWlVDQjZoeXozdXNweTZqQXNFd211bTQ1NFJTQXZabHp4WGVoejFpODBOUnlmcmVEY0VQcmw3ZnFUZ0NORmV5TTBSYzA4dXlzbXBram9jUEpaQW8?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Highland Capital Management LLC Sells 7,387 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTmNjZGNFS1JmakczMnZfalVhdlRyUWgzYnNYd3ZIN2VLUTBKSFZpSEJBUERNUmxROU41Yi1VOUwtM2RJT0wtelJpQlcyT1d3bEZnTEYzQVFjRjBES1ltOG5lRHMzaXNfYWoxc3hicjNnRjFXSG1OU3hWckRYWU9vZTFmSkVpZ0ktNXVzclhTWU5DdEdpRVFUYTNrUDZwX0dvYks1LXdaZmo1YkRON3YtdUV6Y2pkRU52YkZOV3Jhb2QtejctY1lSLWtUX2hVUXR2MFBpcnZUYw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 113.01,
+        "changePercent": 4.49,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What's Going On With Intel Stock Wednesday? - Intel (NASDAQ:INTC) - Benzinga: What's Going On With Intel Stock Wednesday? - Intel (NASDAQ:INTC) Benzinga...\n- Wulff Hansen & CO. Trims Position in Intel Corporation $INTC - MarketBeat: Wulff Hansen & CO. Trims Position in Intel Corporation $INTC MarketBeat...\n- Intel stock price: Why INTC hit an all-time high today—and how Apple is involved - Fast Company: Intel stock price: Why INTC hit an all-time high today—and how Apple is involved Fast Company...",
+        "sources": [
+          {
+            "title": "What's Going On With Intel Stock Wednesday? - Intel (NASDAQ:INTC) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSUs0bmNDbXB3WFJQN3Y2c2dkTWtFM2dOTFMzdzdxWGdNQnVUenE3cGFNeDVIOTNEajRaRXRveVJudVlHRk16Z2RLY2NpVFZTdExONjVRR0VsU2NhbkVyZ1FnVXlVNENXM2lDYWZFcjAwMVNndWk2bGktRTVvMmxqbGRleDBKS24wZFJLU3JSTjhNS0FiVlRVRHNNWk0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Wulff Hansen & CO. Trims Position in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMG9ZQVQ1d0djZDVoTHVReVc2NURmSi1scWxpY0lpQjZDN2IzU3dYN250RV9MZUlDaFQ5NzdVWlAtWTNPaDI4N3dMYmtUTEFaLWtBOERvVFZJeFVreUw2TDktUlQwOUxJdldKUk5kbGZ0WjlEZndGSlQ5RDBFQ04wMGQ0bWJNWjhZWkNPeGVnRUJCejFzem84cGh3dzJ5eUNnOVhrLXNlbU9ha1ZpMVVrSHFIeTduU2Vy?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel stock price: Why INTC hit an all-time high today—and how Apple is involved - Fast Company",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXo4VS1RZDhkWkhRdTh3Q0JGOXFnSTctRUZSVnFNNkJHUERNR1psRlcwemtxMGlnNGR3RHVWaTlma3psdjljeVFaZE1Fc0E3X0tscW5ZYmNieEcyYTRleFB3TFpqTllLdFNwUFAzdjA2QmY0Qmk0VWNRcDRjRG14WHh5YjRsOTM4clQxTVJKVDRiOGwtZTdBQkc4RQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 421.39,
+        "changePercent": 18.61,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD's Su explains what's behind massive forecast change as stock roars 19% on earnings - CNBC: AMD's Su explains what's behind massive forecast change as stock roars 19% on earnings CNBC...\n- AMD Stock Hits 52-Week High - Here's Why - Advanced Micro Devices (NASDAQ:AMD) - Benzinga: AMD Stock Hits 52-Week High - Here's Why - Advanced Micro Devices (NASDAQ:AMD) Benzinga...\n- AMD's Stock Soars to a Fresh Record as AI Demand Drives Up Sales - Yahoo Finance: AMD's Stock Soars to a Fresh Record as AI Demand Drives Up Sales Yahoo Finance...",
+        "sources": [
+          {
+            "title": "AMD's Su explains what's behind massive forecast change as stock roars 19% on earnings - CNBC",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12OTNlWmZHSHZlaGNqTENiYzV1RFhkcXIxM2VaMmU4aGpuLWhVemcyZTBDU3dFV09Ib0J0MVhkbU5ZNGVFU1d1S2htQjY0bmhPc240YlFJM0ZaX2FsaF9kQjF2MnNrTWdqUWI4dUxJekdtN1NtQ0lmU0xLUWfSAYIBQVVfeXFMUFFIWkNUNXBkM2ZRQkgtX2FDN2dLWVZxclNsbF9UeUtUY1d0WXZKMkFTTlotdG9Yb0RPX2tEOHBQalhaSXRkZkxFM0pXRkMzY25VYnNEOWJ0TjlhalVSZlhsWHlSaXlmMGpfcHpKQVA2ajM0NXFPMFFvTzdZS1Vkcl8wUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Hits 52-Week High - Here's Why - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaUtibC1sZUEzZ2VTRVlicmZrQXJtRThBb1dGa2hLd3VLTE16NXFieUhJQmdHcEdnOVlSYlRCZjFwNmJhNkFPSndBNkhWbC0tWExYcTlrQjJWdTQ5MHhvWnJmVW5oMWRkdS1PWWZsa01vdVFUWlNyTjZsSHdxQjhPTG45Z21IalhoQlJMZHZ4MjVQSzNMeWhJNmRTRFZiMjJkWkkyekNrQWVmRGJ0OUtON1lWWW1vTVFEUW1xc29lRnNINlo4VmFJNFlqTVlyYUl4bGFTTUtYRQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD's Stock Soars to a Fresh Record as AI Demand Drives Up Sales - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGNFcTRBcV9PN05OOHdtRWNIZ0pUTDZxU0VXdnlscFVNcFZmR254RnpKRS0tanZFbDJ4aTVKU2Z0cDUyUlVzMmVrcGI3SF9VTGhzTllHMm5feTBEUWU1cWFLY3ZTVG52Vi1NT3NZQ2tOcV9RMnFQejlNd3RfRjFyWDMyajY3SWNuZldYMXVORjQ5cnFkbEVJa2d3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 666.59,
+        "changePercent": 4.12,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Is Micron Technology, Inc. (MU) A Good Stock To Buy Now? - Yahoo Finance: Is Micron Technology, Inc. (MU) A Good Stock To Buy Now? Yahoo Finance...\n- Micron and Sandisk stocks are surging again this week: 2 reasons why memory chip makers are on the rise - Fast Company: Micron and Sandisk stocks are surging again this week: 2 reasons why memory chip makers are on the rise Fast Company...\n- Micron Technology SVP Michael Ray sells $4.06m in company shares - Investing.com: Micron Technology SVP Michael Ray sells $4.06m in company shares Investing.com...",
+        "sources": [
+          {
+            "title": "Is Micron Technology, Inc. (MU) A Good Stock To Buy Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0ptUnVOamVoZnpVRWFHZU9xQzF3UmRxNHItblNqcFF3bTY3UHJMLUtYXzRWSmk2LUVRTUs4dDBrbFRnai1uWGtKY3BOcEVFZUFtanpCZC11QjBtcXZ0LXBPWFNOVkVrWmhpTXZxdUJxX3RjTFhCLWhCZVhzNlBXdzViYnVxTng1NmItdmFrY3BJOEhBUU5Pb3dB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron and Sandisk stocks are surging again this week: 2 reasons why memory chip makers are on the rise - Fast Company",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLW04YWJTWTBYaWdEdnhPb3hKOXc0TEhhUDFob1J3TmxaX19ydng4RVNWdzJCRGhMU2hRNXVMM2NVLUJvWVptWk5MVDB6ZE93VUozcG41a3hrWjB0WkFLNEtqZUZNbFVZaXNCM29PZWRlTVEtMFlDS0NBUlRZczBBYUdjanRUbFgxQXQwVjItZVllVWxoTkxBdVJSRnZXcmg5M1FtMw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology SVP Michael Ray sells $4.06m in company shares - Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3l3c1dacnN6NTBiZ0xCb1RWTUpudU1xWjRvMjgzRHlHcU1DQ2JyY2p6N0xkR3BsTXVqNnkycUU1djhpdFJxazFnd3JJbXZFMTRnTi1ZZ3BQcnpJQVQ4ZlJzVzZZVFJGMFgwYzNURmhPSEFzQTk0NGNuWGtCUXk5S0lmekY0NjRXRVkxdEFWWFFZQjhLTl94eXVDMmFrU2xjSC00Rk9pZnZ1cTJQWjdZMGhTWWowWVFlR3VJekNBUmI5MS1QX1E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-05": {
     "date": "2026-05-05",
     "lastUpdated": "10:59 PM KST",
