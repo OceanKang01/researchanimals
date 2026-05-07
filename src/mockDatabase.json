@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-07": {
+    "date": "2026-05-07",
+    "lastUpdated": "11:03 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 892.58,
+        "changePercent": -5.48,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- SBI Securities Co. Ltd. Buys 2,965 Shares of Lumentum Holdings Inc. $LITE - MarketBeat: SBI Securities Co. Ltd. Buys 2,965 Shares of Lumentum Holdings Inc. $LITE MarketBeat...\n- Is Lumentum Holdings Inc. (LITE) A Good Stock To Buy Now? - Yahoo Finance: Is Lumentum Holdings Inc. (LITE) A Good Stock To Buy Now? Yahoo Finance...\n- Lumentum Holdings (NASDAQ:LITE) Shines in Louis Navellier’s Little Book Growth Screen - ChartMill: Lumentum Holdings (NASDAQ:LITE) Shines in Louis Navellier’s Little Book Growth Screen ChartMill...",
+        "sources": [
+          {
+            "title": "SBI Securities Co. Ltd. Buys 2,965 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOHdyY29wQjZhSk1YT3FkR3E3X3hYZ2pzdGJaUDRsWkN0VW1lZDhFY2NsLTUyVGVpOWo2bmIzVDNVNmVNZXZ3TjQxYlBTaGdBQ3B4YnpIbWNrWlkxakg1Vnd6dGF0bVhzWGF1LWc4b2NGM1NDd1ZIcE9saW9zNWIzRmlaRFljMHFjWVp2UnNsLTZ3RlZtU016UmpRdGVFNndiV19MZDR1RzdaTlQ3bmVCSC1SUHJyVm9EZVhUZUtzbTEwdGNVUXBwdA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Lumentum Holdings Inc. (LITE) A Good Stock To Buy Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnNEMmRvVnFPWU9fbWdobEI3a2VzZHBFZk80NXRmQTU2MktvOVdRa2pkOGpBV1M0eWNrNFYxRVJLLVU3YWtDMlRqd0YzcFBST0wxaVlrQkJpQnlCSDRnTC05Znp4SklHSFV1c2JOMnk0VzdtbUhLSWFGR09oczNNektldWdCR1E4djJhanMzQmQ1dDhwWnZxN2x3SFI?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings (NASDAQ:LITE) Shines in Louis Navellier’s Little Book Growth Screen - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjdaUmFlV0FTakgtTDV3Z3lOOVJqalZScE1jSnF2QVJaOFp3Y2E1THhpR3ZfYmdCMXlEWUE4aGtNNWxfS29ycHNlNUVLTi11SktOelprUTE2ZDRuZEdjTTQxZUtPbWk3OTZJMzhHNkx2aWMtcTNic2M1SGMtb1F5X2I1LTJPd3pfX0ZWcUtTQXBKbW9mV1pvSDQ5MGg3S3N6RXg3MFRRQ01iRmNsdmJnMUEzQ284UDZFR25tMEZqWlU0ZktJSmhoUlp1VzhhZw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 109.62,
+        "changePercent": -3.0,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation (INTC): Influencers Not Buying the Hype? - Yahoo Finance: Intel Corporation (INTC): Influencers Not Buying the Hype? Yahoo Finance...\n- INTC Stock Quote Price and Forecast - CNN: INTC Stock Quote Price and Forecast CNN...\n- Intel Stock Struggles To Keep Pace: NVIDIA and AMD Pull Ahead in AI 'Two-Horse Race' - Benzinga: Intel Stock Struggles To Keep Pace: NVIDIA and AMD Pull Ahead in AI 'Two-Horse Race' Benzinga...",
+        "sources": [
+          {
+            "title": "Intel Corporation (INTC): Influencers Not Buying the Hype? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFE4YnhCUkJWQ09rdHlJcVAwSlJVMkNXdFEyVEdQWFVrMDJKdmZQczhwMWJ4cjU0U25KWnJLdDJKcW14aEpmYmctM2pDS0djU0NKcTZRMG1HWFdidVZtRTZwelo4ZWFSOHdEQl9KVkxIWVFaVlpoNDZ3OFhlckhUZUVQaGlEdVlsUllkVEhxRmxMcTF1R3ZCMExZNnBiV2pTS2JYOUZR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lWkZjY0djMFFwSUlhcXJYVkRXQlptNHppd1R5NFlzSm9UckZacWJERUZpdWw5WlViaENhblBac0hQZ3BNdmZUZ1VONmU1dHp2?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock Struggles To Keep Pace: NVIDIA and AMD Pull Ahead in AI 'Two-Horse Race' - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW90WmYtUG1RTEs0MnhLQndBWmlhOVd2VFFkWThSNzdZY0RQYzJfYUhXQjVDQUNvamFFYjBUbHBmdWx6Mzl0d2ZudHozVDU1V1hqalNjVThfbjB0eTRLekdVa1Q1MFU4d3FadmZpUUNrUEI2RFlNZ2U2Y3VkZnZlVDJOb0VSZGxkZmZXT0RKWG1uUmVLZEE3LXVGTmpGOXRjMm5DYzVMTFFxTmxVeHpxUjZLQm9MajZQV0FFdFdSQmsxZw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 408.46,
+        "changePercent": -3.07,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD's stock soars 16% as data center growth pushes revenue and guidance past estimates - CNBC: AMD's stock soars 16% as data center growth pushes revenue and guidance past estimates CNBC...\n- AMD Stock Is Hot As 'AI Agents' Are Sparking $120 Billion CPU Gold Mine - Benzinga: AMD Stock Is Hot As 'AI Agents' Are Sparking $120 Billion CPU Gold Mine Benzinga...\n- AMD: New Highs Just Keep Coming - Seeking Alpha: AMD: New Highs Just Keep Coming Seeking Alpha...",
+        "sources": [
+          {
+            "title": "AMD's stock soars 16% as data center growth pushes revenue and guidance past estimates - CNBC",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94cU9qRmZ5Szh1bnRWMjhMbUtfVXBpak9RTlJmbG52dERGU2pyajQ4VC1pYWZ5TVNoQ0R6UFk0V0U2NzY0SC1lRkdPeTVsdWlEZDNTUElrUXpvZjBsVzNHdXRxRnlvUldCREpmaUhvOHNUZ9IBd0FVX3lxTE1JVFpBWDIwVlNHa1dGRlNpdlhnd25ZOHNKQ2tRV0FzTmdlcDJqRm5kRXVGaEl4aHl5M1F1V3hhMEJtYnUzZy1SUmtyOTVIamNVcEc0ZHVqa19xVWVKR1pHWHE4eXdnNWd5QjJlSUN3S0VCdllvZDJR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Is Hot As 'AI Agents' Are Sparking $120 Billion CPU Gold Mine - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZF9rbFNTaF9NN19lRzhCQnZldEUxRDAyNTd6OHZXMXFwa1FqYzVYc2REczRDdEt5YXJYTmxCY1dJQ1Q3dW9SQThNeEJfLU9HRXptMmFqRU4wOUtJUHdIRERTaXNaazllY01qS08taGo4NHl0eHVQY21Za3JvR1pubmhNYzYzSXNBLWhHYlRuVWM5bHdFcnh5X0Q2Vkt3LVBCRmNPcDE1UzEzTzZKVFRDMExIZzJkMERLVEhxZVhn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD: New Highs Just Keep Coming - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOTJpRjAwZ3V6NXNneVR4cVdQRzE3ZDA3MDVlaUdCU3lLRVQ3WGRBZEtVMXExb3ZQVWx5cm80TVN1RlROZmZuRV8zZElPV1BKTXk1MUJaTlhzMjM4eTg2Z01MTUg1LXF5TV9wMFN1Y0xxZU5DZkxKSTBXbkhhU3JUckdRcExBVXM?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 646.63,
+        "changePercent": -2.99,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology: I Think There Is A Clear Path To Over $1,500 - Seeking Alpha: Micron Technology: I Think There Is A Clear Path To Over $1,500 Seeking Alpha...\n- Stock-Split Watch: Is Micron Technology Next? - The Motley Fool: Stock-Split Watch: Is Micron Technology Next? The Motley Fool...\n- Is Micron Technology, Inc. (MU) A Good Stock To Buy Now? - Yahoo Finance: Is Micron Technology, Inc. (MU) A Good Stock To Buy Now? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Micron Technology: I Think There Is A Clear Path To Over $1,500 - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSHJaS1ZsRHhCa0toRlowdDk5bEtFdmxXcFcxeEVJcnBJd3FVOU1PaEZOY19yZU4weFlOak9WVy04UUVCTDJiMlNaM09BWElnMmV5MlBHdHYzZ2V3c2NNdTBKSDNYYWY4NThhdG1YaTdiTVN1RExwVS1OV2ZVYi1sbkpVRTRPazk4eFFSQjIwWkgxbHBleG1zNnBZX25YdXA1VE1V?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Stock-Split Watch: Is Micron Technology Next? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbGRESFBqN2Y0OS1ZZlFxeVJ3TEZsUUlIRlNzbkI1M05wdlN4OWVWeTB0NE5FWldrSXBFb3RMTG9pWFZ1WENlTEs2WFhBWVYzMUpndFpvemtEbmJpWEVFdEpjYmJacUVWWER2SVJUS2tSay1vc0xibVBuTU9Qc3JIcXdENi04bGlzZVp3VzU0NA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Micron Technology, Inc. (MU) A Good Stock To Buy Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0ptUnVOamVoZnpVRWFHZU9xQzF3UmRxNHItblNqcFF3bTY3UHJMLUtYXzRWSmk2LUVRTUs4dDBrbFRnai1uWGtKY3BOcEVFZUFtanpCZC11QjBtcXZ0LXBPWFNOVkVrWmhpTXZxdUJxX3RjTFhCLWhCZVhzNlBXdzViYnVxTng1NmItdmFrY3BJOEhBUU5Pb3dB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-06": {
     "date": "2026-05-06",
     "lastUpdated": "10:56 PM KST",
