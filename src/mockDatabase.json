@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-08": {
+    "date": "2026-05-08",
+    "lastUpdated": "11:00 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 903.8,
+        "changePercent": 1.26,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Maxi Investments CY Ltd Buys New Position in Lumentum Holdings Inc. $LITE - MarketBeat: Maxi Investments CY Ltd Buys New Position in Lumentum Holdings Inc. $LITE MarketBeat...\n- [144] Lumentum Holdings Inc. SEC Filing - Stock Titan: [144] Lumentum Holdings Inc. SEC Filing Stock Titan...\n- Is Lumentum Holdings Inc. (LITE) A Good Stock To Buy Now? - Yahoo Finance: Is Lumentum Holdings Inc. (LITE) A Good Stock To Buy Now? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Maxi Investments CY Ltd Buys New Position in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQam8xMXFhVDBpVTlUbFJaZnFLX0g5NFF0S3RXTlo4aHVnVUFla3ZCcEN2dk9tTHJ4LVVmS01SdkYtYWVMNFYwdmE3VlBnQ1hNb3hjUjN0YWRRTGxaVTZvNlVFLUxRaVdaYm5KbzV3U0daMmxlUEZBWWhaUkJhWGU2RHhJUUdFVF9MNFRxM18tVlViZjhBZnBrTTl3SkhMSUFnNFVLUzJyTFE1MkotdFZTeGNSckR6Wk1USm1uWk5SbEZXb1J4R1dtR2FpOFI?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "[144] Lumentum Holdings Inc. SEC Filing - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2U4SGdUN1J4cWpNTEJIN01PQUxyS1Q5c2laNXhMX3ZMMHRsNEpjM0lBbHdwcHhOS0pETDlSYklRRnZ3QXVxZkVjb2FfVzdSWWltdWRESzAyUElOVThJbUtNWHo3aTg5a0hObjlPTEtldEhUeG1WRUE5LWRaVGh0c1hDZFg0VEdRYlZ3V0NKaFRMQkl3akRza0l1MzBlaUU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Lumentum Holdings Inc. (LITE) A Good Stock To Buy Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnNEMmRvVnFPWU9fbWdobEI3a2VzZHBFZk80NXRmQTU2MktvOVdRa2pkOGpBV1M0eWNrNFYxRVJLLVU3YWtDMlRqd0YzcFBST0wxaVlrQkJpQnlCSDRnTC05Znp4SklHSFV1c2JOMnk0VzdtbUhLSWFGR09oczNNektldWdCR1E4djJhanMzQmQ1dDhwWnZxN2x3SFI?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 124.92,
+        "changePercent": 13.96,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Trump’s 10% Intel (INTC) Stake Gains $47 Billion After Apple Chip Deal - Yahoo Finance: Trump’s 10% Intel (INTC) Stake Gains $47 Billion After Apple Chip Deal Yahoo Finance...\n- Will Intel Stage An Epic Reversal? - Intel (NASDAQ:INTC) - Benzinga: Will Intel Stage An Epic Reversal? - Intel (NASDAQ:INTC) Benzinga...\n- Intel (NASDAQ:INTC) Trading Up 13.9% - Here's What Happened - MarketBeat: Intel (NASDAQ:INTC) Trading Up 13.9% - Here's What Happened MarketBeat...",
+        "sources": [
+          {
+            "title": "Trump’s 10% Intel (INTC) Stake Gains $47 Billion After Apple Chip Deal - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXM3MHJvVHVmM2wyZEU5Rk1yQTA2YlVzbWRHV1Rhdy1iWGlKcjJxTElmbHJJcUtKaFdIbFdrSVphZlp2OFN6RkhSTlFKcEJ1Mk82LXJZUXl1SlFNVHNmdk9Va1NxRUNYNi14bGRPeDhmSVVNb3AzVElIekQzNzJBbXRqQzhMRGZiaEdZSzRSZlZVSWJ3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Will Intel Stage An Epic Reversal? - Intel (NASDAQ:INTC) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDhZajhMT2xzV2dvR0luVjRWWUFRTDZ0dXk0TExBQmlPU1NsYnRHRE8yX2JIbFdMQjJNR2pwa0RhRkRtMlpaRHcydFNtOVFOeDBmWHM3eEVjMGFDVnlDTVpJNTFoMlVXZWZ4M3BWc1ZMTTJna1U5dXI3bmJOSHhxdEU2VE95dGNNUXRkdmNnVUlXdExHLWRjWFNGN3BiMEZ5Qjl3cFJuczdMeTBpYS1ISHMzY0R0Zw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Trading Up 13.9% - Here's What Happened - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDUxdm5SR2JpSXJaMV9RUzVkSVN1NDVTblZJVWwxMnJDMnA5MGtPZnI3RXY5d2prZ05WM2dBNjBBbWpXVTZtakRQdERvLUE3QXY5RzZKeXFXeFZsU0ZQRVNiNXFyVV95b290d1BMNVBQTGNVOUtzak9QNzNLODZVYTdKTWxJZzlTdy0xNS1iWExIc1B5WEF1ZDFiSm5NalRiTE43T1AxNEg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 455.19,
+        "changePercent": 11.44,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD Stock Quote Price and Forecast - CNN: AMD Stock Quote Price and Forecast CNN...\n- Advanced Micro Devices, Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions - simplywall.st: Advanced Micro Devices, Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions simplywall.st...\n- Advanced Micro Devices, Inc. (AMD): Gap with NVIDIA Widening? - Yahoo Finance: Advanced Micro Devices, Inc. (AMD): Gap with NVIDIA Widening? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "AMD Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndUxfbjJEeVZYMi1wd2lPajZ3LTVYZkF0NVZ2Q1RuNDBPWkhGN184UlFoQ09FdmNBdl8wNFYtMURTNUU0Qm14aWVwcXFuV28?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaW1UbENSY3VTYVVBTGs1ajNpZWtlRlhYbHBwZnBvN2pWdFYzb2kyanBKRmtHcVpyakFmMUFmTWkya2FzSXV1bE9GQS16dlc4VnZZVFhEQW5lMktCcFVjVjNia0VkS09QeDFFazNVXy1pYjRTQmFSNllod2tsNFQtZWRIOUJFNlBEQjZiVjFFSWdwN25DQTd3VHNteXgxME9aRmJzU3BfYWxxUTJ1Q1N4Tjd6bGFpV3RJVEtWSVJEMWVFcFRuNll1eEFHcm5rQ2VpNk1KQXkyM3lNYl9xLThNNVZ30gHnAUFVX3lxTE5qaU50eno0WVp4MUV3VXF5allUb0gyaUVQTE1OU0RJSGpDM29kaURYWTZ2SnV5V0p0YklONUtFb0JicnU1RTdTSzFKSGtUMzdFX1FkSDJVTnI5UllKaG9fRmlUNWNDREFmbHZRRVotdUZ1SFg2TWFXZGZQenA0b3YyclA4QjdVTjYtS2FMSzQwekNBVGNyYWhtdnY2bDZwRVpySnVuaWMyV0Z0T193NzY3T1lfeGk2OXZpcWtScWFxamVTNUJzeDEyaWVfZ0tKVlRna19qZTY1Mjd2NEE3ZGc0RGVoV1BoZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD): Gap with NVIDIA Widening? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVlcxelFuRFJ0SWpxRlZfZTEtR1BFclB3NmpzMU44Q2Z2WkQtNW96S1RGRW01dS1VM2VnZ0dHQzVaN3IwV3pOVTV5UmZjVHVIYk5fZ0RGVDEzdnoyblhaamlqMlR0UWFSaHdsOWRqYkdobDh4LXNFVDRUdnhpT0NxcldVZUZjXzR1VjFvWWRYQnNfb3drcVloS0tGbw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 746.81,
+        "changePercent": 15.49,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron’s monster run hits 7th straight record high - Yahoo Finance: Micron’s monster run hits 7th straight record high Yahoo Finance...\n- Micron Stock: I Called The Supercycle - Here's What Comes Next (NASDAQ:MU) - Seeking Alpha: Micron Stock: I Called The Supercycle - Here's What Comes Next (NASDAQ:MU) Seeking Alpha...\n- Micron Technology options trading surges to highest levels since 2024 - Investing.com: Micron Technology options trading surges to highest levels since 2024 Investing.com...",
+        "sources": [
+          {
+            "title": "Micron’s monster run hits 7th straight record high - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTDlRRlN4c1o0ZnBrNTVuOWNRMktuaVdrZzNndkFPRmFsSzNINE1Nd3pnM2NOajc2Y1VxN09OQW85RkFZbEJ2bm1KSmRDTUgwY1dKZllFcWdQbFNJbUhDOXdCM0tNMno4VzZ5QlE0M1hNcThUTEVJUENBV3FCWDhfdHBvR0V3YmQtaFp3c29IUGdjdXQtQl9mQ2QzTGEyZm5HUWVCNDU5SDNQZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock: I Called The Supercycle - Here's What Comes Next (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWF94N1JGampHRlVKaFR2bWZvVVEybEZZTHd0aDFWbEQxd3FqS2xaUHZldk5RY1JhWW5WcXVFeXZYOEpvQjA2d09wZjJvRHlEaTFjcTNaVHdHMWpaNWxad1Z6Sl95UWJfTVVtcUU0aVZjbXVSMlJXYVBqUTczWk9zWFFwZFNyV20zUy1tN04wdTFJMjZCbVpNMUhoOG9zTVRX?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology options trading surges to highest levels since 2024 - Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTmJ5TVdCdnlVQTJwVElMcWNvYlJZUjJ5d1ozNHJuUGZVaVROaUNTYjV6dm10ckc1ckFCdlRORFlFS3RJcVRYTEJIYWt3NWlUZUJCVTFRU3V6b0M2amotc1pORUJ3TVJOVUdjSlB1bHloQWZnZVZIcnlvN2swUUpnMDZKTTJnRThmM19oVlN1bUlHMmhFUm9yZHRlS3F0X1hPMzhPN3l2UFBhZXBMVVRXOG52YzRWejNRbWRFTDlnUnlPR2wweDhGeVYxWQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-07": {
     "date": "2026-05-07",
     "lastUpdated": "11:03 PM KST",
