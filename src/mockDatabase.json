@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-09": {
+    "date": "2026-05-09",
+    "lastUpdated": "10:52 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 903.8,
+        "changePercent": 1.26,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Principal Financial Group Inc. Sells 2,526 Shares of Lumentum Holdings Inc. $LITE - MarketBeat: Principal Financial Group Inc. Sells 2,526 Shares of Lumentum Holdings Inc. $LITE MarketBeat...\n- Lumentum Holdings Inc. to Join the Nasdaq-100 Index® Beginning May 18, 2026 - Yahoo Finance: Lumentum Holdings Inc. to Join the Nasdaq-100 Index® Beginning May 18, 2026 Yahoo Finance...\n- Lumentum to replace CoStar on Nasdaq-100 (LITE:NASDAQ) - Seeking Alpha: Lumentum to replace CoStar on Nasdaq-100 (LITE:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Principal Financial Group Inc. Sells 2,526 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbkVqZ1VhNGxFOTFsVUc2Qll1M0ZPcTRrZWtWMFNxUUFITXZsOHV3eUNPbTRnRGZtUkpqS1VBVXZvLXhtRmNhZEJHWWFCb0VyREF4QUhmeUdVMWx5M1pWY1hPdTNWX19FZC1mdHE2N0I1WlhId3JoLXp5UGJ0MXFKRWpEa1l2VkV6bUNBeTROY1Y1N24wSXZVN24zb0stbkp4YnNiQzJxeW02alNERkhzYnh0TlV5TVRRVHg3eWUwQk9VclB6ZVlVeGdiVjZqS2UwTEpERw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. to Join the Nasdaq-100 Index® Beginning May 18, 2026 - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUtDMGRWTVRBWG5VdjhvMXRZRjgzN0x5X0FsMWZTWG5LNXVKTWRNQTZqN0l1VU11d1NkN0hhV2ZLcnhZYnlBRVdQNTZoQWNHcERUX3RLdG9xTTA2WENJbFBPUVRaQUFwQWZ3c0ZZTkxvR2pCcFhJTHdmNXdBMjlfR1Zjb01YcExnVmU0QUlfZUVpcFJkeHlpUjlGbWZTWDE5dnliV1NCbzY?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum to replace CoStar on Nasdaq-100 (LITE:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wU0ZCWTEwTE56MVpUZEQyS1dmY0FNYlZPT1pLN0lodmxpYnVIY1FfNzd5SVdJcDFGemNSZTJqVU1lUTFwVTV1UlFoUHhKUWZrT1R0ZUhoaUY0cERrYXVZMTZ1eVVVSmowZ1Y1ZDZHR0VoeVpMR3ZoNW5TZTQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 124.92,
+        "changePercent": 13.96,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Channel Wealth LLC Makes New Investment in Intel Corporation $INTC - MarketBeat: Channel Wealth LLC Makes New Investment in Intel Corporation $INTC MarketBeat...\n- Intel stock price: Why INTC hit an all-time high today—and how Apple is involved - Fast Company: Intel stock price: Why INTC hit an all-time high today—and how Apple is involved Fast Company...\n- Freedom Broker Upgrades Intel Corporation (INTC) to Buy, Lifts PT - Yahoo Finance: Freedom Broker Upgrades Intel Corporation (INTC) to Buy, Lifts PT Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Channel Wealth LLC Makes New Investment in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVWpSRDEyVGlURTZFOUFIQU1oS1FjcXpUcTRmSXBzWEcxUFdudnZnMU1GOEw4WHlFektZQzJRRDh3dDdZLTcxX0FyOS1xSEJGOGtDejRMR21qTkg0c08yMjdqaVhkS2ZQMFNDQVN1cWNDVEMxQTJvcDZZVmFzUHJPYVJXZEZIcnMxYlNqdHJsRWxMNXdaeTRMRWFqRThiRlBYbkZrSlpwZWh3SUd1QUo3NDRPMzE3azhaaVVEZG94alk2dy1I?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel stock price: Why INTC hit an all-time high today—and how Apple is involved - Fast Company",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXo4VS1RZDhkWkhRdTh3Q0JGOXFnSTctRUZSVnFNNkJHUERNR1psRlcwemtxMGlnNGR3RHVWaTlma3psdjljeVFaZE1Fc0E3X0tscW5ZYmNieEcyYTRleFB3TFpqTllLdFNwUFAzdjA2QmY0Qmk0VWNRcDRjRG14WHh5YjRsOTM4clQxTVJKVDRiOGwtZTdBQkc4RQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Freedom Broker Upgrades Intel Corporation (INTC) to Buy, Lifts PT - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjZKVF9TLTQ1S0t5dzBHYTJudlZxR2RvWDhNTmZiVDF3eTdmc2x1R3NXNDk0QjVvUnZrbFVMd0NpZ0JuZjRoZUVBaU84YVY0X2xrR0pXY05adjlZZkdPOExjUzlxQ1FiSDMyeDlsWWZMY2R0c0tzWXJpV0R0cHJoeDFidENGcnFDT0locVFZUzIyRlUxQ0ctandoU1lsZV9qdUlqakw0aTYxUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 455.19,
+        "changePercent": 11.44,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD Stock Quote Price and Forecast - CNN: AMD Stock Quote Price and Forecast CNN...\n- Advanced Micro Devices (AMD) Reports Q1 2026 Revenue of $10.3B Driven by Data Center Growth - Yahoo Finance: Advanced Micro Devices (AMD) Reports Q1 2026 Revenue of $10.3B Driven by Data Center Growth Yahoo Finance...\n- Analysts turn heads with AMD stock forecast after massive rally - thestreet.com: Analysts turn heads with AMD stock forecast after massive rally thestreet.com...",
+        "sources": [
+          {
+            "title": "AMD Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndUxfbjJEeVZYMi1wd2lPajZ3LTVYZkF0NVZ2Q1RuNDBPWkhGN184UlFoQ09FdmNBdl8wNFYtMURTNUU0Qm14aWVwcXFuV28?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD) Reports Q1 2026 Revenue of $10.3B Driven by Data Center Growth - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHA1ZG9XM09WU3pYNndpeXBpSi1jYk9EajI5MFM2bnFaYVRCUDFCNnE4NXU4Q1hBQ3ZHYzRPY1MtOENYZm5BcGxRQXQ4U01hOGl2OW9BUmV2SXVISjNnZ1dMU3huVzNpMUszYW54MzdjbjR4QThWeXMzNUlwTWVJZ0Q3SWZhZ3daR2RLTmJrSXJaS1VZMjZER3J6dzRJTWh2?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Analysts turn heads with AMD stock forecast after massive rally - thestreet.com",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUTNlZl9zTVdVV2dKR29oWjNLTUJfTk1TbUlLVUd4OG5vT1o2bHppTXlvR1hxUWR2UG9yRWJ1RVJmTHBLNUNPVjJCVmlBZllkY0xDVzEwWG1BcTJiU1B4VGZHTnFpMnNvZkJ0UkNTSjk0d0NXX1NmTTJlbTRwUEVPQnFGSFpmQWZSS21oNVhKZGpZVWJhNTFfQUNHRkl0RnN1Y3NlVWFzaGU2Zw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 746.81,
+        "changePercent": 15.49,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- MU Stock Quote Price and Forecast - CNN: MU Stock Quote Price and Forecast CNN...\n- Micron stock reviewed post-record weekly rally (MU:NASDAQ) - Seeking Alpha: Micron stock reviewed post-record weekly rally (MU:NASDAQ) Seeking Alpha...\n- Mizuho Raises its Price Target on Micron (MU) to $740 - Yahoo Finance: Mizuho Raises its Price Target on Micron (MU) to $740 Yahoo Finance...",
+        "sources": [
+          {
+            "title": "MU Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12OGhUSWtGTk9iWTJqbXhwZ2hpa25tNUxnRWlMam1RYkNBckpUdlVCMXgzY2ZDbG1HUkdxeFlUMWRkZ3ljR2xXUkdJb285UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron stock reviewed post-record weekly rally (MU:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWlTU2xTN01WMS14QmVxX3VwY2NBLS1NTFREdUFDLVNnUDZHN2Q3Tk42UHNWN2hvakpyZTNkV21WYXJzS2dKRWg5a1lvdlhfelJuSDJyS1RyNThEbW1QOFhBRkdYVjlCSzUxa0hUUTNJLTlzUTB3ZlphTlNsazZIZEViaVpVaHcxT0lPeQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Mizuho Raises its Price Target on Micron (MU) to $740 - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHJUN3h3dG5XYUFMNnhvZVB6MXJ2Z1JvbUJ0eGFfeTlRcklqLXlvVVF1ZlFNbE5SbjJwUi1sVzczUy1wQXp1a2NBZ2d3ZU1HNW9hWWNBcDlzQTM4ZXNiS2JlbnhLcXd1VGhtVnlLTzlxYU1TSGFmMHUxWUpSQ3U3NWlyM2hNWUE0N1VDM1FNU1pkeUlhYzdaVXhiVlpLZWc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-08": {
     "date": "2026-05-08",
     "lastUpdated": "11:00 PM KST",
