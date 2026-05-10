@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-10": {
+    "date": "2026-05-10",
+    "lastUpdated": "10:53 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 903.8,
+        "changePercent": 1.26,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. $LITE Shares Sold by Oppenheimer & Co. Inc. - MarketBeat: Lumentum Holdings Inc. $LITE Shares Sold by Oppenheimer & Co. Inc. MarketBeat...\n- LITE - Lumentum Holdings Inc Stock Price and Quote - Finviz: LITE - Lumentum Holdings Inc Stock Price and Quote Finviz...\n- Lumentum to replace CoStar on Nasdaq-100 (LITE:NASDAQ) - Seeking Alpha: Lumentum to replace CoStar on Nasdaq-100 (LITE:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. $LITE Shares Sold by Oppenheimer & Co. Inc. - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHV2QzFnd3VFTnNrallLSWUxZDB0TkkyNG9qY3ZiWnMyV3Jab0JKY2J3LVl0aTQzT0R2ZklrcEFNbXRrVzNXQVdDX2RwYjhKNEJjano4Q3NUSkZfa1p2SWk5ckVkUFFfNWM1WDRhbW1rczlHLXkwcUFFanBEaGZEazM4cmg4Wnc5ZngwbUNmd1ZqUjh6cW9IWjFwakZ3c2ltWXl6SlJSS1dCSEd6anFsNTZpSk1VZTk2NmFqT2lR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "LITE - Lumentum Holdings Inc Stock Price and Quote - Finviz",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9nU0dOR0hVaUpvTnNrc014Y19DSDBpZmVpaXVIWXBzXzVzamxpZFEyMGRQSHJDS2FsNjhadkxYUzQ5UmVhQkE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum to replace CoStar on Nasdaq-100 (LITE:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wU0ZCWTEwTE56MVpUZEQyS1dmY0FNYlZPT1pLN0lodmxpYnVIY1FfNzd5SVdJcDFGemNSZTJqVU1lUTFwVTV1UlFoUHhKUWZrT1R0ZUhoaUY0cERrYXVZMTZ1eVVVSmowZ1Y1ZDZHR0VoeVpMR3ZoNW5TZTQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 124.92,
+        "changePercent": 13.96,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation $INTC Position Boosted by Crestwood Advisors Group LLC - MarketBeat: Intel Corporation $INTC Position Boosted by Crestwood Advisors Group LLC MarketBeat...\n- Intel stock price: Why INTC hit an all-time high today—and how Apple is involved - Fast Company: Intel stock price: Why INTC hit an all-time high today—and how Apple is involved Fast Company...\n- Freedom Broker Upgrades Intel Corporation (INTC) to Buy, Lifts PT - Yahoo Finance: Freedom Broker Upgrades Intel Corporation (INTC) to Buy, Lifts PT Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Intel Corporation $INTC Position Boosted by Crestwood Advisors Group LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa05hOW01bGpFaXgtZWl6YnI1aGpsekhYTS11TVpub3VvWVBGQ1BxUE5oQW9mZGpWSE9sU3FWcjlER0FiY3JIbW9tNHM1VnpSYi1vX3U4MUl0ZFZ2SkJ6Z2ROMzNNOEpMZmJqV2RyRFQxRW95R3lfWldaR0tQM3pYZGtiOF9BZ3hacURkZUFBQWlaVnNfYjN3RmNVdzBTWWlfZ0VmSFp4OE1PdXAzaUVBWXpITncyZGNNYURycVBPRFhWaU1hVHZvckpvTVc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel stock price: Why INTC hit an all-time high today—and how Apple is involved - Fast Company",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXo4VS1RZDhkWkhRdTh3Q0JGOXFnSTctRUZSVnFNNkJHUERNR1psRlcwemtxMGlnNGR3RHVWaTlma3psdjljeVFaZE1Fc0E3X0tscW5ZYmNieEcyYTRleFB3TFpqTllLdFNwUFAzdjA2QmY0Qmk0VWNRcDRjRG14WHh5YjRsOTM4clQxTVJKVDRiOGwtZTdBQkc4RQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Freedom Broker Upgrades Intel Corporation (INTC) to Buy, Lifts PT - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjZKVF9TLTQ1S0t5dzBHYTJudlZxR2RvWDhNTmZiVDF3eTdmc2x1R3NXNDk0QjVvUnZrbFVMd0NpZ0JuZjRoZUVBaU84YVY0X2xrR0pXY05adjlZZkdPOExjUzlxQ1FiSDMyeDlsWWZMY2R0c0tzWXJpV0R0cHJoeDFidENGcnFDT0locVFZUzIyRlUxQ0ctandoU1lsZV9qdUlqakw0aTYxUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 455.19,
+        "changePercent": 11.44,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Doesn’t Need to Beat Nvidia (NVDA) To Be a Winner – Cathie Wood’s Top AI Chip Stock - Yahoo Finance: Advanced Micro Devices (AMD) Doesn’t Need to Beat Nvidia (NVDA) To Be a Winner – Cathie Wood’s Top AI Chip Stock Yahoo Finance...\n- Is It Too Late to Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Gain of 320%? - The Globe and Mail: Is It Too Late to Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Gain of 320%? The Globe and Mail...\n- Analysts turn heads with AMD stock forecast after massive rally - thestreet.com: Analysts turn heads with AMD stock forecast after massive rally thestreet.com...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Doesn’t Need to Beat Nvidia (NVDA) To Be a Winner – Cathie Wood’s Top AI Chip Stock - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXpwaGhDVjZaR09mcXZITnNjV01FVjhENVZVanhxZ3JvdUFnNGpaRXNiQzJkaVZ6dlhtWWJLakN3cE4yRWM5d2xOVFdUUktabnN5OEtQWVlVNDF3UTQxbkk4T0RTTkxmSkJOeVRtaEhuQVNYTXhzeDRMRXBBS1VxRk1BNENJN1kza2FqUHpoZUsxNjJZaGZzclZ0SVhIUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is It Too Late to Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Gain of 320%? - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS05VXzNMRWZILTF0Q2JNdFhaVm1Xd25yVHlJQkVrVXJjU1VnbnRPM1BFYzN3S0hQYWpNTWRDMGhZUURteXgySHd5cTZ2bTB1UFdmYk5PeHRhaDlEOTQyWkE5WFZPSjkyeU9UZ3ZFNFFRY1RmTEVsMEpGbXJlUEctQ2cxMkNKMVR4YTk5RTdQcGNfUUpDU0ZadWxQZDh0U2t2NjFZeTh3Z3VHTW5ORVlVdklOaUtZclBnNncwbGhsSmQwQnJPOWdhR2J6SlJEOTlvOE1FSWZWeWQxWm1SekdBanloaVBhR3NxU3RnNWlVLXRDYjVrd1Aza1BKN012ZUlQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Analysts turn heads with AMD stock forecast after massive rally - thestreet.com",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUTNlZl9zTVdVV2dKR29oWjNLTUJfTk1TbUlLVUd4OG5vT1o2bHppTXlvR1hxUWR2UG9yRWJ1RVJmTHBLNUNPVjJCVmlBZllkY0xDVzEwWG1BcTJiU1B4VGZHTnFpMnNvZkJ0UkNTSjk0d0NXX1NmTTJlbTRwUEVPQnFGSFpmQWZSS21oNVhKZGpZVWJhNTFfQUNHRkl0RnN1Y3NlVWFzaGU2Zw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 746.81,
+        "changePercent": 15.49,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill: MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) ChartMill...\n- MU - Micron Technology Inc Stock Price and Quote - Finviz: MU - Micron Technology Inc Stock Price and Quote Finviz...\n- Micron Technology: I Think There Is A Clear Path To Over $1,500 - Seeking Alpha: Micron Technology: I Think There Is A Clear Path To Over $1,500 Seeking Alpha...",
+        "sources": [
+          {
+            "title": "MU Stock Price, Quote & Chart | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wV1lPV1FIalVQRlhBVG0tQ1hQMjBVTDBNQ0piOGM1X3QzdUxyalQyejBoTWJtRWNaRFJmVU8zSF9BRXQ2aTVlcVh3bWhRd0pORmpxX2hMT2M1Tlo1?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU - Micron Technology Inc Stock Price and Quote - Finviz",
+            "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9kWWZvU0huZVhQaTNjMXE5UHNLak5yaXRTalhLRC1kb1hYUXlJMFNKcWQwdWMwdzFQNXU0TXZMaHR4a00?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology: I Think There Is A Clear Path To Over $1,500 - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSHJaS1ZsRHhCa0toRlowdDk5bEtFdmxXcFcxeEVJcnBJd3FVOU1PaEZOY19yZU4weFlOak9WVy04UUVCTDJiMlNaM09BWElnMmV5MlBHdHYzZ2V3c2NNdTBKSDNYYWY4NThhdG1YaTdiTVN1RExwVS1OV2ZVYi1sbkpVRTRPazk4eFFSQjIwWkgxbHBleG1zNnBZX25YdXA1VE1V?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-09": {
     "date": "2026-05-09",
     "lastUpdated": "10:52 PM KST",
