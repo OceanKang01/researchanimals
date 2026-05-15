@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-15": {
+    "date": "2026-05-15",
+    "lastUpdated": "10:59 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 970.7,
+        "changePercent": -3.11,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) hit a 52 week high, can the run continue? - MSN: Lumentum Holdings Inc. (LITE) hit a 52 week high, can the run continue? MSN...\n- Lumentum Holdings Inc. $LITE Stake Lowered by Leeward Investments LLC MA - MarketBeat: Lumentum Holdings Inc. $LITE Stake Lowered by Leeward Investments LLC MA MarketBeat...\n- Lumentum (LITE) director Fletcher sells 3,155 shares in 10b5-1 trades - Stock Titan: Lumentum (LITE) director Fletcher sells 3,155 shares in 10b5-1 trades Stock Titan...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) hit a 52 week high, can the run continue? - MSN",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTU2bDd5TkVaWE9GbkhhaGFkZjgzWFh2d2lpcmFDOVE1OW5NVE1mVHZTUjNpclcwaVRPNU53dDl0YW0yQndBOFo1cEtqSmQzQkZRT001RlJYemotUmxVNW5tUzRVN2c1MFF1LUxJX0ppcGhXelo2QzBRdERKd1o5NWpBNUNzMVVETUx6S2YwRFhrRm1QZ2YzNm5hRGVEUU95UXZTdHBPb3ZEdUZnVmZLcDJXc0tsMjRXVXYzNA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. $LITE Stake Lowered by Leeward Investments LLC MA - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXphX3dpTmM0b0pxQXh5NmVIOVpHbzNPUEV2RFNDMHBLYS1kcndsR0dzNk94Um50Mjc1MUNKZTBQTHRwYktrajJ3djBTRWJnRUp3Zm56d1hkSFZHb1ZJdmJLZGhNY1JuY2xXczM1Tnl5N3BYaE5BQm1Tdy11ZmtzQkpKWDJoY21rR0k1dzVOX0pRRFFERkNsMm5iV2xycE5SX3VjZEU5UE03X1pSNjl1NDBPSzNqOTNMSllWYm9sWFNQTUUzbk1wY19tSQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (LITE) director Fletcher sells 3,155 shares in 10b5-1 trades - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOVFWOUUzTmoyRGk1V0FOeWthVlRHcFlmWlNEUW5YTWpCTkp6RFMtX0J2Q0JwSllPdWJtZG91cm1FaHhDVlFtUGxya241ZU5mQ1oySTByOEw3RmZOWDNTWFhhdGNPT1VNck4zN3NsNUJIejh2Z0JJR29GSWJfN25LWGtFTEpYREVWVUtzXzg3MUVRNmgxVzNmaGxYU0JpTzNfOEdoRG1JVE1JWE9zRWVCVHhJeWw1UQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 108.77,
+        "changePercent": -6.18,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- INTC Stock Quote Price and Forecast - CNN: INTC Stock Quote Price and Forecast CNN...\n- Intel: Winning Washington Isn't Enough At $545 Billion (NASDAQ:INTC) - Seeking Alpha: Intel: Winning Washington Isn't Enough At $545 Billion (NASDAQ:INTC) Seeking Alpha...\n- [Form 4] INTEL CORP Insider Trading Activity - Stock Titan: [Form 4] INTEL CORP Insider Trading Activity Stock Titan...",
+        "sources": [
+          {
+            "title": "INTC Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lWkZjY0djMFFwSUlhcXJYVkRXQlptNHppd1R5NFlzSm9UckZacWJERUZpdWw5WlViaENhblBac0hQZ3BNdmZUZ1VONmU1dHp2?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: Winning Washington Isn't Enough At $545 Billion (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGFaREVYZVBYRV8yZDBGY3hEaEp5RW1SdTdhQ3hYTGdnWF9MUWNYYVFsTUJNejd0Yy0tN01rTWMwODMyVV9pOF9lQnNoWDJjVTMycXZOMGtSM2NCVEhzek5QOXJmdFBkU2phMGx0cVA5cWo5WHM0ejhXVVl2dTFmUmd1LWpBcnhfOHd0VGR0cThTR1c0enpR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "[Form 4] INTEL CORP Insider Trading Activity - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdEVoZS1fa1RWUG1pZnpLRzJfSmVTaFJTMUdPVklpRng5V05FWUtJMndvaG5RUVNXMGJMTDZNTk5abUVua1RZLTNHTWhBMHJoWk5SQTliVkhxejduaE90MVFDYl9LTUhrRGVKYm84WWs2X2xwMUdPUEtWaGg4bGlBQnNzM2FoMHZ4X1VOYi1yN2NKY3EwQ1dCeFUzUHBIdFBOX3M4bXJNMA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 424.1,
+        "changePercent": -5.69,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Price Target Raised by $110 Following Strong Q1 - Yahoo Finance: Advanced Micro Devices (AMD) Price Target Raised by $110 Following Strong Q1 Yahoo Finance...\n- AMD Stock Quote Price and Forecast - CNN: AMD Stock Quote Price and Forecast CNN...\n- Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 5.7% on Insider Selling - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 5.7% on Insider Selling MarketBeat...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Price Target Raised by $110 Following Strong Q1 - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcG9PaDQzNElpT2lfY05LaVlTZTdYcXBJbDg2WEp2eEg5eERtWHR0S1pMOGpCZWxFLUZ2LUxoSzVSLUlZMnNmRnMzM2VRV1FrTjlEdFBwQ1RucDRoLUxjYkJTNTJJM3dkQzJwUW05WTF3UW9BYUlmTzJNMEt3MkZXQk5tYklIb0dqWmNXSGxsNUlzTmZVek1EbDlVRGE0Zw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndUxfbjJEeVZYMi1wd2lPajZ3LTVYZkF0NVZ2Q1RuNDBPWkhGN184UlFoQ09FdmNBdl8wNFYtMURTNUU0Qm14aWVwcXFuV28?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 5.7% on Insider Selling - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc25VS3pZSS0yQ3FjOGE1Y2w0WTdYZE1kRXcxWlFwbzBPUmtzd3RQYW9ubzk2NFV5bUNKZFNFcFMxSmszVjR6dmF5WXRLNkpidUJQWmdPRWRMNW14dDlTRm5UdUhocm9YSzFFLVZfUkplWXFNbzJud3k0em9NTF9ScE9oamJKMDJBekt5X2Z6eWNtOGpZaHM4akQ5MG1SLTdlenBTVGtzYXAzcDFvSDg3dnBwNXJXbi03UGs1cHFiUnJiUzA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 724.66,
+        "changePercent": -6.62,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- MU Stock Quote Price and Forecast - CNN: MU Stock Quote Price and Forecast CNN...\n- What's Going On With Micron Stock Friday? - Benzinga: What's Going On With Micron Stock Friday? Benzinga...\n- Micron: How Long Will The AI Trade Last? (NASDAQ:MU) - Seeking Alpha: Micron: How Long Will The AI Trade Last? (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "MU Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12OGhUSWtGTk9iWTJqbXhwZ2hpa25tNUxnRWlMam1RYkNBckpUdlVCMXgzY2ZDbG1HUkdxeFlUMWRkZ3ljR2xXUkdJb285UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With Micron Stock Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxlT1AyV1Y4ZE1zLXE5cVBvMTNUY19sWkYzVnlGUnFoTUxOc0ZVVWxGV3NfVzZpYXZhUXQ0YXBVRlE1ODUwZG94REV3eENLV2haQTB4bXUwRWNYV3NBX1BiNHdRbUNtaENFbnBLdktSZU5Sc2tlUm5zc2QxVEJESFR0VTEtMHpURmNFTl9nWXc2blhOVTNsV3d1UjQ1X0lhYTVueQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: How Long Will The AI Trade Last? (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMy1DdFNFY1JJTVB2c05Hcnl5b0lBd3d5R1ctbGk4WEFEdGVCU1ZyNC02NlhFTl80WWt5RmhaTzFtVFNhRURUdUxWYm5XYzd0ZEEweW8wamVvVU5yVU9YbkNxV2FfYmJ0eGpQWlc0V2ZqMGNxNjRCQlBXSjZ5UmJVQVl1WUJRdw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-14": {
     "date": "2026-05-14",
     "lastUpdated": "11:01 PM KST",
