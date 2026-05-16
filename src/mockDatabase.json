@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-16": {
+    "date": "2026-05-16",
+    "lastUpdated": "10:53 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 970.7,
+        "changePercent": -3.11,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) Hit a 52 Week High, Can the Run Continue? - Yahoo Finance: Lumentum Holdings Inc. (LITE) Hit a 52 Week High, Can the Run Continue? Yahoo Finance...\n- LITE Technical Analysis | Trend, Signals & Chart Patterns | LUMENTUM HOLDINGS INC (NASDAQ:LITE) - ChartMill: LITE Technical Analysis | Trend, Signals & Chart Patterns | LUMENTUM HOLDINGS INC (NASDAQ:LITE) ChartMill...\n- Lumentum Holdings Inc. $LITE Stake Lowered by Leeward Investments LLC MA - MarketBeat: Lumentum Holdings Inc. $LITE Stake Lowered by Leeward Investments LLC MA MarketBeat...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Hit a 52 Week High, Can the Run Continue? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUGFUblNKdUxVNkVBVDgwTlU0ZG5rSkNYb1JmZlpYaDgwbXZMcUE1SjJtNkhiMFJzMk13SzctZDVRT25fQkllVEVsSWRFZ3ducjRtdTNFNlBDQTREczNINF94UXZ2ckNpbWZxTmVLZUdPSUVySFdOUFBLZ2IzaEE0T1NB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "LITE Technical Analysis | Trend, Signals & Chart Patterns | LUMENTUM HOLDINGS INC (NASDAQ:LITE) - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jb2M2blYwUzc2VWFtcGNsSjZsNjlkQ0lFdWRVajFQNllodFpKcHVUQTM4Nnc0VERhaHcxUDBmMG4xRGFkOWVSTFZ1enhXSy05UUZlSTNqa0t1SjdlLTY1OV9zejBIcW1ETGY4RW5R?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. $LITE Stake Lowered by Leeward Investments LLC MA - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXphX3dpTmM0b0pxQXh5NmVIOVpHbzNPUEV2RFNDMHBLYS1kcndsR0dzNk94Um50Mjc1MUNKZTBQTHRwYktrajJ3djBTRWJnRUp3Zm56d1hkSFZHb1ZJdmJLZGhNY1JuY2xXczM1Tnl5N3BYaE5BQm1Tdy11ZmtzQkpKWDJoY21rR0k1dzVOX0pRRFFERkNsMm5iV2xycE5SX3VjZEU5UE03X1pSNjl1NDBPSzNqOTNMSllWYm9sWFNQTUUzbk1wY19tSQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 108.77,
+        "changePercent": -6.18,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation Trade Ideas — BOATS:INTC - TradingView: Intel Corporation Trade Ideas — BOATS:INTC TradingView...\n- Intel Shareholders Back Board, Pay and Governance Plans - The Globe and Mail: Intel Shareholders Back Board, Pay and Governance Plans The Globe and Mail...\n- Intel: A Truly Stunning Comeback From The Dead (NASDAQ:INTC) - Seeking Alpha: Intel: A Truly Stunning Comeback From The Dead (NASDAQ:INTC) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Intel Corporation Trade Ideas — BOATS:INTC - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KSDhmMUZ3eXFUcGJJZXJWMWlmUWM4c05SaXNWU1lkRjRIby1wTjAtamh5WkZZdWVwVkVNVFdzWVNQaEtTNlJhZzExU0xXOW1nNUpDeU53RE0zQnpyemlFb2s5ZlFBNUx2cXc0cw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Shareholders Back Board, Pay and Governance Plans - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUWZITFVPQU1lMzRLd0phSzAyYW4tZDZwZC1iTUZMNkZ4S0NFRmd4V2JFd1F5M3RfWXYxczdCTnFHVFZKWWhKWFVRMWF2YV9fejh5TjE2SXY3SUlCN0hTdUJESm5ibU5Hc0RXSEZJd3pzZUdHTzFPSEFaVnVXb01RQXdvUU1CSFZndU1CUDFNMXhKZ2ozdmp4dE1UQ0lINl9EbFV4UUhIRHVianlGZzVfZ2txbVFTclpXVi1wV3FPZVZjb2ZqUlRsSWszTXBGeEJrRTFySmllbWU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: A Truly Stunning Comeback From The Dead (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVJzSDg5Uk9uTmduSW9GdTRFaVhWeEhrMGoxME9pdmlJUkN4Z0tLWGQyV3NFdG5xTmZweU1Sek1jYVRWZlA0dmJ0NmtvSmJOOVhIVDJ3cmZYQ2poZGtDN1dPdjdFSERvT0FfZ2dnTVFDbHZXSjVlblZTR2JQX3EwVkZfMEphQ28?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 424.1,
+        "changePercent": -5.69,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Is Advanced Micro Devices (AMD) the Best Stock To Profit from AI? - Yahoo Finance: Is Advanced Micro Devices (AMD) the Best Stock To Profit from AI? Yahoo Finance...\n- AMD Stock: I Called The Surge - Here's What Comes Next (NASDAQ:AMD) - Seeking Alpha: AMD Stock: I Called The Surge - Here's What Comes Next (NASDAQ:AMD) Seeking Alpha...\n- Why Is AMD Stock Falling Friday? - Benzinga: Why Is AMD Stock Falling Friday? Benzinga...",
+        "sources": [
+          {
+            "title": "Is Advanced Micro Devices (AMD) the Best Stock To Profit from AI? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHVVVG5kZkk2b1pNbkFzamp2b3BWbVF4bEVfNV91NW5yX3FlYW16VTRiUWJTNWdkUjNHb2tWeVVHYWlwdDBqeUZJZ08zT3o1TVhPRU9mT0pTOTZiaExWZVBWNWI1RnpLSm8yV0QtNlIwNmRycU9ud0E2WVI2NHk0Sm43bEUtWFVabWhMRkxzVTE1MGRQeER0dnFucE0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock: I Called The Surge - Here's What Comes Next (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRy1aYWVGZENiUTg2R09ickktMnk0c3hYaThtMGtSZG9pUG9lS2t3ZGtBVDducjlLTF9DMUJtMTRQVVZzRXRxd1VmU1pGSDdBWmJwMHd0cTVxT2tGdGxaYTJqelBXVmhIbWY1QzNqSUJIWVVuczdCdmo0aWdqVXJaTHR6TURsdGtGYzU0VVlhUk8tQi1FeHc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is AMD Stock Falling Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDgyV0JyQmxFbXB5UW96VE9OdF9kZ1FmOW5KMlF1Tk9tbHVzUkx6TkVPa3ByNXN6amZCUXZmSXFySW54eUdUZU1Zb2w0Y21ONHVYdi00M3VMaHhiTS14MWt0RkRPTGxBQVZMNVd6azNwaXRIX0ZhNVJqOGQxNm9fT2luTndOU3AwTXNOUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 724.66,
+        "changePercent": -6.62,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU): Top 10 Stock to Benefit From AI - Yahoo Finance: Micron Technology (MU): Top 10 Stock to Benefit From AI Yahoo Finance...\n- Micron Technology, Inc. Trade Ideas — AQUISUK:MTED - TradingView: Micron Technology, Inc. Trade Ideas — AQUISUK:MTED TradingView...\n- Micron Is Now Up 89% in a Month. Should You Sell in May and Go Away? - 24/7 Wall St.: Micron Is Now Up 89% in a Month. Should You Sell in May and Go Away? 24/7 Wall St....",
+        "sources": [
+          {
+            "title": "Micron Technology (MU): Top 10 Stock to Benefit From AI - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3AyN2JSdVRmSTVCaDBLTXBDVHBPQkJ4UmVTelc2QU5ody03OWltelgtb1hWdzJaVVlZeFA3elBNTnJmYWxkRUZSY3lkVTNTVXhGVU1uTWk5eTFIRlN1Z1dPM2JHMUx6ME9KMlUzRXJHdGljQmE3bDI0SFp2MFVXa19lNHVUX3Q5aXotZFBTZ200REJJem80?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology, Inc. Trade Ideas — AQUISUK:MTED - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95RnpmWFZOdGlrTzdsMGdRQ21sN2ZpMjNQWFlSRUd4cmlJOWZQYnFISEZfcjJhY25MNWswOFJtS1ZvRnl3WlVjcm1LT1lIVGQzX2NUaHpkczBuN3ltc0hBeDNHSmRpdElrdDFpOWY4SQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Is Now Up 89% in a Month. Should You Sell in May and Go Away? - 24/7 Wall St.",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeC04QWpJa01vaVJUbVJydFZjZWcyTm5EUTA4WEZOemlJTXp3bl9WellKSWVXcHp2R294b256bVViQjdVc0NFM2tzNFYwamJxcmlHdDVzY3h0dkNlWUhPU0FMakJIcTdIZ3pLZnMxS0RRZHNMUEZ6R2kxN1FPTEMyT3dEV19iUWNlWkhIVlpZSlRkTy1hOXpIYktwVDhyeFo1Z19pUHEtZzFaME1nbVE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-15": {
     "date": "2026-05-15",
     "lastUpdated": "10:59 PM KST",
