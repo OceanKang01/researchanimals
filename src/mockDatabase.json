@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-18": {
+    "date": "2026-05-18",
+    "lastUpdated": "11:07 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 884.98,
+        "changePercent": -8.83,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- [144] Lumentum Holdings Inc. SEC Filing - Stock Titan: [144] Lumentum Holdings Inc. SEC Filing Stock Titan...\n- Lumentum (LITE) Joins Nasdaq-100 Index - Yahoo! Finance Canada: Lumentum (LITE) Joins Nasdaq-100 Index Yahoo! Finance Canada...\n- Lumentum Holdings Inc (LITE) Shares Fall 8.8% -- GF Value Says S - GuruFocus: Lumentum Holdings Inc (LITE) Shares Fall 8.8% -- GF Value Says S GuruFocus...",
+        "sources": [
+          {
+            "title": "[144] Lumentum Holdings Inc. SEC Filing - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZEFwTUdta1hPd25PUklrVVlmN3RqbHdFVkVueVFJMHkwV3FsWDdPNDV6NW1Zb3Q4aEkxem9ib21oR0YwRmpELUM1YzZDMDdGZDVvRWM4RlFGckxQWEZuYW9Zb3BGYTFZVEtLaVhpU1RSOU95TVJyMG1MWUR0Rl9RMUdWZHNnMDloZ050cWVyLWZnSWZKbG5iOEkzVGJZRXc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (LITE) Joins Nasdaq-100 Index - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVDNYcW9vTTNaeGdsb0xnNW5ITzgxYmUyTXIzVW1CU2RyN1Q0QWoxaG9NZ255U1ZEb1phRnV3OERkSzdLMzZCZXpUVDZSeTdLSGo3N0xPS3F6VFNPMWZ6VVRabzRuUkIxWi1idHhhWWE0QVl4TjhxRGtTUDQxN194cTNLc0l6QQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Fall 8.8% -- GF Value Says S - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkUwUWxmamdyWlBhSl9GUTFCMjRjWG9zY3VUZW1EZUZXc05Yc2tublR2UkFzZmtmRzhtZG4teEtZMF9DWWxDT1BTNnQyb3ZsVEZQQ2M2YWx2RlA4Njh0UE9meTRhbzA4ZGhlMTB4UTR4bk9Ba1RaVUNFaXR4R2hZaWtqVVZCd2lfcGtpZWs3NVNoLTFpb2RLN1g3U042SjgxalVJX2NXNGl2Z00yLUM3Tw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 108.17,
+        "changePercent": -0.55,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- INTEL CORPORATION (INTC) - MSN: INTEL CORPORATION (INTC) MSN...\n- Intel (NASDAQ:INTC) Stock Price Expected to Rise, Citigroup Analyst Says - MarketBeat: Intel (NASDAQ:INTC) Stock Price Expected to Rise, Citigroup Analyst Says MarketBeat...\n- Intel in focus as Trump says he should have 'asked for more' (INTC:NASDAQ) - Seeking Alpha: Intel in focus as Trump says he should have 'asked for more' (INTC:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "INTEL CORPORATION (INTC) - MSN",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tUXJORC1CWF9OcDVWLWtUa3g2a1hPY3pZeDRqaDdxbXBWNHF0eXc0VTcxbVBwQTh2YklZQW5CcXFxU29INTRqdzF6NVVseTBtdVAyYjBYYU5CakJEN21kVFg3SG91V2pwMHNURnY0aWVhMUQwTVpB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Price Expected to Rise, Citigroup Analyst Says - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWhoRl9JS004emxmNEU0b1BES1BiXzRVaGQ4cldYMzFsdDRKSXpzUUlObHBuM2ViRmFCT0VScU80akV4VGlJbWJKN01leWZRTEV4S0l1YTRqYXNfT0MtUVFPWTF3ZEU0a25GaWdUeTh6YVVkZHJpOWwxNHVhMk9WVG5zbTZMYlcxNnZlckx0UGM4dlFWUmZ4SFhoZTZRX2dMcXdUTDBuVXg5eGN5Y3c1YmwtclFYZzVNQkp0cGJWQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel in focus as Trump says he should have 'asked for more' (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdk03bUptUlVJcVZmTTIycGlOQm92ZGF0R3Q3ekQ3dEFLYnBoWTZwR3ZzX25vMzZfaHQ5Z2NRMFFteHJXREJIMGtKOGx4UW84S2xzQm1GWWloZjJRZkNWU3Q3LUhTMG1pWDVHUk5DMG50a0ZhdEVLNVNMaGhCRVhQM0w5QkxqSEN4V3JCTHNBWE1PbE8ydHQ0QlpsMmk?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 420.99,
+        "changePercent": -0.73,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Mizuho lifts PT on Advanced Micro Devices (AMD) Stock - Yahoo Finance: Mizuho lifts PT on Advanced Micro Devices (AMD) Stock Yahoo Finance...\n- Micron, AMD, Intel Stocks On Pace For Abrupt Reversal: Top AI Expert - Advanced Micro Devices (NASDAQ:AMD - Benzinga: Micron, AMD, Intel Stocks On Pace For Abrupt Reversal: Top AI Expert - Advanced Micro Devices (NASDAQ:AMD Benzinga...\n- Advanced Micro Devices, Inc. $AMD Shares Sold by Commerzbank Aktiengesellschaft FI - MarketBeat: Advanced Micro Devices, Inc. $AMD Shares Sold by Commerzbank Aktiengesellschaft FI MarketBeat...",
+        "sources": [
+          {
+            "title": "Mizuho lifts PT on Advanced Micro Devices (AMD) Stock - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGN4NDRkVjBlV3ZsOHNENTVNdTdLMURqVjBHVE9xTk52czQ2RGE2cGo5LVVhcDU1b3ZMekQwVkF5VVhLNWRacXM5cjJfQjNSMGpFUDFmRmhqS25XcDJQdnJ5SXl3Y2VBTkZxS1FIVFV5TUotX3I3NnM1cHVHVnB4OE5IVWJUdWUwM0dvRE9kQUdIeWkyWGtraF9zcw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron, AMD, Intel Stocks On Pace For Abrupt Reversal: Top AI Expert - Advanced Micro Devices (NASDAQ:AMD - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzBpUVlIemZ6YVBiRVV3QkZMaTFvT2NwWmQxOUVTM2huNUFRZGNxcHVhM25DT0NiTnFlYXUzSWhPckJOQ0RKQldfUTNKUzRIaDJEMloxQ05ycF9lcTRod0VYTmtYZkxHdkpkMG9CTEFNbXlrNklYTEcyWWhoclpPb2dMYmZRdG03ZUYzVjBaUlpGXzA4YjFqVGp5aElUcGlORFk2dW5HVDJvV3pq?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Shares Sold by Commerzbank Aktiengesellschaft FI - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYVpvUHFscXZ6Y1d2alAxUkhRX3lkUGlOVW96d1RGdHZ6aXdfYXB3UlVEeElVR2JzUS14Q3NuTXQ5UEU4YkdDS1ZxNWNBaGE5ajJpWk1EVjd6WEFKRk5FaDhFbkVZanJ1cEo5aDFPQnVhbVpwb3NFOTBEMndTdGxoYmFRZFBlZ0FjdERfQmVqU1hTSzc2aUtmc1FMUHFjSldkQXJDLXNYVEdhdVNiSUtEeWdYM3RYdHdMNG5IOWgtN2VQVjJZLTJydEd6SjRsRkxObDh2RnpOWQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 681.54,
+        "changePercent": -5.95,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Stock's Worst 2-Day Drop In A Year: Is The Chip Bubble Bursting? - Benzinga: Micron Stock's Worst 2-Day Drop In A Year: Is The Chip Bubble Bursting? Benzinga...\n- Micron Technology, Inc. Stock 12‑Month Price Target Raised to $646.15, Implies 11% Downside - TradingView: Micron Technology, Inc. Stock 12‑Month Price Target Raised to $646.15, Implies 11% Downside TradingView...\n- Micron Technology (NASDAQ:MU) Shares Down 6% - Here's What Happened - MarketBeat: Micron Technology (NASDAQ:MU) Shares Down 6% - Here's What Happened MarketBeat...",
+        "sources": [
+          {
+            "title": "Micron Stock's Worst 2-Day Drop In A Year: Is The Chip Bubble Bursting? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT2NnaW92cS0xX3BBMTZHTElpZ2ZaMGhISGthaVd6WF9YLW5jRlJrVERYYXBWNl9ReVlMc0JqbldXQ0wteUtBNllhRG81Y0NZTzFNbUxxdHppSDluMndsNTZpbEtvQzE4TWVraGNsdVNVREVwVVl6N2UxcEZ3WjlGb21lTm1zTDlfM2dTWF9Vd21QS3NIM2MtSUdia1hoVUY3T2VDTEVINDc4QlBBcVVHdVJjV2didlc3VDMzLWNteHlRbGpa?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology, Inc. Stock 12‑Month Price Target Raised to $646.15, Implies 11% Downside - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObjZVd3RyRWpzcHVEbTJfT3hGbll6YTZVeHFVdVdLdWpybWQwbDVCZGwzUWtjTmRxQW9INWhVZE92SEpWRlIzbG1iaURiWXVqT2FWWE9ZM0xwcWhETm50d2RaYWdva0VUY204ZzBNcGFYa3pTaS0zdkh5Ry1SZ19tQVF6a09UOWtwUFVXRXRkUVE5Z3JGY2psWjlqQlJ1R3JwVUFQeHJtbjJvT21iUDcxMmNzN0d2XzJKZjRvYmdRdG4yUmlVeWxIZnU3T2V0cWkybWJlcWlMSTQxUENiZkpLc0tB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (NASDAQ:MU) Shares Down 6% - Here's What Happened - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2prenUyTHhKb0RtcVhPRHNqOURodlV2M09GVWtRUWRGT1FOQWt1bkkwdUlib2JrT3U3czlocld6ZnR0dDNhdDJqNTdFMV93ZmNPQUtoeG5xaXZwTnI0Zm9rbGVoSF9RRnpEWHVXeFp5YXRnLWNGQ2FuXzhEdFA2QXI2NlkzYXBpQUlncURUZkdxTjdEejd3Szc0eUZ5RkMzMk15NjdrZ0RLRGNZNktrU0l0a2Q?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-17": {
     "date": "2026-05-17",
     "lastUpdated": "10:56 PM KST",
