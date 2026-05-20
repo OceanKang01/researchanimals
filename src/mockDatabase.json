@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-20": {
+    "date": "2026-05-20",
+    "lastUpdated": "11:16 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 868.07,
+        "changePercent": -2.47,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. $LITE Shares Sold by CloudAlpha Capital Management Limited Hong Kong - MarketBeat: Lumentum Holdings Inc. $LITE Shares Sold by CloudAlpha Capital Management Limited Hong Kong MarketBeat...\n- Lumentum: Priced For Growth, But Not For What Comes Next - Double Growth Cycles (NASDAQ:LITE) - Seeking Alpha: Lumentum: Priced For Growth, But Not For What Comes Next - Double Growth Cycles (NASDAQ:LITE) Seeking Alpha...\n- Jim Cramer Shares Key Insight About Lumentum (LITE) - Yahoo Finance: Jim Cramer Shares Key Insight About Lumentum (LITE) Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. $LITE Shares Sold by CloudAlpha Capital Management Limited Hong Kong - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSzUxazRzV3JTYUEtd3ZKYmJYaTBRaGxzTzk2QnQyeDNfSDRsTDNQR1BCNm9obFlyQXVIYndsd0hHSm5lVllsVU5hTG9oRTdiLUd5WXhGOTZaWjhmM01VTmJwRWN1LUFHckF3OGR3OFd6NEg3VEp6Unh5ZUlZUmJoTGR4d1BhVS12VERlYmFuRTl3R09pWHIwTjdCS3ZBUTlpSGV4UlVGYl9nMUVPNENFMC1jVGtwRy1wMkdtZldkeEJSODVMMGJkUS04Ml9uaDlaMVFnTjdPcFd3Z0FJRUNVUGZoQmk?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: Priced For Growth, But Not For What Comes Next - Double Growth Cycles (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeGdsQTIzYy1vamlRTkhKWVU3YnJqTjhEa1N3Q3U2Z3d6YjZFWE9EZ0dlMXJaWHdWVkJjNEFmUUlMN1Izb0pNOFRJVVFmeVo5OWhlOUIzLVpncy1JblY0UWJLOS1hb2hIV01lcXEzbGk0aG9sUEhfMmxpRXZjZVpmQnJnNlhia2YxYV9QSHdocnlPNDQwbDRJZVhNLXA2RTY1WnQwR0w0eGk3V2tlN3d6azJjX0pQd1U?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Jim Cramer Shares Key Insight About Lumentum (LITE) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1J2VVRrd3ZyM0JaMTBJOUxGLXN6cldfdTBBTEgzUTlFYUNTeWJfM0pNX25RTHk0c2lwY19vSGlRaE9IcU1jZExWYkV3eEdpeU9teVUzUkxzdk9mbkpadE5JelZ2Mkt1U0duTENRaW9VQ0lTcUNKZ3B4ZHRMMG14TmVHdmZOZ19pQnNHZE5rVmJJNlZycUFTYnF3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 118.96,
+        "changePercent": 7.36,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (NASDAQ:INTC) Shares Up 7.4% - Here's What Happened - MarketBeat: Intel (NASDAQ:INTC) Shares Up 7.4% - Here's What Happened MarketBeat...\n- SA analysts turn bearish on Intel, citing overvaluation amid AI mania (INTC:NASDAQ) - Seeking Alpha: SA analysts turn bearish on Intel, citing overvaluation amid AI mania (INTC:NASDAQ) Seeking Alpha...\n- Intel stock price forecast: $124.00 resistance in focus as INTC surges 8.11% - Traders Union: Intel stock price forecast: $124.00 resistance in focus as INTC surges 8.11% Traders Union...",
+        "sources": [
+          {
+            "title": "Intel (NASDAQ:INTC) Shares Up 7.4% - Here's What Happened - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVFNuUEtzc0hkVERiOFI4akF4YmdtYWxMallPUTAtdnF2S1gteTk0LWhmQTF4R0VOMnRwWmJjbVRIR2tsZkRYQl8zbGppNGVOZXMxMUE3MEJSQlFJQW03REhnY1dURy1CSDVPdUdGTWozQ09XRUZPTk1SNzdoRTl2RFBMeGZCSTJhQVBnSDBTM1lKVE1hUlpJZHpJTHNlQmtZbEVWU21B?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "SA analysts turn bearish on Intel, citing overvaluation amid AI mania (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcEZjOGpPaWx4RFFNV2Vnbi1PVG5yTXNGTEhtZnk4cHMyaGEzN1NZUzY2TWhQZlBDWkRZZ29YUnVDUTE1UHMtY3ZJZjk5NEt4WVpnR2lacU9lb3RkVDdpWEJiQTdrZ241OW02ZEJ3bVBVWlZvS0RWT1JDVkw4TnRfQkVVd3RqN3dCenJlRE9US0dqdjBvZ3ViQ2dWOWZVWTV6VkFXd0ktWERvUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel stock price forecast: $124.00 resistance in focus as INTC surges 8.11% - Traders Union",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXpuSXZ0SkQwMjVSaVV0MU1hd2R1alV5NmtTQ3czY2dwOC1RYTdUYVlxa3d6OUxNOElZelphMWxJRmlWZWswSzFNN3RFdU05c3BMMlRuR25YUkJsWmlVelNnSEZTTW9KdVNhNDU0bjRvbnRLblVSZl9yNUJpdm9GcVF2bVlmamhzQkRFR1lyQUZDNnptZTlHdV9lOA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 447.58,
+        "changePercent": 8.1,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What's Going On With AMD Stock Wednesday? - Benzinga: What's Going On With AMD Stock Wednesday? Benzinga...\n- Mizuho lifts PT on Advanced Micro Devices (AMD) Stock - Yahoo Finance: Mizuho lifts PT on Advanced Micro Devices (AMD) Stock Yahoo Finance...\n- Advanced Micro Devices (NASDAQ:AMD) Stock Price Up 5.9% - Should You Buy? - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Stock Price Up 5.9% - Should You Buy? MarketBeat...",
+        "sources": [
+          {
+            "title": "What's Going On With AMD Stock Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdUR4RjJ4S2JZQ1dfV3huZUNRb19pVXBSYTdaa0lLeWE0SGl0T3ZnVHU2ZXdkTFFkS3dhQjlfcFJDSXZ0U2hTLVJVc2ZuekZwZTc4WEJyTTRWTlVQTWRLQldmUUR2S0xYTGo2NkVQazk3Q0dQT1A1bmJ2TmRFazdJZTlTbi1SdlFrdTJLNkxUb3BEUDNGaE5rTVk2ODZQc1h2NENZNw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Mizuho lifts PT on Advanced Micro Devices (AMD) Stock - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGN4NDRkVjBlV3ZsOHNENTVNdTdLMURqVjBHVE9xTk52czQ2RGE2cGo5LVVhcDU1b3ZMekQwVkF5VVhLNWRacXM5cjJfQjNSMGpFUDFmRmhqS25XcDJQdnJ5SXl3Y2VBTkZxS1FIVFV5TUotX3I3NnM1cHVHVnB4OE5IVWJUdWUwM0dvRE9kQUdIeWkyWGtraF9zcw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Price Up 5.9% - Should You Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOGI2Tm9fa2ZtT21NR28teUVVN0lTTGNaUnRpN005OUZBSGt5bUVLVHVLRGdVdE54UTVVOXhUUll6Q3ZFa0FvdktVQ3BubDFyWVpzNHcxOGRPay1UNkhEZUpIazEzbnRrbWpvTWYxbGFBYXh0bWRnMjcxQ2JrUGdfX2ZTNm1BcFQyU092VUlDZTM1MlV1ZHpBalRRNjAteTNvNUxSLTh6RkdmMnpLTV9LYlVGNUFwZENJOWFV?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 731.99,
+        "changePercent": 4.76,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology, Inc. $MU Stock Holdings Lowered by HighTower Advisors LLC - MarketBeat: Micron Technology, Inc. $MU Stock Holdings Lowered by HighTower Advisors LLC MarketBeat...\n- Micron: The Easy Money In This Cycle Is Behind Us (NASDAQ:MU) - Seeking Alpha: Micron: The Easy Money In This Cycle Is Behind Us (NASDAQ:MU) Seeking Alpha...\n- What Is Going On With Micron Stock On Wednesday? - Benzinga: What Is Going On With Micron Stock On Wednesday? Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Technology, Inc. $MU Stock Holdings Lowered by HighTower Advisors LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlZocFRMVFJ4OVJ3eGlXMXNJNEtyTUljcDJVWV9wN3kzMXN3RnlKdG1uXzFCRGh1aUhIWldSNEhPX3ZaY01pTVFCYnZUQjE1UXFtUFA4OUNyVVJVR0FFTF85LWR0MFBaMjd0RFNxZU95VF9RVXhETGcyNVBfVFM5aHZXZXdHT1labjJKR25BUXkzY3dNWjBhZWFMaXphN3FfMWxtb1JXaDEyNk9pZFpPamxHNWQ3T0pmbFp1aTRKdGtqTmdrNmlRSldlZG4xdEk?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The Easy Money In This Cycle Is Behind Us (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVVB3NWhDaHc4UUlsUndqSWtmWjJQSVdjQktacnJWajhDTEdYWWVLb2xRR2doQ2RBSkkzS0p2UjJOa0FLby10TWpneTQwV3J3TV9VdElUWS1rdzIwVDhFSXMweFdrdURiSjNwaGRTT3VpYWJfX0dNTlJ3N1Z2QTdzUnJwUnhScklrMWVTdnNEN2xONTQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going On With Micron Stock On Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ3ltVDBLU1A2QW1xVkhwSXNTa2VjenFiZGRNN1NEVF9BVlV1dUItTWQzcGt6TGZZQk1zWFFlaWNuQkV0aFR3SHVhYVVQZ2lHNG5tTHplSzM3cU5xZ0ptMmZBbUpucExiRU5Ta2ZPSmw5UTJoTjZ2SmY4RnBQbFBudFhsMlo0TkZLRkJGWmpCNmVwYnFObk9MTDVMX2Y5UGliX1E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-19": {
     "date": "2026-05-19",
     "lastUpdated": "11:08 PM KST",
