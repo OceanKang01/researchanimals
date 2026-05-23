@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-23": {
+    "date": "2026-05-23",
+    "lastUpdated": "10:56 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 946.9,
+        "changePercent": -1.82,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum: Holding Large Upside On The 3.2T Physics Wall - Seeking Alpha: Lumentum: Holding Large Upside On The 3.2T Physics Wall Seeking Alpha...\n- Lumentum (NASDAQ: LITE) director shifts 4,954 shares into exchange fund - Stock Titan: Lumentum (NASDAQ: LITE) director shifts 4,954 shares into exchange fund Stock Titan...\n- 1,353 Shares in Lumentum Holdings Inc. $LITE Purchased by Csenge Advisory Group - MarketBeat: 1,353 Shares in Lumentum Holdings Inc. $LITE Purchased by Csenge Advisory Group MarketBeat...",
+        "sources": [
+          {
+            "title": "Lumentum: Holding Large Upside On The 3.2T Physics Wall - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnBVVkFzdzI3YndBR0kxbEpSZE5aLXMzdDJzR2RyMTZ5WTdITTJxTWdKQS1EMUcyOElmMEZxNHZKN1NDemNSSERsUzJMOXZ4RHdTR0oxZ25OaHpzMllMSDdZVXJtUFludmZ5WHlrdTJ5V2ZpNkdwU3IxMWdDdEVxZWV5bU1DczdTQ0xBTjRoaFlGaDN6YVI1Y3NKYw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ: LITE) director shifts 4,954 shares into exchange fund - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2ZCdVhmWWRQZnJtWk15eHNFWjM2V2xFNHVJbUNHeTFza0dpcFozZjRFQnlla0lzSWpoQkJxcmZxVlRzWUFGNmdvYUg2bEdLcUZKemVjWXViTDNSSV9pUzVFSUFWTnZ3eDR0VzdfU2ZhWjdRWm9wQXMxWVNHWVFZRVV6RXU2b3RBT29qalByYXU5NjkyYnFnWm5tNHU2aU4yLU5xOEZvbk82dVR6RW5uQTRGTmdVQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "1,353 Shares in Lumentum Holdings Inc. $LITE Purchased by Csenge Advisory Group - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY0hEaGc0Q01xZ1VmcjJkdUZKTVZMVXd0YWRJNHhGQVFodHpsMWpCSV9YZWZyWjhfeGZGb25OanRyclRXbThiZkhxM05KNFZXMkZFT281NVpDaGpBdnozQTVIckNlZURfTTg4bVBXR3g4V3o5VFBQc2lDT24xUWx6Ui1HVWxuVzBhYXlZM0ZIV3l2YU5iS3NmbUlHQmRsak92cTRGUE1vSEZnQlIwMm1uLVBCZVJYSV9PU21rWFl5TE5QbmhfalkzdXRFbC1aamo4S1NZ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 119.84,
+        "changePercent": 1.13,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Is Intel Corporation (INTC) the Most Traded US Stocks So Far in 2026? - Yahoo Finance: Is Intel Corporation (INTC) the Most Traded US Stocks So Far in 2026? Yahoo Finance...\n- Intel Corporation $INTC Shares Sold by Van Hulzen Asset Management LLC - MarketBeat: Intel Corporation $INTC Shares Sold by Van Hulzen Asset Management LLC MarketBeat...\n- Intel Corporation (NASDAQ: INTC) Stock Price Trades at $120 After Doubling AMD's 2026 Gains - foreignpolicyjournal.com: Intel Corporation (NASDAQ: INTC) Stock Price Trades at $120 After Doubling AMD's 2026 Gains foreignpolicyjournal.com...",
+        "sources": [
+          {
+            "title": "Is Intel Corporation (INTC) the Most Traded US Stocks So Far in 2026? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbTVIenlkWWNFb241d0dQMzVlNU5wQWRaeWU0N09IVFBJMzJuSUZuUUc4ZlFoaVM0UmVibVFxOTRUeXpEUnN4dDgtcElPQ0dVT1ZlQlBSdHQxOXNsNGlFMEJaQm0zeFNndXZXS01jb0hYc1ZtLWtRcFo0N1Zwa3B2YmZJS1ZtS0lCLUFia3ZBLXo4RlJHRUxYNkVWQlFpYm1m?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation $INTC Shares Sold by Van Hulzen Asset Management LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMWNQZHhjdURGZTAxVHZzRS12amZzUy00UFBXX2lyRldVYko1X3ZfM1owRkJVSjlzakhxLWlBUTdPLW1rbmxaamFrNU9YVEZ6Tmp3cERRTU5ETk1lYjhQS1hrZTRxNk1LSl9UV1hJRTF2dTV2WGloUVBwWU0tN1o1WWo5SldoRERZUXI2MDZfdHM1d1UxVmgxMjBsaHJ6SG1PcG1VREY2M2pueXpjcUNzQUlyb1RuMG9FUEU2ZkRSQm9SOWpfY2lNNzlR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation (NASDAQ: INTC) Stock Price Trades at $120 After Doubling AMD's 2026 Gains - foreignpolicyjournal.com",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ2hyNnhHY2ktbENwWUJTQ18waS1XN1NOYkZfMV9CaWVPZmU1aFhGT18tT2ZkRUN6RS01V3ZPUVBHZS15eXpjRUc2UnA4dVVrWnhKYzQxMmpHbEV3RlpQbWlLbUxKdzdyclhBeWpZY0pZMFhVNnhVaEsxTDNwVVdpTjQ0N3NCN2RseHF4MlpKWnh3d212bG9FX1ZOa3dlRUJ4NHpiQko1LXZ6eVFKVW1qWGtqZTJGQ0dvNEhVQk4yRV9WaTg3SmtXeVFpXzB5OTlV?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 467.51,
+        "changePercent": 3.99,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Advanced Micro Devices (AMD) Remains One of the Most Traded Stocks - Yahoo Finance: Why Advanced Micro Devices (AMD) Remains One of the Most Traded Stocks Yahoo Finance...\n- AMD Stock Quote Price and Forecast - CNN: AMD Stock Quote Price and Forecast CNN...\n- Advanced Micro Devices Inc. (NASDAQ: AMD) Stock Price Closes at $449 as Lisa Su Speaks - foreignpolicyjournal.com: Advanced Micro Devices Inc. (NASDAQ: AMD) Stock Price Closes at $449 as Lisa Su Speaks foreignpolicyjournal.com...",
+        "sources": [
+          {
+            "title": "Why Advanced Micro Devices (AMD) Remains One of the Most Traded Stocks - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2pja05zS0h5emI0WGhWekM3UFBwblZTWUtUelBzXzNoeUNHU2pRNDNaaFdjVW1GNW96QkFuX3VMS2JObDlsaFRqZzlfV01GVFFOdnJDOE9udG9LUm1EOFBVczV2a2UxZnA4U1c5enJBb1BkR0Y3VVl2a1NRREIzMmZFdklEX2g5S3FEUmRZWUVDeVhRQWc0VGhwSQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndUxfbjJEeVZYMi1wd2lPajZ3LTVYZkF0NVZ2Q1RuNDBPWkhGN184UlFoQ09FdmNBdl8wNFYtMURTNUU0Qm14aWVwcXFuV28?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc. (NASDAQ: AMD) Stock Price Closes at $449 as Lisa Su Speaks - foreignpolicyjournal.com",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFdnVkVld1dZY1RDZm5CMGZMU2xlSEZlUkR2OFFHNkExZkFmcU1hX1JxekM3RWpFQzZXbHFPb1BMV3Q5cVdMaHJ5cHRLVmpFWWpmakxxWU9KTWI1STZCVTdIZGpDTFkzR1RlOUxIbXMyNlZDbVNkRVlscVh1enpjcm9LbjVuZFNFOEV1Q1RKaVhLTWxKSE0ycVY4czNoSWpoeUpTMFVzZkY0cFRWcTl5NmFfRG83SG5zLUVLRGxhbzhhX0x4SXZMN3h3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 751.0,
+        "changePercent": -1.46,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Citi Turns Even More Bullish on Micron Technology, Inc. (MU)’s DRAM Surge - Yahoo Finance: Citi Turns Even More Bullish on Micron Technology, Inc. (MU)’s DRAM Surge Yahoo Finance...\n- Micron Technology Stock (MU) Opinions on Trump's Rally Endorsement - Quiver Quantitative: Micron Technology Stock (MU) Opinions on Trump's Rally Endorsement Quiver Quantitative...\n- Micron Technology Inc (NASDAQ:MU) Passes Navellier's Eight-Pillar Growth Screen - ChartMill: Micron Technology Inc (NASDAQ:MU) Passes Navellier's Eight-Pillar Growth Screen ChartMill...",
+        "sources": [
+          {
+            "title": "Citi Turns Even More Bullish on Micron Technology, Inc. (MU)’s DRAM Surge - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSG45QlFCRndKQ0dsekVpcGpvMjVEZjBoYjQwcTA3djlZckZXQ3hLZ0lLaXV0d2hLY1p3Q1JKNHFhMFl1SFh0OHN4eVZkQUFyQUxlRkx6RU5wdDRzTzRYOUxwZ3haTHZRS0lyVHVER3FJRTNPR2ZPQkFCMDZ4ZFJiNWQ1b1lSelA0OUNWZ0F0TGF5NU0tdG1sWQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Stock (MU) Opinions on Trump's Rally Endorsement - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHlvQ1dsamMwdHFVcGYwM0d1TXV1WTJsRnltcFlybUlYeUgtRWExczMwMjcyLW4tN2hLNTQtWnVNNVZkMTRHVUR6akhTc193VzdYeHd0NDROeXh3dTJFZ2dSUVg0bm0xaDlWazhKYUtvZ1hrUmlMWnY3OF9IUnVZSEJmTjloYndoZzhETFk0MEFzeWxrZ3NtLUx2LWJWMFk4ajF5SFJVNXg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc (NASDAQ:MU) Passes Navellier's Eight-Pillar Growth Screen - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZWh3Z1p0R2gyeDdBT2FTdEEyTGJpSXlDT2xUNWU3MFRUczJaYkRkWGNPdVUwcVdhcTc4OVpRUTRHWTV0ZUlsbzhoRTZFUHluSXl4b2dtN1NOVThfTEhtZmF5eF96YVpXVW1LMEp1TGVGQVZISVNUOE5BY3NrYmVKLVljRlBqcWtVcm9QLWU2LWw2aTZ6R0FBSUpWanppbVJJODY1UFdMMzVfQ19tNlVQVEhDTzBVTWt1T3dHOXdKREo4dXM?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-22": {
     "date": "2026-05-22",
     "lastUpdated": "11:06 PM KST",
