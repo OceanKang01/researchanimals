@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-26": {
+    "date": "2026-05-26",
+    "lastUpdated": "11:13 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 910.81,
+        "changePercent": -3.81,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. $LITE Shares Sold by Arnhold LLC - MarketBeat: Lumentum Holdings Inc. $LITE Shares Sold by Arnhold LLC MarketBeat...\n- Ride The Lumentum Momentum (NASDAQ:LITE) - Seeking Alpha: Ride The Lumentum Momentum (NASDAQ:LITE) Seeking Alpha...\n- Lumentum Holdings Inc (NASDAQ:LITE) Surges on Perfect Technical Setup and Explosive Growth Momentum - ChartMill: Lumentum Holdings Inc (NASDAQ:LITE) Surges on Perfect Technical Setup and Explosive Growth Momentum ChartMill...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. $LITE Shares Sold by Arnhold LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0pzbWtUcWRrUUx3XzMwZzRtTmFaV1pKbzMxREFtZ1pycFhISnBiYTBuc0lnR0lULTZBTnNwcmk4VzBhbTZnU1BhXzM2QXRMYUVwYlBhRWtzOUlva0FKRWM4dnVlcGdyZnlURnJFTHZvUElOWFh6N2Nnd0J3bF82ZWE2S2tlcXVTOUotd1NsVEJQRTA4ckpQLWpnUFJsMjUzZ1dUV0wyNVN0ZHh5MVc5V0VDVEY?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Ride The Lumentum Momentum (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tQUNxMzVlN0ZzYUlyczVKN09jSS0tQjFpNEV0ZFUybl9rSEo2ZmRFT3pOXzN0VTdXUVFiNlNkME16Y2w2Q2Vnb192T2dGMWkxNkF3T29udTA3MDN4OXFiLUpUODFoTjV2elhuN1N0VUdkb3pyUHc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (NASDAQ:LITE) Surges on Perfect Technical Setup and Explosive Growth Momentum - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQnR6ODJXWVZKSWZmLTlveFJwNnBDcnhqZzc4NmE3c3llWjU0Q1NHcXNsTG52akJ1b21teWtmQmxfTGhTbnVRdjVmMUR6Z3JwMnJzcDJ6ZEs1MEJDQ0xuQ1BFdWV0dWlfUVlWNEZ2alBTZHRPZHlRajNDT3JpSEVYdmg5V3FQVEx0eE9hU3JEWUFYd3Mwc1F4b1ZhUXk2UjMtNmhkNF96S21Ua1NJVm0wWEV5eng3dXJ4cTlIT09POFpLM3hnVDRxTk9NQUVtck91MHMtTkRuQm81cXlMOEZQN2xR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 123.52,
+        "changePercent": 3.07,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Themes Management Co LLC Invests $1.60 Million in Intel Corporation $INTC - MarketBeat: Themes Management Co LLC Invests $1.60 Million in Intel Corporation $INTC MarketBeat...\n- Is Intel (INTC) the Best High Growth Stock to Buy and Hold for the Next Decade? - Yahoo Finance: Is Intel (INTC) the Best High Growth Stock to Buy and Hold for the Next Decade? Yahoo Finance...\n- Is Intel Corp (INTC) Overvalued After 3.1% Rally? GF Value Says - GuruFocus: Is Intel Corp (INTC) Overvalued After 3.1% Rally? GF Value Says GuruFocus...",
+        "sources": [
+          {
+            "title": "Themes Management Co LLC Invests $1.60 Million in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOXA2UEFIdm9WRVVHTE45N1RxSnZ6ZTlXZ2VRSERJNUxjNlVudUtBRnJWQkJHZzE0RkJYbXhRX3M2aU5IQXpGd1J0OGZ3dlNuczlpdXllNE1pX3NLQ2FyUVhhUkNIcXg2MlRsaGlIZklNTTY1TkhlcExJc0xYYTM4VTFXUVhlTEdDdmVocmdCNlZZcXp0V3NtcDZWVnprVUdqaHJMcndoYmJfWGFQRG1RVndKVi1lR1hmR3JocGFfN2duZmhPc2lpNUV4bw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Intel (INTC) the Best High Growth Stock to Buy and Hold for the Next Decade? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcElUdUV0blRlTkdqY1JpeXBSYnNtZWxzOXA1NjlzYjBFc2tNa0lhWFhGcXB4a2hqbzM2YXhEZDZiTTlOcFJCQVp0WmpDLWhRaFZRekh6S2JYTU9wUm9mSWVicnJLYkZaRFM0Vl92WUZFMThnMU8xMXNwU1NDY09hQ1hFY3BWQ25VQ0VEVkhTejQ0WExLSkpR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Intel Corp (INTC) Overvalued After 3.1% Rally? GF Value Says - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFRZa3NtMXdZc3VWTkFpZFRDWmVlWThIM0RhUGtqb0g3UFJJX3ZORGg1R3RQTDhJUFdHZ2k3b3JlNTBseFZjRFp6TmNQcmdRM1NKeWMxbDIyblpOc2k4ZEUwR1pXbEVpSmh1TXlMWkFvV3FKTkYyLU9YYXhqam8tVWh4WktpVzJDWkw4WkoxM0VERGFIaXVKWDNmTTFTeWcxWXpYZV9lVllwSHpG?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 503.89,
+        "changePercent": 7.78,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices Stock (AMD) Opinions on NVIDIA Earnings and Computex - Quiver Quantitative: Advanced Micro Devices Stock (AMD) Opinions on NVIDIA Earnings and Computex Quiver Quantitative...\n- AMD Is Up 5% Today: Is It Outperforming Other Chip Stocks Like Intel and NVIDIA? - Yahoo Finance: AMD Is Up 5% Today: Is It Outperforming Other Chip Stocks Like Intel and NVIDIA? Yahoo Finance...\n- What Is Going On With AMD Stock On Tuesday? - Benzinga: What Is Going On With AMD Stock On Tuesday? Benzinga...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices Stock (AMD) Opinions on NVIDIA Earnings and Computex - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEE4bHg5QWNDUDBZSC0temZucGo2eE9zaldGVnNja1lIQjU3LURCOUpyUVBiZkJJTkViMW1IWkk2N2V1S2haNFZDd0NPVElaWTJ4LV8wcjE0ZEVsemthdmRUbnFSd2Q5aVB2TWZRMGxHTHpxejh5UEstWmQ2QkZsUFN0Ylp4OHRBQV9zYjVrN29aak93dENiQ2JURkRxMzltdlpxa0hIV0RnbWVtVmE3N1l3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Is Up 5% Today: Is It Outperforming Other Chip Stocks Like Intel and NVIDIA? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHpuR2pXc1JycFlIYkZVTkZxcDNnSWZPOVUzOVNtUGpJZ0kyN3c2dTV1bFFIX00xTmtkMzIyWXFjWjM1V0lkNXhmRGpYMldYRU9nVUFrMzZEMEZZcXJKdEFhY3dhcEZ4Z3FUcVc4TG9wV05lczZERVBkc2xnUVh6TjdIR1ZMR1ozWV9rS0Rvemh5ckJSS29xU002Ti0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going On With AMD Stock On Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0RPYTBuSTR3NmFLMjZKTnl1OHkwb0pybnFvSjlTQjVyZmVKcTVzSHRJdWFaSmRBaFZwaWNGd21OOUowOUFjeF9mMFFJRHljU3UzNERGQTVfZW5MZW9vR2tiV0N5Qmp3amMwY2hNUEZrMWFFQUI4VVd3WklqcTFycnN2RWc0Sk1SM19nVkttNTJmdmJJeW5KTDdtRHA5UQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 895.88,
+        "changePercent": 19.29,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Micron (MU) Stock Is Up Today - Yahoo Finance: Why Micron (MU) Stock Is Up Today Yahoo Finance...\n- MU Stock Quote Price and Forecast - CNN: MU Stock Quote Price and Forecast CNN...\n- Micron Jumps 12% After Price Target Raise From $535 to $1,625: Here's What's Driving Wall Street's Most Bullish Target - 24/7 Wall St.: Micron Jumps 12% After Price Target Raise From $535 to $1,625: Here's What's Driving Wall Street's Most Bullish Target 24/7 Wall St....",
+        "sources": [
+          {
+            "title": "Why Micron (MU) Stock Is Up Today - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0NMWEx2MmxVaWgzdHQzMjdzXzZ1Qzl0RklnaTB0VHZDUXFBVnhMVlV5OTE1RzV3MjI0MVluWGFjTWRDcURYMkZqcmc2VFlzNDRpQ0xaRGM2NUtvZ1VqYzFzVzdhdTZSSFRjZ2NkSzl2Z3BEQ0RLWXZGd1ByZFNTRUlTcnJXZTM2VkREYXlEeWlxWXo2?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12OGhUSWtGTk9iWTJqbXhwZ2hpa25tNUxnRWlMam1RYkNBckpUdlVCMXgzY2ZDbG1HUkdxeFlUMWRkZ3ljR2xXUkdJb285UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Jumps 12% After Price Target Raise From $535 to $1,625: Here's What's Driving Wall Street's Most Bullish Target - 24/7 Wall St.",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa0VGNV9tb0RVaEY0b2REX29WTXJkS0d1VnU4TE5Pc2FISS1JdU51XzRTdEd3cnVwbVA1aXJpZzRVRjV1YlRkOWo5YmdlVDNnLWg0TkFmX3phYUdEVjljUGY4Ri1wSVN1RTRTVXRBRnUwTEF3Q1lxbTBTVzV2Q0ZGd3NLMWhHMDQzWXZaNF9yMHFNZHY2OV91c2U1N1N4amxKYkFsS2VYVmg2dVozc2FsRXVlaDAwUWdIcFNvd1dQSVpWcF9NNUpaRmhwbjZaU0NHczgwYjY4NTRjNUI4Uk9ESUQ5ekwxSTRTbXc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-25": {
     "date": "2026-05-25",
     "lastUpdated": "11:10 PM KST",
