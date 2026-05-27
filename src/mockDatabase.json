@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-27": {
+    "date": "2026-05-27",
+    "lastUpdated": "11:20 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 902.31,
+        "changePercent": -0.93,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Penn Capital Management Company LLC Sells 3,138 Shares of Lumentum Holdings Inc. $LITE - MarketBeat: Penn Capital Management Company LLC Sells 3,138 Shares of Lumentum Holdings Inc. $LITE MarketBeat...\n- Lumentum: Purchase Obligations Are Exploding And Here's Why That Matters (Rating Upgrade) - Seeking Alpha: Lumentum: Purchase Obligations Are Exploding And Here's Why That Matters (Rating Upgrade) Seeking Alpha...\n- Lumentum Holdings Inc (NASDAQ:LITE) Surges on Perfect Technical Setup and Explosive Growth Momentum - ChartMill: Lumentum Holdings Inc (NASDAQ:LITE) Surges on Perfect Technical Setup and Explosive Growth Momentum ChartMill...",
+        "sources": [
+          {
+            "title": "Penn Capital Management Company LLC Sells 3,138 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV25jSG9ZVFAzZUpJSnV6MDVyZnhiMk8xVjE1UVhYYU1JSTlwWFRxcml1YnNmbU9mX3BxYldSRFhFMjk4M0NsMnl4eDRYQ3BNVGxncDFkTkc2VDFsZE16ZmRZcUFCQ1p3QThhYzZBMXlhZXYtNUdXOTFPRFg3ejk2UzRCay1GU0dDTlNPNHJtNmJBamQ3bzY0ZHhvYmNVM2lJVjRlTzZ2cl92R0w0dmxhZW1DZWdWUUFORVAxcjRnS05WYWljQllIbjZNVElVWGxady1IN1dRMnd3MWZn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: Purchase Obligations Are Exploding And Here's Why That Matters (Rating Upgrade) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTVFZQ3NjbHlRUnRGVWt0WlNCc3JkcWE4eV84OW40OUcyUW4zcHZQU2JDdVBTLXVXR09rODFDODQtYlRsUjgzZ3lNUGFTNVRkaHFZeDRmVFh2MjlUXzh1VzBxRjZkY2oyVFIzVl9NV0xDWW1vWW9EeGYxeXlBM2N3OWh4Yi1uMnRwUGlTNUE1UDVIX3NaUmJldHg0ZnQ2N05WUjN3UzQyc1o1ZG5NemsxTA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (NASDAQ:LITE) Surges on Perfect Technical Setup and Explosive Growth Momentum - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQnR6ODJXWVZKSWZmLTlveFJwNnBDcnhqZzc4NmE3c3llWjU0Q1NHcXNsTG52akJ1b21teWtmQmxfTGhTbnVRdjVmMUR6Z3JwMnJzcDJ6ZEs1MEJDQ0xuQ1BFdWV0dWlfUVlWNEZ2alBTZHRPZHlRajNDT3JpSEVYdmg5V3FQVEx0eE9hU3JEWUFYd3Mwc1F4b1ZhUXk2UjMtNmhkNF96S21Ua1NJVm0wWEV5eng3dXJ4cTlIT09POFpLM3hnVDRxTk9NQUVtck91MHMtTkRuQm81cXlMOEZQN2xR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 121.77,
+        "changePercent": -1.42,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC): Buy, Sell, or Hold Post Q1 Earnings? - Yahoo Finance: Intel (INTC): Buy, Sell, or Hold Post Q1 Earnings? Yahoo Finance...\n- Intel Stock Faces Downgrade as Northland Capital Markets Warns Over Data Center Spending - TIKR.com: Intel Stock Faces Downgrade as Northland Capital Markets Warns Over Data Center Spending TIKR.com...\n- Royal Palms Capital LLC Makes New Investment in Intel Corporation $INTC - MarketBeat: Royal Palms Capital LLC Makes New Investment in Intel Corporation $INTC MarketBeat...",
+        "sources": [
+          {
+            "title": "Intel (INTC): Buy, Sell, or Hold Post Q1 Earnings? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYVhpUlMyTm1PdnhzM2tpS0t5Ry1LRGE5bFV6eU9KZDVwWjFiZjdGNXVEYXExY2pnbDR4LTJKbzhrYTM2MEp4dm03eEctWWh6aFZmMjRPa04xN3lmWHdUelZYbElPcElRUUtPVHF3SmdueE0wekRnb3BaZ01iQ21tVGhyVVdISkxXUVpvV1Nwb3FtSE0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock Faces Downgrade as Northland Capital Markets Warns Over Data Center Spending - TIKR.com",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTTlQUVJUTjdIUHh5d00zUEpqMFBJd2ZYTmpSblNoZ3lBMGtrc2ItclVvTVJwOTlNMUdPVktjamR6V01YS1RzNDh3Wk9jTEZ0TmVkdC1qTnFmdXgxY1BJN0VBWVJfMXU2cmxmQWVOcDA2WlpJS1pTb1hfcWxDNXg5TVI3bmV5UzVDUXZVcFE1SDgtRXkyNVF0cHNjQk1EM1ZKeU44YVd0UEtRWV8xWFFCbzVQU1N2d0JUQmxFbGRKSTVkcy1E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Royal Palms Capital LLC Makes New Investment in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObVdScWRqRmpzWFQ2dWlFQTcxNFNIZ01NVDVKTy1UWjh5OXZjQzdDc0o4SnVlb2dDcEhENkJab1gxV0FTVlZLejVoc0ZfdHVsclR5S0JEQmFaSnhSOHcyODkxX1lfOFhIVG8wbEtBbGt4bDlmU2dwUGh1UEZWLVJfMGRSX2RYZTdtVDJQRkMxYjNVYjZKZG5HY3dIcFBVREVsNW9Ub0syd242a0RWYW92dklKbDdxVWNwQ2E4cy16SnBlSlI0TWNHeDZWNA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 495.54,
+        "changePercent": -1.66,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD Stock Quote Price and Forecast - CNN: AMD Stock Quote Price and Forecast CNN...\n- What Is Going On With AMD Stock On Wednesday? - Benzinga: What Is Going On With AMD Stock On Wednesday? Benzinga...\n- Williamson Legacy Group LLC Makes New Investment in Advanced Micro Devices, Inc. $AMD - MarketBeat: Williamson Legacy Group LLC Makes New Investment in Advanced Micro Devices, Inc. $AMD MarketBeat...",
+        "sources": [
+          {
+            "title": "AMD Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndUxfbjJEeVZYMi1wd2lPajZ3LTVYZkF0NVZ2Q1RuNDBPWkhGN184UlFoQ09FdmNBdl8wNFYtMURTNUU0Qm14aWVwcXFuV28?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going On With AMD Stock On Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVXZHV2JvQVZmWkpScnlXVTFtb1hMY3dCOGFpemtocG5SbHNIYTZNcEFCc1FNU2IwZHpxMzdMcTNHTlZQTGtlSGs4LW9KX0kxNjY1R29YTzFQVDlBYzQ2bGR3WjQ0VVhSMk10aVoyNElYdFBIYjhiYmRGdlhncXdkQWJVNzhmUVVuZkp2SXZUVG1NaGN4SlQ2YVo3aXZXdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Williamson Legacy Group LLC Makes New Investment in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORTBRWURQbktmeFI5ZzdzQ0c3azNXaGd4MVBGMzJ2bjV3Vi0yS0xvVUJKREpSUkdFOFpDend4NGJ3ZkFyejA3UEtpUGtJcGF6bmtfaVdjUmRtdU1NcU1yMmhqcXhOU0pPWVFlOGtSVzRWZUVteThicU04dzJYb1lnWHhMX3BFcnhCZ0tZOFBNOTgwZDJKU2MtMHltUHVMNUMtVG5Qbm1lZHAxdDFLVkJLUTc3Z3Fia1c2WkVDVTlKQ1NsVDg5N2JTa3laRjB0VEhjLTFrZGJacC1XaTg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 928.41,
+        "changePercent": 3.63,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron stock jumps after company tops $1 trillion in market cap - Yahoo Finance: Micron stock jumps after company tops $1 trillion in market cap Yahoo Finance...\n- Micron sets June 24 date for fiscal Q3 earnings webcast - Stock Titan: Micron sets June 24 date for fiscal Q3 earnings webcast Stock Titan...\n- Why Micron Stock Keeps Going Up - The Motley Fool: Why Micron Stock Keeps Going Up The Motley Fool...",
+        "sources": [
+          {
+            "title": "Micron stock jumps after company tops $1 trillion in market cap - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeDlyVkpGOFQyMENRZXpacU96NUprb0VUNmFRSmtOLVQxcjlUR2xOZk1hSHlIUkV3Q1FLc0ZxMjhSbDRpMXRLUjhSVjFrV081TEtEWWQtbGZ4OFRPeHRTMTR6WTAxd3Q3eE91X2hMNW5rcFI3Q09zNWFZeWpMZUVCeXNhdk9MWHhqM3dHVFZlOUJ1SkRHSmR1NU5wNkdUWUxrb05McklTYjVkMmpUd0Z1WDQ3UmhKR2sxQ1Nz?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron sets June 24 date for fiscal Q3 earnings webcast - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS0VMWU1WcmpqV29nNVNNWk9CVGg2QmY3bTlOTnJrU01zOGtnVmxodi1OVDlWck5oMzV0dEJKRm1ZZ3JGV05yM1J5bm5DVWxpVVlLUGZOZEEtRnVVeW9famhrMktqYzIwLVdDa25mTVA0akQtZFRxUHlseElWTjB4UERyZS1DUTNHem4ybXBIQlBuVTkyWWV6NVR4NjdOcVRxYlMtaUo1WU1MSC04RzV3WDJ1dkVCRFMwLXZ1Mg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Micron Stock Keeps Going Up - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JWmEza09QS0sydlExd2pQQ2Vid2x6S3B5c21jZHpibW9WVFVnWVlBWHUwZUR4Q0I4LVYtQzk2U0NORkhOaEJvRzF4amRVYnFVX1Q2VGFmSW4zdnFhY1MzTF9DY0NIZ2RKWGxtbmNKRDhseUZCWG41ZFBhcmJQS1k?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-26": {
     "date": "2026-05-26",
     "lastUpdated": "11:13 PM KST",
