@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-29": {
+    "date": "2026-05-29",
+    "lastUpdated": "11:17 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 854.96,
+        "changePercent": -0.66,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Stock (LITE) Opinions on Recent Photonics Declines - Quiver Quantitative: Lumentum Holdings Stock (LITE) Opinions on Recent Photonics Declines Quiver Quantitative...\n- [144] Lumentum Holdings Inc. SEC Filing - Stock Titan: [144] Lumentum Holdings Inc. SEC Filing Stock Titan...\n- Thoroughbred Financial Services LLC Acquires New Shares in Lumentum Holdings Inc. $LITE - MarketBeat: Thoroughbred Financial Services LLC Acquires New Shares in Lumentum Holdings Inc. $LITE MarketBeat...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Stock (LITE) Opinions on Recent Photonics Declines - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGJmZWFhTFB5OHZPQmRaTHlTSjVfRTRzRHVwdkZQTzVOcXh1SW1FRjhEUzFnZmVPTndOX2l4VGRJV183OWY0VmlVWm0tUG55VzdPcGlQdTM4VTdLQk51Ym50WmZTVlRHT0NYNkNnNTQ5SHV0WlZSUm9ha2VTWDlsYUNvZWktR241X2o4UFdMRFZoYlY3X1l5NkliaTcydUVQelVoZ1V2Wm0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "[144] Lumentum Holdings Inc. SEC Filing - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcTVPT0RkR2xYMzdhd1B3anhLWlZWLU5oUEExcGVoX2RHamRISDE5aHdHanViVTdiNXVkU1RQTzZNdElhM1JtRlhnZXR5VkRDWmJUXzdlSTFWVWhZTDlhZkdYWlN4dFhIZzk4RmwyUUs1Nl9Dd0JTUTJSN0tmY05ma3lLSXoyMmJiM2hOVjd1X1ZVd0d4R3IwQlFqVXA4ckE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Thoroughbred Financial Services LLC Acquires New Shares in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUDM1ZmxsWWlGSV9adXlKdWs0QXlCd3FhejRtT1hfR2t1YXpUSzlKdGJLYVRza3dBeVV2dFZPR2RJczBOZktlSTRRQ0NSX0pGLXZEdDNmSFQtOWFFT2dQVUQwX0JGNmx3bDlVWXdhNC1VbzlaUVZmbVRaYXJHMW51ckZRMGtOck1vWGRyb0RlVWlZT3NOYkhLWVZXT0dSb1pmZFA2OWh6bWxOeEJLRU9xR1NZZll6cjVMcjN6QXJpNTRFUEMxOWcxMFlBOXR6ckhXdV9aYTR1dEg0RzVGVFV3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 114.68,
+        "changePercent": -5.14,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (NASDAQ:INTC) Stock Price Down 5.1% - Here's Why - MarketBeat: Intel (NASDAQ:INTC) Stock Price Down 5.1% - Here's Why MarketBeat...\n- Intel (INTC) Stock Dips While Market Gains: Key Facts - Yahoo Finance: Intel (INTC) Stock Dips While Market Gains: Key Facts Yahoo Finance...\n- Intel Corp (INTC) Shares Fall 4.8% -- What GF Score of 67 Tells Investors - GuruFocus: Intel Corp (INTC) Shares Fall 4.8% -- What GF Score of 67 Tells Investors GuruFocus...",
+        "sources": [
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Price Down 5.1% - Here's Why - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSDZDbFNiYjBHeFdXcVVzMWZLeHFwN3pLaTRKMVliTVhmbGxIRW1rTmRLeW5GVHptcmk2RzVCODJEdGZybGxiajFYTWZUMkZVaW1TanJzNXdEc09HeDFvb2djcVR1amt0MjhlM29EWldLWkl0NG1DVDBkWlBUVHVnR0dtVlN1czE5Vm9qUlFlWkdUVGwxYVRKZmNxbUI4cWtHUlE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (INTC) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLUlpUTg1eGZqRXRZbHE0R2dIZUJRdi04UU8zRnNpZDZDcUNyR0gxMkl6OHFERTNWcm1yNzhieEk1WFIwQVlFSmVIVUl1ZlBpY3dsYXp5TzZ4bFNWQXdCVEF5UWVHbG8tV1cwTUw5U290WTVaZmFocmI3YzBpLVp3TFRpcWMtTmdsaTR5RnE0VjY1ZTRNcHEw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp (INTC) Shares Fall 4.8% -- What GF Score of 67 Tells Investors - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzZuR2ZWYkxDSjRLSjFhcmthSmNiUXEwYnB3ZXJ2MWp2dUM0VEJkZGd6eDZNSWhONDBXMkIyaDdydXB0Rnl0d2xPbjhJTTJ2V0ljOUtaNjl5WHYxM1lLdnp6UUVFVWNzNUc4VUJjVzVhdkJDcUlDVWl3Q1NwU194dEVNNTJpanFlc0d3WlRhY1pjOVkwcHQtMVI2UVhKTEhHalFTZjRtRHg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 516.1,
+        "changePercent": -0.38,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD Stock Quote Price and Forecast - CNN: AMD Stock Quote Price and Forecast CNN...\n- [144] ADVANCED MICRO DEVICES INC SEC Filing - Stock Titan: [144] ADVANCED MICRO DEVICES INC SEC Filing Stock Titan...\n- AMD: Ring, Ring - The Top Is Calling (Downgrade) (NASDAQ:AMD) - Seeking Alpha: AMD: Ring, Ring - The Top Is Calling (Downgrade) (NASDAQ:AMD) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "AMD Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndUxfbjJEeVZYMi1wd2lPajZ3LTVYZkF0NVZ2Q1RuNDBPWkhGN184UlFoQ09FdmNBdl8wNFYtMURTNUU0Qm14aWVwcXFuV28?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "[144] ADVANCED MICRO DEVICES INC SEC Filing - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYkgtRUxxOURhWjBldklOSWZ1TlltZW5mLXdTU1dpdS1EbDFDZ2M3WFN3bDgzcEMtMHpiWW12Qno5ZU41QVkzYlhxVTRiZ0RNR01SM1NsNlQwN1dlbHRKZUN4MFBaNXRFenF6c1U4bkd4Ulc5X21qdU5WLUxZRlBLT1B2Nzg0c0U1VDUwcHV4WHQwRXdNLVk3NXM2bHlDUTBYUlpwMQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD: Ring, Ring - The Top Is Calling (Downgrade) (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONnFMOUVycFB2MTZaYllQMU1EUUJ6U2V6TkNNeDZxOWlIS2RQT1dVTFRNeENsTTVIYm0tbnpqeTN5VFZobjBxQldnQk4tQzFXN085OENnUEpPbW9RX2pOSVVpX0dHdUswVUM5YnhJX25icXdMeGNOZTlhSWpTbXFHQ1JvX2VEY2dJZUo0?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 971.0,
+        "changePercent": 5.14,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- MU Stock Quote Price and Forecast - CNN: MU Stock Quote Price and Forecast CNN...\n- Micron Technology, Inc. (MTE.DE) Stock Price, News, Quote & History - Yahoo Finance: Micron Technology, Inc. (MTE.DE) Stock Price, News, Quote & History Yahoo Finance...\n- This is Where Micron Stock Will Trade in 5 Years - 24/7 Wall St.: This is Where Micron Stock Will Trade in 5 Years 24/7 Wall St....",
+        "sources": [
+          {
+            "title": "MU Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12OGhUSWtGTk9iWTJqbXhwZ2hpa25tNUxnRWlMam1RYkNBckpUdlVCMXgzY2ZDbG1HUkdxeFlUMWRkZ3ljR2xXUkdJb285UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology, Inc. (MTE.DE) Stock Price, News, Quote & History - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wbURZeVBhZTBCWjA0MC1tdGNwSTVNVkswVUtaMEVYenB4RTMwdEJiMTc3S3Z3YWhfTmdlQzZJZ2hTQ0R4TFRub0UzUXcwQVEz?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "This is Where Micron Stock Will Trade in 5 Years - 24/7 Wall St.",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkZKRUhnM0RPNllTZnZ0SlFjbmFhcEVXM1BEa1JpdzFqNEp6OVlsenc5dEdVeU9oTUZ2QncwUXJwVy0yX3RYaTA4MnNpQ0hvelpaSUxBTFZDanByZ0YxVEJsRjZOR3FaTmlCQXRQVmtEd2xiZXJxcUZjV29Yc2ROVUl0WERjdVM2ZXlTQnFLSmFZV2d0dDNZ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-28": {
     "date": "2026-05-28",
     "lastUpdated": "11:21 PM KST",
