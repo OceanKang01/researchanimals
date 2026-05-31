@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-05-31": {
+    "date": "2026-05-31",
+    "lastUpdated": "11:05 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 854.96,
+        "changePercent": -0.66,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Nomura Asset Management Co. Ltd. Buys 114,714 Shares of Lumentum Holdings Inc. $LITE - MarketBeat: Nomura Asset Management Co. Ltd. Buys 114,714 Shares of Lumentum Holdings Inc. $LITE MarketBeat...\n- Lumentum Holdings Inc. (LITE): Leopold Aschenbrenner Registers Bearish Activity - Yahoo Finance: Lumentum Holdings Inc. (LITE): Leopold Aschenbrenner Registers Bearish Activity Yahoo Finance...\n- Lumentum Holdings Inc (LITE) Shares Fall 4.6% -- GF Value Says Still Overvalued - GuruFocus: Lumentum Holdings Inc (LITE) Shares Fall 4.6% -- GF Value Says Still Overvalued GuruFocus...",
+        "sources": [
+          {
+            "title": "Nomura Asset Management Co. Ltd. Buys 114,714 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTHFKbkhfZWRIRXRYNWxVUTA3SVY2aWdOM2JBVVd3THZsZUtzd0pPM3ZqOVZVdkNMRkNWUkNXMUVPV1RIWEh3QVp6WktKRFU1dHlhV1E1UEZmTFJfb2JWZ1hjVjQ4eWgzUkIwbWptUzVkMThiQ0tzRGRKaDgzNDgzbHRoclQtV0ZXQmgxTS1ISVNlQ0pNVnVGcnVCdmhpX0dlTUFMTGo5c2I0WGVqYlJSNFFVNlJwcEkzSmRvSmhpdFR1Zzl1UThfd1F1UUptdm55Mk5pMm4tTQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. (LITE): Leopold Aschenbrenner Registers Bearish Activity - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNk5ueVJjdkRqbUt2UzY1eUpiR2tFMXg1UGtscGwtNWktX0pQQ28tbW9FaE9hWHcwVjFlV3RhYlZLRGRuVmNJaTZZV0dCcmljcllfMEZXVHlKYmQxajBZYkluQ29qd2tsSEZuLWpGeUE2cUpfeXc3T09XeS1qN3dCTFBTcUdaMVFpZDBNZ2JqMFNYWGFLNHE2VFV4OG9seTFl?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Fall 4.6% -- GF Value Says Still Overvalued - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ1hXV1VuYUhqVlB5WjdsRzR3Rko4ZXE2QTlPLW1waWJweTJ1ZC01UEdhMzlhb0JuRXk1eUJBbnFiR3Q0aFJ0VERFeHhiRXJwdm1uU3FtN1Ewal9CbVZJZGhGVnNuNWt1b2VKbGM1VmctWjB2WnlGdHFuNm84TExOa3pHMHFjRjhkYXVyY19CZkRGRG5DMVpXVlQwSVdSWk9oSF9Ed25WNWdTSHNhTDZTcUduS3gweFRLSGh5VnYzU3Q?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 114.68,
+        "changePercent": -5.14,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation (INTC): Leopold Aschenbrenner Is Not a Big Fan - Yahoo Finance: Intel Corporation (INTC): Leopold Aschenbrenner Is Not a Big Fan Yahoo Finance...\n- INTC Stock Quote Price and Forecast - CNN: INTC Stock Quote Price and Forecast CNN...\n- Nomura Asset Management Co. Ltd. Buys 147,573 Shares of Intel Corporation $INTC - MarketBeat: Nomura Asset Management Co. Ltd. Buys 147,573 Shares of Intel Corporation $INTC MarketBeat...",
+        "sources": [
+          {
+            "title": "Intel Corporation (INTC): Leopold Aschenbrenner Is Not a Big Fan - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUzVnUnM4NW9TUGlpY0xVQmtYUGphV2lRZEF5SHFmcGNyYlJXSmJMTXQtMDNPZzE4aWYxVVU4ek9lSlhOZk5FVDEybUZmRE1zUWhoR1ZvbXQxeW9hWEJRbS1qRGFJR2FPcWI3ME5fbEVVb3RoUUNmX05ldnBZcU5JM3Z4Tjl2amRwcGVvYmFQb2wxMnhmMzc1QUozWmtHNHIwRGZzWTdyelJKemc3TEE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lWkZjY0djMFFwSUlhcXJYVkRXQlptNHppd1R5NFlzSm9UckZacWJERUZpdWw5WlViaENhblBac0hQZ3BNdmZUZ1VONmU1dHp2?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Nomura Asset Management Co. Ltd. Buys 147,573 Shares of Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN2k2WlZOUUZ2N2RkTjJpS256RlBTMmR6eUkzMi13aVFKRXZpODJfcVZZNDJoMEZvVmJUeHdvVDJhZDF2aUI5MU1Ddm9FdEtVdmJ1NUJmeC04U2trSkJxT2hfd0lENVpKMTNUWGM2OFR4MU1aMHlLWGhMeXg5eXZaTXhhOVNFQzNKOFU0eG1DUUZtTERfdjhVWlg3bmxGNmI3YWdpeUZuQ2twdDFwOHNSTlhQRU9SNFUzdzRDOFQ0YjRXZnJYSFIyOFZiWVRsbGdZZEE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 516.1,
+        "changePercent": -0.38,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices Inc. (AMD): Leopold Aschenbrenner Has a Bearish View on This Chip Stock - Yahoo Finance: Advanced Micro Devices Inc. (AMD): Leopold Aschenbrenner Has a Bearish View on This Chip Stock Yahoo Finance...\n- AMD Stock Quote Price and Forecast - CNN: AMD Stock Quote Price and Forecast CNN...\n- Is It Too Late To Consider Buying Advanced Micro Devices (AMD) After AI-Fueled Surge? - simplywall.st: Is It Too Late To Consider Buying Advanced Micro Devices (AMD) After AI-Fueled Surge? simplywall.st...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices Inc. (AMD): Leopold Aschenbrenner Has a Bearish View on This Chip Stock - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVkNuc3I1OEQzeXJJeHZJRzFYZGdMX3pZT2xxVlpwRnR3LUd6cFhBYmJNcEU5aEM3eVhpd3JleFBsWjBvc2ZQbU5YcnNKeDJLa2tGMlI4ZHFLUFhRRXRscDBTdXhNRFhaUWZVenBzTlhjNTFmcWpvbE03U0dDUnBPSGJ5Skk0Nk43X2x6NFR5VDJlbkhEMFZTcXhzUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndUxfbjJEeVZYMi1wd2lPajZ3LTVYZkF0NVZ2Q1RuNDBPWkhGN184UlFoQ09FdmNBdl8wNFYtMURTNUU0Qm14aWVwcXFuV28?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is It Too Late To Consider Buying Advanced Micro Devices (AMD) After AI-Fueled Surge? - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYTdRT29tZFNKLVBsNTdRNjB3YTJEMlBnZEZpUS1LVkdxVnJhWnhpMUY3a2NpZk9vaUNXNEZEUHlRM0RRdUlyaTN0QUdiZmRnbVhfQUpDYzZndzdjd2JqT3VpM254cHFhWjVXZjd0WlpVU2xiaXRsX0dhWHBaaUpZMEdxanhlU3ZZaXhpc3dfZjNRd01KNnpwZlZObUdfOU1OQ0h6aWVkVXc1R25jbzU2ZFc3YVpUZEw5ZUtXRmtlZUFSa01TdS1IYXRIbVhGdzlpQlJoc0p2dmZPWGRfZFZv0gHkAUFVX3lxTFBrdl9DRHNuUlpvaFZaQVZpQTl3TUhZQnhtTXpZaEpMdVZjekNtRk1ybXJxYUlGWWhscWZEdjAwck9WcGp2SnBXam9RN3kxM2NKbkNCTVlJd2tzTHdqdVNCWUdPdk96R2RqeTNyeTZETGRMMy1UMTlnN1V5cVkySnl5amtBdTZ3ekQ4Y1dYQUpHcjdlSDJ6SVV0clZsYURmTF8xZEJPeDVSNTJiMDdCY2draXVJeVZiRUlIQzNVd0JVYUhxNFdzZHJfay1HbmNHRi1iTFdDUWJNY3dGbmZfa1dsUWpZVQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 971.0,
+        "changePercent": 5.14,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU) Surges Amid AI Optimism and Market Resilience - GuruFocus: Micron Technology (MU) Surges Amid AI Optimism and Market Resilience GuruFocus...\n- Is Micron Technology Stock Outperforming the S&P 500? - Yahoo Finance: Is Micron Technology Stock Outperforming the S&P 500? Yahoo Finance...\n- Micron Stock Is Cheap, Say Wall Street Analysts — Even at a $1 Trillion Market Cap - Benzinga: Micron Stock Is Cheap, Say Wall Street Analysts — Even at a $1 Trillion Market Cap Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Technology (MU) Surges Amid AI Optimism and Market Resilience - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWV9KMHQtenZjemllaGJOZzdkV3ZkbFlnNThMTUZ4ZlBfU1NJNmFjLW1zaUczN2gyYVljM1lIYU9UeW4tbzE1SzFmUjBqaDdoMXN5QnhOblVxQ3lIVVpJbERMbG5MejVtTmZaWFVvR0JYR3Z2U2NvZW5JRWNvRWg1UUt2WGNjSXhlOVBvT0s4ay1QZWF5akZZenR5Rl9SMXpvZmprMHFJbWc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Micron Technology Stock Outperforming the S&P 500? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUNycXFQMzJaT3E4U1RpSG5XdjlUNjBZS0pjbk45RG1HbFB5bEFRVUE4ZHhaeDBXdnVGNmZpWEFPQm1YRnlkaUcxU2VhMW5IZVFXYklTTV9IZG0tbFMzM0lCR0dPNEpxM3JwZHIxblBSVnpwWU5ucU5MdUdCNVEtWXBUZDluRGdob0RjNmlnZkpDZDJDSEotc3AxQVpOTTdyNVVkTWUwdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock Is Cheap, Say Wall Street Analysts — Even at a $1 Trillion Market Cap - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVGpSNDB5bEZISFVQY0IwRXB3UEstbjRia3pNRkhTcC04YThob2h0VG5vZE5zMm9kMHdsYmNET1VUVlg5dmMzeWZtV0wwT3VrcXhFWjB6YjRUbDk4d05sOUdhS1VkNWpFUlZxSEhGc2pjeWh6SUQ4WTlJN2REM19TeXJBSEd3bVFjNjFlbkJNeVQwOGNjY2MtOXg4ZGpnWWRnalNCa3lfTHRSNi1SOTQwY2JUb0paclpPS0FxMGpxQ3pxVHdKT2ZMYTFsRUl2OEhw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-30": {
     "date": "2026-05-30",
     "lastUpdated": "11:03 PM KST",
