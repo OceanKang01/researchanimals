@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-06-01": {
+    "date": "2026-06-01",
+    "lastUpdated": "11:38 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 905.0,
+        "changePercent": 5.85,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (NASDAQ: LITE) to exchange $650.4M 2028 notes for stock - Stock Titan: Lumentum (NASDAQ: LITE) to exchange $650.4M 2028 notes for stock Stock Titan...\n- A Look at Lumentum Holdings Inc (LITE) After 5.8% Gain -- GF Val - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 5.8% Gain -- GF Val GuruFocus...\n- Lumentum Holdings Inc. (LITE): Leopold Aschenbrenner Registers Bearish Activity - Yahoo Finance: Lumentum Holdings Inc. (LITE): Leopold Aschenbrenner Registers Bearish Activity Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Lumentum (NASDAQ: LITE) to exchange $650.4M 2028 notes for stock - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTnlfVWdjM1drZFN4bFlzNnRZZnBSallWaEh0WEkySGkwTWtKRnNueDlaWEtjZExma1h3LWI3aDgwRWdwQnI5LVFnVmdGbTZkalo1QU8zRFY3SEZNUXNMSlU4WUhra2tyNW1FbDJtX2lzXzZSTVZFaXFUaTlVZzRUaGk2aTFDRmxmRDZtTjVCV2tnajd6ZzBwamttamhvRGE5RUJDMkdQLW9aRWZLdmY0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 5.8% Gain -- GF Val - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcVNYSzlhMGthTWF2bUw2b05tTUZLWmZiV3R4T1pqREZSa0t4NlA3OHhoN1drYWxUeHBLcWhyQkhHUlZ1T3dIX3ozUzBlQVNQR29lUHFZTzhqLVhjeDg2Z1hSNGh1OHRzejNZSkhRbEJEalFzQ0pVbjJjMDRWcTE1OTFNeG5YM2VuSDgwTTVvY0I3QXNvVDVQbTE0blMyWm9zMmZacnZjMTlrQm1RcXZxZWdnaE5LNDE2bWc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. (LITE): Leopold Aschenbrenner Registers Bearish Activity - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNk5ueVJjdkRqbUt2UzY1eUpiR2tFMXg1UGtscGwtNWktX0pQQ28tbW9FaE9hWHcwVjFlV3RhYlZLRGRuVmNJaTZZV0dCcmljcllfMEZXVHlKYmQxajBZYkluQ29qd2tsSEZuLWpGeUE2cUpfeXc3T09XeS1qN3dCTFBTcUdaMVFpZDBNZ2JqMFNYWGFLNHE2VFV4OG9seTFl?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 109.33,
+        "changePercent": -4.67,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Mizuho Reiterates Intel Corp (INTC) Stock Rating. Here’s Why - Yahoo Finance: Mizuho Reiterates Intel Corp (INTC) Stock Rating. Here’s Why Yahoo Finance...\n- 4,738 Shares in Intel Corporation $INTC Bought by UP Strategic Wealth Investment Advisors LLC - MarketBeat: 4,738 Shares in Intel Corporation $INTC Bought by UP Strategic Wealth Investment Advisors LLC MarketBeat...\n- What's Going On With Intel Stock Monday? - Benzinga: What's Going On With Intel Stock Monday? Benzinga...",
+        "sources": [
+          {
+            "title": "Mizuho Reiterates Intel Corp (INTC) Stock Rating. Here’s Why - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3NfT08wVnNocWlIQVU4Y1J1SkJDQWpCdDZQbVh2TjhqbUlHWnluMVJQcHlmUXJqc0ZTQzZ2M3VvVk81N0tySlBhNHZfYVJEOE43bjNVcnNxMTJpN0JPRGZ0Z0RQQlpTSkE4b3QzdkZxMWI5M1BIRHJYVEFsZzFoSHg0aGd2NW9xSHg4NGcyY0J6NVd0d0ltQ2lRc3V1NnM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "4,738 Shares in Intel Corporation $INTC Bought by UP Strategic Wealth Investment Advisors LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbHJnbUJRZnp3Z2xwR2ZSZXNuTVJuWTZmMjRaTTdxYjhpbjR6ZkFzeWJzR01sRnNsc0RZaTlZTVNLMWhObUZ4bkFuV2xUOUZmYktpR21NWTF4SlQyUWtJNjk3NnJMTzlpYUVWelFYMTNsX1VFMzRub0k2V2JQZnRSZlYzMEhXTGw5T2lMM3N4ZGp0NWJTc1NOT3h2dTZWYlZNWXIydWdVamk3STRhTm9DU21ZbG1PLXgtVlAxNUlGQVlsclp4Uko1UmlzdFkweEtzLXk4NE4zNHIyb1JiUk9ZemJPaUgzT2M?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With Intel Stock Monday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWl5SkFLZVRYSHc0TGVid3RFaHh0S2ZUTHpSNnVSbkQwWlNaVUJNLUxzcHNUYkE0U2lzdkNjNDRzOHFQWVZfWFF6czZ0SFZGUmZraC1GcTY0V3JFcVNlN2Q5akNoQnJRZFcwSFRLT21EX3NRN2lWRjJrYlIyOU9XVE5PaTVGc3JpVm9LOEo5MTl3TTFDRlFhaQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 510.13,
+        "changePercent": -1.16,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices Inc (AMD) Starts Venice EPYC Processor Production Ramp - Yahoo Finance: Advanced Micro Devices Inc (AMD) Starts Venice EPYC Processor Production Ramp Yahoo Finance...\n- Advanced Micro Devices (NASDAQ:AMD) Trading Down 1.2% - Here's Why - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Trading Down 1.2% - Here's Why MarketBeat...\n- What's Going On With AMD Stock Monday? - Benzinga: What's Going On With AMD Stock Monday? Benzinga...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices Inc (AMD) Starts Venice EPYC Processor Production Ramp - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDB4YzJUenUyRzg3Y2hmY3BQVjlFQTJ1UmFlaGFTT2FkWktuLXpFTUROVlllRnk2RmNYZldzNEFRRFJSc3JSclB6R3hZWGIwQVNVdU44UEhtV1g3bEs1QmoxUjdhTUZFNUZkTzlITkdoNkN1N1pFamlWOERLallCLUthcjRtQ2JELS02VjZqeGhEbXpCMjJuMW1meVJ5Qy1m?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Trading Down 1.2% - Here's Why - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUNjUlVheFFSWmlTajdzUnZuUW9fd0FIRGZQbzBfWUxkNGdPM2xmeUhCclpQZFllbzliLXlPYVJJSTFjMlNmZ1N3WWdZS0Nlem5ueTB2a3otXzh5YVR1SU5Fd1JRTS1Gc2pzcFpYQkhBZjRXa0dUSGNRMUp5X1ZnUVp1YWUxdlRCaTZJdHphbGIwMW5adVI5c1FhOE1fNExfM0htcUhtN3R2d19mSTJ1LUFB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With AMD Stock Monday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczFDanJuSXB1Z3owY1dzSXViZ0diekdCQmZ6ZmZiSk5tQ081bHIwdXhrTFIxVnozVkZrcEdvTTF6emNVQ3hCdFVtV3A5UUxUMjNweklqRUtVeXNNUkxRNEVab0kwZlVTSkdfb0x5UHNsNkJCc09WNUNqTkd5WDB1Z2tnTjZTOXlKNnlWUGdCZU5fLV9ZSHc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1035.5,
+        "changePercent": 6.64,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology, Inc. (MU) joins the $1 Trillion Club - Yahoo Finance: Micron Technology, Inc. (MU) joins the $1 Trillion Club Yahoo Finance...\n- Has Micron replaced Nvidia as the 'It' stock for the AI trade? (MU:NASDAQ) - Seeking Alpha: Has Micron replaced Nvidia as the 'It' stock for the AI trade? (MU:NASDAQ) Seeking Alpha...\n- Should You 'Buy' or 'Sell' Micron Stock Before June 24? - TradingView: Should You 'Buy' or 'Sell' Micron Stock Before June 24? TradingView...",
+        "sources": [
+          {
+            "title": "Micron Technology, Inc. (MU) joins the $1 Trillion Club - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVDl2bWsxRHg4YzNhd2o3SGVOb2NXbEFiZjVoWUcwbk0xakpRTjFjTXFiYVpGNDRFVUVuOTA1X1p4bUxQdUI3bnZQY2ppLXA2VlZZeTB1eERxOGJyNXBpNzAtekI2ZFRNTC10R0FqRW9fOGJka09nUVhOUnpDa2lYVTFqRDA4bU9nbmVRZHB3bEh1SjFTZ29XdFMwQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Has Micron replaced Nvidia as the 'It' stock for the AI trade? (MU:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlVDOGpsZ05Ybkh4VVhCdkY2Smc5bTZpSXk0VGp4QUdzVWJpVkxSSkFabm1RRTVLR0dRZE9Pdm1aeWpoSFRTZGFpM3M1WlFHZ1R5SXQ2dWxSM2o5RW5hRzFpZGF3eEl5d1dwMEdUdnZoZEtnQ0ZCWmYyU0JJZ0o4S0ZGbzdxT0Q5NmI5ZF9abEdOamNnVlBQeEx0ZnJfZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Should You 'Buy' or 'Sell' Micron Stock Before June 24? - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGcwb29pYXlvR2tyZ25yMGR2RjZfQ0pONV9oQ00yelkwZVB3eXFVc2tOalUtb1RwcThicWo2a2RCT24xQWkwd2M5eFFmMTh3RkpkdkZ1THk3VlZRRjBoUDZmWmFHcE5WSFllVGNER3N3T3c4bUZ4Vzd2WWNxR3JHaThwZ2FqWUlyUEJTbU10NmdISTY4U3N2QmtTckowd2FOMXpHRTJ2VnVmR0Q4cXFr?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-05-31": {
     "date": "2026-05-31",
     "lastUpdated": "11:05 PM KST",
