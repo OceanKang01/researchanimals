@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-06-02": {
+    "date": "2026-06-02",
+    "lastUpdated": "11:50 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 1029.15,
+        "changePercent": 13.72,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE): Leopold Aschenbrenner Registers Bearish Activity - Yahoo Finance: Lumentum Holdings Inc. (LITE): Leopold Aschenbrenner Registers Bearish Activity Yahoo Finance...\n- Isaac H. Harris sells 4,000 shares (LITE) for $3.44M - Stock Titan: Isaac H. Harris sells 4,000 shares (LITE) for $3.44M Stock Titan...\n- Nomura Asset Management Co. Ltd. Buys 114,714 Shares of Lumentum Holdings Inc. $LITE - MarketBeat: Nomura Asset Management Co. Ltd. Buys 114,714 Shares of Lumentum Holdings Inc. $LITE MarketBeat...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE): Leopold Aschenbrenner Registers Bearish Activity - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNk5ueVJjdkRqbUt2UzY1eUpiR2tFMXg1UGtscGwtNWktX0pQQ28tbW9FaE9hWHcwVjFlV3RhYlZLRGRuVmNJaTZZV0dCcmljcllfMEZXVHlKYmQxajBZYkluQ29qd2tsSEZuLWpGeUE2cUpfeXc3T09XeS1qN3dCTFBTcUdaMVFpZDBNZ2JqMFNYWGFLNHE2VFV4OG9seTFl?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Isaac H. Harris sells 4,000 shares (LITE) for $3.44M - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZExBN3dSVFhCd0xqbjl6NXgtdE9rcWtlVWUxVndqRDNwZGJ4RFV3eUdkNldGRVJ5UXNteV9RR0lfc3Vxb283d2FjcXJacURxUVB4NHBPTW1FZi00NHpFT3JIaHFFenp3WmJtOVpna2llSjNLc3NHSUVLaUhXcF8zNWxxS3JOUFpSbkhLVm9FdU1iNVFGVWp0aC0ta0xYY3M?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Nomura Asset Management Co. Ltd. Buys 114,714 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTHFKbkhfZWRIRXRYNWxVUTA3SVY2aWdOM2JBVVd3THZsZUtzd0pPM3ZqOVZVdkNMRkNWUkNXMUVPV1RIWEh3QVp6WktKRFU1dHlhV1E1UEZmTFJfb2JWZ1hjVjQ4eWgzUkIwbWptUzVkMThiQ0tzRGRKaDgzNDgzbHRoclQtV0ZXQmgxTS1ISVNlQ0pNVnVGcnVCdmhpX0dlTUFMTGo5c2I0WGVqYlJSNFFVNlJwcEkzSmRvSmhpdFR1Zzl1UThfd1F1UUptdm55Mk5pMm4tTQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 107.93,
+        "changePercent": -1.28,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Quote - intc.com: Quote intc.com...\n- Is Trending Stock Intel Corporation (INTC) a Buy Now? - Yahoo Finance UK: Is Trending Stock Intel Corporation (INTC) a Buy Now? Yahoo Finance UK...\n- Intel (INTC) EVP Chandrasekaran sells 21,024 shares in open-market trade - Stock Titan: Intel (INTC) EVP Chandrasekaran sells 21,024 shares in open-market trade Stock Titan...",
+        "sources": [
+          {
+            "title": "Quote - intc.com",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hS2h2dkFxY0N4eDl2dmxUdXZ3VXFPTGJTaDFwaVU5UXNkQ0ZuZUlCbzdLMWFqenRVeENjSVVwa2swNGsxcHBIdDRyTWhzZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Trending Stock Intel Corporation (INTC) a Buy Now? - Yahoo Finance UK",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3BlLXNBSExZM2J0Skx3RDlyLThONmxpYTctWjJDaGtuMkRZQm92Z3JBazhOVXlTVFJxaUpUY19reTk3VV9nQzJucUFlV0hqSk42SUoxdmY4Sy16N0dLbjlzYllkU3d5Z1hLVGhXb01LanhRMXRuUFZNUExZN0pMcXNMMnJlbW9qd2VFUjJucw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (INTC) EVP Chandrasekaran sells 21,024 shares in open-market trade - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNjJ5OGc0STdRczA1X1U2Ym1COGs1aXJ6UDRRSkttVmpNM08yMFJIMEkxMHZIWnRadXJMZGhKMGR1eUlzeWl0a2haUUh5NFZIa1JJOUFhY1JVak5XMlZjY3F1bV80T3ZFYXUwVnBUSjdYWW5xc1JJNE9hQXdYT3VMR0JybVJIbnNZQ2N0a3JydUVpcWpXSjNodXdGRDBMLUFGSkR1bTVDNA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 521.54,
+        "changePercent": 2.24,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices Inc (AMD) Starts Venice EPYC Processor Production Ramp - Yahoo Finance: Advanced Micro Devices Inc (AMD) Starts Venice EPYC Processor Production Ramp Yahoo Finance...\n- Insider Selling: Advanced Micro Devices (NASDAQ:AMD) Director Sells 8,626 Shares of Stock - MarketBeat: Insider Selling: Advanced Micro Devices (NASDAQ:AMD) Director Sells 8,626 Shares of Stock MarketBeat...\n- What's Going On With AMD Stock Tuesday? - Benzinga: What's Going On With AMD Stock Tuesday? Benzinga...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices Inc (AMD) Starts Venice EPYC Processor Production Ramp - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDB4YzJUenUyRzg3Y2hmY3BQVjlFQTJ1UmFlaGFTT2FkWktuLXpFTUROVlllRnk2RmNYZldzNEFRRFJSc3JSclB6R3hZWGIwQVNVdU44UEhtV1g3bEs1QmoxUjdhTUZFNUZkTzlITkdoNkN1N1pFamlWOERLallCLUthcjRtQ2JELS02VjZqeGhEbXpCMjJuMW1meVJ5Qy1m?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Insider Selling: Advanced Micro Devices (NASDAQ:AMD) Director Sells 8,626 Shares of Stock - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM1JmZDZWNkNYNGxQem5YWjRLSFFaMWFLckd6ZzQtUGJobDl1dzJpeGxoeUpyVkRvMi1qdE9ILUg1cTBUNFdYcjkyR1RCTWtEendaZFhGNE00MHB2Vy1sOXh3bEV2RE9pZkxMVkFBbThCRmx6dzNnZ09SWjFCY3FzU3JMNTZEcGREQ3RfbzltX1RlN2VKTnFSMXNKdEFjRXJPX054MWhpTmc5NmRTVWcyWTFpOFMzSW5EVktDUTUxUmg4RG84aHpTVzhXTDV1YnNuaDNQTQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With AMD Stock Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkpIdG5HMVFxeDNhVTd6Ml9jcTdRbUNlcC1JbkNiRnJXb0NMRVU5SDllMlNnQnBaOFhOVG01NWV5SVBwX2ZPUXYyNzRJbDNhd2Ixemo5VHZnVzZmTVllTkxVQjZBYnAxb0FvaHRzUGVmQzA5d3h3dWsyYzdJQlA2a3pZVFZFZFRXVW5ucmVabUFtbHZacThQRmVQa2Y5VDd3ZXc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1064.1,
+        "changePercent": 2.76,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Is Micron Technology (MU) One of the Best Inexpensive Stocks to Invest in Right Now? - Yahoo Finance: Is Micron Technology (MU) One of the Best Inexpensive Stocks to Invest in Right Now? Yahoo Finance...\n- Micron: Not A Stock For Ordinary Investors To Chase Today (NASDAQ:MU) - Seeking Alpha: Micron: Not A Stock For Ordinary Investors To Chase Today (NASDAQ:MU) Seeking Alpha...\n- Micron (MU) CEO Sanjay Mehrotra sells 37,439 shares in planned trades - Stock Titan: Micron (MU) CEO Sanjay Mehrotra sells 37,439 shares in planned trades Stock Titan...",
+        "sources": [
+          {
+            "title": "Is Micron Technology (MU) One of the Best Inexpensive Stocks to Invest in Right Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa2M4ZmM4cEVob1V4dU9US0dZZjk0bDVDX3ljTHRvZDJhSmZiLTRvUG13YnJwZGk5cHF6aktCbDVrdTBnSjdKZXIxSmlvTkxVYjFxYzZCXzJmWDM5b1F4TE1Cakl3VTFmSjFKeTNXTDRvWGFGYS1ONWd6YXBnVU5tek4xWVJjNUJuaWxHOWxEZXhDV3MyWGFfSmtn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: Not A Stock For Ordinary Investors To Chase Today (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeDNBemxEdHNBUmZpako3SkM1M181ZEZSR1RpenBSMUlrYjU5YUpQcExIeVRKUUZxOEdVN1hmb2ZhX0pIMXB3VjRuYjRNSWVsQ1JpZ09tTWVxa0VmYVJMWFpTMHFKX19nLWNlRmpfX1h4NmxzcFRfZ2t4TTN1d2lHamtVTmJyOWxvR0N5ck5OdzJIaEpoMi15WnlkZ0tXUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron (MU) CEO Sanjay Mehrotra sells 37,439 shares in planned trades - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUG1adlhNMjk4Ukhxc21Nbld3dTZQMGxNRjRDRnJSMUN5RWhyLXoxOW1WTUJtbXVLTWhfZjNwZXBBZ00xQ1BJMGE2OUZTOHhMU3pOeDJFVHRGRDkzaFNTa3RRVVA0VEQtaUo3X0ZlNFhPYUpYTmh0TmpvejZxNlhZY1FhN2Y4RWhvajRBbXM3TnM2SGJHQi1SQjZKRWw4RXh1RUg2NXpZTEpSSnFlRTZhcE9fYw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-06-01": {
     "date": "2026-06-01",
     "lastUpdated": "11:38 PM KST",
