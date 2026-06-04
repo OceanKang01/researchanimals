@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-06-04": {
+    "date": "2026-06-04",
+    "lastUpdated": "11:12 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 945.08,
+        "changePercent": 0.75,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction - Yahoo Finance: Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction Yahoo Finance...\n- Lumentum (LITE) director sells 1,416 shares under Rule 10b5-1 plan - Stock Titan: Lumentum (LITE) director sells 1,416 shares under Rule 10b5-1 plan Stock Titan...\n- Nomura Asset Management Co. Ltd. Buys 114,714 Shares of Lumentum Holdings Inc. $LITE - MarketBeat: Nomura Asset Management Co. Ltd. Buys 114,714 Shares of Lumentum Holdings Inc. $LITE MarketBeat...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXdIbDF6b29EZEgyazZQaEtxMWE4R1NheEtESk5IMUpoS1d2eXJKcFpNQTlJeEFIblVxM2lZVDh3LUhhaDdWbl9RY19xYUtIX3pKZ2dRQUJham9aSDVkVTZPSzRhMnd6dzlIZEs1VmZWLWI3QmhEaktiODBxVmhoY0FXSGZKeU5HSEo2UG1zdVZULUF6RS05UldlelM1dC1Od1NN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (LITE) director sells 1,416 shares under Rule 10b5-1 plan - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaXRDWXJJZndkdU16UjVTOEozYVJuS0xnMzVmM1YwZG5wUjF5cWk1Qld0Y3hlUmZlc1lGV0ctdnhNVU9FSkxwNDduSzF3OFBlMzJabVp0bGJJcUlhVFUyRkhIM3g3dnVUVldVRjFTQm5MYUNIVDBEWm5DRjVqcUkzeTYzNlQwUU5oOXhHeTNNemc0Y0M0RnpXeWJNcVR1TmdTdjFaN3hYRmlNTzJsazhZd1R0ZVJLZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Nomura Asset Management Co. Ltd. Buys 114,714 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTHFKbkhfZWRIRXRYNWxVUTA3SVY2aWdOM2JBVVd3THZsZUtzd0pPM3ZqOVZVdkNMRkNWUkNXMUVPV1RIWEh3QVp6WktKRFU1dHlhV1E1UEZmTFJfb2JWZ1hjVjQ4eWgzUkIwbWptUzVkMThiQ0tzRGRKaDgzNDgzbHRoclQtV0ZXQmgxTS1ISVNlQ0pNVnVGcnVCdmhpX0dlTUFMTGo5c2I0WGVqYlJSNFFVNlJwcEkzSmRvSmhpdFR1Zzl1UThfd1F1UUptdm55Mk5pMm4tTQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 111.78,
+        "changePercent": -0.83,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance UK: Intel (INTC) Stock Slides as Market Rises: Facts to Know Before You Trade Yahoo Finance UK...\n- Intel: Getting Better, But Not Quite There Yet (NASDAQ:INTC) - Seeking Alpha: Intel: Getting Better, But Not Quite There Yet (NASDAQ:INTC) Seeking Alpha...\n- Intel Stock Powers Higher As AI Strategy And Price Targets Align - StocksToTrade: Intel Stock Powers Higher As AI Strategy And Price Targets Align StocksToTrade...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance UK",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORlVjVFFsVWlBeVMxOFpjRFVJVGRTeDdrOWxmT1BUMElNMG1fd3F2N1FqcEM4TVdSSkU1dmNqeWNySUxHeWJNNnotRGdMSmczYVNoenhYU2xnNW10RDBzQW9tZTBoNkFyd3ZsRTVMeklWTFhCLUlpT2ZUb1Rqc0hRbXFnb3J6Zw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: Getting Better, But Not Quite There Yet (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVVmUl9aYzVWY2o1VTVaamg5ak1fZmI5VTBTSHlhQlVOTnQtY3NjaG45ZERSckU1UHdNN1EyZmdFU3k4djRJVDJDeGdaU2ZPYVV3R1FvQldSSUJZc3dkQVJCekZ4RU01REhrUWJuSkVrZ0FBSEYtWUZ1OXJRblZybjlfa3RkRkhOb2dGdWZR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock Powers Higher As AI Strategy And Price Targets Align - StocksToTrade",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xVWVBb0tfekRrZDJNM3NUNC14TG9ScFI0c3ZFOGhpQ0phak1EWVlMVFdZbnFLWHZKaTFlWTJlOWdsdXU4bDhTcWdNbFlYN3pQdnRrNTNZYXhLbjROUU9NeEpUTTVkYjAxMFVPNHZBN21rMjFuS3FMNXJB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 523.2,
+        "changePercent": -3.56,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices Inc (AMD) Starts Venice EPYC Processor Production Ramp - Yahoo Finance: Advanced Micro Devices Inc (AMD) Starts Venice EPYC Processor Production Ramp Yahoo Finance...\n- Advanced Micro Devices Inc Stock (AMD) Opened Down by 5.44% on Jun 4: Key Drivers Unveiled - TradingKey: Advanced Micro Devices Inc Stock (AMD) Opened Down by 5.44% on Jun 4: Key Drivers Unveiled TradingKey...\n- Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 3.6% - Here's What Happened - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 3.6% - Here's What Happened MarketBeat...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices Inc (AMD) Starts Venice EPYC Processor Production Ramp - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDB4YzJUenUyRzg3Y2hmY3BQVjlFQTJ1UmFlaGFTT2FkWktuLXpFTUROVlllRnk2RmNYZldzNEFRRFJSc3JSclB6R3hZWGIwQVNVdU44UEhtV1g3bEs1QmoxUjdhTUZFNUZkTzlITkdoNkN1N1pFamlWOERLallCLUthcjRtQ2JELS02VjZqeGhEbXpCMjJuMW1meVJ5Qy1m?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc Stock (AMD) Opened Down by 5.44% on Jun 4: Key Drivers Unveiled - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbUVtQWhqRmZSSVQwMVh1MjRVS1pZVldnamtBNXgwS00weWQ4ZF9wWDRhX1JZM2xKSzF3Vk1VSzNxbS0xX3ZzYk12UnB4N2V6S3BPN2R6cHdGZGNCRER1ZlVYUXl4eHNONHkwd0pKWWZteElqMXYyNGhpWTlUYXFDRFZKelRsZ0pmdnc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 3.6% - Here's What Happened - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSF9ZMkZnelJsTFF4VHAzRFlGZWROd01lY0VSa1JXZk5sQ0NCVW9Cb3NnbU9nZzc4N2ZnTDJNcW1qVGdvekxDY2hKYnhIc3NhdUdpc1c3ZFoxX2wwdWVZZXdRN0g4OVpabFdxOWFUcWI2SllLdU5BYTdFWXl2WWFsWld4X1p5N1Z5d0FtdmlCdXF2WUdQUThrb3VaTktsN2JfQjAwN0FheFdSbGlCNDg3YlhYTzFTejU1aHpIbGl2RW1ma25x?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 996.0,
+        "changePercent": -7.74,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU) Is One Of The Best AI Infrastructure Stocks, According To Hedge Funds - Yahoo Finance: Micron Technology (MU) Is One Of The Best AI Infrastructure Stocks, According To Hedge Funds Yahoo Finance...\n- Micron: The Market Is Right (Rating Upgrade) (NASDAQ:MU) - Seeking Alpha: Micron: The Market Is Right (Rating Upgrade) (NASDAQ:MU) Seeking Alpha...\n- Micron Technology Stock Slides 7% as Company Shifts to Long Term Customer Contracts Amid AI Memory Shortages - TIKR.com: Micron Technology Stock Slides 7% as Company Shifts to Long Term Customer Contracts Amid AI Memory Shortages TIKR.com...",
+        "sources": [
+          {
+            "title": "Micron Technology (MU) Is One Of The Best AI Infrastructure Stocks, According To Hedge Funds - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWxkOHBxNW9UVTZJXzF4am1HaG5ZbVJtTWVIalRHcllpdmlvZlVlM2NFZl93V1NzWHlLUTktY0QwWjVGTVdNSTBsWjdOd05US2ZpZzFiZmcteVVoeEFzRFBtVzNkcm11Z0didEc1STN2MXZ2cktrSjMxWlF6UHBoTTRLRHdmQTFlV1dIdWh2S3RxWEw1SEluVlpB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The Market Is Right (Rating Upgrade) (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNVFfNzVOQjJyblNFclZ2cEcwT0ZSRWRkV1p4QTAyNFBrRzNCU2R6dmJLRkJXQWZ2VE9wN2Z4Q3ZLTHkzSUVDUEE0QzJiZ1pnZENIMzVhVFVIWjlrUTNBeEh2N2lmdjFYVVZJcWhrTzdLUUg3RjhxSjdIaVdnaU4zRWhweDVXTmdDMFE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Stock Slides 7% as Company Shifts to Long Term Customer Contracts Amid AI Memory Shortages - TIKR.com",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTzQ3SmFERWFOU0xpWHpzRDVxa3VyTlhxa1dxLXBDaDl2WUctZ3RGVGFLY0Jib195QVQxZHF0SHJSRzN5RlFVX1JtTTZVelhPUjhaSXYxYkNQOUVsZV8zb09CSlFCOWg5QzQ4ZDh3dFBYc0R2MVFOMmxVZzNXZXVlXzR1MXlLcW5pS3hITFJ3OTRZdTlFX0N3MjRSakdKY1JiZl9sbE9LWllPY0R0SkFVVXVJQThSaUE0bmV1bEQwMDd6TjVrOFFlNVJqU3RUUko0dm1KeDgtZlR3S0U?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-06-03": {
     "date": "2026-06-03",
     "lastUpdated": "11:48 PM KST",
