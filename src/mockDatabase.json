@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-06-05": {
+    "date": "2026-06-05",
+    "lastUpdated": "11:14 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 863.66,
+        "changePercent": -8.62,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings’ (LITE) Upswing Dampens Wasatch Long/Short Alpha Fund’s Performance - Yahoo Finance: Lumentum Holdings’ (LITE) Upswing Dampens Wasatch Long/Short Alpha Fund’s Performance Yahoo Finance...\n- Lumentum (NASDAQ:LITE) Stock Price Down 8.6% on Insider Selling - MarketBeat: Lumentum (NASDAQ:LITE) Stock Price Down 8.6% on Insider Selling MarketBeat...\n- Lumentum (NASDAQ: LITE) to exchange $650.4M 2028 notes for stock - Stock Titan: Lumentum (NASDAQ: LITE) to exchange $650.4M 2028 notes for stock Stock Titan...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings’ (LITE) Upswing Dampens Wasatch Long/Short Alpha Fund’s Performance - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0JhNWEzMENOejlNSDM2U0RrS1B4aW5LOTFoTkNIM0hUb2l3V3lnRnNzN3BhRXNYakh6SGZiOGtPWFZZdnZzcDUwZHlZd0d2UU4zQ2R2T2NQanVUbWJoUzY2RWlmOHZ1aUFIb2s0WEhZS1h0dXRGODVTbnFfNlNnZXc5V2xheHpRYzdrNGdEYTc4SWVVdDVwQTZpa3ZFWDlfR2poZEhR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Stock Price Down 8.6% on Insider Selling - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlprRmNlV1N6TFZFcThLZ19pdldfSkdCd0VENVM3TnlqSTRkRldhSFlIRENPb1prd1lUdnpteWNqMzFzRWxheWZSc0FyX2hRMHVnbVJNYmNLcTJtQzNST2p4V0xCUWhWTlFKQXZ6bUJfZzFFVU81a2ZreFpKTDUtT3E1QkM1YlZUMUNHekhUWl9qU1NJZlh4MTltRldjR0RESGJaQVd3STJXUXdqUkFOR2lB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ: LITE) to exchange $650.4M 2028 notes for stock - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTnlfVWdjM1drZFN4bFlzNnRZZnBSallWaEh0WEkySGkwTWtKRnNueDlaWEtjZExma1h3LWI3aDgwRWdwQnI5LVFnVmdGbTZkalo1QU8zRFY3SEZNUXNMSlU4WUhra2tyNW1FbDJtX2lzXzZSTVZFaXFUaTlVZzRUaGk2aTFDRmxmRDZtTjVCV2tnajd6ZzBwamttamhvRGE5RUJDMkdQLW9aRWZLdmY0?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 99.17,
+        "changePercent": -11.28,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corp Stock (INTC) Moved Down by 6.80% on Jun 5: What Investors Need To Know - TradingKey: Intel Corp Stock (INTC) Moved Down by 6.80% on Jun 5: What Investors Need To Know TradingKey...\n- Mizuho Reiterates Intel Corp (INTC) Stock Rating. Here’s Why - Yahoo Finance: Mizuho Reiterates Intel Corp (INTC) Stock Rating. Here’s Why Yahoo Finance...\n- Intel Just Landed a Major Foxconn AI Win. INTC Stock Needs Proof, Not Hope, to Climb Further. - Barchart.com: Intel Just Landed a Major Foxconn AI Win. INTC Stock Needs Proof, Not Hope, to Climb Further. Barchart.com...",
+        "sources": [
+          {
+            "title": "Intel Corp Stock (INTC) Moved Down by 6.80% on Jun 5: What Investors Need To Know - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM3lvb2NYZHZwdmg1M09iZW1tQm9ab2NGU0Y2bkwyREY1ZFdlSENXOHg4dzRkRGM4V0JyY3dMQXVKTEZMS1h3SEpvOXh3eDBHUDlic0t5amxvdFlaeDgyalZrRHJTblZWQmdlUXpJeHc5ZEVGcFZOcGlRdDZadFB3OVJ0Q2FnVG5XOGpv?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Mizuho Reiterates Intel Corp (INTC) Stock Rating. Here’s Why - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3NfT08wVnNocWlIQVU4Y1J1SkJDQWpCdDZQbVh2TjhqbUlHWnluMVJQcHlmUXJqc0ZTQzZ2M3VvVk81N0tySlBhNHZfYVJEOE43bjNVcnNxMTJpN0JPRGZ0Z0RQQlpTSkE4b3QzdkZxMWI5M1BIRHJYVEFsZzFoSHg0aGd2NW9xSHg4NGcyY0J6NVd0d0ltQ2lRc3V1NnM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Just Landed a Major Foxconn AI Win. INTC Stock Needs Proof, Not Hope, to Climb Further. - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR1E3UFhkcERINFhReVcwUHA4OXhEdEJJVV91VGJiNnE1d0JHZldNdmN6M1RvOHo5aFNheVlUZjY0SWRScVJKcVUyV3IxM3FwcVdzTmdFYklwVW1LUG9kckgwb0s2LTNZT3BrZXktRXNyeXFIbkxoSDNFVDFtUExvY1lvUnZLQ3VYSmZ5aG5YeTF2NGVUa3RnckJnTVpnSzdvOGpkVWtXMDcyRlkxS2NLR1luZlVRS2xSM2Flc2ZnRDd0cGZ4QndrOXNwdjZZdw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 466.38,
+        "changePercent": -10.86,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance: Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance...\n- Why is Advanced Micro Devices stock sliding today? - Investing.com: Why is Advanced Micro Devices stock sliding today? Investing.com...\n- What's Going On With AMD Stock Friday? - Benzinga: What's Going On With AMD Stock Friday? Benzinga...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckZxWlZpcHVObWxENm5ucnBFYS1UbXYtSWRYOFlUNHBLWTlqak9kdm9WWXZRbElZSXdaNGpQbEU1M2ZCQzl1b09aYmhmSkxEcXd6Vk9UcEhtQ0JUZUstSkNUaTRSVjkzU1N4blJxeERJMExxbUhOZW80bHJLSEpwZnNncERfd1VPMk5Icm1tVlNLN2RETERKaFNMUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why is Advanced Micro Devices stock sliding today? - Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGhoblpNZkFRa3R0eV9Tc0h5WERTUy00ZXBNT2hMUXFqNDRFSENmMVVsOS1xYkxpcGhTM2VHdjI3Ul9RX25hLXlKbWlZbXZ3Z2psTWVOS2tZMm80bXB6OTBVcHg5RWdXUkY1emptRTFIbUNMRXRIVWpNNHk0b1NpYlhWZDVVRUNPajItRkV0NTAxUWFmUndPdGxNbnFwb1ItWFdOZkg5WThrQU5DUGVPQg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With AMD Stock Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWmlmdllyQ2pKdWR2MXF2OTdvSzN6ZkYtbHpUWVhPM2dGRTJaY00zeENsclcwZWZYS0p0MWpwSzdXWDNlbkJwamZhMUV4LXpHUzd1ZUc3T0xWbHdRZ1VfdVpPWmQ0dzV5TC1ZaF9TSHB4SzVxNXRreWFpRzd3VkJPQkF3ODM3V19FSG5iYnZLRjhETHNhYUllWDVGVzNiTl9m?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 864.01,
+        "changePercent": -13.25,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Is Micron (MU) One of the Best Cheap Stocks to Buy for Beginners? - Yahoo Finance: Is Micron (MU) One of the Best Cheap Stocks to Buy for Beginners? Yahoo Finance...\n- Why Micron Stock Is Sinking Today - The Motley Fool: Why Micron Stock Is Sinking Today The Motley Fool...\n- Micron Technology Inc Stock (MU) Opened Down by 5.08% on Jun 5: What Investors Need To Know - TradingKey: Micron Technology Inc Stock (MU) Opened Down by 5.08% on Jun 5: What Investors Need To Know TradingKey...",
+        "sources": [
+          {
+            "title": "Is Micron (MU) One of the Best Cheap Stocks to Buy for Beginners? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX1phVmFzZjA4SWI1MG43eng1UVVubkFrdFdUX095NTRod0F0VC1ncThPYU9fQ200UTVtT21ndGtRMGhuYzhmOW9seW9FeHZFNXpqUEJ1N2t2SXBEa1MtbWFCczBuUjdtQmYyTXpTVjFmR05qbUxKOWgzR1lfZzJoOEVKbEl4ZHRENlV1LUpiTDhJRkU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Micron Stock Is Sinking Today - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQklEVGpwTTRRSkpfMVVVcDlCSjYzZTZEYjJUUUZqSjRwdC14N0YyUm1KWmRKZ21CVWZsQk5Ha3Z5Z0N2R2NKTTdfaFBQaVloQ2x3MnZ3M2NXdDlZM2p4cnpkNlB3dHJYblZaYUhlT01rc1RwNV9QY0pOeWtZUVF2OWVR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc Stock (MU) Opened Down by 5.08% on Jun 5: What Investors Need To Know - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZy1iM1IwOVVmWWpxNEFWMWJsc3lncGo5ZXFuWFRUQzloZGExbnk0YS1IYldhSk5OTVMxSTdYWnVSUTUzX0liazR0T1NqTXBLWmRzZWR2NEtCMnJXNlE0RTFnYlEtQlYyLXZVb1RHaDJBY0gxX1BOdFVrejdLOXQ2NE1Ua1F0TEwz?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-06-04": {
     "date": "2026-06-04",
     "lastUpdated": "11:12 PM KST",
