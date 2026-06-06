@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-06-06": {
+    "date": "2026-06-06",
+    "lastUpdated": "11:08 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 863.66,
+        "changePercent": -8.62,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction - Yahoo Finance: Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction Yahoo Finance...\n- Lumentum Holdings Inc. $LITE Shares Purchased by Situational Awareness LP - MarketBeat: Lumentum Holdings Inc. $LITE Shares Purchased by Situational Awareness LP MarketBeat...\n- Lumentum (NASDAQ: LITE) to exchange $650.4M 2028 notes for stock - Stock Titan: Lumentum (NASDAQ: LITE) to exchange $650.4M 2028 notes for stock Stock Titan...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXdIbDF6b29EZEgyazZQaEtxMWE4R1NheEtESk5IMUpoS1d2eXJKcFpNQTlJeEFIblVxM2lZVDh3LUhhaDdWbl9RY19xYUtIX3pKZ2dRQUJham9aSDVkVTZPSzRhMnd6dzlIZEs1VmZWLWI3QmhEaktiODBxVmhoY0FXSGZKeU5HSEo2UG1zdVZULUF6RS05UldlelM1dC1Od1NN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. $LITE Shares Purchased by Situational Awareness LP - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWmt3OUkxY19DMUZUMVhpTGFmWVZiRklaTWtTMnE3UFk1dkpCVTdIRWRrLWFja1lZbkp3SXg0Smt5MVlBNXpPT1ZUbkxWRDF4Z1JuOU9VR3VqbXdRelM1ZkV3STZlclRmVDJpdjNkOVU2NV9hRnZCOEFvMTRfWktNVWtuSURpRFc5LUxMNFdObk5MNmtnZnpSRThsSmN3amZpNjNFS05KYkQyR0o4R2d5MmtCWVhzUXQtaHhYMkFQU2l5bHlsUVJqVmRPYnc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ: LITE) to exchange $650.4M 2028 notes for stock - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTnlfVWdjM1drZFN4bFlzNnRZZnBSallWaEh0WEkySGkwTWtKRnNueDlaWEtjZExma1h3LWI3aDgwRWdwQnI5LVFnVmdGbTZkalo1QU8zRFY3SEZNUXNMSlU4WUhra2tyNW1FbDJtX2lzXzZSTVZFaXFUaTlVZzRUaGk2aTFDRmxmRDZtTjVCV2tnajd6ZzBwamttamhvRGE5RUJDMkdQLW9aRWZLdmY0?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 99.17,
+        "changePercent": -11.28,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Wells Fargo Raises PT on Intel (INTC) Stock - Yahoo! Finance Canada: Wells Fargo Raises PT on Intel (INTC) Stock Yahoo! Finance Canada...\n- Intel Corp Stock (INTC) Moved Down by 6.80% on Jun 5: What Investors Need To Know - TradingKey: Intel Corp Stock (INTC) Moved Down by 6.80% on Jun 5: What Investors Need To Know TradingKey...\n- Intel and Hitachi team up on ‘physical AI’ for factories and power - Stock Titan: Intel and Hitachi team up on ‘physical AI’ for factories and power Stock Titan...",
+        "sources": [
+          {
+            "title": "Wells Fargo Raises PT on Intel (INTC) Stock - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWR2bjdoWERqbVF5UE81bnRRWWlNZkZIenYtbEQzZWFtSjg2dWpWTmhfQm95aDJBZVVoa29semZhbC1odWJzaDV0d0JBT3RjbmdLV3ZaZHNXNHVpTUpLU0tBZmNEQ0s5R016Vm13aHktX0tPbWJnbFZ6c0RCYUE5U2R3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Moved Down by 6.80% on Jun 5: What Investors Need To Know - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM3lvb2NYZHZwdmg1M09iZW1tQm9ab2NGU0Y2bkwyREY1ZFdlSENXOHg4dzRkRGM4V0JyY3dMQXVKTEZMS1h3SEpvOXh3eDBHUDlic0t5amxvdFlaeDgyalZrRHJTblZWQmdlUXpJeHc5ZEVGcFZOcGlRdDZadFB3OVJ0Q2FnVG5XOGpv?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel and Hitachi team up on ‘physical AI’ for factories and power - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2xaMjhUTW41TVJCWlpCTEk1MFBEeWdTc3ZkS1ZRVF91VzFrNVI4ZTBRb3JVaGQwMDYyLU96NEJGczRyX055cmRHUDJnVHc3alVDSjRieDB3b19UUVFBa0FtYTBDc3VQZ19jaWpsSzdBbENmTFdUQlIyU0hHSm5zVHFpcWZ3dzlseGIwTFg0QkVtNXBuQlVIM1FDampQekt6cFN1ZDdYNFVUajdGeWtsc1gtRm5hb3RtQUVHYi11SQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 466.38,
+        "changePercent": -10.86,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD Stock Quote Price and Forecast - CNN: AMD Stock Quote Price and Forecast CNN...\n- TD Cowen Raises PT on Advanced Micro Devices (AMD) Stock - Yahoo Finance: TD Cowen Raises PT on Advanced Micro Devices (AMD) Stock Yahoo Finance...\n- A Look At Advanced Micro Devices (AMD) Valuation After Recent Share Pullback And Strong Multi Year Returns - simplywall.st: A Look At Advanced Micro Devices (AMD) Valuation After Recent Share Pullback And Strong Multi Year Returns simplywall.st...",
+        "sources": [
+          {
+            "title": "AMD Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndUxfbjJEeVZYMi1wd2lPajZ3LTVYZkF0NVZ2Q1RuNDBPWkhGN184UlFoQ09FdmNBdl8wNFYtMURTNUU0Qm14aWVwcXFuV28?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "TD Cowen Raises PT on Advanced Micro Devices (AMD) Stock - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlAwSldFZ2VLcDFYWDBUaEpoVXZoc3VXTEJJQ0xJSU0ycGF0cG5DZkFxblVTSmt5d0tQWFdRRjRacS1nUzFMbDZabHlMVzViYmFMQ3pnaWpoU3NnejMxUDRTSDZwbU1uNGFGQ0pLcWE4b3d5UzFhN09vMlFNR3kzakNrVlBSRmNBS2VXclZLTzBiV2Ntem1B?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A Look At Advanced Micro Devices (AMD) Valuation After Recent Share Pullback And Strong Multi Year Returns - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMWgtLV9oSnF6MF9NTVNvQ1NxX2ljanlCaXRscEo2MkU4Y0tjQllEUU1tdmU4cVhKU2JVdlZ2MUVfT0F0a1lKU05KZ1NpMzBJRWhTQTJDSkJoTW5neTFwbmpDZmw4cmw2OVQxa1dmemFjY0U4NC1fQ1lGWkQ0X0NaaHVlUkU2ZXhFVUxHallNeUdNRXplNTFEUGFrOG9KUXpLcm5SYzVlZ0VTSWNENEZfUWhmemdRbFlRV1loWjYyaEl0Q2ZZa21wNDNSUnYzbGpiUFlQQlNNamZyVUpNbkHSAeMBQVVfeXFMT3psWkQyNTJ1R0JUTmhPSndOWHRWRlBiNjRNRjBQaWZWTzVUdjh0UHpQVEE2eHdNQVBhSzlfU3I5OUdDSjZpRlhmdWJiaFpUeUM0SkF3X3dOMFV1MEw5eXJqbTBaalBZRTFKSWFUc2FzZlgxSzQ3ZGQ3djhWRnlfZ3p0ajVxeGlDeFIzeXdkVVRoTjgtalpfd0J6bDkya2pxQ0ZEeU9CRXJrSlk2bTNNX3lTa0ZPazYyR1lYMWVsYjR5WE9LR2FxRDZ5VkhDd29ScElzWXgzbV9LVlF1OEt3WXp4Z2s?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 864.01,
+        "changePercent": -13.25,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Analyst See More Upside Despite Micron Technology’s (MU) 90% Gains in May - Yahoo Finance: Analyst See More Upside Despite Micron Technology’s (MU) 90% Gains in May Yahoo Finance...\n- MU Technical Analysis | Trend, Signals & Chart Patterns | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill: MU Technical Analysis | Trend, Signals & Chart Patterns | MICRON TECHNOLOGY INC (NASDAQ:MU) ChartMill...\n- Micron: The Market Is Right (Rating Upgrade) (NASDAQ:MU) - Seeking Alpha: Micron: The Market Is Right (Rating Upgrade) (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Analyst See More Upside Despite Micron Technology’s (MU) 90% Gains in May - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2J3aGxIWDF5aEY1Zk5ZQ3RvQXYwRF82YjhjMVlTT0ZndE5RdldJUE51YVdick1hSC1rZktQQ3RNQnRPMFlYZnR6LU5VeC0yUm9YcnUzUHNCa0VPNUdZZkdvN2lWMFl5RHFCWDVIeHIyUV9WZndhaVQzT19SaHFjRVFhaUFKN09aVmZZSl9XS01FaS14UDA1aFh6cTE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Technical Analysis | Trend, Signals & Chart Patterns | MICRON TECHNOLOGY INC (NASDAQ:MU) - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wZnB1ZVFUUWdleFpvd1U0QmhOZWNhSHBBWlhYaTZGeGtiNF94dUtFTU9mTzRDMTBwaXZsSzNCNUhsN1gxdEZuUlMzcVNzdTl4cmUxS3JmQlRCZl9vcHE5eldLU1pya09wMHpj?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The Market Is Right (Rating Upgrade) (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNVFfNzVOQjJyblNFclZ2cEcwT0ZSRWRkV1p4QTAyNFBrRzNCU2R6dmJLRkJXQWZ2VE9wN2Z4Q3ZLTHkzSUVDUEE0QzJiZ1pnZENIMzVhVFVIWjlrUTNBeEh2N2lmdjFYVVZJcWhrTzdLUUg3RjhxSjdIaVdnaU4zRWhweDVXTmdDMFE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-06-05": {
     "date": "2026-06-05",
     "lastUpdated": "11:14 PM KST",
