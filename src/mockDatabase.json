@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-06-09": {
+    "date": "2026-06-09",
+    "lastUpdated": "11:19 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 821.76,
+        "changePercent": -8.22,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here’s What Analysts Are Saying About Lumentum Holdings (LITE) - Yahoo Finance: Here’s What Analysts Are Saying About Lumentum Holdings (LITE) Yahoo Finance...\n- Lumentum (NASDAQ:LITE) Shares Down 8.2% - What's Next? - MarketBeat: Lumentum (NASDAQ:LITE) Shares Down 8.2% - What's Next? MarketBeat...\n- Here’s What Analysts Are Saying About Lumentum Holdings (LITE) - Insider Monkey: Here’s What Analysts Are Saying About Lumentum Holdings (LITE) Insider Monkey...",
+        "sources": [
+          {
+            "title": "Here’s What Analysts Are Saying About Lumentum Holdings (LITE) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjRsTTYzSmZRQThVaGZBZEl3d0ZMNmxuWERUQUlmNUZ2RjNxSkxlUjhwQ3N3bzkwbUZDOTVmNW9XTlh2N2NZeS11d2pDbWwxYTdMd1ZabkFpUFBhZjJRRS1oMlYwcXFWeFQ2cHFfVDY3cTBRWEFGd3ktbDhoQmI1M0VHMktsbmF1WEJEajR0enZwU09ObTRsZjlLazZfZEEyelpiNDFn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Shares Down 8.2% - What's Next? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlJBSHBlMXY1WWlKOG1rNjQ5TTdSYzVuV1liRzFWclZjWUR2R3lWVlIwYm9kR3RQektnUkRGcmRRQ01KcDBiYmxqNnFKNVZLZ240QTFobmVBdk1iRWlBVjNsRWxpLVR2UjlrMUpYRmxDeU1MOWdrZnRXMDdYTDlRTFJxT0IwbF9pcjVJVWM3a016N0wyQTlhamxwQ0ZGSWhX?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Here’s What Analysts Are Saying About Lumentum Holdings (LITE) - Insider Monkey",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaWxCa2VlQ0x2TFRMZjZlUzBLRExCNnJTMTBGZVFlVHNTRkt2SXphMy1EaElkOFEyd3lBU0szczdVWnlCX0FEYkRMRmh5Ri1fLUZMaFpSU0o4d3ZFVWczN0V3NVdoeHB4RUZKZVV5c0t0NGhaWVh5UHlnZENlMFZkczNuRC1IbGVRbVphYmhBdFFwM0ZmTGJJMVZVaVlZVTNpM2liWFp2YjJkRnpxelHSAa4BQVVfeXFMTmlsQmtlZUNMdkxUTGY2ZVMwS0RMQjZyUzEwRmVRZVRzU0ZLdkl6YTMtRGhJZDhRMnd5QVNLM3M3VVp5Ql9BRGJETEZoeUYtXy1GTGhaUlNKOHd2RVVnMzdFdzVXaHhweEVGSmVVeXNLdDRoWllYeVB5Z2RDZTBWZHMzbkQtSGxlUW1aYWJoQXRRcDNGZkxiSTFWVWlZWVUzaTNpYlhadmIyZEZ6cXpR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 107.92,
+        "changePercent": -2.13,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation (INTC) Unveils New Innovations at Computex 2026 - Yahoo Finance: Intel Corporation (INTC) Unveils New Innovations at Computex 2026 Yahoo Finance...\n- Intel (NASDAQ:INTC) Shares Down 2.1% - Here's What Happened - MarketBeat: Intel (NASDAQ:INTC) Shares Down 2.1% - Here's What Happened MarketBeat...\n- Intel's AI Narrative Just Changed (NASDAQ:INTC) - Seeking Alpha: Intel's AI Narrative Just Changed (NASDAQ:INTC) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Intel Corporation (INTC) Unveils New Innovations at Computex 2026 - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmxHWHZxZ1dKQng4Wm4xRTlPOUo4M0pEU3ZtNDM5S2RUaTltZHNZYUdzOWVoeHZva3VCLW16TWVPbS1ubnRYS1VGU0J5WmEwNjJOVWItdHA2eUpWekE0aXpfelJtTmZ5c0FCMktvSXFHQmpzQmhjdTExSUZKRGs3eGpUd1FJeVNReXhGZmJGWUh2cjNMVVZXOVRnc1g3MnVGUWxvdnA1cy1YR2RWSGZUWg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Shares Down 2.1% - Here's What Happened - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYjFKUkNvS0x1dUh5ZndTZ2VLRmR4QUV1ODVRdGg4STRVTkpySG5MNGZmU05DWFNvNkU1WVpvbVJkZ1lVaGEzaHNYMDZOQmhyaE9Zb2VVQ3VrblVPUktabG9JdE5xc0dzRFhIeEk4NWxWWDVWcnBCNmZGcGpVcnJIY3A5emdKU05XTlV4UUZNcXVjRGRjRi1yZDhSVnVVMkgySUhhTmNPN2w?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel's AI Narrative Just Changed (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51TDRvSDBjUXBWZW1FNThZY001R3FFQVNna2N1ZkptRlp0S0pVUHZqa2VNRmtQUVEtV0RMUm5GcklTVmhvNzVKZzZtX1VKSnFCNWJuTHpYV095TXhBTDlNSDhGYW16OVNzeVI1eVV6b3NYSE1MV3RGX29LakE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 475.51,
+        "changePercent": -3.02,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Advanced Micro Devices Stock Bounced Back Today - Yahoo Finance: Why Advanced Micro Devices Stock Bounced Back Today Yahoo Finance...\n- Advanced Micro Devices: Multiple Expansion Means We're A Strong Sell (NASDAQ:AMD) - Seeking Alpha: Advanced Micro Devices: Multiple Expansion Means We're A Strong Sell (NASDAQ:AMD) Seeking Alpha...\n- X Square Capital LLC Sells 17,259 Shares of Advanced Micro Devices, Inc. $AMD - MarketBeat: X Square Capital LLC Sells 17,259 Shares of Advanced Micro Devices, Inc. $AMD MarketBeat...",
+        "sources": [
+          {
+            "title": "Why Advanced Micro Devices Stock Bounced Back Today - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOW5sYldoUTdwX21SV1pMYzhCMHRCLUV1Vy1ydzV3ZHdaOWhuRElrQ3VfbHZDR0Z0T1RGWFRvRWJlaGR0LUdhdV80dy0xNkUzVFpUWmpyc0w3bEVCbEtqRl9VRTQzNHJCQXlPSGVjek5iSUxKNC1XeU1hQWUtbUxBWmpNZENuWjlUcFRHakJ3UHBpMXJ2TkZ3WXFUQXh4UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices: Multiple Expansion Means We're A Strong Sell (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanJtblpnMmw5ZUxfT2xYdC1WZll5SFA0cko4WlpqQlhKN0w1MnNaMC1rYzhldVpGQWctVXozQW0zZ25pNE8za1UxTjRxU1pqM1FPTzdsWVdRN1dmTUgxZHdpZ1pGU0l1cUJBZDFoN2tNTGpndHU4ZEVCSG9OcWNIY3FTWDdVdTNHR0hJelZkakxCYzNCT3ZsODQya041dWVXc1Y4cXdYSjlvRjA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "X Square Capital LLC Sells 17,259 Shares of Advanced Micro Devices, Inc. $AMD - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZkw3amJKSDZmdTdCNFJnemp3eTlGUmNVVGRGXzdrakJwUmdnMjl5c0F2Y05DYjhfY3NESWxmd09vYmcyQzZzck5JeDhHQzR0RTRPZnNmR0JzWVlfU21HVW42eHV5TlBjYUxVRDNzcEVGUlplZ01wZFVxWGk2RW5tdC00MFZBT3NoellSR1N3ZVhzSGVpYk5BOGtleC1XeUo2RkYzTktIN0tpV3o0RlRnV2JXUmRGVEhfUUFqalY3UmFMbWtPOE9EOUpxMzRrVk0?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 935.89,
+        "changePercent": -1.41,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron: Dancing Near The Exit (Downgrade) (NASDAQ:MU) - Seeking Alpha: Micron: Dancing Near The Exit (Downgrade) (NASDAQ:MU) Seeking Alpha...\n- Is Micron Technology, Inc. (MU) A Good Stock To Buy Now? - Yahoo Finance: Is Micron Technology, Inc. (MU) A Good Stock To Buy Now? Yahoo Finance...\n- Micron (MU) appoints Alexis Black Björlin to board and governance committee - Stock Titan: Micron (MU) appoints Alexis Black Björlin to board and governance committee Stock Titan...",
+        "sources": [
+          {
+            "title": "Micron: Dancing Near The Exit (Downgrade) (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaC04N255SFJRUVREX1dETzV0OGpGSEtGZllvdkRjTXl2T2poUWwwQVp2ZzZfazNxcV8yZTZVVjI2cDU1UzZiNlo3VllWWjBRLWxoWmZyOGpIVm9qWndQbmJqVkJrQ1lubUpnOGZyOXpZYzNDMk93TVhadXY0ZWdlVjBuTFZlZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Micron Technology, Inc. (MU) A Good Stock To Buy Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQejhjMTVaTEpmYlB6V2Y4aTlkRVZFYnc5Q3ZRUzh5TWhwN18zSDNFcmg0THl0bEFtNEpnN2o1Tlc4ODlpNUxzNzg4SWdWa3V1V2V6Z3J2SU9Hdms3eW9yY3RPWXVNcDJsRFlKMno2c3FMYTFZdzNrWXhqR2U1RDYzbWM1cDJLTkdLZ1FFNG9FZXZETGU4R3N2Y01n?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron (MU) appoints Alexis Black Björlin to board and governance committee - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV09oSXIyUlRlWHVFUkQ5d21TSG1meTNFZkFTSVlRYURDZjFmc3dOTk9KN19NUXlGS1d6NWlkVHdaa3JlUTRCLWU2MGk3MUhmRmp1X1JQMDFjV0JkckxWMWYta25FbnI3cnpwQzQ4MDNlNkMwRXZTRGJLMUFsNW5xbE5OV2FkMnJRQWNVVnhIXzJOWm5yM2luWWVtSEkxcHdFWVJDQ3BVbmZzY2M0?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-06-08": {
     "date": "2026-06-08",
     "lastUpdated": "11:14 PM KST",
