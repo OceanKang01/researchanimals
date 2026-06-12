@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-06-12": {
+    "date": "2026-06-12",
+    "lastUpdated": "11:21 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 921.56,
+        "changePercent": 3.59,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here’s What Analysts Are Saying About Lumentum Holdings (LITE) - Yahoo Finance: Here’s What Analysts Are Saying About Lumentum Holdings (LITE) Yahoo Finance...\n- Lumentum (NASDAQ:LITE) Stock Price Up 3.6% - Should You Buy? - MarketBeat: Lumentum (NASDAQ:LITE) Stock Price Up 3.6% - Should You Buy? MarketBeat...\n- Lumentum: Hard To Step In Front Of This Train (NASDAQ:LITE) - Seeking Alpha: Lumentum: Hard To Step In Front Of This Train (NASDAQ:LITE) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Here’s What Analysts Are Saying About Lumentum Holdings (LITE) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjRsTTYzSmZRQThVaGZBZEl3d0ZMNmxuWERUQUlmNUZ2RjNxSkxlUjhwQ3N3bzkwbUZDOTVmNW9XTlh2N2NZeS11d2pDbWwxYTdMd1ZabkFpUFBhZjJRRS1oMlYwcXFWeFQ2cHFfVDY3cTBRWEFGd3ktbDhoQmI1M0VHMktsbmF1WEJEajR0enZwU09ObTRsZjlLazZfZEEyelpiNDFn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Stock Price Up 3.6% - Should You Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWxqYjNsdmNtMkQ0TlZGaV9KaUFJTVlCVnFZZTZLdzE4VG1uVFBPc05GYjJTNVppdkJrQWtMYjB3ellZdXBxa2dobnFtdUc5cGE4VTl6VkZOeWVLcnJrdWNBVzJndTZFR01aTm1Bb1VmaE5KS3MwVGZZSmxtYTZoSUNIbWpfYXg4bEllVDJYNHBqTFI1bERlZ0k4VTZzMTZrbW5FTERKZzlndw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: Hard To Step In Front Of This Train (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQREtpaldZYnZaTWVhV2hZYzdfMTd4Z21mUVBZcEZnT2ZJRHhJQ1hfRkZ1Qm1Uai1ISWdwQWFYTEVGYTU1LWVwampFYUNQcmJzZHdGMHFWazBhWDFUclpRYm1xNWREbElHQ3hOLWt5VTdQMTRtZkV3Zjd4TDVTMFltMjd3RktlNEZmdnpYaHhsX3h6T1hJSGc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 124.57,
+        "changePercent": 6.51,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Is Intel (INTC) Stock Rocketing Higher Today - Yahoo Finance: Why Is Intel (INTC) Stock Rocketing Higher Today Yahoo Finance...\n- Xponance LLC Buys 51,482 Shares of Intel Corporation $INTC - MarketBeat: Xponance LLC Buys 51,482 Shares of Intel Corporation $INTC MarketBeat...\n- What's Going On With Intel Stock Friday? - Benzinga: What's Going On With Intel Stock Friday? Benzinga...",
+        "sources": [
+          {
+            "title": "Why Is Intel (INTC) Stock Rocketing Higher Today - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU18wSkdOWWVva0RHcG9uTTh5REVHbTdXLW1QU2RiNGxCVVpkbTllZEVrOTc5UDBQbUhPa0kzbGgxOGR0cGZHbWxlcGJRUTB2RkZ5eGFOODdnY3BSbkZYYmlVZEg4ZEJVc3kyR3JtcTVLZEVUVzVBTloxV1ZJMVhyXy11NS1hSjlNeENmQzdaRmY3dU1Ra0xXZlVxWQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Xponance LLC Buys 51,482 Shares of Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQel9KQVZLR1I4TGxsamZZSkxWNHF5M0lmYlgxck0wYldQNXhwa1B5Mkc1ZG1SWjJBdkM1ZnhuZ3J0bVZkWnpkeHc4amV6WktXUVFPZzNMbkt3dGFMZkZtWnBpbHRtQ2ZYTHBkc250ME5jR0RIektDWlVzeFp0WTZIZmUxcEFkU0dvN1dFUzJuTjZOOUwwVmxGQ2ZvYmIwTW1DOVotdnZ3WlRTdW9malJmZUtRY1lmVHJq?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With Intel Stock Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeDVNY2hEc1JyXzdSREJMRnNsc003SXczTTEtbFJuYVdEU19Nbm5CZ1lpLVhhNmhGMEx5LWVhc04zR2ZLdHlBTHc1WFdFTzdod1dMcE5FX2E5MnFWWXlmQ1FhaURhNjJjdEwwNmhzNl93MUg1ZGdRMk1EdnQtNnJtcGcwUXlkQk1fTm45VWhrQTh0X0lfYVB5Xw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 511.57,
+        "changePercent": 4.73,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices Inc (AMD) Stock Price, Trades & News - GuruFocus: Advanced Micro Devices Inc (AMD) Stock Price, Trades & News GuruFocus...\n- Is It Too Late to Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Gain of 300%? - Yahoo Finance: Is It Too Late to Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Gain of 300%? Yahoo Finance...\n- Insider Selling: Advanced Micro Devices (NASDAQ:AMD) CEO Sells 125,000 Shares of Stock - MarketBeat: Insider Selling: Advanced Micro Devices (NASDAQ:AMD) CEO Sells 125,000 Shares of Stock MarketBeat...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices Inc (AMD) Stock Price, Trades & News - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84NGs0cTBjOEhuRE51YkNSR0ROUzJGSnhKUkFjZ0s3NTlLZTR4UTZhU01uaU0yclRSa1NGS2VrZzlHTm8zZkhBN2MxdjZ3MU16bFBENUVR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is It Too Late to Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Gain of 300%? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjJ4SFZXeUhGLXVudmlUY0FTbVRfd0JUallWbUtxSDVvbEM0LXVJWlBDeHc2RHI3WXoxSzRIdWxqVVd5OGpqdzRTbEx3Y1FBUnc4Z29CaElkeHQweTlSNVVtRm5JV0lqMjBUS3hqS3BHdjdCaGFMTm43bDduUU9KR0RVMnIwaHA4RTJFWUNwU0RBNnUzanlUSEgwZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Insider Selling: Advanced Micro Devices (NASDAQ:AMD) CEO Sells 125,000 Shares of Stock - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbWplRVhULWlFQy14dFlTTk5GOThQVERzZkc2dnBDUU5xc3RoY19YVTJxYzZrTUk0WEc3bkxTZDRjdnlLemJhZDFVRlNZaXE2Zk80S2JzVjRyOFY0b1VUU0N4TFFTTWROMldyQkVXVTB5aUNuX1hjWGs4UXBFUU5Zb0ktVHQ1eVdsZk1wT2JZVjhja3hibTRZdmhyVzA5LXRjcGFDNXNfam5lbzMxWVA4OGFfSFA1cW1XTkVsRjQtWjRZLVd3NGxJSC1RMF84MHpX?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 981.61,
+        "changePercent": -1.43,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology, Inc. (MU) Is A Top AI Stock In Ken Griffin’s Portfolio - Yahoo Finance: Micron Technology, Inc. (MU) Is A Top AI Stock In Ken Griffin’s Portfolio Yahoo Finance...\n- UBS AG launches autocallable Micron‑linked notes (AMUB) maturing June 2028 - Stock Titan: UBS AG launches autocallable Micron‑linked notes (AMUB) maturing June 2028 Stock Titan...\n- What's Going On With Micron Stock Friday? - Benzinga: What's Going On With Micron Stock Friday? Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Technology, Inc. (MU) Is A Top AI Stock In Ken Griffin’s Portfolio - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGg5UmJlTDlPQy1QY0RrX2VGb1Zad21QNURCN3hRYzRlUTBvbEFMTTI0bG82eWhSQy1rbW5nWnFneEROZEtvZjZBWEtfUzhXWENKUzk5cGJrWEhDaEgySWFqTmdYbnNJN3d1MVVBenFHN1lTQldRM0ZwbkxrTlN6X0p6RjhEME1BV2ttOUljRXdTa0hRQ3JFTQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "UBS AG launches autocallable Micron‑linked notes (AMUB) maturing June 2028 - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDVLMldSVENoYWdfeENtSElsVHNYMG5GZlVwRjBXUEx4OVpnYmd1Y3l1TXRUYUhleklGZTNCY1Y3bFdkdEUxSmQ2UTc0dnlKU2lCWU4tS01UUkNnUlFzX1hxT0xMcVZpMmZfc3RwRHhURGQzS1kxNHpkZk5LVmF3V3cwQUdFNzBxOVRRY3FSbGVKS0lzb1JxY0xiV0o?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With Micron Stock Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZW12SXdtdGpWQW93WGdITHBPYlExMzJZTHJlRlFRRE9KajdzenptbUlYcTBIMFhwZEYwMWducUw5STNuWW9TSkNyZTZKSTE3V0tZS1V0bnp4aUZqVUZoV2pkM19mbkY0dFYxM0tGS1lqOVI4VWt0cTg5Vm1sU2NIUjAwVWRnaHJlcVE2dXNPVlc0Mkw1akdBY1ZQcllRLWgtM2l2U3lycTRIb3RLR0JoWDNvdGk4QQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-06-11": {
     "date": "2026-06-11",
     "lastUpdated": "11:39 PM KST",
