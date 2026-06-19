@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-06-19": {
+    "date": "2026-06-19",
+    "lastUpdated": "11:02 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 850.0,
+        "changePercent": -2.3,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Lumentum (LITE) Remains Tied to the Optical Bottleneck Inside AI Data Centers - Yahoo Finance: Why Lumentum (LITE) Remains Tied to the Optical Bottleneck Inside AI Data Centers Yahoo Finance...\n- Lumentum Holdings Stock: Is LITE Outperforming the Technology Sector? - Barchart.com: Lumentum Holdings Stock: Is LITE Outperforming the Technology Sector? Barchart.com...\n- Lumentum Holdings Inc Stock (LITE) Moved Down by 7.96% on Jun 16: What Signal Does It Send? - TradingKey: Lumentum Holdings Inc Stock (LITE) Moved Down by 7.96% on Jun 16: What Signal Does It Send? TradingKey...",
+        "sources": [
+          {
+            "title": "Why Lumentum (LITE) Remains Tied to the Optical Bottleneck Inside AI Data Centers - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVp6S1lnTGw0ZmZFWjA5ZHNZMXRfRUFDRTdBbTJYVDhUMlNkOWFjeUJBX2FVWWZLX0g5Q0x0aWNPbnlzS3pVWHQ5RkRCVmxlMzBXbWpQWTRPVTJWcVRPQjdCTDctQ3NEN29XM2tuM3lLWmlCa1JUeXZZREpxVEtXRmVXVXNJMUpQS3BPT2FHV0VKMGoxYmZpQmVBVQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Stock: Is LITE Outperforming the Technology Sector? - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHZMU1YydndYM0ZFeklFcHh2ZWFYR3dlTVI1N0pGbTh3OHU1b2swbGN0QzZ0d05YZ1MyNzVITGppWmFCUUNXZHAxSWRTcHpSa2lCMU5jM3FxWTJtbklFNmZlOHl2eElRTkxJT19aZHJSUk4wSVVGWlVHWTZROGNOSzFpMG5rUk1yZjBBdjNOTnJ4REl2SmJjTHc3R0J1N3A0amFVLW9FaUFJbzFoNm9yLQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Moved Down by 7.96% on Jun 16: What Signal Does It Send? - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORGNnUFhGVzNjNmFzMTlrRWZDQXdmRnVLaXdVMkVkOEVJWWJzaHNOTDFtb0VhUkxGMzVydWZodThnanpCbFprXzRiVXJyQy1ZTDQ2QUJBaDNFNGNGZlRRaGVLYi1iSVdNOFFfQVBBTno5WnpjcUU0eUFTTktCUFlnVGNUaU54OTFyeElj?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 133.99,
+        "changePercent": 10.64,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts - Yahoo Finance: Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts Yahoo Finance...\n- INTC Stock Rally: Analysts See Further Upside, Foundry Deals After Buyback Of Ireland Fab Stake - Stocktwits: INTC Stock Rally: Analysts See Further Upside, Foundry Deals After Buyback Of Ireland Fab Stake Stocktwits...\n- Intel Shares Soar After Trump Says It Struck Apple Chip Deal - Bloomberg.com: Intel Shares Soar After Trump Says It Struck Apple Chip Deal Bloomberg.com...",
+        "sources": [
+          {
+            "title": "Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkhIU08waU1UZGtwUGdfcmVfM1d0WUMzVWtZRHpKbG81Y2U4d0JobVg5R2p5dmNSYkZnM0ZCZmd3TEJ1MzMwcy1IZzNXaWVLbGlSTVlsdjJxcGVyYUdlSHljOHRiREY1OWF3SktOb1VnQjF2VzNqNS10d0wwTVJrSE9vR2FRYjd1ZHd5ZzNpUzNaQjlWdTFHZg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Rally: Analysts See Further Upside, Foundry Deals After Buyback Of Ireland Fab Stake - Stocktwits",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTU90ZVlmN2ZmRUJMX1VneFAxc2Zrc0Vmb21USjFjalFkUk5DWm5paG9PczJvLUhOa2ZxaWZpTEdfaVUzcGJjMnRBSXBGSC1YSE5FX2lFdW1HTTBueVNLckVlLUZ1T2xLOEcxaXdMd0NYcE4wNmdUQWlDN2JYaXRrLXFBUWVIcS0ySzU5QVFLdnJON2FndGt5VWFzUVZmQ2hvOXJ5alRTamdBSGFNQi00S0M4VFJoNTdqYWZDMHBEdE9yaF9GeWpmalNycWM0cVdTNjRUSmNzMl9uNW1kZTBsSk1jR1ZRTFdoTlZqWk5B?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Shares Soar After Trump Says It Struck Apple Chip Deal - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlM2ZEprdFdVelV2Tkd4NFlubFJYTXFadUxtVXkxSF9scFg5dk91U0dKR3pkWENoXy1CVXppRjZta2hYZS1qa1BsTDJaWTNRR2ZwaVJrNzN0d1BrWlVJQVFOZUZLa1lLTnFVXy1xLXN3Mm1wdnh4RGtiM19vbDgyZzQtZzhqZXRKTkZPbEJyNzNkRHIySl9UZzBpZXJaZUIzdUdEbzQzLUFuVnhhbDFNV0VKOE5hazVGcjRJUHFBaw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 537.37,
+        "changePercent": 4.86,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD): The Best Debt-Free American Stock to Invest In - Yahoo Finance: Advanced Micro Devices (AMD): The Best Debt-Free American Stock to Invest In Yahoo Finance...\n- Advanced Micro Devices Inc Stock (AMD) Moved Up by 4.86% on Jun 19: What Investors Need To Know - TradingKey: Advanced Micro Devices Inc Stock (AMD) Moved Up by 4.86% on Jun 19: What Investors Need To Know TradingKey...\n- What's Going On With AMD Stock Wednesday? - Benzinga: What's Going On With AMD Stock Wednesday? Benzinga...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD): The Best Debt-Free American Stock to Invest In - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOEhpVk5KbExiSDlNbHBwMjNqTG5IU3R4MU5iUzVOclFzMFdmWTViQXZwOE45M1hSQ204WjR5eGV4SVlLYlNUelVlUVJsVHd5NXgzMTVENzBwNjN5eHFHUW9XUkMyV1ZiejhVdTltNERYc0l5dTloYlBHdFVXa3piQ1FyUVdtcXJlTWpSZmQ5Q0I0UEVBNERqR1F0SWg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc Stock (AMD) Moved Up by 4.86% on Jun 19: What Investors Need To Know - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRU5YbWQ1RDJiWGJ5R1A2Snl0RlBENHFyZjJESEpDNUYzbGc0SDNVcG9vTE82NFYzTEN0NWN5eEd0alk2Wmd2M1V5czI3RlA3WkZNWnZ0dFlCLVp3N1JkR21PbjBodWJtNFh1NjltdFZWektfemE1UFFYTzRSOWNQb2tsUXo5VTFRd0E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With AMD Stock Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWNZVXprSjFmQUd1WWtuTGVCc0lxS3BhZjAzRlNfVG1hNUtkekJJbnBsUXJvMXpfazFmUWV2bktWYU80Si1CYUVRdlNXU2JGN0twb0JVOUpxZ1Eydlc0RFk2cnY2WHl6QUZNRXBLOVdNR2ZCakRFVTRhNmI1YThsUmdobmMya0d6ck1oNFRySDVqZXVyaDJ3a3lB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1133.99,
+        "changePercent": 8.7,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Likely to Beat Q3 Earnings Estimates: Time to Buy the Stock? - Yahoo Finance: Micron Likely to Beat Q3 Earnings Estimates: Time to Buy the Stock? Yahoo Finance...\n- Micron Technology: Buy Ahead Of Earnings (Preview) (NASDAQ:MU) - Seeking Alpha: Micron Technology: Buy Ahead Of Earnings (Preview) (NASDAQ:MU) Seeking Alpha...\n- Micron Technology stock may move 11% on June 24 earnings - Investing.com: Micron Technology stock may move 11% on June 24 earnings Investing.com...",
+        "sources": [
+          {
+            "title": "Micron Likely to Beat Q3 Earnings Estimates: Time to Buy the Stock? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmpPMkZtR1QtNTZvX3Zhc21EZmlicDBXSUlFT0lyM1BqOHQwLW9wMTgxMl9LWVFwbmhHWnhQSm9PVThWaXQ4aFBQTjM4TmpHRzhJZU1WakpjSldHYmZVQTVNVVI4RVF1V1UxUTFjbERrOU1Xb1h3ZW0xVlI0ZXRuaGpqQXVEZWd3QzR3ekxVOTdrR3B2NkFlMXE5VQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology: Buy Ahead Of Earnings (Preview) (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSjFHaS13Y1RjSzZRVUJRRjN3bnpoOVZsd0hjSVA3SzY4V3RvU2lQTURiWEZUVVk2MzR3bm5KQ1BNemd6QmtYTDRGYm02dmRzR0xDeE43NU40ajF6MmU1V2VBVU5iZVMtMWlIUlU3R05UYWhKdE84NkhWMWZadWRqM3NiUTdiQUVNYXEwWUhRZDE0UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology stock may move 11% on June 24 earnings - Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON29xYmw3bkk1UE9Ub09WMmMyZWtlNkhyWWIzREIxOUhXYnpWc2FRUzV1SVZlSkZZSkExOU1tR3RweTF4dUZnbmx6enVtajlPZFBKbzhIb0FCakxoS2sxREw3Yjk2U05lY044OVVlYWNGRHpWMmV0eHp6UkVLeVRieWJORWpPaEg4dXhsRUd0NDZmM3FBQ1ctUDJSSS04NTBha0FHRGs0Z0tzN0w0aGxtUTJCOEdGcGtl?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-06-18": {
     "date": "2026-06-18",
     "lastUpdated": "11:48 PM KST",
