@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-06-20": {
+    "date": "2026-06-20",
+    "lastUpdated": "11:13 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 850.0,
+        "changePercent": -2.3,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- LITE - Lumentum Holdings Inc Stock Price and Quote - Finviz: LITE - Lumentum Holdings Inc Stock Price and Quote Finviz...\n- Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction - Yahoo Finance: Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction Yahoo Finance...\n- Lumentum Holdings Stock: Is LITE Outperforming the Technology Sector? - Barchart.com: Lumentum Holdings Stock: Is LITE Outperforming the Technology Sector? Barchart.com...",
+        "sources": [
+          {
+            "title": "LITE - Lumentum Holdings Inc Stock Price and Quote - Finviz",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05VXlLVFg5cjVBRWstWmE2X1ltTElLaU9MUWkzZHR1c25iNjJyRjM1aVRXNDFweThvM1dnYmlMYnZIWkQ2b0E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXdIbDF6b29EZEgyazZQaEtxMWE4R1NheEtESk5IMUpoS1d2eXJKcFpNQTlJeEFIblVxM2lZVDh3LUhhaDdWbl9RY19xYUtIX3pKZ2dRQUJham9aSDVkVTZPSzRhMnd6dzlIZEs1VmZWLWI3QmhEaktiODBxVmhoY0FXSGZKeU5HSEo2UG1zdVZULUF6RS05UldlelM1dC1Od1NN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Stock: Is LITE Outperforming the Technology Sector? - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHZMU1YydndYM0ZFeklFcHh2ZWFYR3dlTVI1N0pGbTh3OHU1b2swbGN0QzZ0d05YZ1MyNzVITGppWmFCUUNXZHAxSWRTcHpSa2lCMU5jM3FxWTJtbklFNmZlOHl2eElRTkxJT19aZHJSUk4wSVVGWlVHWTZROGNOSzFpMG5rUk1yZjBBdjNOTnJ4REl2SmJjTHc3R0J1N3A0amFVLW9FaUFJbzFoNm9yLQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 133.99,
+        "changePercent": 10.64,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts? - Yahoo Finance: Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts? Yahoo Finance...\n- Intel Shares Soar After Trump Says It Struck Apple Chip Deal - Bloomberg.com: Intel Shares Soar After Trump Says It Struck Apple Chip Deal Bloomberg.com...\n- Will Intel Become the Next $5 Trillion Stock? Should You Buy INTC Now? - TradingKey: Will Intel Become the Next $5 Trillion Stock? Should You Buy INTC Now? TradingKey...",
+        "sources": [
+          {
+            "title": "Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkhIU08waU1UZGtwUGdfcmVfM1d0WUMzVWtZRHpKbG81Y2U4d0JobVg5R2p5dmNSYkZnM0ZCZmd3TEJ1MzMwcy1IZzNXaWVLbGlSTVlsdjJxcGVyYUdlSHljOHRiREY1OWF3SktOb1VnQjF2VzNqNS10d0wwTVJrSE9vR2FRYjd1ZHd5ZzNpUzNaQjlWdTFHZg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Shares Soar After Trump Says It Struck Apple Chip Deal - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlM2ZEprdFdVelV2Tkd4NFlubFJYTXFadUxtVXkxSF9scFg5dk91U0dKR3pkWENoXy1CVXppRjZta2hYZS1qa1BsTDJaWTNRR2ZwaVJrNzN0d1BrWlVJQVFOZUZLa1lLTnFVXy1xLXN3Mm1wdnh4RGtiM19vbDgyZzQtZzhqZXRKTkZPbEJyNzNkRHIySl9UZzBpZXJaZUIzdUdEbzQzLUFuVnhhbDFNV0VKOE5hazVGcjRJUHFBaw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Will Intel Become the Next $5 Trillion Stock? Should You Buy INTC Now? - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWo0Q3NPYU45REhKSUMyeG01MjQ0UWdsUGhnVFE1Mmh2aHhlaGtqT0R2MUJrMDFTQ05YTW5ueVc1M1E2MmFneF9XNUJyMTRrMF9SQUxJNmt0NzJWRlJzSlM2V29wMjNnaGhuTkRIOTItNldwSGFVakM2THdSSDNJV0hnLXVvNGw1V2RIRmhGSGFaYVZLYkRBSWhSU2dBVWNOc0lB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 537.37,
+        "changePercent": 4.86,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD): The Best Debt-Free American Stock to Invest In - Yahoo Finance: Advanced Micro Devices (AMD): The Best Debt-Free American Stock to Invest In Yahoo Finance...\n- Advanced Micro Devices Inc Stock (AMD) Opened Up by 4.86% on Jun 20: Facts Behind the Movement - TradingKey: Advanced Micro Devices Inc Stock (AMD) Opened Up by 4.86% on Jun 20: Facts Behind the Movement TradingKey...\n- Worthington Financial Partners LLC Invests $875,000 in Advanced Micro Devices, Inc. $AMD - MarketBeat: Worthington Financial Partners LLC Invests $875,000 in Advanced Micro Devices, Inc. $AMD MarketBeat...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD): The Best Debt-Free American Stock to Invest In - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOEhpVk5KbExiSDlNbHBwMjNqTG5IU3R4MU5iUzVOclFzMFdmWTViQXZwOE45M1hSQ204WjR5eGV4SVlLYlNUelVlUVJsVHd5NXgzMTVENzBwNjN5eHFHUW9XUkMyV1ZiejhVdTltNERYc0l5dTloYlBHdFVXa3piQ1FyUVdtcXJlTWpSZmQ5Q0I0UEVBNERqR1F0SWg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc Stock (AMD) Opened Up by 4.86% on Jun 20: Facts Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYkx4UndUWUR6d2NHdTJmYkstZ3FOblJRbmFEalprQ0JEY29tZU56aS1GbFgtQlFfR1RSdkhsWnR1alp0dFRYeXN5NTNVOFhDVGlRYUZwZmdDV3pJNGZnQ1FWTlZOVGVweUw1dGROc2w5ZWRuY1dPcVNFSTJrb084b1J4NmdHbnp1VVE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Worthington Financial Partners LLC Invests $875,000 in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVmlPZHBBNnlRUU1xYnNaakNjdlY2cExuUmYtMVo1S3lON19iVVJpZHp6Rks4STJwaHNSeWdtWGR3blZCWkVqcjd4b1pTcnpSTTA4bFgyb3FYNlZQaXhDNEczLTdNTWE3NkswczFKZVVwVkVKcV84dnlmN0ZvZDNIZWs0Y1VwNEdpRWRWLUZIaU1PWE5XMVlENTVwZjRCNjhBQ2syTFlOU3pkbFhDdkdCc0I5RXA0bWgyeUhBWENsclRJREQyMEVITExzZjNFLXZnc3ZpMGVSdFU5RzRr?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1133.99,
+        "changePercent": 8.7,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Is Micron Technology, Inc. (MU) the Stock with the Best Earnings Growth for the Next 3 Years? - Yahoo Finance: Is Micron Technology, Inc. (MU) the Stock with the Best Earnings Growth for the Next 3 Years? Yahoo Finance...\n- Micron Is Up 285% So Far This Year. Will It Surge or Crash After Earnings? - Benzinga: Micron Is Up 285% So Far This Year. Will It Surge or Crash After Earnings? Benzinga...\n- Micron Technology: Buy Ahead Of Earnings (Preview) (NASDAQ:MU) - Seeking Alpha: Micron Technology: Buy Ahead Of Earnings (Preview) (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Is Micron Technology, Inc. (MU) the Stock with the Best Earnings Growth for the Next 3 Years? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM19hT181NnVscEhrU2VQQXRDTUYwbFVTamdxak1YXzMxdk9IdTI2VkEzTW5MX3VBNnk2blAyakM1UWNPeVJQdXZBUlo0YklGZWtFblJiVUthSk1CTEtxUjhnUzFYSFZ4ZTVMWS1tRTVQV19yam9YRDdtNEZyYWJBOFZjYXhTYzdkcnlBckIya3VwSUxzSC1MVGJUOA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Is Up 285% So Far This Year. Will It Surge or Crash After Earnings? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0F1elFPa08xYUtBMDNaeDdGMG5tZldIc2lyeFZVV3FvalVCUmRoclh0enJBMy01NmpvMjZvX0pSbHhJeG1zMXJqNDBpT3FPYUFtQUVZeUQ5d214ZVJLVGpGSE9Pa01lNVE1LTduU1VFcXJjOEtCS2tYTVh6NEJ4dkY2Q1ZQZ2lzN3JpakJnek5ock8xU2tOS0FVZE5Id3BTcTRoaWtsSUhBMGtOQ1ZUejZhY01fbFR0dkI5WDBjczh5aGdRT0FZ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology: Buy Ahead Of Earnings (Preview) (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSjFHaS13Y1RjSzZRVUJRRjN3bnpoOVZsd0hjSVA3SzY4V3RvU2lQTURiWEZUVVk2MzR3bm5KQ1BNemd6QmtYTDRGYm02dmRzR0xDeE43NU40ajF6MmU1V2VBVU5iZVMtMWlIUlU3R05UYWhKdE84NkhWMWZadWRqM3NiUTdiQUVNYXEwWUhRZDE0UQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-06-19": {
     "date": "2026-06-19",
     "lastUpdated": "11:02 PM KST",
