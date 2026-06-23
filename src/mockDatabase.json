@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-06-23": {
+    "date": "2026-06-23",
+    "lastUpdated": "11:11 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 827.92,
+        "changePercent": -7.38,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- A Look at Lumentum Holdings Inc (LITE) After 7.4% Decline -- GF Value $94.44 vs Price $827.92 - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 7.4% Decline -- GF Value $94.44 vs Price $827.92 GuruFocus...\n- Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction - Yahoo Finance: Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction Yahoo Finance...\n- Lumentum Holdings Drops 8.1% Amid Sector-Wide Selling - AlphaStreet: Lumentum Holdings Drops 8.1% Amid Sector-Wide Selling AlphaStreet...",
+        "sources": [
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 7.4% Decline -- GF Value $94.44 vs Price $827.92 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXRaWWNhOXpoR3o3YlNQWjRsblA0SzdnZUE0MGtHSThKOVV1allhN2Njam5uQ21rVXZ2QkFnNjVrUlljNTZlaDNxYlVub0pERXQ2d1R4T0pFX0JvZzcwVF80cUx2VDljVFlCMzRrRHAtTlRhNEFrS2t3em9LaWgxUXhOWk9OajRzeGViQVdwMUZ0SGx2OGFrMk9jR3pNWmNLQmJqNGV6cjRRVlNjekxuLThaWXF3WTcxeFNBb0RR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXdIbDF6b29EZEgyazZQaEtxMWE4R1NheEtESk5IMUpoS1d2eXJKcFpNQTlJeEFIblVxM2lZVDh3LUhhaDdWbl9RY19xYUtIX3pKZ2dRQUJham9aSDVkVTZPSzRhMnd6dzlIZEs1VmZWLWI3QmhEaktiODBxVmhoY0FXSGZKeU5HSEo2UG1zdVZULUF6RS05UldlelM1dC1Od1NN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Drops 8.1% Amid Sector-Wide Selling - AlphaStreet",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0FESkJ6MWlaVGdGX2NuWTBIMlBZaWtvcE54cGFXUDk4SHF2bVNPbUoyVDI2WC1SNDhyVDV6bkZKclM0dGtPaVlyQjM0cFppTzZvb0hfZU1LdXNaVE5CT1RHc2FNSHR3TDg0RHJDSHJPRlpIa1l2U3ZxanREQkoxSFNBcmFCU3doTEktc1hlVdIBjwFBVV95cUxPM0FESkJ6MWlaVGdGX2NuWTBIMlBZaWtvcE54cGFXUDk4SHF2bVNPbUoyVDI2WC1SNDhyVDV6bkZKclM0dGtPaVlyQjM0cFppTzZvb0hfZU1LdXNaVE5CT1RHc2FNSHR3TDg0RHJDSHJPRlpIa1l2U3ZxanREQkoxSFNBcmFCU3doTEktc1hlVQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 132.28,
+        "changePercent": -6.14,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation (INTC) Lagged Behind Tech Shifts - Yahoo Finance: Intel Corporation (INTC) Lagged Behind Tech Shifts Yahoo Finance...\n- Why Is Intel Stock Falling Tuesday? - Benzinga: Why Is Intel Stock Falling Tuesday? Benzinga...\n- Intel, Arm among chip stocks to get price target hikes as AI visibility extends to 2028: BofA (INTC:NASDAQ) - Seeking Alpha: Intel, Arm among chip stocks to get price target hikes as AI visibility extends to 2028: BofA (INTC:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Intel Corporation (INTC) Lagged Behind Tech Shifts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZm0tVElOMUtCeHNMUFRfd1Nxbno4Nkl5bnJDQmcwcEdsaDNFenRSRGlkdHBEdTE1VXY1cWZlVVJXTjhOYWd2S3EwLWY1LVdsR2VLUnc0ZjRWOGlMc0RYVFNzaE1QcTFLLUdXNDR5VVllTXNiWWNMOC04bTZULWlPbFltaGhaeHNMZ2FiajlTU2xOZE8yTE1oOGZkLVg1OVN1a1g4?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is Intel Stock Falling Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUFwVUxuUm41M0w4M2N3b3FsSG04aFdpbllNOEpWZmx5ZTF6N0lkb1lzWGgyVkNTWUlSZ1FXX3Uyc2pHZE1HZzY3Rnctc0tPdDl1ektKbVlkRHB0R29mT3ZNYmh3OW1abl9VSS0tdWlSNE9PYnZBYmY0SkpicW0wYS1jbU4zUHZ6cWt0QjlpamU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel, Arm among chip stocks to get price target hikes as AI visibility extends to 2028: BofA (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGFoSDJ0Nl9jNFFoRXA3dk5ydnJTXzJlRXRjU2Z6enhFYmtTTXZnR1VuRF9yYjdSVDlNY21Ba0dIZnRwNkcwaklJdU1rMkhFNFlWUTRyUHo4TzhzUWFyQ0o5MmozbTI1b3lIQW5Yb2J1aW1saTRpMS0wcVlKVDB6MFAzRDRqa2RyUkxick1XN0dhd2RQRFAyVVE2eDI4TVpvbTFTUHBsSzRBRU5oRGd6cWZybXozWGczd2lRNVY4TnJPbHRoV2ZJRg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 519.85,
+        "changePercent": -5.76,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD (AMD) Stock Sees Modest Fair Value Lift As AI Target Revisions Split Analysts - Yahoo Finance: AMD (AMD) Stock Sees Modest Fair Value Lift As AI Target Revisions Split Analysts Yahoo Finance...\n- Advanced Micro Devices (AMD) Stock Could Be 15.5% Overvalued As AI Growth Questions Build - simplywall.st: Advanced Micro Devices (AMD) Stock Could Be 15.5% Overvalued As AI Growth Questions Build simplywall.st...\n- Advanced Micro Devices Inc (AMD) Shares Fall 5.8% -- GF Value Sa - GuruFocus: Advanced Micro Devices Inc (AMD) Shares Fall 5.8% -- GF Value Sa GuruFocus...",
+        "sources": [
+          {
+            "title": "AMD (AMD) Stock Sees Modest Fair Value Lift As AI Target Revisions Split Analysts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWExakF6eTZlaTNLdi1pU2Z3TTkzVlNNYktqZlVIOEJ5djNZMjhpR2hyXzNWM3RIVC1Cd0h4OE56cUZFVktRa1Z0Zm5scmdLSVJCZExvQWNMTFZaVDhvbHZfd3hRNndfWThTUS10UUNidVJBNzI5M1Z6WTJzOFpIbkZMSjU2NGdJMFdvS3FnQl85ZUZm?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD) Stock Could Be 15.5% Overvalued As AI Growth Questions Build - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWE16ZW5qRVJWR3Y4akJxUk92aExlY0JrOWtFYXYyWXN2emYxN0dPRkd6Q0JHS2FPd21JUHlBeGpTVnI0RnRzbW41NXlnaEZnNlBZLS1rUFE1LTRISnpUcTRKd2xWUlZPdERUU3RYMDBMcFhLcHNSZDdJV241MEdpbGozVHR0Tk1mYzNVMUtwdE5UaE9Gb2Yyd2xJcU5Ud3Y0ckdESDF3Tk5sY0NVaVFQZjUySm91azBDOVlXZUtfYl9CZzNCYjFZZmRGVG9hM1RscTY3dXByN3g4ZHN5eVHSAeMBQVVfeXFMUHd4UlB6by1XY2FaOEVzTVpYaHdFN2cyNENjNHhwT2RhLVA4VGZ3QW94RlVfcTFxNC02Rjl1OVlPQjFaeV9yZmdwRlY3NUdmSHVlUVlfT3dwNXIxU0luNHRnNS1mMmVLN1FTUExqZFZKM2xwczNTX0UtMXRxODJfWkJ5NVRIc25iT2FzV2NJdFhzdXNUNTFVMVNKdUlNUUdrSXB1Nld3NXVxaGJPYkNDNkFqTlJHVTRxTHo0UFBkRE5sazBqWnRVVkM0X2dVaF9KSktsa2FadG5Ndk91V2xkNENKcFk?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc (AMD) Shares Fall 5.8% -- GF Value Sa - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0cyQTNteXNRNlIwbnJlZ1FJUUdXdkhDYUF3Y19tYld2SzIwZWdOeVZnMVpwZEFWZDBTU3hMeTFqX2VaTVJnbXNDLU5HczI5MkROWFF6R0ZTY2FjTTY2WExfNE9jcXZIa2Vra1NNeW9DdHNNN0dVRVQzQkNCRjQySnNBVHAtSnkxOUlGOUZhUGxkSzZfOGhicXR0am9DSG01R3ZKZ05hWHJacUFhczQ4dHZJMVdrQQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1051.77,
+        "changePercent": -13.18,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology Inc (MU) Shares Fall 13.2% -- What GF Score of 78 Tells Investors - GuruFocus: Micron Technology Inc (MU) Shares Fall 13.2% -- What GF Score of 78 Tells Investors GuruFocus...\n- MU Stock Is Down 10% — But BofA Just Raised Its Price Target By 58% - Yahoo Finance: MU Stock Is Down 10% — But BofA Just Raised Its Price Target By 58% Yahoo Finance...\n- Micron Technology, Inc. Stock 12‑Month Price Target Raised to $1123.28, Implies 7% Downside - TradingView: Micron Technology, Inc. Stock 12‑Month Price Target Raised to $1123.28, Implies 7% Downside TradingView...",
+        "sources": [
+          {
+            "title": "Micron Technology Inc (MU) Shares Fall 13.2% -- What GF Score of 78 Tells Investors - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTBUUk5BUFYyYmhRLTIxNGgyR3czM2s0NkFJQmlRRm1Kbk1zOVVVWk5EWVhfenBxMlBjV3gyZzRGWXgyZEstZzM1WGlGeFhNc3M1clVsWWpqaDlkZGpQRjJoVVJRaEl3eXBCQWlwTlI1UmZzUkx0OEpDX3MwNW1KR3VCN1lVbkpQemROamtLaXV1RnZJOGpRMmFJQVdEdEw5RjFqT0dOaGVRZ2E1OGRpQkgxX1dZZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Stock Is Down 10% — But BofA Just Raised Its Price Target By 58% - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSFZMdkZieXRTakRGLW5GUFI4Q2pfS0V2eGRUOEg3SkZXUjNSQXladzBpV0J2UnJvT0dhLVlqdDF1WG9nbGhqT1NHTjRiS0p1eDR1T2tBb3dENGlRNnVPRTU5X1Zfc0dhSlZOSXFFUHRodlJSY2RIaV9ZNlk0RUhHQTFPc3dhR2ZVRFJfS2ZSYw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology, Inc. Stock 12‑Month Price Target Raised to $1123.28, Implies 7% Downside - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdll1d25qem9nZVE5NHdvYUViMURnSXdFcFhTRE5aenE3WFcyRXJGaDdMT1JjYmhTS2c1VEJVQ3QxTkVwWXk3dUpnNTJSN2E1SEtlLVFXcWNJQjVCajc2UnlDSWlBc0szanhLdFVXT1RTVndrSVk5TWZQdTdtdkZzZVNwM3JGV3ZLV0pNaE5EVzJ2QWE3Tkp5M18zdGhNaTZOSVN2VUxjU1VMeUtqSm5Uc3lTYzJyb3ZxN01iY3JBQlhwZVU3b0pYclVfOXd6aGo2WFNDMHMyaHNFOXN3eTNWN1F3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-06-22": {
     "date": "2026-06-22",
     "lastUpdated": "11:24 PM KST",
