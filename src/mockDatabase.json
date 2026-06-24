@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-06-24": {
+    "date": "2026-06-24",
+    "lastUpdated": "11:08 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 842.53,
+        "changePercent": 1.76,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Lumentum’s (LITE) AI Optics Exposure Keeps Needham Bullish Despite Valuation Risk - Yahoo Finance: Why Lumentum’s (LITE) AI Optics Exposure Keeps Needham Bullish Despite Valuation Risk Yahoo Finance...\n- A Look at Lumentum Holdings Inc (LITE) After 7.4% Decline -- GF Value $94.44 vs Price $827.92 - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 7.4% Decline -- GF Value $94.44 vs Price $827.92 GuruFocus...\n- Lumentum Holdings (NASDAQ:LITE) rises as AI optics push lifts stock despite Nasdaq slump - TechStock²: Lumentum Holdings (NASDAQ:LITE) rises as AI optics push lifts stock despite Nasdaq slump TechStock²...",
+        "sources": [
+          {
+            "title": "Why Lumentum’s (LITE) AI Optics Exposure Keeps Needham Bullish Despite Valuation Risk - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVRzMlc5Tzl3ckFOWVdqSVFIWWZqOV9KNGdwTDdKY3FUT1loaVZ4MFo0SzUzc3YyM0wybVd1VjRQMWc5dzY2d1JsSXJ6Y2ZWTHZzUVE1dnNMQVhEbUFBaDh5M19FRjFqLTA2ZngyLTNEYVNNX3dURWljZGNsbDlZMnVhLTYzSlp5RHVmdGJyX3d5dk9Ddnc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 7.4% Decline -- GF Value $94.44 vs Price $827.92 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcG4zcWp4SUt2eGZ1TXdFMWlJQkczN1VJVzItYmsyaUxNOW5OQU01eFpodVFRazRFVUcwWjQ1czJoVExycTU5T3Q0S25DTU02OFJRSEF0MDhwRlVYcE1aYjNRTTdScm0wRlFPMUFuaEFhT3RpQVhBTFVMNXdLclRDODkycW9JZExpcDRyZEREUXFnd1JOUXZwTkhBV0ZZRU96NU9oT3VGTmdsVHVzQTE0ak5mLVh5WS1BVHNpYkhKZTEwcm1fSG1iX19YYXlUdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings (NASDAQ:LITE) rises as AI optics push lifts stock despite Nasdaq slump - TechStock²",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTZPV2RkaF9wTUlLNlVZc29FdFRZOEMwRVV1a20zNVpsRmRrN2R5Wk5ZOWF1NlJ5bHU5bUxBeHBLa0tTenZ4N0R4NTlfMThKS2FlSU0xRGpYS2cyMEI5UUtVTjAtaTRoRkVhTmhHNzFOcXVwMFIyYzN2c2lVaGJGUS04dmtuRmhOTngxRkxFVzAwT2x5V1JpUTc1UDlEUVRacGRKRkl6Wjl1dw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 131.65,
+        "changePercent": -0.48,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Advanced Packaging Could Support AI Data Center Growth, Mizuho Says - Yahoo Finance: Intel (INTC) Advanced Packaging Could Support AI Data Center Growth, Mizuho Says Yahoo Finance...\n- Intel Shares Rise Over 3% After Key Trading Signal - Benzinga: Intel Shares Rise Over 3% After Key Trading Signal Benzinga...\n- INTC Stock Hits 25-Year High: Retail Believes Next Week Will Be 'Most Important’ For Intel - Stocktwits: INTC Stock Hits 25-Year High: Retail Believes Next Week Will Be 'Most Important’ For Intel Stocktwits...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Advanced Packaging Could Support AI Data Center Growth, Mizuho Says - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGFwR1NjZ0xzcUFJM2p5UFdLRG83NjlMTVBpYjBEODJ1ZWwtbGNTelNTUENhZnk3bC13aTY5bTZMME03RDhROVhrU2ZiSmNqMEZZU0xNRXlxX1hWcXlxRkoyaWxRLWVLWFNTcHZYSHRMd2o2a0VqOEdsY1NURnZodjdZX3llWmthNTZCMFp4WlNJRS1tdWc0dFQwWFpRa2ot?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Shares Rise Over 3% After Key Trading Signal - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWVSbFNONHVPREJLeEtaVWFmRHpUbzB6dUlrYzRreFpnM3BmSFdNMDk2MDdsa2JPaWVWWGJmSUdxSnF6OTZxUFpaWURBQXFPdUFQb0hoOFVoV3ZuMm00UG15djVHYlh0eVJDLXFseU1aYWp6Zk5ESVdnc2MzUk1TclNLLXNXRjhPWFlBYXl1ZE5lazVrY1ljSDdaWVBnMTdRN1hjTGJpUEQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Hits 25-Year High: Retail Believes Next Week Will Be 'Most Important’ For Intel - Stocktwits",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdlU5Y1BPdklzNGJLOVlpN1k5MFJGeWlVWlpkVXlCX1FraDM2YmZCYnFIN09WZE84aEd3T3BLUnpXWUNtUFhsQnFkVTQ5am9admVUNExmdkpsN0JhZ3NLOFdvclFkYlVUTXhLUDBMSHctcFlPYVVlR212Z0EyVTBub2F5V1U3dm1rbVRjS2RLZS0yVXFIcjl1cEd2RFZQTWMtUVphTENkX083a1hncFNfTHZYXzlkSnVDSDVMdzNzS3NUekd4eUdfY3RSNnRiU29BLVhXYkhLcEhEYWlXc05LZjhUNEZzQQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 519.74,
+        "changePercent": -0.02,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Stock After 133% YTD Surge Is There Further Upside? - Yahoo Finance: Advanced Micro Devices (AMD) Stock After 133% YTD Surge Is There Further Upside? Yahoo Finance...\n- AMD Stock Is Trending: What's Happening Today? - Benzinga: AMD Stock Is Trending: What's Happening Today? Benzinga...\n- UBS raises AMD stock price target to $670 on server CPU share gains - Investing.com: UBS raises AMD stock price target to $670 on server CPU share gains Investing.com...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Stock After 133% YTD Surge Is There Further Upside? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGp6VG8xcnc5Qjc1OHJNWXQydDE5TDBhNE1KXzRVSWVIQmdsVmRvT1lpbk45MXdnZGlTY0x5dnQzUUtOdVRGUUwyOHhtMDVRUi1mbWF5T3Q1eXhKb2xJRGtwWjdDQWVFWjJUOFotWFFyZmlRdXFoV3VSVF9IcDh5MTBVRm9JMXVJb1N1M3VsY0JRQS1KSFJDd0k2SUF0UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Is Trending: What's Happening Today? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEN4MHpqakZnbjVMMFdma1VMdkFDUnh4QXJGalVpOVJnSkZfajFmUGxyTjhEdU9nNElHNEdmUE1kMm45bENfVkNyMjFYOVRyZnRmOEtIQzBvN0t1VVhtT1N5SDh3bGEzVmlwa0RWWU9JdHc0cG9sN2lDQUUzeVZCaWdRWFhPWHFaQ3Q2Tld3aktrWlBwMVlYaTJpeTd6MWhPTVFpRm1yZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "UBS raises AMD stock price target to $670 on server CPU share gains - Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONl8wdWtMMnliMExMY08yX3JQMkpvSWdrSkJHNk1MMkk1bnMzTmxjTnFEN0JjSW5rSEtQYzhfNzJ4eGJrejVUbnBMQVhQOFpvdkxicEg5MkhWUmRYWkFFdDN1OFhheVo3dUN1eUpxWnpyd2xhbnFwTnQyYWxSWDhza2R3SFc4eElRSUZubHpadGh6dHBvWXllZndsWUhPQy1sLXgtdG9rM1R1el9SNzZIVHo3b2ZXeU9NRVRXZ2VySTBJOGRF?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1048.51,
+        "changePercent": -0.31,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Is Micron Technology Stock Falling Tuesday? - Benzinga: Why Is Micron Technology Stock Falling Tuesday? Benzinga...\n- Micron Technology (MU) Higher Target Reflects Multi-Year Demand Visibility, Needham Says - Yahoo Finance: Micron Technology (MU) Higher Target Reflects Multi-Year Demand Visibility, Needham Says Yahoo Finance...\n- Micron Technology Forecast: Bearish Momentum Signals Are Emerging (MU) - Seeking Alpha: Micron Technology Forecast: Bearish Momentum Signals Are Emerging (MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Why Is Micron Technology Stock Falling Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUFDcEJFRl90S1hTNE8yR2U1QktQaklrV1hoa1RQbTJIZ1JEV1hXdTRSVzJhaTIxZHhkaEJnM19lc2FNOEN1bTdzcUJyRHdjWVFvYnU4OXphZ2RVZXJNUlF3d2J2cWlqUjFVWUh4aWw4U2xzT2JZd184b0VWZVIyeVpfV3FsaWVwb25nT1JJaW9hbUpNVkZiVTV5QVk5REw5Q2UxN1h2b2xDSFpTX3F1dFFjWDU0cEZlUXlja2d1Zw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (MU) Higher Target Reflects Multi-Year Demand Visibility, Needham Says - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaF9WdUo2OFEzSWlMZU8xT3R3emtxT0Z2dERsX3hNenViNDRsTzItTU9jQlFQOTdxckNwMU95UWdKdTFaaW9Wc2k0X29jSHlzZkppandEVlVQUmtJNW1hd1ZJNGh1OEVEQ3FMTUlhV3JBYVE2dnJiZnE0Z08zQ01IeVBKcDZHa3ZUaGdvQ2ZrMmV1bjZURzYxQ3A2N0xLR1Zk?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Forecast: Bearish Momentum Signals Are Emerging (MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjJVWl8zM280YmRna1VvNXJHNHVMSnlBb2ZYRmlKRlRlY0tUUXVmbFZOU3FfcUJWLXJkbE5UTzhQOWZmVmJudUV6REdOOUhBT3ZTVFZSbWVlNkJzRDlKeDRweHgyWU4xekRVSGc3ak5EX2RMY3R1ZHpDR0ZDeDBLeWk2RU9JMkFSX3F4VlZmV2M0LTdFd1lsWm1yaldfR0plX3oyZk5Xbw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-06-23": {
     "date": "2026-06-23",
     "lastUpdated": "11:11 PM KST",
