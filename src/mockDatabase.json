@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-06-26": {
+    "date": "2026-06-26",
+    "lastUpdated": "11:11 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 816.98,
+        "changePercent": -5.22,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc (LITE) Shares Fall 5.2% -- GF Value Says S - GuruFocus: Lumentum Holdings Inc (LITE) Shares Fall 5.2% -- GF Value Says S GuruFocus...\n- Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction - Yahoo Finance: Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction Yahoo Finance...\n- LITE Stock Price and Chart — NASDAQ:LITE - TradingView: LITE Stock Price and Chart — NASDAQ:LITE TradingView...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Fall 5.2% -- GF Value Says S - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEU4blN4SDRKVWwtZVMycnhXaDcyUmdYX0Z4M1ZxSmJUZ3hnS1ptS3lpMXpUUFZHTjV0YUV5MzJDR3pxdUVvQmJ5Tkt4U29rNTFkSll4dVg5ZmxneUtxMU9meEo2OW5tTWRSTEt6cS0xa3k5LWx2WlAwdXpReng5TWNVUm5iOTVkd1ptMWhsUlpIQ2J5Z1NKelQ1cWpXWkZlRTRWci0xbVlDQlVxOVRWNQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXdIbDF6b29EZEgyazZQaEtxMWE4R1NheEtESk5IMUpoS1d2eXJKcFpNQTlJeEFIblVxM2lZVDh3LUhhaDdWbl9RY19xYUtIX3pKZ2dRQUJham9aSDVkVTZPSzRhMnd6dzlIZEs1VmZWLWI3QmhEaktiODBxVmhoY0FXSGZKeU5HSEo2UG1zdVZULUF6RS05UldlelM1dC1Od1NN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "LITE Stock Price and Chart — NASDAQ:LITE - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KY1o3cFR5bGQ3YWxmS1VzZWVlU0NSYUgwdXVHYlVHWjhTV1AzZkRGRTJRTVJ2Yy1Ocjdkb1ZXOU41dmN1V00wTDhjSElWUnI4X0tsckNoRFRvb3RY?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 128.32,
+        "changePercent": -3.42,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- The New York Times on Lip-Bu Tan's Intel turnaround and the work that remains - The Business Journals: The New York Times on Lip-Bu Tan's Intel turnaround and the work that remains The Business Journals...\n- Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know - Yahoo Finance Singapore: Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know Yahoo Finance Singapore...\n- Intel | INTC Stock Price, Company Overview & News - Forbes: Intel | INTC Stock Price, Company Overview & News Forbes...",
+        "sources": [
+          {
+            "title": "The New York Times on Lip-Bu Tan's Intel turnaround and the work that remains - The Business Journals",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFBuN2VEbkM0ZmNnMFV5bVdDcHExN2pMYXl3TDAtUm9hbXg0UllxTkwwTDNGdmVjeS1fUTlpdVhFX25LTzdrc3JQeFVzWHVKLXRVUFFhak9oc2hUQVBHbS1oTUVFeTBGWUJ0dlcxMGZ2bGU1UnNBd2Z2V0tHSHBJaTdPYlRialFELUtFT2lNWm4xVUE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know - Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRXh3c3RYRUlmSVRCQWRyUkRiVFptbjdSYTItZ3NuaXZpX3RXcFVoR2t3OXNFZ2c4X01YbzBpdTVpVUtZNE1zNlpuS3A1c2hvMGYzVGRqLVEtMlNyeTNpRjk4M1pZMlQta3ZZV25OZ09uNE92d2xZSkVSek1NYXBjMTQ0VjVKSEZFd09HS0l6d2hvejZubHc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel | INTC Stock Price, Company Overview & News - Forbes",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwZUc5aW5wYmptNUMwNzZSaVdBN05aZ0pKZ1VmV29OLXVXWnpCUG9la0pkY1V0OGdDTEdqSTZCV283SzFNMTJGZVVPaXE0LWtr?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 521.58,
+        "changePercent": -2.06,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Advanced Micro Devices Stock Slipped on Friday - Yahoo Finance: Why Advanced Micro Devices Stock Slipped on Friday Yahoo Finance...\n- Is The Growth Baked Into Advanced Micro Devices Stock Believable? - Trefis: Is The Growth Baked Into Advanced Micro Devices Stock Believable? Trefis...\n- Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 2.1% - Should You Sell? - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 2.1% - Should You Sell? MarketBeat...",
+        "sources": [
+          {
+            "title": "Why Advanced Micro Devices Stock Slipped on Friday - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeUc4d05qV081VUo1N3lrVjA4Y0d5c2lEMFNQSVM2Vm5sMVJjc3Z5RS1vT1JYT2dnaEpTYTRZN0hxdmNlb2xLVFZRLUhYZnZSc1NZYWxYUFVXOG9nLXhId2hqaEl4SS1TYmVYUldRTDU1T2FOdEJsSzlaWUI2OVQxRFBhUWstU3FXbHpkNHJabVN1S0xZckFHaFg4bnZDdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is The Growth Baked Into Advanced Micro Devices Stock Believable? - Trefis",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY21UbmpXZkpKSVpNVm9tekVBcDFfa0ZSeXVIU3c2WERyWnN1SjBCazFfM0JOM1NrR3lmQlh2dS1mT1dKNFhObWp6U2NlRnROTFY1MlZld0FkYjJNaDVwem54X01tUG1qSTZidXNEZ1V0MEpMQ1gtQmxseUItSVNWM0xndzRUWWdMZWdkUjdPaGFxUDB6UUFUdUNyLS1SaVNqak9GdmpnamFnVEZmS3dVSXhmQWtWdWVaQmNwMnByRVRndw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 2.1% - Should You Sell? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3lTQktKVG5hc3RxdDREYzJkSEowNUwwUVd1THg4cnhBOFNKc0VpMEUzYTN1SnVmaFAtU2o4QmE4WXR0VkFyOE8wcVRHc2oyamFUQUJSSHh6dUE4UWNoYktfaGNjbUdZZC1fMnpDOXo0VFAzYmpLY0E5MVNGUnU3UFBMUk1GMjZ5ZFJ3ZGNySktFNElNTlN3VVZ0NmxHRFdFVXhqLXRmY1dzRnc2bGZaMjVEMzJyN2J4N2xkZTN0QQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1132.33,
+        "changePercent": -6.69,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU) Higher Target Reflects Multi-Year Demand Visibility, Needham Says - Yahoo Finance: Micron Technology (MU) Higher Target Reflects Multi-Year Demand Visibility, Needham Says Yahoo Finance...\n- Micron’s memory boom lifts revenue to $41.5B as AI demand rises - Stock Titan: Micron’s memory boom lifts revenue to $41.5B as AI demand rises Stock Titan...\n- Micron Technology Forecast: Bearish Momentum Signals Are Emerging (MU) - Seeking Alpha: Micron Technology Forecast: Bearish Momentum Signals Are Emerging (MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron Technology (MU) Higher Target Reflects Multi-Year Demand Visibility, Needham Says - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaF9WdUo2OFEzSWlMZU8xT3R3emtxT0Z2dERsX3hNenViNDRsTzItTU9jQlFQOTdxckNwMU95UWdKdTFaaW9Wc2k0X29jSHlzZkppandEVlVQUmtJNW1hd1ZJNGh1OEVEQ3FMTUlhV3JBYVE2dnJiZnE0Z08zQ01IeVBKcDZHa3ZUaGdvQ2ZrMmV1bjZURzYxQ3A2N0xLR1Zk?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron’s memory boom lifts revenue to $41.5B as AI demand rises - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUVuY0FsR2ZvNUQ0bVhCWm92cmVCazZnMUZtWkRuZjFfbWRWaWhiZ1dndnRBeFN6Y0dhY1BIY043R3N1b3NNZlZwelpZTWQyWTNRXzhNWDlPbm1NSGdVYkNhMGFRMmdwNUx6NExSV2J6YVdaQjB4LWtzcENyd3EtazkxWkNOSlc4bGl1NTJ4NHhyZDhlZm56LWdKMWRGZHdwU3h5WTA5LUs1bUVoNVpsdmlCZUJ3c0NXX0hR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Forecast: Bearish Momentum Signals Are Emerging (MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjJVWl8zM280YmRna1VvNXJHNHVMSnlBb2ZYRmlKRlRlY0tUUXVmbFZOU3FfcUJWLXJkbE5UTzhQOWZmVmJudUV6REdOOUhBT3ZTVFZSbWVlNkJzRDlKeDRweHgyWU4xekRVSGc3ak5EX2RMY3R1ZHpDR0ZDeDBLeWk2RU9JMkFSX3F4VlZmV2M0LTdFd1lsWm1yaldfR0plX3oyZk5Xbw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-06-25": {
     "date": "2026-06-25",
     "lastUpdated": "11:22 PM KST",
