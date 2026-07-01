@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-01": {
+    "date": "2026-07-01",
+    "lastUpdated": "11:19 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 801.16,
+        "changePercent": -6.63,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here is Why Lumentum Holdings (LITE) Is Among the Best Stocks To Invest In - Yahoo Finance: Here is Why Lumentum Holdings (LITE) Is Among the Best Stocks To Invest In Yahoo Finance...\n- Price to sales forward of Lumentum Holdings Inc. – NASDAQ:LITE - TradingView: Price to sales forward of Lumentum Holdings Inc. – NASDAQ:LITE TradingView...\n- Rockefeller Capital Management L.P. Increases Stock Position in Lumentum Holdings Inc. $LITE - MarketBeat: Rockefeller Capital Management L.P. Increases Stock Position in Lumentum Holdings Inc. $LITE MarketBeat...",
+        "sources": [
+          {
+            "title": "Here is Why Lumentum Holdings (LITE) Is Among the Best Stocks To Invest In - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHlMSVZ6cF9QdTYxX091Wmk3TkJ0OHU0SWtNd1JSdEdtbVpuY1FLT29kM0lvUFg2ZzNDR0pTV1hybDFCVGx0cUN0RHNNM1VRcmVEci1pWkRlekJjUEV3bElxX0RKekMwZmNkYmFiNXFmdUFmeFpwb09fM1AybXZDM0ZxNWo0MXFUaUFEUUpxUm9QNHNEOWtSS1ozOXVKQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Price to sales forward of Lumentum Holdings Inc. – NASDAQ:LITE - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUJEOVR4MmhLMmlVQlp0bFMxSzV5VFV1SXVKbmN5UXlOYTNsS2ZEbFRZQzJjWnlXeF9VWHpEa1d5RV9SbFdvQzNxWXlWSEhnRVM5REpGYnUyNVZqRlRNQ3FrRFNpWEZkOUJJVUpYaHo4T0tEQjltRGRlVzFueklRQ0VURlViUUZtV1hBZ3lYT1A2OWhuMEtpVkVRa0JhZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Rockefeller Capital Management L.P. Increases Stock Position in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaTc3T1lUUkt2QlNEcGdlUHRxdGlFUUpRX1FHc3JKRUduZWhvaWRGZVQ1eWhJd0ZtMHhFemk3c1gtT0ZXeHVNRV9zWlN2RlhjN3pPSHNaZUZJTzdxRzFmQ2FSOVV0SVZEd1BIa2Z1LXFzWFZzSXZ5eklmTjVwYmtDaWo1enI0Z2pLanJscm9Del85Y0REeTNpVmtWLTk5RDhJRV8tRzZadGNxYllEMTZKSnI1cURpTW0yS1VkMVpSSG16SjI1OHJTN0hnLVc0OUZicGZfVEpIOE9Qc0ZiWEp1cVl6bw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 127.02,
+        "changePercent": -9.03,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (NASDAQ:INTC) Shares Down 9% - Here's What Happened - MarketBeat: Intel (NASDAQ:INTC) Shares Down 9% - Here's What Happened MarketBeat...\n- Intel Corp Stock (INTC) Moved Down by 8.32% on Jul 1: Key Drivers Unveiled - TradingKey: Intel Corp Stock (INTC) Moved Down by 8.32% on Jul 1: Key Drivers Unveiled TradingKey...\n- Intel Corporation (INTC)’s Stock Has Surged but Needs an Engineering Revival - Yahoo Finance: Intel Corporation (INTC)’s Stock Has Surged but Needs an Engineering Revival Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Intel (NASDAQ:INTC) Shares Down 9% - Here's What Happened - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGlZel9TZXV0TWdCM2pqLXZVemNwc0drdFBoMTNqWWhSbVFObkVQTlhnX1B1N3VsdE12by0wenRmQlRHYldjcG8ycFRnV0JIX3p1TEZRYmdIZzVzb3h6WmlEMFNPN2tldzQ1TjJTa0dRV0pseC1MUlZuMTFPb0lZOXhzRHl5WldjZEhOQWFtdW9OSC0wODBwLWVKNFc3ZDVDcE1sc3BMaw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Moved Down by 8.32% on Jul 1: Key Drivers Unveiled - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd09ZbllIN2xDeGR2Unp6VHMzNFlieGhhOGpkNy1BSFJBSl83SW9pVEkzMlZxYzd5NURBVWxZckdDUjZORy1wLXdCWHh3anJmX2xoOENNTWMtQ0I0RUhhdnV4WHg5TzhCYzV2bnZRMHVFYTlWY1ZwWGtVbm5NZ01RazNrUl9heGxnZzdj?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation (INTC)’s Stock Has Surged but Needs an Engineering Revival - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFV4NHdnRTUtZjNQM1MwczRZQzFwM2ktZ2I2YnRNZ1A0SWhUNDhzX2dtRi1IQzFsdnhMOVZPWUcyZU1kbVR4LVloZG5nbGtGeFg4REZyekduTDRRTEJmb1k1NWlEbF9ubi12QlNBY1g0M2Nta25jWnFiM29PNEFuVEhVU2lNSnB6dEkxVGc0THJGS0wtV3FjVjlqVDMxMktpNUE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 540.88,
+        "changePercent": -6.89,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters - Yahoo Finance: Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters Yahoo Finance...\n- Advanced Micro Devices (NASDAQ:AMD) Trading Down 6.9% - What's Next? - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Trading Down 6.9% - What's Next? MarketBeat...\n- Advanced Micro Devices Inc Stock (AMD) Moved Down by 5.73% on Jul 1: Drivers Behind the Movement - TradingKey: Advanced Micro Devices Inc Stock (AMD) Moved Down by 5.73% on Jul 1: Drivers Behind the Movement TradingKey...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHpUU2c1TlBiRzduOEFmLWtRN0xNYXpaOTlPSDB3T1l5SXg5eUFvWkhVeHVBM0hiUVU1LVFySGdXZmVGMzdBbW1VeURQMzZqSExaeWNydHJxY1EzaE9DV3NNWXNzMFVhMmsxalFmRU9pU0M4cDZ0YnlQUmRDd0ZjcEdtTzROUzVNVHBKbDFCNVdJSl92anNjRVM4UGxrZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Trading Down 6.9% - What's Next? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa19NOGxTVWR1MjhQVHBQNjJndzJpRUlTLUJPZ3NJMkVqckhaSHFnUi1STHhfNUdlcHRfMWNNclNnTnRmVy1HcmVicTRkckxCR0xnZzdtYWF4SVEzSkN4cWM4VF82eFc0anVfZ3dmSDZmOTg5STRnbEJhbThEVDJnRVZWc3VzUDVHSW5oVzBWaWtFeVRHTnhwd2pEQ3E3b093SjJoOE9jS0pKYkJvMDcwQlJaWQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 5.73% on Jul 1: Drivers Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdEQ1b09ILXhpVXVEN2ROWlJ4ZHBkTFhtR3NlekJwTkNlOG5rVVhzdWVXOFB3cmdSVURoTGZLTEVRU3c4bGU3Y1hCY2Vyb3ZDQlV1cVBVakxmUHNEX1JiT3JhaV81UnF5QUxuVXBJTnB6RTVDbWprNURkVXdhYlRJZFIzSk5HOTVSeUE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1032.28,
+        "changePercent": -10.57,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU) Gets Major Price Target Raise as Strategic Contracts Strengthen Outlook - Yahoo Finance: Micron Technology (MU) Gets Major Price Target Raise as Strategic Contracts Strengthen Outlook Yahoo Finance...\n- Micron Technology Inc (MU) Shares Fall 10.6% -- What GF Score of 74 Tells Investors - GuruFocus: Micron Technology Inc (MU) Shares Fall 10.6% -- What GF Score of 74 Tells Investors GuruFocus...\n- Micron locks in GM chip supply for next-gen vehicles - Stock Titan: Micron locks in GM chip supply for next-gen vehicles Stock Titan...",
+        "sources": [
+          {
+            "title": "Micron Technology (MU) Gets Major Price Target Raise as Strategic Contracts Strengthen Outlook - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFdhREVXZ2Q3NFVZZ3NreVcyNVhnZ1V0TFp0aDNqSU1MTm1kU25mSjktVzRPRmI0dzVJcGlfZ01YMGJUTzM1QXh6Sk54OHhkS0x1TEt4MDVoTi1qRk04YlZwU1FDeVBJcVV0QkJCellJZDFielpNdWx0aVVUeElrMUdobzh4Y1dhU0ZLRXJPTVYwWXRsQ1huWTg5SUI?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc (MU) Shares Fall 10.6% -- What GF Score of 74 Tells Investors - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbC1hTVF5WV9QcmRLR21mb2g3MTBROUJpZTNSaUdHVUtueTEwbFZiZzJxR1FicGczdzZfUmxLOHMxNUl6bzh1ZjhtTkdJZUhsRTNRLW83OTZlMkFuUzJCNDlxUGcwY3BFWFJNaVFjM3l4aXFJcGlOMWVPNWhKdHUxX2hqeDRNSmhCbk9XajlVbU1UYVktVWVhV0RXd092UF9rMmdWM00tMWVDU0VabVhiS1RaeXI3QQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron locks in GM chip supply for next-gen vehicles - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcXg4dmR0TWJFb2FaVEtHWWplaFZDWFNkVk9qbXdUMFNOZXZIOVNIMUhCcGpjbG5HSVplbU1tUFJUdVcxdVNuQ2kxNERsRFdXakRRQ1RXRjBmbFBZRTkyM05qczBsdmRrdGx3YVNIX1NjVllGV09SNlE4U3FKWXQtcmVGT1hCTGFUc3d0WC12ekpVbnVZbktNTlQ1SXF4YXc2bnBNRWZZeDRWNVRmU1FYRmlfZTFGYlFVR0JwQg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-06-30": {
     "date": "2026-06-30",
     "lastUpdated": "11:16 PM KST",
