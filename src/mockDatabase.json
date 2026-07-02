@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-02": {
+    "date": "2026-07-02",
+    "lastUpdated": "11:12 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 728.32,
+        "changePercent": -9.09,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (NASDAQ:LITE) Shares Gap Down - Here's Why - MarketBeat: Lumentum (NASDAQ:LITE) Shares Gap Down - Here's Why MarketBeat...\n- A Look at Lumentum Holdings Inc (LITE) After 9.1% Decline -- GF Value $95.29 vs Price $728.32 - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 9.1% Decline -- GF Value $95.29 vs Price $728.32 GuruFocus...\n- Here is Why Lumentum Holdings (LITE) Is Among the Best Stocks To Invest In - Yahoo Finance: Here is Why Lumentum Holdings (LITE) Is Among the Best Stocks To Invest In Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Lumentum (NASDAQ:LITE) Shares Gap Down - Here's Why - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV3prSjd2UEc2RG9JdGp1cmVkNDgzOW5xZzJoSFlYVXNoUkVobzZOVjh3NV95cW1IV1JVSTB1WU11Z0laN2U2eUhDbG92b21rVkZjU2UyR2FPcWJ5QlltckJzNnlWTHRCVVNQYnkzRVR0aFdmRzBuZy1ldW92NFg2X2xvd0VYYUxMdjlpZkljc0pvTG9LUXFMTmd4aTVhV2Zy?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 9.1% Decline -- GF Value $95.29 vs Price $728.32 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTU81MThoUmVra1VMUmdzQmcxdVU4enVwQm92U2cwOEg0TkxkbGFJRlJOSUxyV2hmV3FaNHRsZDAtcTFJN1ZEa0doMVlpZ3BBNUl2R3V1UGNoam5STUlkR3J1bERHODlsUjFmNE13eXduMUVHbk9DQ3J3aTl4cnUtWml6bW1UaDNHLUd6S2dVa1gzelNLVHlsb2xMQ1VCWVFpdGs5Q1lkTG9abC1kRjNaOXhFcFp2OVkwZVliNk5R?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Here is Why Lumentum Holdings (LITE) Is Among the Best Stocks To Invest In - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHlMSVZ6cF9QdTYxX091Wmk3TkJ0OHU0SWtNd1JSdEdtbVpuY1FLT29kM0lvUFg2ZzNDR0pTV1hybDFCVGx0cUN0RHNNM1VRcmVEci1pWkRlekJjUEV3bElxX0RKekMwZmNkYmFiNXFmdUFmeFpwb09fM1AybXZDM0ZxNWo0MXFUaUFEUUpxUm9QNHNEOWtSS1ozOXVKQQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 120.35,
+        "changePercent": -5.25,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- TPIsoftware Adopts Intel (INTC) Processors and GPUs to Power Enterprise AI Solutions - Yahoo Finance: TPIsoftware Adopts Intel (INTC) Processors and GPUs to Power Enterprise AI Solutions Yahoo Finance...\n- INTC Stock Has Surged 233% This Year — HSBC Sees Another 60% Upside As Foundry Business Becomes 'Too Good to Ignore' - TradingView: INTC Stock Has Surged 233% This Year — HSBC Sees Another 60% Upside As Foundry Business Becomes 'Too Good to Ignore' TradingView...\n- What Is Going On With Intel Stock On Thursday? - Benzinga: What Is Going On With Intel Stock On Thursday? Benzinga...",
+        "sources": [
+          {
+            "title": "TPIsoftware Adopts Intel (INTC) Processors and GPUs to Power Enterprise AI Solutions - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUVpUQWVjeHNfcEY4QnAyc25jTWdwZXdWeHRXOThsODA5NWRnd1lPQWVTYjBYTnZyMHhuU0hEb2hIVGpmYjVoUmFfZm5JelFqMzgwcy1qeE1rTkZMYy03WHBSU0w5czZxVU4xb29obDA0eFAyNFVzOXBtZE5HRGdjSFVOZklMWWNwZnlMQWhmYkVSNHIwMlA4Y0xUbWEyWjRZbXlEOXBHYw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Has Surged 233% This Year — HSBC Sees Another 60% Upside As Foundry Business Becomes 'Too Good to Ignore' - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMVVYNzY0OXJrZHZCcmtXd0VOeHRNTkdzb3V1U2RweXhUSUU1cTd6M254MzB5UlJta1MzOGp2ZVpvY1NRMzQtN0RHSmgzbTBrQko2aXA5M2JuYXNlY0hnWnhzVTJLWVpaQXA4RkNxc2tOSE1USEV3V3hiaEI5c1M5Qy1rbHdHaE5HSVJsSFY2dV9nR3ZETFFxdFJyTmluY1AwZHVrYXpZVllwYWduRGpMQS1rMkJSdkVVbFYxUzREOFZFZ0lmdndlZ0drYlBsZ3podzQwUGJSUDdTRDh4Q3piTGNEcWl3ZHV0V1pHdkdJUUw2Q1ZYZ2hfNFVnZnB4OTA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going On With Intel Stock On Thursday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDFIZFBtNFVkUjNlNUI4V3lTX1JWZk5IQm9YYkhBQkRxM08zLUJma202RjltZU5uSUp1SkxXaF95WUhXLVZLbnp2UDFCWGJvY2ktTmJVVjF4YUJXSzBfVTRzN0F0dHRQbk1MZ0hyZXBDbzF4dEEzMk1rRUJ5SUl2NVVLY0g0MDRLTnRXYVpkcUZ0ZFpZWktja1U0R1VtaEU?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 517.82,
+        "changePercent": -4.26,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters - Yahoo Finance: Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters Yahoo Finance...\n- Advanced Micro Devices Inc Stock (AMD) Moved Down by 4.15% on Jul 2: A Full Analysis - TradingKey: Advanced Micro Devices Inc Stock (AMD) Moved Down by 4.15% on Jul 2: A Full Analysis TradingKey...\n- What's Going on With AMD Stock Thursday? - Benzinga: What's Going on With AMD Stock Thursday? Benzinga...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHpUU2c1TlBiRzduOEFmLWtRN0xNYXpaOTlPSDB3T1l5SXg5eUFvWkhVeHVBM0hiUVU1LVFySGdXZmVGMzdBbW1VeURQMzZqSExaeWNydHJxY1EzaE9DV3NNWXNzMFVhMmsxalFmRU9pU0M4cDZ0YnlQUmRDd0ZjcEdtTzROUzVNVHBKbDFCNVdJSl92anNjRVM4UGxrZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 4.15% on Jul 2: A Full Analysis - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTRzdC14RWt3Wm1XS2h1Wm5qdXlqLUZYYnNjcFlETjhTZThPWnFxWWlYV3dGcUViMFFSUk9jMkNzeHo1S0w2dGJBc0RkV21RUDR6RVFvTFpBTjVyLWpzcFZ4UXVTMGRJLUh5bFFqd0JwTU96ME8waTJQZVpoR1BaVGRqY0Zac0tmbWc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going on With AMD Stock Thursday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmxjYURZVzFzcGZKUWlWT2Y4a0VSLXVERktQWlJQZ0xveUtmNVVnbGRoclBZaU5aaU1yR21McU5EUHNXd2ppa1QtLWJyekFzdnF2WEJMam1GWElnV3l3OVQ4RjFLV0d6eXQtYXZCUk8wY2ZaYk92c3lZcTJQLUhEWlQydW1zTnBSd2lLYWpkQUEwdVAxSjMxVA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 975.56,
+        "changePercent": -5.49,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Trump Calls Micron a ‘Great’ Company but Can’t Stop the Stock From Falling - Barron's: Trump Calls Micron a ‘Great’ Company but Can’t Stop the Stock From Falling Barron's...\n- Micron Technology Inc Stock (MU) Moved Down by 4.27% on Jul 2: What Investors Need To Know - TradingKey: Micron Technology Inc Stock (MU) Moved Down by 4.27% on Jul 2: What Investors Need To Know TradingKey...\n- Micron Technology (MU) Gets Major Price Target Raise as Strategic Contracts Strengthen Outlook - Yahoo Finance: Micron Technology (MU) Gets Major Price Target Raise as Strategic Contracts Strengthen Outlook Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Trump Calls Micron a ‘Great’ Company but Can’t Stop the Stock From Falling - Barron's",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRbTllZDJkTEI4dEZiamNSUlFUamZwWVdFSHpEbVZIUG5sTjk5ZzZUano5b2Rsdi11LU1uNE5oV08wbEd0eldVN2xOQ2ZRSGNiV2RLRWdMME84YXpYV2pjN3JIN1NMN0hzcndQbW9RRUdXMjdU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc Stock (MU) Moved Down by 4.27% on Jul 2: What Investors Need To Know - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmpqaEhaUDhycDZhRmlaY3owMEFidVdJdmlCNnE0eERhcXZNODFxaTBidHJ1MzRSX1VUWkMzSnV4YkNYZk1zVE9kVlE1Z19Qclh0N1ZKTzBXampfejFOcWQyQk5GZmdKdEFPdi03TzFTUDNaM2E5R3Z6bHBxel9GVVdSeEJRYTlV?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (MU) Gets Major Price Target Raise as Strategic Contracts Strengthen Outlook - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFdhREVXZ2Q3NFVZZ3NreVcyNVhnZ1V0TFp0aDNqSU1MTm1kU25mSjktVzRPRmI0dzVJcGlfZ01YMGJUTzM1QXh6Sk54OHhkS0x1TEt4MDVoTi1qRk04YlZwU1FDeVBJcVV0QkJCellJZDFielpNdWx0aVVUeElrMUdobzh4Y1dhU0ZLRXJPTVYwWXRsQ1huWTg5SUI?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-01": {
     "date": "2026-07-01",
     "lastUpdated": "11:19 PM KST",
