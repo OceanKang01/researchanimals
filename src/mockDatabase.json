@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-03": {
+    "date": "2026-07-03",
+    "lastUpdated": "11:09 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 728.32,
+        "changePercent": -9.09,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. $LITE Stock Position Boosted by Capelight Capital Asset Management LP - MarketBeat: Lumentum Holdings Inc. $LITE Stock Position Boosted by Capelight Capital Asset Management LP MarketBeat...\n- Here is Why Lumentum Holdings (LITE) Is Among the Best Stocks To Invest In - Yahoo Finance: Here is Why Lumentum Holdings (LITE) Is Among the Best Stocks To Invest In Yahoo Finance...\n- A Look at Lumentum Holdings Inc (LITE) After 9.1% Decline -- GF Value $95.29 vs Price $728.32 - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 9.1% Decline -- GF Value $95.29 vs Price $728.32 GuruFocus...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. $LITE Stock Position Boosted by Capelight Capital Asset Management LP - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaE51Y3dES3ZjU2ZCRl9NRTRfX1ZyR1FfSlNIcHZ1MGYtSG1UREt6X0xscDI3SXBLa2pxWTVPMkhqYnBxcVFEM2NNZmlxSlYydVpXazVfSjlkeWV6RFBaYmdhVkx0dlZQQUNkcHJ0ZHA0ZDl5Nkkwak1NbWhDZk96cGJ6RGZnTi1HWk9YR2xKZXdaTkh6V28tblZmdHhseDJBS00zcW1aX2RMZ0JtSEt2T2NrRkliT2ZBclE0clJ0SzNfaWRNN3BYN2hlclZsajZuRkMwWGE4NnZ5WVpFN0tRVzZlcnlkQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Here is Why Lumentum Holdings (LITE) Is Among the Best Stocks To Invest In - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHlMSVZ6cF9QdTYxX091Wmk3TkJ0OHU0SWtNd1JSdEdtbVpuY1FLT29kM0lvUFg2ZzNDR0pTV1hybDFCVGx0cUN0RHNNM1VRcmVEci1pWkRlekJjUEV3bElxX0RKekMwZmNkYmFiNXFmdUFmeFpwb09fM1AybXZDM0ZxNWo0MXFUaUFEUUpxUm9QNHNEOWtSS1ozOXVKQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 9.1% Decline -- GF Value $95.29 vs Price $728.32 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjJoMngtZ2JFTFdNR3h0bTRUTWNuaGRQZnNHLVBFM25oWXhFS2RpQWU3R1U2WVpZNGFTQ0NKSThyLVVGX0FNd3ViMUthOXJHYmhIaHVoZGxYWmVyaXJXa0pDWDNwLUlZNDlrdW94eThJdFhyT3ZPX1hUUFdGYU45cTF4cnZBV2xXN3NTV2JPV0pMQXk2UXBuRkZUWEtVSTdSM1RVTXNlOWVrM3A2cmZER3p3VnZidkFhREdfbDZXZ0JFMWYtbC16MlF4dWZKdw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 120.35,
+        "changePercent": -5.25,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Wall Street Firm Says Intel (INTC) Has a Cost Edge Over TSMC in the Advanced Chip Packaging Race - Yahoo Finance: Wall Street Firm Says Intel (INTC) Has a Cost Edge Over TSMC in the Advanced Chip Packaging Race Yahoo Finance...\n- Strs Ohio Lowers Stake in Intel Corporation $INTC - MarketBeat: Strs Ohio Lowers Stake in Intel Corporation $INTC MarketBeat...\n- What Is Going On With Intel Stock On Thursday? - Benzinga: What Is Going On With Intel Stock On Thursday? Benzinga...",
+        "sources": [
+          {
+            "title": "Wall Street Firm Says Intel (INTC) Has a Cost Edge Over TSMC in the Advanced Chip Packaging Race - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWltOWJZME1SLTBqb0lBeHZlQThfYUVqaWFYb0FaczIwTDNXNllhT3dZT2hubEZPRTlJYmVyZFd4UDBwQU9yQjJtdUJCZlNuclNMMjd6elFCLUE5bEwtMnB5UE02TzJsTXptdktuWDFGUm5rS0ZpR2FyY2d0eGQ3Rkp3ZFIwcGt2anRpREZlOWYwQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Strs Ohio Lowers Stake in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOVlaVWFtRzFJcVZaNFRVQ0dpNUoxeUI5QVlEZElFQmVsZFhfZnR6b1JIQ0Z4T2U2UG50YURNZlRBcU40VFhXclRFTXV2UVpWd2VNTHJ0eVhMQy10UVZualFCa240dnNfWkpxMmczQXF3cEwzSFlVdFFfM3Y3VGdnTjZqNE5QM0wwTHV0MEl0Vk14QzJKa0ZuOGpnWUhYTV83QklaVGI0ZTlBUGd1N3c?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going On With Intel Stock On Thursday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDFIZFBtNFVkUjNlNUI4V3lTX1JWZk5IQm9YYkhBQkRxM08zLUJma202RjltZU5uSUp1SkxXaF95WUhXLVZLbnp2UDFCWGJvY2ktTmJVVjF4YUJXSzBfVTRzN0F0dHRQbk1MZ0hyZXBDbzF4dEEzMk1rRUJ5SUl2NVVLY0g0MDRLTnRXYVpkcUZ0ZFpZWktja1U0R1VtaEU?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 517.82,
+        "changePercent": -4.26,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD's Valuation is Stretched at 54.08X P/E: Buy, Sell or Hold the Stock? - TradingView: AMD's Valuation is Stretched at 54.08X P/E: Buy, Sell or Hold the Stock? TradingView...\n- Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters - Yahoo Finance: Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Shares Acquired by Stock Yards Bank & Trust Co. - MarketBeat: Advanced Micro Devices, Inc. $AMD Shares Acquired by Stock Yards Bank & Trust Co. MarketBeat...",
+        "sources": [
+          {
+            "title": "AMD's Valuation is Stretched at 54.08X P/E: Buy, Sell or Hold the Stock? - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ0c4RV9wSng4RG01elFjb1BaNzFUTENxUC1ObUdiWkhwZFIyUjlTSmhRc3hNX0NjSzE3Xzc4a1g1Q1hEdTZUdDdfeEtRZWZEcm5vbFowd0cxRi0yaG1zV1k5OTdBeWVTNUJrYThWRGxOT1dkeG5xM29nWndVVXV3NDdZQ2hjLV92MXRKV3lzdzJNeWpMN3pPcFM4R28yZnN2cWlzRFNhZVZWNXJZd0NuQzdtc3p3X0RmbEo4eVc4S1VhTTA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHpUU2c1TlBiRzduOEFmLWtRN0xNYXpaOTlPSDB3T1l5SXg5eUFvWkhVeHVBM0hiUVU1LVFySGdXZmVGMzdBbW1VeURQMzZqSExaeWNydHJxY1EzaE9DV3NNWXNzMFVhMmsxalFmRU9pU0M4cDZ0YnlQUmRDd0ZjcEdtTzROUzVNVHBKbDFCNVdJSl92anNjRVM4UGxrZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Shares Acquired by Stock Yards Bank & Trust Co. - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTEV0N3NiM3ZtV2dZeXRDTW5YMklkOVlyMGRlRmlKT21NSl9KWTRfMzE5NjdtT2d0UDR3anYwUjZhMDc2czVRa2szZnZabms4dHp3MVVSQTh0RWkzZjJCZW1teHV2UVVkZ2JERE1Eb2JvYmNtSnRHaHBiUXdFU2RsY0dHUFVNcE9GT3QyRWs3SEZ3RVhTZEEyOHA0S2poWXRFM3dDRndpdVRfQlFvZmxILXd2Qk5EU2ZpTFdxRUVySWFHOTRmVGJRWDMzdFZjdUR6YXc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 975.56,
+        "changePercent": -5.49,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Jim Cramer’s Latest Thoughts on Micron (MU) - Yahoo Finance: Jim Cramer’s Latest Thoughts on Micron (MU) Yahoo Finance...\n- Michael Burry says he shorted Micron Technology (MU:NASDAQ) - Seeking Alpha: Michael Burry says he shorted Micron Technology (MU:NASDAQ) Seeking Alpha...\n- Micron Trades at a Discount Despite 243% YTD Rally: Buy More MU Shares? - The Globe and Mail: Micron Trades at a Discount Despite 243% YTD Rally: Buy More MU Shares? The Globe and Mail...",
+        "sources": [
+          {
+            "title": "Jim Cramer’s Latest Thoughts on Micron (MU) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd285NnNYbXpMejVOcFFoUHJqSkhwc3NmTF9LbTFTbmpXUklRR0k4OEllRk51NzJWVDZxZi0xZkw4d0doNFhJSVR3VjlCeGoyOENpTC1FWWhtTTQyc3FyeGdCVlJPUUkxLVEtR3JTeXJEcEFtSnhzOGladllmVlh3bHNGMmNBQ0dmaTFhU1diREF6TnJBRWc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Michael Burry says he shorted Micron Technology (MU:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYnowZGJYVWVnalVhakZJNFAyVFdHWVlrMXlTSmtIcDNYZzVQaXplRWs1dFVKMFZVNWtvejFKTFZXcmUwNTNMM1FVTmtXVHgtb3NrZWM5aVZLQ0tpWm9NVFVNZ0tPMkZ4RDN6S1g3WE5Lc2RlakZfaUt2NGhLZ3VWRHNET2NnNlBKMjFfd2JB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Trades at a Discount Despite 243% YTD Rally: Buy More MU Shares? - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMkQybGhoWjFpZ1lWZlUwcE9yUUVGTzNmRkZaYVBERURjd3pyMGlndWFYaTZyUUtHZ0VTdDVzMmx1T3M0bVh4a0pEb0oxZlRTeHBxRWJjZ253YlpKT0dLUFVCWDJhSXRUV3lSQ20xMlRreHJBek1pSTJuTUxoUU9HUGNWWEVjVERhcU9PbjZYaE5aMm1hZTRGWHp4QnVkd0xLYk5rcmxYT3lIOHNTbFRjN0R5UmJ2RUtHcUFrX0VjaWxJdWlpd3ZQOUUxRDg0WnBZNG9ERlFzUUFlZXh1Wi1YbFlVd1BsUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-02": {
     "date": "2026-07-02",
     "lastUpdated": "11:12 PM KST",
