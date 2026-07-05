@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-05": {
+    "date": "2026-07-05",
+    "lastUpdated": "11:05 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 728.32,
+        "changePercent": -9.09,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Ariose Capital Management Ltd Purchases New Position in Lumentum Holdings Inc. $LITE - MarketBeat: Ariose Capital Management Ltd Purchases New Position in Lumentum Holdings Inc. $LITE MarketBeat...\n- Here is Why Lumentum Holdings (LITE) Is Among the Best Stocks To Invest In - Yahoo Finance: Here is Why Lumentum Holdings (LITE) Is Among the Best Stocks To Invest In Yahoo Finance...\n- Lumentum: The Pullback Before The Breakout (NASDAQ:LITE) - Seeking Alpha: Lumentum: The Pullback Before The Breakout (NASDAQ:LITE) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Ariose Capital Management Ltd Purchases New Position in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ1ltVkF6RDN6YmRvWFkwX1RVbm9Sd3FMOW92TDZDcVFyQUduQmxfTjRoOUtOWnBUZDd4bWwwNlBrb012dzYtSDVIaDhqYnhLRjVUeDhOcVVRcDlyZ1U0SExTNXdUWUZpQjIwMWQ3cmxpMHk0MlB4NTc2ZTVWWHZ6RTVJU2dmdWZKTmNSTXpkd0Y2VXg2S2YyQUhqLUlzQ0l6alBlbkQ1bmRPU2R0bkRwUFA5RmJVSmNMMEM3UVdJcDZXQUV3YVM4QkJKZndjZkFPM25EZ2NaX3c4M0k?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Here is Why Lumentum Holdings (LITE) Is Among the Best Stocks To Invest In - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHlMSVZ6cF9QdTYxX091Wmk3TkJ0OHU0SWtNd1JSdEdtbVpuY1FLT29kM0lvUFg2ZzNDR0pTV1hybDFCVGx0cUN0RHNNM1VRcmVEci1pWkRlekJjUEV3bElxX0RKekMwZmNkYmFiNXFmdUFmeFpwb09fM1AybXZDM0ZxNWo0MXFUaUFEUUpxUm9QNHNEOWtSS1ozOXVKQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: The Pullback Before The Breakout (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZkFNaTZiNkdQZUxucm1lNlE2aTNzb05WdVdjSXg2OTk0a0tRUHhzWVJxUkNDczNSOWI5dkFKQ1ZMVFRxc0FXX1MwazBPTzRvcHNFdm83NWpJbVFHX0dNejFnTHZaS0ZmUWUzcVdYcnRMbVdUNHlVLXJ2M25FdVNEQ1BIX3hfUmp2NVE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 120.35,
+        "changePercent": -5.25,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- K.J. Harrison & Partners Inc Acquires 124,200 Shares of Intel Corporation $INTC - MarketBeat: K.J. Harrison & Partners Inc Acquires 124,200 Shares of Intel Corporation $INTC MarketBeat...\n- Wall Street Firm Says Intel (INTC) Has a Cost Edge Over TSMC in the Advanced Chip Packaging Race - Yahoo Finance: Wall Street Firm Says Intel (INTC) Has a Cost Edge Over TSMC in the Advanced Chip Packaging Race Yahoo Finance...\n- Intel Corporation (INTC) Is One Of Jim Cramer’s Top Performing 2026 Stocks - Insider Monkey: Intel Corporation (INTC) Is One Of Jim Cramer’s Top Performing 2026 Stocks Insider Monkey...",
+        "sources": [
+          {
+            "title": "K.J. Harrison & Partners Inc Acquires 124,200 Shares of Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUlllbVZxd2F3bGlwY2c3VWQwWEtUa2Z4TG0zMUhQNUhoRk53d3RRVmhIZGN2RHMwVEVicG9ydXpCY1liTDh0MWw1QzhseVVQRElCNnlQcjB4SkJlWTVXenVDRjI4eXV5N2RSS0NIR2JSczNldzNUVUM1VzVfRU5XZWNHSGI4WlE1NDdKLVBqQXlwMkpWN0hxUGlfY2dfZ00xV0JWb1lXN2JSQ2hvQUtWVnQzVy1XSWZJWTBmOWVaekl2YVRsem5kS0pDRnVncDg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Wall Street Firm Says Intel (INTC) Has a Cost Edge Over TSMC in the Advanced Chip Packaging Race - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWltOWJZME1SLTBqb0lBeHZlQThfYUVqaWFYb0FaczIwTDNXNllhT3dZT2hubEZPRTlJYmVyZFd4UDBwQU9yQjJtdUJCZlNuclNMMjd6elFCLUE5bEwtMnB5UE02TzJsTXptdktuWDFGUm5rS0ZpR2FyY2d0eGQ3Rkp3ZFIwcGt2anRpREZlOWYwQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation (INTC) Is One Of Jim Cramer’s Top Performing 2026 Stocks - Insider Monkey",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVpyRW9IX1Z6ZVE2MjBZN1FWTUNYV2FoN1RTd2xKazZoOWR4UEdPM3lXZFJZaW0wRnVzSGcycnFSSnptWHE1SFd2cDVmaWpzb29DcnIyZEVTeEVQWFBDRlVRV3JWMjk0dUNVaDdKRUtuV3U2SHNtUGpPTk1uWWpjVzN5Z2NBVHprRlJnSHpKVklJTVd5UG91WGJCMFJDaklhWTJNQlFtZHJOTEFvT1hyUEY5bWJ2Z9IBvgFBVV95cUxNcmg3VTJieW9NZjBDd1RqQzBPOXhHNlFtRjlKbkJmenh1Q3dXeHM4MzlTTnY1VW1hWDNqTFNCSmVXRW1qd0VMc3JOS0xIT0lTeFNEOVd5WHF4OVRlSmZ0Q3ZrNnZnamt3eGtEZFdIanpfRV9GR0kwNzlXaUpURDktREltdnZ2SW5QcDNEbjM0REJzamZlS09lY2hFU2pfUFhobWk0U21aZGtjR0NWUVFFdEZFTl9ta2YzRE1LRzFn?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 517.82,
+        "changePercent": -4.26,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- How Advanced Micro Devices, Inc.’s (AMD) Server CPU Demand Is Broadening Its AI Growth Story - Yahoo Finance: How Advanced Micro Devices, Inc.’s (AMD) Server CPU Demand Is Broadening Its AI Growth Story Yahoo Finance...\n- Moran Wealth Management LLC Raises Stock Position in Advanced Micro Devices, Inc. $AMD - MarketBeat: Moran Wealth Management LLC Raises Stock Position in Advanced Micro Devices, Inc. $AMD MarketBeat...\n- AMD (AMD) Hosts AI Summit As Wall Street Watches For Big Partnerships - simplywall.st: AMD (AMD) Hosts AI Summit As Wall Street Watches For Big Partnerships simplywall.st...",
+        "sources": [
+          {
+            "title": "How Advanced Micro Devices, Inc.’s (AMD) Server CPU Demand Is Broadening Its AI Growth Story - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM2h0dXNWb1JzQkRVV2pvWDBlMzh0V0ZIMWl0aVNPTFR1WmRLMnA4bUVtbmFsZHBzQm5qamQwV2wtdGRmWlJQbU9Nb0hzRndDQ1lLRTQ4TFEyak41Q0xTeE8xYmY1aXVsNmFBOFNVbGY1Q3NEZ05uZGdmbnZNSTBjZXI5R2trVGhFenhvYXlnUXlGdjJMTWtHcnN3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Moran Wealth Management LLC Raises Stock Position in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQzBrMVpaWFdhNjJjQ2hINTFObU1OazVSQzFpTk02MmxCb1ZQOUJiSDdhT1NfUEUtNGFzRGR4YTIydkdEYTVZTTVMY0Q1MGpiQ00yYjJhLWpYMWFJQ0RtZ3h1NldCcnFOT05HWGRvQ043NTFNajN4RXFKMmcwNTJMQzlsZFBBR3piSUJQZlJSWU9IamhidmMyR2JrV0Q5ODY1ajlma1BHeGxKVGk5VHVVTzNYYUt1dFVtTFVYbXdhZmI0ZUJ3TVpPVmxEY3ZNWUl2cnd6aWpjZkFnNHhZ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD (AMD) Hosts AI Summit As Wall Street Watches For Big Partnerships - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaktTbEdnNFpWWEdxdGRfd1o4a3A5RGJEM3M2b3ZUUU1FcW1vNlFZVVpTWVdJeDlIa0p2SWlObHF2OXBSM29rcTZwVmZHNTd2N19OSTBYdEt2SWdoUXNKaDdadTVwSGswTEs1aEtGRDdCaUhZNDNnZWo5MGtVdERhY1JVSXpNSFhYeFF0amhGc2ZNMU1PNzBQRU9aZnpqUGVRM1JtY2dCOGJZZENlLVVieFZqcW4tVm5hNHJCTjZGcUpENE8tRS1tMUZiQXUxWGNWdWZmQjlraldObWZZN2J30gHkAUFVX3lxTFA5SWNBQmZ0cWJDbUR2c1RmREJXSktmVFZINEthRzFZZkJndmFvc0w5QlU5QjVTUXUya1ZvQm94Nk80RzFrTnVNVk1WU3Y3WVFfMEJ5R0NidXB6N1lVa2FmdXhEY096SVdzS194WWxFTzh3Y3psdkpqeEd1QURkUzNhMlg3U2hYYk1naDNLc1pkSjZQMEllQ1JFVGx1WGpmbFdoSElSaHZoeWlhQS1GZUNrNXk0QUZvWFVJVkh5M1ZQZEk3czkySEFLSXQ2c1FVZmk0bnJFWUh5aXU3Q3NLUk5XSmdqRA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 975.56,
+        "changePercent": -5.49,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Micron Technology, Inc.’s (MU) Memory Tightness Is Turning AI Demand Into Cleaner Earnings Momentum - Yahoo Finance: Why Micron Technology, Inc.’s (MU) Memory Tightness Is Turning AI Demand Into Cleaner Earnings Momentum Yahoo Finance...\n- Micron At $1,750 Is Now My Base Case (NASDAQ:MU) - Seeking Alpha: Micron At $1,750 Is Now My Base Case (NASDAQ:MU) Seeking Alpha...\n- Micron Technology Inc. (MU) Sued Over Skyrocketing DRAM Prices amid AI Boom - Insider Monkey: Micron Technology Inc. (MU) Sued Over Skyrocketing DRAM Prices amid AI Boom Insider Monkey...",
+        "sources": [
+          {
+            "title": "Why Micron Technology, Inc.’s (MU) Memory Tightness Is Turning AI Demand Into Cleaner Earnings Momentum - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXlkTFIyaGZZLWl3aVpRb2QwYXNOU1JfLXVGbmZSQjZjZmsyMzJTbGlMaWs5cWVwd1VRZ3FPUHBHOTVYOUl2ZmdpRjhMTTYtdW5rT2pCX2FHbXZ5Nld2b3hwWnFQWF9yZnVoazI0YVVZNG83S05LN2ZsRGVrM2xzSTRLdWo4bXN5VFBjWDZuNTFMR1hpQ21MQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron At $1,750 Is Now My Base Case (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNE1ETlI5aTVmV2w2XzlKbnlQNlduOUV0cDFIY3ZkU0xhMnB2NGFscURFMTZ6cDZxTHg2VlpYbnpLdmN2OWNNN1h0NTdrWFZxUlhpX2hqbmpWNnFtZTVIampMQzU2VlpDS3FGMlAyZHdURk5hVTYybWtQdnNmQnZqZA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc. (MU) Sued Over Skyrocketing DRAM Prices amid AI Boom - Insider Monkey",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOTVrRHE1N0gzb0ZrMFhrODZWdzBvbDhDeHowMmlZMmtWYVlyMFRCVW5XNUpWU0hhdi1YWGRwS1ktbFg5djJKalZHbHM4Szg3cTk2NU9ldFdsY2drUENkaENWQ1VDaEtSaHpweFVUV1ZjSjVLTEgwMFMyOXhPS0cxbl9Dd1VXWVRDNmlwUkxacExyQjkwa3Z2a2tXdW5OakhYVnI0WHozZHdvNElVU28tRU1WYWZwZUXSAb8BQVVfeXFMTTBpeXlVLVJ2WkF6TlgtNVFRRVhocGdFczFSTHZ5UHRXUVJOTGI5NW42bkFQTzRnUVVORVRGa3ZUdkFkaXprbDJIdGtIbF9SOUJ0SF9JbW1zME5iYnd1X3ZSdVZJZHNYeFdleExTX3VfY3FhOUljbGxGNnJjQnIxQm10STgtR2JBTGJid2FVVXB2T2xBZTR3SnNibjhQM1pWb0hZNFZBanI1RTgxSEZ2cFI4TWxQZkdlNjZLYzB5VFE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-04": {
     "date": "2026-07-04",
     "lastUpdated": "11:01 PM KST",
