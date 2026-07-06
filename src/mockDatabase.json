@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-06": {
+    "date": "2026-07-06",
+    "lastUpdated": "11:12 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 731.25,
+        "changePercent": 0.4,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Northland Raises Lumentum (LITE) Price Target as AI Data Center Optics Outlook Improves - Yahoo Finance: Northland Raises Lumentum (LITE) Price Target as AI Data Center Optics Outlook Improves Yahoo Finance...\n- Whittier Trust Co. Raises Stock Position in Lumentum Holdings Inc. $LITE - MarketBeat: Whittier Trust Co. Raises Stock Position in Lumentum Holdings Inc. $LITE MarketBeat...\n- Lumentum: The Pullback Before The Breakout (NASDAQ:LITE) - Seeking Alpha: Lumentum: The Pullback Before The Breakout (NASDAQ:LITE) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Northland Raises Lumentum (LITE) Price Target as AI Data Center Optics Outlook Improves - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1djUFZDUEJCRHZfY29YSkxzTjhqcmlPcTVEcDIxdWlkOHpoVzJIb3d3bGRUSklhTklxWVh2dTl5d1lLeGhEcUFwYTFsU2tlbWw3ajZ1ZU9NdHNjZ0xNbzVIYkRlUmo0ZmE3UnlYWlA3S3BIRE5UQTliN3AtYm5EcndOTGU2eG8xV196VWk2dEsxQ0xCYjlFc3VZZXp4OWxsSnpB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Whittier Trust Co. Raises Stock Position in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTzdvQk9pdUNVei1VMUVIZGhzWlZvUzF3alNoMWd4cWNzNWNQR2Vkd25pZkxLWDF1V2lKc0VfZ0JpRjBERFNkdHJaakVLS0dEN0ExSUFKc3hDaUVfN3dTdXJNR2g2X3ZPVE02Q2ZRTU44NWV4SDlsZGQtU3NkeTZsWXJSVGpSVlc1MDh6Vi1QazQ2TlU3TXVyc1EwUHlhLVhsdFMtWElsQ0ZoMkJhNmJ0TV85dkpQTzNzRkxmd0hPUXJjQzFFejdQUXF3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: The Pullback Before The Breakout (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZkFNaTZiNkdQZUxucm1lNlE2aTNzb05WdVdjSXg2OTk0a0tRUHhzWVJxUkNDczNSOWI5dkFKQ1ZMVFRxc0FXX1MwazBPTzRvcHNFdm83NWpJbVFHX0dNejFnTHZaS0ZmUWUzcVdYcnRMbVdUNHlVLXJ2M25FdVNEQ1BIX3hfUmp2NVE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 122.2,
+        "changePercent": 1.54,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here’s What the Street Thinks About Intel Corporation (INTC) - Yahoo Finance: Here’s What the Street Thinks About Intel Corporation (INTC) Yahoo Finance...\n- Intel (NASDAQ:INTC) Trading Up 1.5% - Here's What Happened - MarketBeat: Intel (NASDAQ:INTC) Trading Up 1.5% - Here's What Happened MarketBeat...\n- Here’s What Cantor Fitzgerald Thinks About Intel (INTC) - Yahoo Finance: Here’s What Cantor Fitzgerald Thinks About Intel (INTC) Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Here’s What the Street Thinks About Intel Corporation (INTC) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQakhDa2RIenJpLThpWjNOYjAzQzU1RHlNbkMybHFydGFHcFc0dElXdE1jbVFNNlFuQ2Y5aGNBanlpZHhHczdYRjU4SmY0elF1VmdZRHlWdDl4UUttWC13SGEtYjYzWmRpcXk2ZkhKV1k0bDNmUjdCdDE4bV96UHRxWDR6UDBZMXpGdTdSdVJOWVdiLWtCdWlHQTZNRFBlTWJ5M1Vj?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Trading Up 1.5% - Here's What Happened - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlFfc3Nua21VekZ2MjZoaUU4RGxqNnhxdE11UmdxdE9ycDlJRDFNWlBuR2swc2hpSkFwSEVJTTdELTdHQjdqMFVkeTY2RmFPb2JMUG9SLXBMLUVIWjJWR0J6Mll0OEVrNjNIREk1Z1E5WkpTcVFZTmtTbFJlUE1GSS12UHNnTEphX2xSTEdGWHFZSHdpNmFrNldIVE1CM2VxVEZSbGxUUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Here’s What Cantor Fitzgerald Thinks About Intel (INTC) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0UwQXRsaXo2OHIwUkRtak9vNDRWWE1kZWxrZFI2Tkt0aF80Y2ZIZGxqSERXX1hXNzd1aXFyaGxLQWdvMmxLSGNRckpPVkdrazdMV1ViMThEb2JGeXh6YTF4ZFA0TG5iTy1SSWJ3LW43SklpcDZkeEVvMFU2UUlqZnJtWWhxdzlEc3lmTUtFZVY3akhMVEMzdE9NZkd2N21Rb1E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 552.05,
+        "changePercent": 6.61,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Advanced Micro Devices Stock Just Bounced Back - Yahoo Finance: Why Advanced Micro Devices Stock Just Bounced Back Yahoo Finance...\n- Advanced Micro Devices (NASDAQ:AMD) Trading 6.6% Higher - What's Next? - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Trading 6.6% Higher - What's Next? MarketBeat...\n- Advanced Micro Devices Inc Stock (AMD) Moved Up by 8.20% on Jul 6: Facts Behind the Movement - TradingKey: Advanced Micro Devices Inc Stock (AMD) Moved Up by 8.20% on Jul 6: Facts Behind the Movement TradingKey...",
+        "sources": [
+          {
+            "title": "Why Advanced Micro Devices Stock Just Bounced Back - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkVDanZuV3VXU0d2M05rN3dWZHhzY2YwM1hQNlpGY0dab1Z6R1J6RFZBaWpzZU1xc09nWTlRb0syaEROZTd2N3hiU3pqYWJlVERYYWpRb3Jfa1l1NmEwRVBCdmp4QVNudFJEdE51cXNyZlRuR2l5UlF1SFJVRk5UTTZEZnJ1Tk5JdFBtWEJSZFdyOUU4NTIyZEh1ZFRLdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Trading 6.6% Higher - What's Next? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVlYWGIzZmNhNXVYVmlpdjh4MXhqUmlyTG9xbGxnTWpRd1VUVkJoU2h2dzBFakg5WTRaQi1KOWVjZnZDMGtWS1V1ak9Ta213S0diN21ULW12RWJKbWZSWEFIM2F6eVhiblpOQjVKNnNsNDlYWWU4QzZteERzRjFiWGpnOTBTeEwxcXE5RERxSXZQbXJEdjktTmZjNnhsazVTMXlyYXRNdFh2cy1Wa2xTUTVpUDNHdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc Stock (AMD) Moved Up by 8.20% on Jul 6: Facts Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUHl4bzlTS3FOOXpYR2N3enRqT0lVSUVBMTNOc0x5Q0dpWGZWdE04aFdUaGRjbTlaX0tXR1lsSEUxdzV6WVgxUHpPZ1JqTDJjOENNNUd1VXpGbHFoTmdORUNUWm1HQzY1NUtPcVExV1lOYzQyMWg5eXRCRklOaHVXcGNLZ2VBX2lkX3c?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 984.75,
+        "changePercent": 0.94,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- SK Hynix and Samsung Have a $2 Trillion Warning for Micron Stock Investors. Is This a Signal to Sell? - Yahoo Finance: SK Hynix and Samsung Have a $2 Trillion Warning for Micron Stock Investors. Is This a Signal to Sell? Yahoo Finance...\n- The Real Risk Inside Micron Stock - Trefis: The Real Risk Inside Micron Stock Trefis...\n- Micron Technology Inc (NASDAQ:MU) Shines in Louis Navellier's Eight-Rule Growth Stock Screen - ChartMill: Micron Technology Inc (NASDAQ:MU) Shines in Louis Navellier's Eight-Rule Growth Stock Screen ChartMill...",
+        "sources": [
+          {
+            "title": "SK Hynix and Samsung Have a $2 Trillion Warning for Micron Stock Investors. Is This a Signal to Sell? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0dRYldQR0Z2VDBBUXB1WFhQVk1HOWJfZ0ZRYlQxY25jTnRWMk9rOUplTW0weDhtWTluMjd1cnIzeGQ5Nm1haVJZQ04xczZSRlZuWHNpT2s3aXNVcU5KWWpIdnhTVENBYnZRWFdTLTdITVdmUHF5V2h0QmxwOWFsYXgwWE5SN1NPaUZwa2pEY1l1YkxuRUxr?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "The Real Risk Inside Micron Stock - Trefis",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM2JRclQzR0RQNlI4T0lnUElKUG5UTU9WaDEwZFNBeVh4RzJNeVI1a3JnYkxGdjdOb09tQWg3cjQtV1MxSnJCQXBaSWtQVkpvUDY3S1hwV3dDSGdkNi0tcmE2WTk0WklteUNwaTJsRnA0cnNWVGp4elBFczdCMEdYVmU5a21pWkhldTdzUW1PNkQyVVd0dGN3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc (NASDAQ:MU) Shines in Louis Navellier's Eight-Rule Growth Stock Screen - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWTdUSHlwUjM0cHR1MXo1NHlUWmxTRFllaUtXS21mTXhNWVJZalB4c2VBRFhKZnp3N21Vbzl0TWNDM0dOR2RkUk90dDU2UEZxWDhwYmVKTTR1ZXJVZzBoVWd5aFlzSDdzSHA0NjFyek9FM2d2QUo3bWl2OUYtX3NMczliVm13UThoSUx0MTZ2N1gyNGJ4bG51OXROY3p6UE9IcEYyQ2xFZURuN3RHRTNPQU1lLXF0RU04SkpOMmFtdlJNUmx1S09DM0FzcnNXSFBYT0R5Uw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-05": {
     "date": "2026-07-05",
     "lastUpdated": "11:05 PM KST",
