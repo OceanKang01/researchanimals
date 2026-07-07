@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-07": {
+    "date": "2026-07-07",
+    "lastUpdated": "11:05 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 698.91,
+        "changePercent": -4.42,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Swedbank AB Acquires 272,840 Shares of Lumentum Holdings Inc. $LITE - MarketBeat: Swedbank AB Acquires 272,840 Shares of Lumentum Holdings Inc. $LITE MarketBeat...\n- Lumentum Holdings Inc (LITE) Shares Fall 4.4% -- GF Value Says S - GuruFocus: Lumentum Holdings Inc (LITE) Shares Fall 4.4% -- GF Value Says S GuruFocus...\n- Northland Raises Lumentum (LITE) Price Target as AI Data Center Optics Outlook Improves - Yahoo Finance: Northland Raises Lumentum (LITE) Price Target as AI Data Center Optics Outlook Improves Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Swedbank AB Acquires 272,840 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFFqYmdabXpsU3k0THVtelR4aUgwcGxaZmZ1SHVITWR0eTAyclczeGl2S2YxM2pOazN5M3ItdE5tUGlNSXBnZEtCajNuVzlfWkhpWUQ0UjZoMGpXMVVMRGw0d3hRdDhtdHZ3c3RiMFJUVlBKdFJFRnZmMXFEdE15Wi0xemJNMnN5XzJ3UlpvM1BSd2xpNWVJcHA1bDdPb3czOUROOFZBUzBLdW9WZ05GZGhTTUJ0MEdKSkpfR0c3VlFSd1E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Fall 4.4% -- GF Value Says S - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTUwNEJxRVhFelkyRld2bFliRnVjZUh6cjgtQm5EZlNaSV9qalMwLUlXRFFWcGZIeHBVMFpXTzRybkhXWjNZLWVFeE56ZWxySHlsRkZ2a2pITHNvSWhweUhuS2thbHZvWmU5eW1KRHpkcV9CMEh3YXpSb3R2TlNXTTZKcHd2eGl4QU85SkY5TnNDMXRsVzlkcHRGTVZ3bFI4X21mQU0xWTVyOG85dGhJbg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Northland Raises Lumentum (LITE) Price Target as AI Data Center Optics Outlook Improves - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1djUFZDUEJCRHZfY29YSkxzTjhqcmlPcTVEcDIxdWlkOHpoVzJIb3d3bGRUSklhTklxWVh2dTl5d1lLeGhEcUFwYTFsU2tlbWw3ajZ1ZU9NdHNjZ0xNbzVIYkRlUmo0ZmE3UnlYWlA3S3BIRE5UQTliN3AtYm5EcndOTGU2eG8xV196VWk2dEsxQ0xCYjlFc3VZZXp4OWxsSnpB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 110.39,
+        "changePercent": -9.66,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel and Applied Materials Dive 10%, AMD Craters 8% as Samsung Earnings Trigger Chip Selloff - Yahoo Finance: Intel and Applied Materials Dive 10%, AMD Craters 8% as Samsung Earnings Trigger Chip Selloff Yahoo Finance...\n- Intel (INTC) Live Share Price, Invest From India - INDmoney: Intel (INTC) Live Share Price, Invest From India INDmoney...\n- Intel (NASDAQ:INTC) Stock Price Down 9.7% - Time to Sell? - MarketBeat: Intel (NASDAQ:INTC) Stock Price Down 9.7% - Time to Sell? MarketBeat...",
+        "sources": [
+          {
+            "title": "Intel and Applied Materials Dive 10%, AMD Craters 8% as Samsung Earnings Trigger Chip Selloff - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQejl6d3BwV3J5VzZYMjY5QTJZb0s5Vk5nUWlCZkw1bkNxZnZOS3FQTlZoRUJ0a2JTOHdfTS02ZzFyekhBaU50UWdOQVFQd3h5clhhbmdiYlhlZVJ6MS1yenpxeHRqb3dVS0VRUkEtM3NhWDZsTkgyLTd4UUN6ZXlEdmM1QlFEanZ4ZGxLRU43c2ZHMGFJa3B4dUVEWE4?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (INTC) Live Share Price, Invest From India - INDmoney",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QbHdPRG1Fb3cxYl9hdnhTVEpIdFp0MFFRczlyU1hjbVZqQXFFdEMzZlBKR2ZmaWNCUUZjV0FndFhNenFnQWRqb1lPQktwbzQ3RXZIOUczYXE4WGh3V0JDb05WZTFTRXd1QW82VEhCbmNXRlJObG5HMw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Price Down 9.7% - Time to Sell? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0ttTkdtLXI2SzktQ3gwXzdKLWF0LUtaSlVQZGh1OGdkQkp0bDFWNGtlT1c4b1FJRUIzQkVVelo4bG84ZmNTYnRZNWp6VGY2c2hSbVFqSGNhMHFXV2ZlSFMteXFvS2k2Wi1FbEpHb0ZJYkNVeEJZcmc5aWcxV1YzWk9Ec29xMHNqTWpuRXhhbEgwc2dHcEhGRVZPVTJvbDlHSktqVkZn?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 516.11,
+        "changePercent": -6.51,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here's Why Advanced Micro Devices (AMD) Fell More Than Broader Market - Yahoo Finance: Here's Why Advanced Micro Devices (AMD) Fell More Than Broader Market Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Shares Sold by Canvas Wealth Advisors LLC - MarketBeat: Advanced Micro Devices, Inc. $AMD Shares Sold by Canvas Wealth Advisors LLC MarketBeat...\n- What You Actually Pay To Join The AMD Run - Trefis: What You Actually Pay To Join The AMD Run Trefis...",
+        "sources": [
+          {
+            "title": "Here's Why Advanced Micro Devices (AMD) Fell More Than Broader Market - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTdoNjJoUnc0WEJlVWU4THZ4YlRFYnhYbEIyU3hiSEMtdFlQUjRmT0VneDU0M1ZEU3J2MkltcVlDSkdfdmVUYmdubUlheVk1V1V2d2s1Z0FXSk8tNnVtU0JXWmlyOTJxMkdXb1RpUUhfUjhIQXJEanU3Q1BLaEFzUXdqTFNpT3FpbHl6cTFCVXNvcU1qaXNqUTgzVWZPUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Shares Sold by Canvas Wealth Advisors LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeTFHcDR0VkJwSV9KM2wtWnQzTDJPU3lIUEtEM00yRjgxQ1BWM2tYLUFKZHBQOVFQVmk0TlliTnRPYUF2QVh6cTF1bjR3Y0RfNnFmNUh4UHVQU0hqeVVxT3o5RVppVHJ6WkUxVk9SUExtbzRmcGFib3hzYWw2cFVCTmQ4TU90REdUWWpkeV8xTk8tbFpWQ0FDdUcxQnh6OXNyWU5uekJWVjQxODlUeHFqWWRBSkJkSFVXcmJwdzB4OVR4YTRlZjd6bkZaa25OZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What You Actually Pay To Join The AMD Run - Trefis",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRFdLNWJXWGlfUzM5U2FqQ3Y2ZExab1J1NTdoUzR2NHNnVFRMSEpiUVNnY2dGTDhnUXBSUFZia1VsdE1neV9PbHYwNElRTF9LRk5kNGNDbksxdHd1SUg5eHU4VjFBRGk4eGhLR2o3dERHT3owRlhrTGdCaExLUmFTbVVPOXdNNUkzQTZreDNNeGNqV3ZodHU3eW9mYmdTX1ZVcjA4?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 938.38,
+        "changePercent": -4.71,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology Inc. (MU) Is A Top AI Stock In Billionaire Jeffrey Talpins’ Filings - Yahoo Finance: Micron Technology Inc. (MU) Is A Top AI Stock In Billionaire Jeffrey Talpins’ Filings Yahoo Finance...\n- F & GM's Deals With Micron: Is MU Stock Worth Buying Now? - The Globe and Mail: F & GM's Deals With Micron: Is MU Stock Worth Buying Now? The Globe and Mail...\n- Micron Got Its Final Warning (Rating Downgrade) (NASDAQ:MU) - Seeking Alpha: Micron Got Its Final Warning (Rating Downgrade) (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron Technology Inc. (MU) Is A Top AI Stock In Billionaire Jeffrey Talpins’ Filings - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON19HMDZ1T1ZaX1lCWkhmaHNBekY4Z0h0ejJtSG5lQy0xVmpnVkZzUkpsUEtfWE1oXzlHdzVFMnFodTVnOGtScVBfZXBsQ1Y1d01kcU9HYVktUnZUQzNLVE9SaV9oN3lFSTBiR3dubUxXeUZtRy1xUFJRb0RDY1czMHFQd0RBQnhiZUF2anpFRVNNVEd3RUFuNA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "F & GM's Deals With Micron: Is MU Stock Worth Buying Now? - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUzBYaWZQdWM3YUI5aDJ5bUtNR1RQVnFIMmN2U0EwVU5xaWxVbjNfQlBVTzNNRlJETTlOTDg0OWtOT3oxZENFTGxLWXo5bGlZS1ByeERUVURMWVZNaDdyRzRVa2h1M0FqRUFiRDBhclRVeHNHNkFJaXlKdC1vSVlqYlJjNmxNRzlHSU41NXItRVZKNmNueWdCZXZKcjBzcS1sUDRqMlF2QjR1MTk0eDBZYnZkMWt3R3R0Q1U1dVhjOXNDRlZneno3ZnJSRlA1N3lL?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Got Its Final Warning (Rating Downgrade) (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVBIYWRucWhLM18xOTM5b2tGM2JGT2xHYTB1MVVyQlJTNzNlcTR3TngxMFV5REprRzFLMTRFcURxZFJjaUo1d2ZVWEYzZ1BLQ0RjZmNaeDNWOV9KRTZRa0s2N2hhYmJtSkNkS3Zrdjc0b250M1NYUENhT1FPNDlKRW5vV3k3Qy1YTGFjSmRxRQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-06": {
     "date": "2026-07-06",
     "lastUpdated": "11:12 PM KST",
