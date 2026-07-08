@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-08": {
+    "date": "2026-07-08",
+    "lastUpdated": "11:12 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 707.1,
+        "changePercent": 1.17,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance: How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom Yahoo Finance...\n- Lumentum (NASDAQ:LITE) Shares Up 1.2% - What's Next? - MarketBeat: Lumentum (NASDAQ:LITE) Shares Up 1.2% - What's Next? MarketBeat...\n- FMR LLC files amendment reporting 3.61M HLDGS INC shares (LITE) - Stock Titan: FMR LLC files amendment reporting 3.61M HLDGS INC shares (LITE) Stock Titan...",
+        "sources": [
+          {
+            "title": "How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVS11aUFSLTlkRVZxSkVBX0x3VzliVVAwV1FwNGFxQ08tcHVFUV9aLVB5R05VREZ0aUQ1Zi14ejh4MEtqNU55dW53aXpiQS1pRWxSRTRoMGNhOVA0OERPbUZhNlRXaDBOcE95WFNNRTZNQXZPWEkxM0MxbTFnV1ZPVWpmcFgyUWVXZDNBa041RkhzUkxzSno4OTBaejcwa1E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Shares Up 1.2% - What's Next? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRFNMdW91VnJCOGl0Y2hTSkk3Skh0Q1l0RFZWTXFuV3NCWkhndnVXMEU5Q0FmcHNuNTVtV19qWjR6ZHdfWHV6M0NQMmRsV2h6R0JPUEpROE5VcWdWaWxteDl1d1NaQ0NWSVdSc2FUQ0t2Vm5TeC1LOXlxS3RYNWdaRl9KRUNzd0pUaFdEa0QyalprLU82QTR6R3c2dHNBQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "FMR LLC files amendment reporting 3.61M HLDGS INC shares (LITE) - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQem5qWk5mWXFJUktrb0Q5dGgyRTBrRDZYT2ZsaXJoOHAzWnNoS3FvbU9xUDZhaVhXeGRuNm9qZ0xjZGlBa3l3SnVPOENvcDdDUW5tV0UtMFVQSWIzSllnOVNLU3hBWkVwYzg5Z2tVSHZmaU40Z0Z5a21POXhKZlhMY1hsMk9ySUZRNUFTR2hLM3N4cmUzd0FGalU2NXk1QmNDRExPN1dLMWFDV3E2S195alNsb3ROMm54Q2ItZEJOWU55WDdBUFo2bGNfWQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 110.24,
+        "changePercent": -0.14,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Apple and Intel Corporation (INTC) Chip Deal makes Strategic Sense but Production is Years Away - Yahoo Finance: Apple and Intel Corporation (INTC) Chip Deal makes Strategic Sense but Production is Years Away Yahoo Finance...\n- Intel could boost CPU prices again without impacting demand, Wedbush says (INTC:NASDAQ) - Seeking Alpha: Intel could boost CPU prices again without impacting demand, Wedbush says (INTC:NASDAQ) Seeking Alpha...\n- 5,072 Shares in Intel Corporation $INTC Bought by United Asset Strategies Inc. - MarketBeat: 5,072 Shares in Intel Corporation $INTC Bought by United Asset Strategies Inc. MarketBeat...",
+        "sources": [
+          {
+            "title": "Apple and Intel Corporation (INTC) Chip Deal makes Strategic Sense but Production is Years Away - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFA1QjB6enlwanY5bTJHNHZQa0I5OWFfT3JJdTM4c2l1VXFUREdRV0JzY3I0NVVSNWJNSUh0aXNoaFNQaERJTUpCQTgzbWFRUHBRbVhKaFkxdzNWbFJ6eGJTM2w5Y2pReFFiN2NSLWdkSWY2eVlBeE5SSnB6SWR6QWZUblhwcHI1NFJNVms2dHFtMlBlQjZxX0dYbVFRUEE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel could boost CPU prices again without impacting demand, Wedbush says (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0lodDhzMm94ZS1OUzZSTjIzODFvcWpqOUk1X0JIbTVsZGRFR2FqUGlDUmJVUElHMGJUenU0NVBQYWFKUGVPM0hsVDlJRTdMSlZ2QjVpUFIzREtNdFpGdzZoZmpTMVcyY0kydHlLLXN1NFJXQ0tsdXEtelNpYWNpdkp2X0E3OGw5SnpxNlJXdnNFLUxOOTZaTUNPQnZmUVJuOTVPejl0VkVEeWZraTc0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "5,072 Shares in Intel Corporation $INTC Bought by United Asset Strategies Inc. - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbmRBRi1IRDlxUC1DSzVES2VxOGlZZGtudmJpZmVXZzdmcUZPaVh0bU5pZlVSUjdvaWlkOERXelduMUhkYWppdTE0SlNKeG1KTFBGaE9yXzVtU3JZWHZvY3o4V0J5QXVzS0xMRXJLM3lvaFVPOGZMYU5ENXlnZkNPbVNPUEZtYUVzYTR6YWoxYjhQVGI4NTFyV3Nub0xzOTNEUEZQNGpBbWliaEU3ZnZGV01BbmZBWTZwMG1sRHNtbENobW9uelVZdERqU1o3WVdETnc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 517.41,
+        "changePercent": 0.25,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD): Top 10 Best Stock to Buy in Glen Kacher’s Portfolio - Yahoo Finance: Advanced Micro Devices (AMD): Top 10 Best Stock to Buy in Glen Kacher’s Portfolio Yahoo Finance...\n- Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 6.5% - Should You Sell? - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 6.5% - Should You Sell? MarketBeat...\n- What's Going on With AMD Stock Monday? - Benzinga: What's Going on With AMD Stock Monday? Benzinga...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD): Top 10 Best Stock to Buy in Glen Kacher’s Portfolio - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmN4bWJkOUZuckxsOFkxdXBHZ05seEVYMTNjWF9RZjVlNzFvcUJiTjlTLXh5bExTTkphMGZnOTB6aGtGZmJBUHdIV2NRZ0NkQkJmTmc0X3BSTk5MV0NGTHlLRGVGc09MTUdTZzJiMlFPV0ZULVAzNF9VbUM3V2dZbGVrd0Fvc2RJYWpBSWlqSlM2SFllbFpMQUtPRQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 6.5% - Should You Sell? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUHhGaEpHanZqbW84TEhfeWxVWFEwa0FuQVFxQWozWERLc3l4M2JZWnUxWnRqbzdVZHpnN0JUTUtES3Boay1jRmo2QUllTVNnQzRDRW5ZNkU5MDZhbDFyTDduR1dtLWYyVzloNGZWcVdpbHRwZ1QxSmZUYmpSaWo5OFlQYW9xVHdiYnZtZUpNcEJzRzE1UVdSeU10b2pDYkRkVzAwdkI0ODNKaTZBbk1BZnRjaHY0TXFDLXZnSDdEZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going on With AMD Stock Monday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlJ4YnllMmF5YnRRdGNTbC1tN0hqelBSWnJKNXcwWG56aFIzUlZDa2JWRVdMbWhvVEF3d0w3SlhQbXVKMnNNeEVNWDRfS0ZUbUdvb00xY2JvYmFjVkZ5ZzRzSzZVazBhY2c3VXNLOV90dWFSMWhhUmdVSkpZRVRvM2RmOXlUMkRUcDM4NkpnaEpaNWdmSXc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 948.8,
+        "changePercent": 1.11,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- $9.3B Japan Factory Expansion Assert Micron Technology Inc. (MU) as a Top AI Stock on Wall Street Radar - Yahoo Finance: $9.3B Japan Factory Expansion Assert Micron Technology Inc. (MU) as a Top AI Stock on Wall Street Radar Yahoo Finance...\n- Micron Earnings: I Was Worried For Nothing (Rating Upgrade) (NASDAQ:MU) - Seeking Alpha: Micron Earnings: I Was Worried For Nothing (Rating Upgrade) (NASDAQ:MU) Seeking Alpha...\n- Why Is Micron Technology Stock Falling Wednesday? - Benzinga: Why Is Micron Technology Stock Falling Wednesday? Benzinga...",
+        "sources": [
+          {
+            "title": "$9.3B Japan Factory Expansion Assert Micron Technology Inc. (MU) as a Top AI Stock on Wall Street Radar - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRHRCZW1yUTYtUzVRZ04tR0t3RC05dTdqQnJpSXQzVTVodGpWT1U4b2RHRkRRdUJxZ1R5bG1TQW1CM21vZVBSOVhZRlFkM1d1UVBvU1QwOWpHamVmaFJUSVZhOTNGckFsM3Z1WkRsczUxdFRIejRlWGIybW5pZ0tKTGl2c0w0Sk9wbUotLW9OSk0zWW1qcTdR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Earnings: I Was Worried For Nothing (Rating Upgrade) (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0lqclRicVl4Yy0xNVdLeFlNV0xQU1ZOWE9xVTVOWkxaZTdCNTFSWWR2MGxsUHhWMndWNGpFN25aUWtsYVhlNENZZG9DSFp4UEdja3Q3UjVkdXJPVk5JMGZVbHYzMmhKYXRmMnZldWJsX3VtZWdzUE1TdFdMejFKc252ZjBPZzVQdVVOZ0ViVnNZNTFCNThETU9UYmhkUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is Micron Technology Stock Falling Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1ZqdUdNejI4V19rbEMzc2F1QXNmNjF2R0JWNXRyV0F6Y28ydzYzT1FMc0twV3NJbW0zTUd6b3c2Y2JUa3BiaHVWSlk5NFN3R2ExbWt1dkczZTJoaFpBd1RRNjUwOTNscWZrS0NOWW16MWdPeHVWZFNhbWRhZGpJRGtaU2RQOUdyNG5WaW1Kd1pNMHc4WFNIWFlvcEpiOU5PdDgw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-07": {
     "date": "2026-07-07",
     "lastUpdated": "11:05 PM KST",
