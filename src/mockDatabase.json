@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-09": {
+    "date": "2026-07-09",
+    "lastUpdated": "11:16 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 785.77,
+        "changePercent": 11.13,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- LITE Stock Pullback Draws JPMorgan Interest As AI Story Builds - StocksToTrade: LITE Stock Pullback Draws JPMorgan Interest As AI Story Builds StocksToTrade...\n- A Look at Lumentum Holdings Inc (LITE) After 11.1% Gain -- GF Va - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 11.1% Gain -- GF Va GuruFocus...\n- How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance: How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom Yahoo Finance...",
+        "sources": [
+          {
+            "title": "LITE Stock Pullback Draws JPMorgan Interest As AI Story Builds - StocksToTrade",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMFNsc2U1dUR1S0VRLXRXNUhHU3RRYmhOLWZzT2pCYzRUZmNPNUhSNk4zWUktd09JTy1fZUhzd3VSV1U1SWR0OGVNanFIZW9jSDRtNkRwS01RQUpNcnlNTk9fQUFlMnFIbVZITFVpU1BMY0swZFZVSU9xZWVXaTZqNmJn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 11.1% Gain -- GF Va - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFpJUDBDYWtIRkR6UUV5ZHFrdnBDRm03OTZDaEVsTkJNVVBoWFI3Q1lTSUtSTVVXTi1waXNTcHpOc2l2M0p3WXkyTk9BRUVkckdsRHNIMFlDMUFpX3lvazhUZ1VlTGE0elpGdk5Jc2FHY3JKbW9zeWVJaHR0XzE1YVg2Q29zUEJJcGMzekVYVjRGUlhkRGk2dmNZLWdldUdqR2lnNFJpdmdNdmpFUHVueHdWM2MzbWFSWFQw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVS11aUFSLTlkRVZxSkVBX0x3VzliVVAwV1FwNGFxQ08tcHVFUV9aLVB5R05VREZ0aUQ1Zi14ejh4MEtqNU55dW53aXpiQS1pRWxSRTRoMGNhOVA0OERPbUZhNlRXaDBOcE95WFNNRTZNQXZPWEkxM0MxbTFnV1ZPVWpmcFgyUWVXZDNBa041RkhzUkxzSno4OTBaejcwa1E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 112.54,
+        "changePercent": 2.09,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- INTC Stock Hits 25-Year High: Retail Believes Next Week Will Be 'Most Important’ For Intel - Stocktwits: INTC Stock Hits 25-Year High: Retail Believes Next Week Will Be 'Most Important’ For Intel Stocktwits...\n- Intel Corp. (INTC) Loses 9.66% on Profit-Taking - Yahoo Finance: Intel Corp. (INTC) Loses 9.66% on Profit-Taking Yahoo Finance...\n- Intel (NASDAQ:INTC) Stock Price Up 2.1% - Time to Buy? - MarketBeat: Intel (NASDAQ:INTC) Stock Price Up 2.1% - Time to Buy? MarketBeat...",
+        "sources": [
+          {
+            "title": "INTC Stock Hits 25-Year High: Retail Believes Next Week Will Be 'Most Important’ For Intel - Stocktwits",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdlU5Y1BPdklzNGJLOVlpN1k5MFJGeWlVWlpkVXlCX1FraDM2YmZCYnFIN09WZE84aEd3T3BLUnpXWUNtUFhsQnFkVTQ5am9admVUNExmdkpsN0JhZ3NLOFdvclFkYlVUTXhLUDBMSHctcFlPYVVlR212Z0EyVTBub2F5V1U3dm1rbVRjS2RLZS0yVXFIcjl1cEd2RFZQTWMtUVphTENkX083a1hncFNfTHZYXzlkSnVDSDVMdzNzS3NUekd4eUdfY3RSNnRiU29BLVhXYkhLcEhEYWlXc05LZjhUNEZzQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp. (INTC) Loses 9.66% on Profit-Taking - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWVWeDJ3NEp4N1FLcWV0djA3V3Jwa2p2UXpOLVIySko1T01CM3FFNWxIRlBGY0FxakdlSjkzc2Y3eHV5TmctNGpUd2RyTEhOVUJndUI4UFJMZmhONndxQm10bXlWN2tmVGxpeFRobkQtOENOcFZHOU9Vd082STVtdEoxM3ZZSHNjX1VmSWsxOC0tUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Price Up 2.1% - Time to Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXpjUDB3QnBpQW1XZVdmMlZyWVpUN212QXVZYjNwVkk5Y2pwWXExZlc2ZGhMbGJUVkxuMGpKSUtJSTdwUnRuUG9hMXZzVFc0bXlZb01tRGR3RGdxZjkzUkdnLWJ5R3hCbko1dHZVWk1SZ2xQYXNJRmlDSE1tTWdJRnh3ZmFOeXhPMGQxN2tLSkVPdWEyaEJIREZSbi12dzg1aHc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 546.72,
+        "changePercent": 5.66,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here’s What Analysts Say About Advanced Micro Devices, Inc. (AMD) - Yahoo Finance: Here’s What Analysts Say About Advanced Micro Devices, Inc. (AMD) Yahoo Finance...\n- WealthPLAN Partners LLC Sells 5,260 Shares of Advanced Micro Devices, Inc. $AMD - MarketBeat: WealthPLAN Partners LLC Sells 5,260 Shares of Advanced Micro Devices, Inc. $AMD MarketBeat...\n- Why Is AMD Stock Gaining Thursday? - Benzinga: Why Is AMD Stock Gaining Thursday? Benzinga...",
+        "sources": [
+          {
+            "title": "Here’s What Analysts Say About Advanced Micro Devices, Inc. (AMD) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVp4TnBXSGE2VmR6OFBTZ0lIWXVHbEVveXZqRGx2dTEwNjd4X0N1dFNOTG1sUUlFRzFYTDFLRUpLSjBvRWtRMUVzLTJaQzJ0Z0xteF9seUtOaURxekpySXhvYzJWa2FPQlNMM2ZEbE92S19Ld0ZZRFdleWJjRGtXYXhQdC0tRmxjdElUZ2F5NU5zRzBZT3JpdmVDMlRMM3M3WFE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "WealthPLAN Partners LLC Sells 5,260 Shares of Advanced Micro Devices, Inc. $AMD - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOW9oZzJwSjV2ZUVBUUs3dngtV3Rqcl91di12SmNyajBtSDh6d0sxSTBZUEV2SUR6QWk5LUdIbzhsajNrZjlpd0wwaVFSeFM0SkY5ZUlpeklCaVZLbG5IcU82aUZ5MTBfVEhkMEdBT3d6MVpCUGJxZDc1Ni1lREhrc1BUNTR6V3JkaWpzZ0dfdng5Yks1Mnh3dWxrejcxaENYS1VEaHB2SnlCUzR1UlhSRFZCUmt1TkxvVHBGckptc0hoOWJFV3dYYVJFNjJwOGNsM1E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is AMD Stock Gaining Thursday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjB2U0lHUHYwbVRNenA4UHR2Qnk1emtKZzRzWWthT1JSQlNVWnhESmtOdGJOdFY1NENhUW9qVUloWWVicmFYZi16VS1zbURnVU1PQ1Z2V2JkSkU3WXE3enNBWDB2aV81QU82bXBUS0twQWR4dHFTcFFvM01ZbXA4a1czR3U1OWFrbjk0bEFDS2tmeGVFcWdhRlphNEdiMU0?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 991.64,
+        "changePercent": 4.52,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology Is Quietly Setting Up for a Strong Earnings Catalyst - Yahoo Finance: Micron Technology Is Quietly Setting Up for a Strong Earnings Catalyst Yahoo Finance...\n- Micron plans $3B U.S. chip supply-chain push with GlobalWafers - Stock Titan: Micron plans $3B U.S. chip supply-chain push with GlobalWafers Stock Titan...\n- Micron & One AI Infrastructure Stock to Buy Now for Big Upside - TradingView: Micron & One AI Infrastructure Stock to Buy Now for Big Upside TradingView...",
+        "sources": [
+          {
+            "title": "Micron Technology Is Quietly Setting Up for a Strong Earnings Catalyst - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkFRam0zVEU3SWxJV3JKVmZGaEp4c2dsR2czcmpxelJaa2tZYkZSZUNmS2Z1UVBvZVMtcC1kMmVDenlxZFJvVFNya0dGdlJUMlh1ZXlCNjd1YVRIcnhfbGpHU2IzdEp4RUFkR1BxdnFXRUVRYm00NGZEQXN1XzZ0T1d4ZU5FNjNzWGllWURyU0xqa0EzdktBakIwaXZ2QlY2SE13OVNGejU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron plans $3B U.S. chip supply-chain push with GlobalWafers - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV0pTc3hzQ3ZnLWhNTGxtREFOUFhnOWdFOFo4Yzdnb3lFZ0dNRU1hcWVoaVR4U1IwamlGYkY5UXJCdk42dDRTRTJXTXR0bVdpZ1REVVZVMjNTMVphYWdvRGdtUnlFOTFYR1Z2b0owSkFvUndyVXNXb2k1Z094cnRjSm5jSnBEbjlfZnNGTE5sMjRmUGV2NU1pcEdwZGZ6aS1ScVYtRUk3NnQ0SGhNWEJ1YXY1RDZIaFhDVXhueg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron & One AI Infrastructure Stock to Buy Now for Big Upside - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWplNTBDMEM2V295S0VhcFR2OGRWbklhVndFQWU3dHExdXJRZzlTM3R5bHFkYzl5dGotWVlEVHJOdG45YXBIcnhOcFUwUTNKclNSVDZSdjlraXpuUVMtVHFFUWhSODNzVUhuSm9nTEhZU3NnaHc0SmhIRzhKZk9kTWJnVi15dzJPTWtLbEhtcWh4TndCQWhkaDg1MWFJTnc4U3B6T1F1SEZfQk1PM1Jhdl9vRkVyTzQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-08": {
     "date": "2026-07-08",
     "lastUpdated": "11:12 PM KST",
