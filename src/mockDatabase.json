@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-10": {
+    "date": "2026-07-10",
+    "lastUpdated": "11:01 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 802.01,
+        "changePercent": 2.07,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (NASDAQ:LITE) Stock Price Up 2.1% - Still a Buy? - MarketBeat: Lumentum (NASDAQ:LITE) Stock Price Up 2.1% - Still a Buy? MarketBeat...\n- Lumentum Holdings Stock (LITE) Opinions on AI Infrastructure Expansion - Quiver Quantitative: Lumentum Holdings Stock (LITE) Opinions on AI Infrastructure Expansion Quiver Quantitative...\n- How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance: How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Lumentum (NASDAQ:LITE) Stock Price Up 2.1% - Still a Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWEtXLUVZeUxSOUlUNUd6eWp2U2gwelJLdC1pNmtFUkRjazRVRzY4cFVrdl9FZEZydXRKR0w2MnB3bHJwZTJmcHN2bXlKaTg1VnU2bFdPa1d2bEJIVnV1dTY4aUNkZ1ZUWnVuaGdfd0FhZndaemVXbFU4NXYyNkdHX1ozRDZhZ2h2WW1kVXdCRFQ1QXZaMklCc3FySjljLWtJbXA2UVhR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Stock (LITE) Opinions on AI Infrastructure Expansion - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjNPeUlwYXZTc1hGYVJwNnlqMHdtUlh1cHVVVURYUTFZbGlMeDZ6RlFCSjVBZjFvZ1pDdHFEa3NiV2luc0tyQm5yVkRVNjU5Tkx0SVpFSnE4WjlzVzJqdTkyeGRXREpyZGE4bnp5SWdqRlJjZ0VuS25yaFJXN0pQYzN6SU54SEg2WlRnRnlqUWZaVnM1cFdNZGFIRkNuOXNEOTRIS1ZwUkdTblE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVS11aUFSLTlkRVZxSkVBX0x3VzliVVAwV1FwNGFxQ08tcHVFUV9aLVB5R05VREZ0aUQ1Zi14ejh4MEtqNU55dW53aXpiQS1pRWxSRTRoMGNhOVA0OERPbUZhNlRXaDBOcE95WFNNRTZNQXZPWEkxM0MxbTFnV1ZPVWpmcFgyUWVXZDNBa041RkhzUkxzSno4OTBaejcwa1E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 109.84,
+        "changePercent": -2.4,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corp. (INTC) Loses 9.66% on Profit-Taking - Yahoo Finance: Intel Corp. (INTC) Loses 9.66% on Profit-Taking Yahoo Finance...\n- Intel Corporation $INTC Holdings Decreased by First National Bank & Trust Co. of Newtown - MarketBeat: Intel Corporation $INTC Holdings Decreased by First National Bank & Trust Co. of Newtown MarketBeat...\n- Wall Street analysts set INTC stock price for 12 months - Finbold: Wall Street analysts set INTC stock price for 12 months Finbold...",
+        "sources": [
+          {
+            "title": "Intel Corp. (INTC) Loses 9.66% on Profit-Taking - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWVWeDJ3NEp4N1FLcWV0djA3V3Jwa2p2UXpOLVIySko1T01CM3FFNWxIRlBGY0FxakdlSjkzc2Y3eHV5TmctNGpUd2RyTEhOVUJndUI4UFJMZmhONndxQm10bXlWN2tmVGxpeFRobkQtOENOcFZHOU9Vd082STVtdEoxM3ZZSHNjX1VmSWsxOC0tUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation $INTC Holdings Decreased by First National Bank & Trust Co. of Newtown - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOakVYbGllOTJTcHNxUktSZlN1YkJOQVE2aUFxRzhicVE5UGxwYjE2ZnlDdVljd18wLW9YSTc3aHAtZERNMnpnQmFqaGZOMHJueFRZdUx5ZDlYdDR6WUZZZDRuMGg1VExJLXFZU3owZDQyZ3ltUms1QXh6R29lNEJ5X0loLVdNYm0tWVBPZmdGVmFHaGR5SGlPQ0p0bUJMQ3hfLUtKVWVMNGppVmU5dXNQa1ZjUWU5VjFCdFdGM1E1V3luTzVvSUlUZ3cxSmZhdXV6bDIxejF4YWtST1VqWVE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Wall Street analysts set INTC stock price for 12 months - Finbold",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT2hTd0toZjN5NjhXbmtDZkNvbHJkUGY4QlRJeUtqb2VmVzN5R0VaWE1ual91WVRfOWZuMlQxWDdvbXc2aWFaODhGSUhHbFAzTWFRREZBX2dMeS1PalhfUTZmMi1qRGtWa0tZS1RXZklIUm9mYTVjWm45cWdJT1VlTGdB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 557.89,
+        "changePercent": 2.04,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance Singapore: Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance Singapore...\n- Advanced Micro Devices (NASDAQ:AMD) Trading Up 2% Following Analyst Upgrade - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Trading Up 2% Following Analyst Upgrade MarketBeat...\n- AMD (AMD) Teams Up With 5C To Build Gigascale AI Campuses - simplywall.st: AMD (AMD) Teams Up With 5C To Build Gigascale AI Campuses simplywall.st...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNEpDRjFnZjNVTWRNN2hXWGdMWTdFLXNjQ1E0NHFHOXItS3pWU005X19tMllXWWRRVThFQlJaeUhhR0FHLUtOUlNGNTc3azFIektWSDhJczdabU5tcWl4cWJOU20xd0lmem82dnlESEh0ZFhnMm9CNTdVSHpqa0NMZUFyMVd4dw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Trading Up 2% Following Analyst Upgrade - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYloxZ3pEM1hXNTFOdmEwQkh4VXViektqbnNCXzFPdVp3emQ1WDVvWENCOVRodkp6S0Nwc2dJRGFEeXhSSVRpbXlvbUtjTFA5US0wODJXX1VYQmRheGliWTQ5RDg1UE96ZW9ta0Q2MUF4dnJfUENXWVRiUDUzbzBsbWR4WThZVEhCRkxuTm9Yelk2YTFHNkh3Y284Mk5QMUVsVk8xd3RRYjZ1eHdrdU5kRFhVNkFwR3NnSTJKQXBsT1ZHTGs?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD (AMD) Teams Up With 5C To Build Gigascale AI Campuses - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUM3al8xVnFJVEVOYnVXZGZvdmdzdnhqVUhYOENMTzVrUWJVb2IyZnFLVkxoMzBGY0hsMEN2S2o1OU53NWxJOVVZb1VkVlpWeEdFSURsMHlfa3I0WlJNSnM1THhjVFVvSUlZUWM3bFcwTmtSakh0dUNJUndCbndaRVZTanhsNzExVEs3MU5RMWl0ckZCSUVySFFXbndFckRCZC1qbThRVE1seWRLOUYzc2stZy02dXZLZXdSaFM1MTFTOVNVZUlrVG9vc0ZnWEtoT0FHRk1xaVfSAd4BQVVfeXFMT3M4R2I3Y3I1cm05YXRld2w3WU55OWZ6LWtWbmJGeHVPT1B5SGxCWExCRndfOExfS1J5UzA0cGhNX24xS0E4X1F6N2UyaF83YXZRMjR4bFJzMnJ2NkttOXllLTR3b2RxSWU4dEpfOTdnT2J2Qnd0aDFuWjBLaVZWdHlCNTZOQjkyUUE2dkR3bk5UZlpPOHBPOVFwV2lfZTVFTlB6eTlaTi1uNnNybTA0dTVZV0hjTmtWWGxXQTFEVGlJZ3FrSU5TelBLYmtmbndzMkhmZXg0ZnJfc3JocEtR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 979.3,
+        "changePercent": -1.24,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Investors Heavily Search Micron Technology, Inc. (MU): Here is What You Need to Know - Yahoo Finance: Investors Heavily Search Micron Technology, Inc. (MU): Here is What You Need to Know Yahoo Finance...\n- Micron Technology Inc (NASDAQ:MU): An Affordable Growth Stock Worth Watching - ChartMill: Micron Technology Inc (NASDAQ:MU): An Affordable Growth Stock Worth Watching ChartMill...\n- Micron: Keep Calm And Party On (NASDAQ:MU) - Seeking Alpha: Micron: Keep Calm And Party On (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Investors Heavily Search Micron Technology, Inc. (MU): Here is What You Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUljTFBCczBVX2hDdEcxb1VSY0ZwWDRQNVhOXy1HTlpPY2ZqLUxMb2wxNzNRVHlWSV9veXpKZEhQSlJHaEZSTk1MYk1EMEgxZ05PeFAxeE9XaURLc09aNm1iNllkR28tZlNEZWZpLTVqS0Y2MFBSVTExWnF6dk5vQzBVUG5BZEQxcTlPRzBDZDNlX0ctRjk5Rmdta3JROWJmYVl3ZlVnd2tyYzQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc (NASDAQ:MU): An Affordable Growth Stock Worth Watching - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdC1tZE1QdkdpN1BpamY2X3Y2N2paQnlyRDN1WHB3TENTczN2MVFRVFUwZmxaQW91aGZ4cFUtbS1KaFJLcVF6Y1NiUi1YUDk0ZHZITnhxVjBfM21FZ3NqRThobWV1bDl0YUxJUTRuUjJGa25EMC1YY1YxQmhWdWdrc01KU1B1RW1ubFNrWWNScmZld3pWMFdLTk1ZVVJKb21kaG5CS0ZFUEZJVmNaWWZjb0hBbUZPSUl1ejdVSUVpOA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: Keep Calm And Party On (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OdWp2QlZibkJEUUlXYl81ZjVoSlRHT1IyNE5sM3FIUUxLSmU5SzkxS210ZUVLNzY1bUY1VDJoTFN0cGRlMVVvdjlvRXZOOXlEMVRiWEpOYXNPMy1NZmVYTE9MckFkc0RhY2N6RlNJOTFMX0FHNlFZRGdB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-09": {
     "date": "2026-07-09",
     "lastUpdated": "11:16 PM KST",
