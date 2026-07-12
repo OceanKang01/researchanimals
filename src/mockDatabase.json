@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-12": {
+    "date": "2026-07-12",
+    "lastUpdated": "10:54 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 802.01,
+        "changePercent": 2.07,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- LGT Fund Management Co Ltd. Invests $14.33 Million in Lumentum Holdings Inc. $LITE - MarketBeat: LGT Fund Management Co Ltd. Invests $14.33 Million in Lumentum Holdings Inc. $LITE MarketBeat...\n- How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance: How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom Yahoo Finance...\n- Lumentum Holdings Stock (LITE) Opinions on AI Infrastructure Expansion - Quiver Quantitative: Lumentum Holdings Stock (LITE) Opinions on AI Infrastructure Expansion Quiver Quantitative...",
+        "sources": [
+          {
+            "title": "LGT Fund Management Co Ltd. Invests $14.33 Million in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORVlNaGs4MTUybHkxbktrQmRSOHhEeVB2RnFrTy1rc0Z1QVl0OXBEUkVLQWxIWmhqVFRhQnYya1NnMDlaYUdIbjFJNV8yWlNraENUamN6RHlVQ0tRM2xIMWJSV0U3TGlMaGUxamlwVVV3MUNaVmVETHJ0djV3S3hWeEtCTTJtOUhPWldqY1JHNUlCVFhsNlU4eGxrbXdUVFctdjI0dmJLNV9UWTVPWFNiZHZVeU1hd0lJR3A5bXg4ckJkWXVBWl9vYWVQUzJqWl9maVh6NQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVS11aUFSLTlkRVZxSkVBX0x3VzliVVAwV1FwNGFxQ08tcHVFUV9aLVB5R05VREZ0aUQ1Zi14ejh4MEtqNU55dW53aXpiQS1pRWxSRTRoMGNhOVA0OERPbUZhNlRXaDBOcE95WFNNRTZNQXZPWEkxM0MxbTFnV1ZPVWpmcFgyUWVXZDNBa041RkhzUkxzSno4OTBaejcwa1E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Stock (LITE) Opinions on AI Infrastructure Expansion - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjNPeUlwYXZTc1hGYVJwNnlqMHdtUlh1cHVVVURYUTFZbGlMeDZ6RlFCSjVBZjFvZ1pDdHFEa3NiV2luc0tyQm5yVkRVNjU5Tkx0SVpFSnE4WjlzVzJqdTkyeGRXREpyZGE4bnp5SWdqRlJjZ0VuS25yaFJXN0pQYzN6SU54SEg2WlRnRnlqUWZaVnM1cFdNZGFIRkNuOXNEOTRIS1ZwUkdTblE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 109.84,
+        "changePercent": -2.4,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation $INTC Stock Position Trimmed by International Assets Investment Management LLC - MarketBeat: Intel Corporation $INTC Stock Position Trimmed by International Assets Investment Management LLC MarketBeat...\n- Intel (INTC) Was A Brutal Rotation, Says Jim Cramer - Yahoo Finance: Intel (INTC) Was A Brutal Rotation, Says Jim Cramer Yahoo Finance...\n- INTC Stock Hits 25-Year High: Retail Believes Next Week Will Be 'Most Important’ For Intel - Stocktwits: INTC Stock Hits 25-Year High: Retail Believes Next Week Will Be 'Most Important’ For Intel Stocktwits...",
+        "sources": [
+          {
+            "title": "Intel Corporation $INTC Stock Position Trimmed by International Assets Investment Management LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOREpHTHIzVFBaRjR0VmFaNE1Ddkh5LUcyUUFEcmZ2a2RCR0VERVNjaHdjR1MwdWN2c3puUGlhdkhiV2RBRVVCb0xNeVBHZFp2SFV2blpJUXdtUFU1am90Smx2WHd3MjdjN0xqVnNyNWdnREF0TnRhT3d3SWRna0Q2amlqTG1DWEhyR0RvVENnQmtZRk5ZZENSanhSRFlwNkR4V2JXUnJZNWg5LWFaTU4xeXVxNlByYkFEVXAxLUxPYkRsODF3d2J5OGRweTVXZEh1R1dMNk1qNG5Dbnk4WkdLa2t3S0VIOVhHLWk5VQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (INTC) Was A Brutal Rotation, Says Jim Cramer - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWUJDT2pUVkx4YXAyam5vTi1hZWcyQVBfV0dSc2tuV1RIc1FXU3U5TjdDMEZlMUNPWXBfcXo1TVdlZGpTQXVIQlUzNlpfdlk4M2xKLXFxb1l0TGxBZmdSM2U4UlJRb3JWRDF4OVNZWTc5V25EbFBieE05a3pwcWEyeEczNEc5NFlfZlhkdUxFQUtUb3dhTlJOY2FxM2g?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Hits 25-Year High: Retail Believes Next Week Will Be 'Most Important’ For Intel - Stocktwits",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdlU5Y1BPdklzNGJLOVlpN1k5MFJGeWlVWlpkVXlCX1FraDM2YmZCYnFIN09WZE84aEd3T3BLUnpXWUNtUFhsQnFkVTQ5am9admVUNExmdkpsN0JhZ3NLOFdvclFkYlVUTXhLUDBMSHctcFlPYVVlR212Z0EyVTBub2F5V1U3dm1rbVRjS2RLZS0yVXFIcjl1cEd2RFZQTWMtUVphTENkX083a1hncFNfTHZYXzlkSnVDSDVMdzNzS3NUekd4eUdfY3RSNnRiU29BLVhXYkhLcEhEYWlXc05LZjhUNEZzQQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 557.89,
+        "changePercent": 2.04,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- United Bank Buys 3,075 Shares of Advanced Micro Devices, Inc. $AMD - MarketBeat: United Bank Buys 3,075 Shares of Advanced Micro Devices, Inc. $AMD MarketBeat...\n- Goldman Sachs Increases Advanced Micro Devices (AMD) Price Target to $640 from $450 - Yahoo Finance: Goldman Sachs Increases Advanced Micro Devices (AMD) Price Target to $640 from $450 Yahoo Finance...\n- Advanced Micro Devices (NASDAQ:AMD) Cut to Hold at Wall Street Zen - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Cut to Hold at Wall Street Zen MarketBeat...",
+        "sources": [
+          {
+            "title": "United Bank Buys 3,075 Shares of Advanced Micro Devices, Inc. $AMD - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWElZZVYyaTB2dmlCRmZzVERwZGNQQzNWTGFUUHdGZFdpYWJ2eG1fRVkxcW5vT0ttazZuRFltenNXUDhDMUZobndwZnY5OE1ZUlFlSkZQRkozMXVMYmY2WGlsVXRyUDMzMk5jU0g1MDFoM1RTenlzcWM3dEloakQ3Y09KMUk5RFktV1lwWHlDUmxCZVQ2aFh2WFhMUm1Fd0VKOWVIMVd2SEI4YWdXeFN3RGo4ZHFjaGI1akV2Z1dHX1E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Goldman Sachs Increases Advanced Micro Devices (AMD) Price Target to $640 from $450 - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd3FCVk4yZHZvdWUxcDFKS011T1JUWnNqZkxJYzJEdi12N2pDWHpFbEdxRkUyT3V2UWhCeld0dmo1MHM4U2FQWUoxTHY5OHRrOHltN1RsU1B4RVlhYm1XMnZGd25tS2hqczNPQmRMQ2JBeURWc2lRUFlMaFdaWmdhXzdDVTh1UXJzRHpCdXFXRll2SUY2WnhoSk5wd0RWU29Vdm0waEhR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Cut to Hold at Wall Street Zen - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHgwSDdCSU1SakRwckhkQVVzWXM5QlpDTXBmVVVZWVozQUg0NTVzcWZpckNTTE9rSzZoWF94Z2R1N1ZpLU5QdmY4aEFHREhTWkEtY2I3YUdCSXotSTNsRW5qUm43NjE4Z0o5bjdrNVZxZkx3b3hHRHhrbFFGbWt3Vk10N2YtYm5wc2VQdE52Z1NCTTFxMUhaTThRa21sNElMYkc3aHNKV2xHbzhLVFRKMHdiTjU3S2NK?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 979.3,
+        "changePercent": -1.24,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology Inc. (MU) Is A Top AI Stock In D. E. Shaw’s Holdings - Yahoo Finance: Micron Technology Inc. (MU) Is A Top AI Stock In D. E. Shaw’s Holdings Yahoo Finance...\n- Micron: The Mirage Of A Single-Digit P/E Ratio (NASDAQ:MU) - Seeking Alpha: Micron: The Mirage Of A Single-Digit P/E Ratio (NASDAQ:MU) Seeking Alpha...\n- Micron plans $3B U.S. chip supply-chain push with GlobalWafers - Stock Titan: Micron plans $3B U.S. chip supply-chain push with GlobalWafers Stock Titan...",
+        "sources": [
+          {
+            "title": "Micron Technology Inc. (MU) Is A Top AI Stock In D. E. Shaw’s Holdings - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczlFUkpjTkUzZlhISEJVZFA0YzRoTjV1ekctekJYbXlIVzd4V3hjU1QxcjgzNjhHc280Wnk0bldwUENJWEdVbmxfcHFZQjlSejI5VTF2djA3Q0FkUEgzZ3UwQlEwNjAwR2c0X0ZnYjJjNTZhdGJ1S3o4R2MwUVQyWWh2bUN0Um1iWTY3YmxkZW8xWmxkLTA3aA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The Mirage Of A Single-Digit P/E Ratio (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkh0amo5WGI2VFE1elRyV1JjSjFydFZDMjhKdnhvOEp5WldpZkh4T2x1V2JOZER2cFlGVzFuRWN3WHZFbTZaMFAybEJQOVVsYlptYmtaRlpWV2VaOHY0anpMbnlHdUJDRFdyNGNwSDlvN2ZUNTdsVnUteUVkTkFGMDdRUFA3WEE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron plans $3B U.S. chip supply-chain push with GlobalWafers - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV0pTc3hzQ3ZnLWhNTGxtREFOUFhnOWdFOFo4Yzdnb3lFZ0dNRU1hcWVoaVR4U1IwamlGYkY5UXJCdk42dDRTRTJXTXR0bVdpZ1REVVZVMjNTMVphYWdvRGdtUnlFOTFYR1Z2b0owSkFvUndyVXNXb2k1Z094cnRjSm5jSnBEbjlfZnNGTE5sMjRmUGV2NU1pcEdwZGZ6aS1ScVYtRUk3NnQ0SGhNWEJ1YXY1RDZIaFhDVXhueg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-11": {
     "date": "2026-07-11",
     "lastUpdated": "10:55 PM KST",
