@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-17": {
+    "date": "2026-07-17",
+    "lastUpdated": "10:53 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 732.82,
+        "changePercent": 3.77,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (NASDAQ:LITE) Shares Up 3.8% - Still a Buy? - MarketBeat: Lumentum (NASDAQ:LITE) Shares Up 3.8% - Still a Buy? MarketBeat...\n- Lumentum Holdings Inc Stock (LITE) Closed Down by 7.61% on Jul 15: Drivers Behind the Movement - TradingKey: Lumentum Holdings Inc Stock (LITE) Closed Down by 7.61% on Jul 15: Drivers Behind the Movement TradingKey...\n- Lumentum Holdings (LITE) grants 108 RSUs to director Brian Lillie - Stock Titan: Lumentum Holdings (LITE) grants 108 RSUs to director Brian Lillie Stock Titan...",
+        "sources": [
+          {
+            "title": "Lumentum (NASDAQ:LITE) Shares Up 3.8% - Still a Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2JnRXBrQ0laSUJ5MEZjNDBHcDlEd2NqNldkYXU3VnREMFc4b2pGYkxra1ZJN1dRbGEzbE5qa2lJeTBLWDBzU0pHTUxreEhyREl5LUJEQUNLMTQwQlg3eVlwWnpZU2pPZVF3ZDEwS25Kck54Vl9OdDdIV00wWTJTS3JGVExpT0wxWmN6c1BJbzhFUDFiNzRsNlBBRTlNazA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Closed Down by 7.61% on Jul 15: Drivers Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZlBuaFhFc3pfeExGa3BRaEx1bTdETkluLTlhVWZ6Qk53Rkg5ZlAzbHVFbEhkbDM2MHlUMGRZNWVoZWtoZTUxZE93blB1VEdfN183QmJZVDVBX3BZN3c2QVh3Skhfak5VSHowUXVOSUNxNFhDWEtmbi1ENS1IbzlXTGtmZ3c4c09ITlFN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings (LITE) grants 108 RSUs to director Brian Lillie - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjU0MmxMYnA3Q0x4RTE3WF8yci12VW9SUk5wX2plS1Jsb2lGM3ItbUNLdnY0Z2FvLS0zb1VwX25WdHN5Z2doZTRWd1JqeER6NHBSay14cTJrWmMxakZmTTd5dWk0ckJOYVRRM2NCTURNQVVKdlBDVEVRSkJIRC0wSU1uWGlnRW83UXp1SG8zOFFob3prNmd4R2Z3MF8yOF93T09PVGJRRUdBV3c2YUlEVHA4bmk2Zw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 95.04,
+        "changePercent": -2.0,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel's Q2 Earnings Will Impress (Upgrade) (NASDAQ:INTC) - Seeking Alpha: Intel's Q2 Earnings Will Impress (Upgrade) (NASDAQ:INTC) Seeking Alpha...\n- Jim Cramer Compared Intel Corporation (INTC) & Pepsi - Yahoo Finance: Jim Cramer Compared Intel Corporation (INTC) & Pepsi Yahoo Finance...\n- Multiple Key Readings Say 'Buy the Dip' on Intel Stock - Schaeffer's Investment Research: Multiple Key Readings Say 'Buy the Dip' on Intel Stock Schaeffer's Investment Research...",
+        "sources": [
+          {
+            "title": "Intel's Q2 Earnings Will Impress (Upgrade) (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVG82c1FoQUhLOWdBOFg5MS1qM0E5V3M4RjZaOENaaG9vVGtwU2ctTWw2TVZFNVkxcndVSTdVTk80UjBQMVd1aGFfVElycW5NTU4yTW1aX3B4M2h6WmtsRDVpRUNWNkVjQi1WMUdJZ2VyRnNoc0pZZEd2Uzgwc3VJZW95ekkwUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Jim Cramer Compared Intel Corporation (INTC) & Pepsi - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVJBOXc0QmdWLVpmcUJHbmMzN2QybDFaNDJxOTlZSHlVWnpINXZGemhvWHpkNlZkaDNDelJuYk9qMU1aMGxReS1DVlA4Y0NVSzdCZVFJdTZTWFZJaGdqT1RWdGhSTUtNbElVMlNjYmszRmxtZ1BpY0d2UDJpMFN6aXQ0eVlFSy1EbUxnZXBHeTk2OUh0LWl3ZTlIVHBLNEZycUdsRw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Multiple Key Readings Say 'Buy the Dip' on Intel Stock - Schaeffer's Investment Research",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVNQSjI3VXdnV1FYLUd2NjFDR1NiSFhmTElQcUFDazA1M0NiYkIyT3Rid1JwU0h6bmFIT0tRQ3dscEI1SW9HTFlHaWVXZUFmbjRwUjF5X1BIOTJySmhJbVJ6TG5lM3F0bEdvMlhITW1BMzNwbjNjYm82VjJqZGxQV1lIREhjaWV5Q1dseDZEWjNPZjZaVW9GeXBLOGxjaWZHcWZBZkZpMnR3MTVCcklqcXZueDA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 495.76,
+        "changePercent": -1.03,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- William Blair Initiates Advanced Micro Devices (AMD) With Market Perform Rating - Yahoo Finance: William Blair Initiates Advanced Micro Devices (AMD) With Market Perform Rating Yahoo Finance...\n- Barings LLC Makes New Investment in Advanced Micro Devices, Inc. $AMD - MarketBeat: Barings LLC Makes New Investment in Advanced Micro Devices, Inc. $AMD MarketBeat...\n- What's Going on With AMD Stock Wednesday? - Benzinga: What's Going on With AMD Stock Wednesday? Benzinga...",
+        "sources": [
+          {
+            "title": "William Blair Initiates Advanced Micro Devices (AMD) With Market Perform Rating - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkxEMEZwS0hmd2xvNUJJLTBrVUtQMDZERXNMM0FoTVI4THdIZUgtQ1FxVFRTUHBlaU5zdXhyRGhSbEJZTnRQMU55VzFEd184ZWJtT3JJTnR0bjRBa0Jjb1pDX01rTmhmVzZpaTFoa05aTVBwdVRPRVl1ZjlmZUFUd0hWYWp1M0ZkYzV0X01EZUhIaVVUeU4yYWVWMVVaNVpPa3VPcnJB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Barings LLC Makes New Investment in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQkppX3FVSUJnRGZyQ0FBTUFLWnk5ZVpyZTU4UUlHTVNpVXBCTFZ1X0pXdW93QWppVzlsV3Zzb000QzF4TTZGMmFkS3Z0MTNhSUZqc1FzX2FCeTBjVHozemI2ckpTY2t5eGdkYkxzNXNWbENRNkV0bGpwcUpHWWxiWmtvdkxGVUY5dkZ2ZUx0bGRDd2QySHVKU1dhTE1kWlNvZkV0blo0TVFhVG0wNkpHTkdINVZXdjBnOFhPMERiVWdsOXhucnc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going on With AMD Stock Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX09IUEZDWFozYVJqQWRIREYyRk8tVWRWOTI1UlZYRDdWNzJHUXdnbXlQVFVoTUhacTR2WDhDUjd6TTRaRUVuVDNTWHR2ZzR5cVYxVjlmZlgxYmdZeXZTRzhYMVQ4b1BnZThEbFRBVkh1cHVNcmdPMVoxN2VIMEdjVDZaeVQ1SUltbUpRLVM2Zjk0UXNCclNmNEx3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 848.95,
+        "changePercent": -0.5,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron, SanDisk Now Among Cheapest Nasdaq 100 Stocks - Micron Technology (NASDAQ:MU) - Benzinga: Micron, SanDisk Now Among Cheapest Nasdaq 100 Stocks - Micron Technology (NASDAQ:MU) Benzinga...\n- Micron: Things Change (NASDAQ:MU) - Seeking Alpha: Micron: Things Change (NASDAQ:MU) Seeking Alpha...\n- Micron Technology, Inc. (MU) Stock Rises After Entering Bear Market - Yahoo Finance: Micron Technology, Inc. (MU) Stock Rises After Entering Bear Market Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Micron, SanDisk Now Among Cheapest Nasdaq 100 Stocks - Micron Technology (NASDAQ:MU) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2JYR21BOGRaSTQ1ektTREZ3alEtZWxKWWtOSFlxTTBPWFpGTXBnRE1BS1hkMFZoNDE4d1dGY3lMb2FEZk1VRml2bW9tQXBxMjBVVmNadjByWU8wM2x5bVE0ZjQ3QUZoc2ZlLWM5eEJzbThncWxwUV91Qm5WaWV0V3pFVkYxU3c5UHhWUVVaWWU4cWhtQUF3YktQb1YwQVZhbFBCWUlsQzE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: Things Change (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44dTd3bmtqNHY4dDRrVnoyWmk5dDQtNDRqTmQxRzBpa3lXSmF5NVhJTXF4ZGdsb2U2elhYS3dwbEJtZVd5alh0MEpNQzlMRFRMZlJ3X3FSUEpwQmk2dlQwamlDYXluaTduT0J0X253?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology, Inc. (MU) Stock Rises After Entering Bear Market - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFM1V25WSXI5UlpPLVp2dmZ0UFNzTUJtbEtzNzR3bGVPMm9IMmZSWC12d3UtSlZ4bEN0OHF1cEN5bTkzQXRncXVGM3NVQ1RCaUcyOVM0MkJzelBXNkFLdjAxakFqZ2d1ZHRpanlpdEVSQkZteFl6ZFR3Y3JWdmVEZHNGMmxXSjI1TVhsbjR2TkNvdXMtMElfbV9aRQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-16": {
     "date": "2026-07-16",
     "lastUpdated": "11:00 PM KST",
