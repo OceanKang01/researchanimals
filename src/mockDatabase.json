@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-19": {
+    "date": "2026-07-19",
+    "lastUpdated": "10:56 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 732.82,
+        "changePercent": 3.77,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- World Equity Group Inc. Takes Position in Lumentum Holdings Inc. $LITE - MarketBeat: World Equity Group Inc. Takes Position in Lumentum Holdings Inc. $LITE MarketBeat...\n- Lumentum (LITE) Upgraded to Buy: What Does It Mean for the Stock? - Yahoo Finance: Lumentum (LITE) Upgraded to Buy: What Does It Mean for the Stock? Yahoo Finance...\n- Lumentum Holdings Inc Stock (LITE) Closed Down by 7.61% on Jul 15: Drivers Behind the Movement - TradingKey: Lumentum Holdings Inc Stock (LITE) Closed Down by 7.61% on Jul 15: Drivers Behind the Movement TradingKey...",
+        "sources": [
+          {
+            "title": "World Equity Group Inc. Takes Position in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmJycUNnUFBpQl9icGcydERaSWZiaFF3OXEtX1labFVldFhBVHB2NnNDS1lhTzVyQ0RwUHYyUTBZNktXRVBNd3hCZDJhUXhSWktBRnlaeUIzei15Rk55aTBkeHhjM2N5SVFDbWNtVkhSajhRVXhyUndhMnlOcUR6MDd0VTAxeUVhbklNYXF5T1JibFhJR3haQXN6TlJ6cEI3ZDBrekhfR1lhZ3hFWTZvOTdzMUg4ejJuTzV2ci1TQlQ2T19yY09z?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (LITE) Upgraded to Buy: What Does It Mean for the Stock? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZnJHZWdZRkVhWU54OElIeGZWclVSODJ0Rk9NTUloQ2pvVnpEUTBndEUyc2RXLS1mempqQ1JaYTBvdWlfSVpsS05lcDRCLUYzY0VHVFN2TFNZWEs1OXk2Ny12SXBnaGRwYWJJdHhiZjY4MFctTFdfU2xYdUY5VEpWaVNPOThQWkdMR0pGS0kxVWxxVDRrYnpzOVp3V00?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Closed Down by 7.61% on Jul 15: Drivers Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZlBuaFhFc3pfeExGa3BRaEx1bTdETkluLTlhVWZ6Qk53Rkg5ZlAzbHVFbEhkbDM2MHlUMGRZNWVoZWtoZTUxZE93blB1VEdfN183QmJZVDVBX3BZN3c2QVh3Skhfak5VSHowUXVOSUNxNFhDWEtmbi1ENS1IbzlXTGtmZ3c4c09ITlFN?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 95.04,
+        "changePercent": -2.0,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Stock Forms an Alarming Pattern as Earnings Loom - Benzinga: Intel Stock Forms an Alarming Pattern as Earnings Loom Benzinga...\n- Little House Capital LLC Makes New Investment in Intel Corporation $INTC - MarketBeat: Little House Capital LLC Makes New Investment in Intel Corporation $INTC MarketBeat...\n- Jim Cramer Compared Intel Corporation (INTC) & Pepsi - Yahoo Finance: Jim Cramer Compared Intel Corporation (INTC) & Pepsi Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Intel Stock Forms an Alarming Pattern as Earnings Loom - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTY3ejB6SVprNDZUTC1LTHoyR1JwYU5vdXhRRjAwSUJ1YnI0UDNPWUszT09CcEFDZ18wNG9WTU1fVUhibWVJWlZrdWt5a3hzcEc0aVFTZGE1NkQ4aG84X3pMWnkxVkliOWJKenJGeFJwR21xQ0FMQU50SElwdjJQY0picFBwa3ctVlJXMFBhVDVISnJUbk40RGl1OTgzVTFkZ1oydHZVaHpzTy00VUJvSw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Little House Capital LLC Makes New Investment in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN3pWXzl3X3VkVnB0eVNkUXplOG5mYzhMNXpNYlpKMUZRVDVxeEI4T2VrbDQ3NGRuaWFhNjhJOFk3QnZTSkR2YVFCN3BvNm44c3dUQzhHUEpaSlZkWUg2NXNMVFJRWUt3anhVdVlsUDhfVVltVE84WjFTc3lneHpsWnZTbWxBUnZkSFk4dHAwSWpJaVlxeDFwMlhsYkEyVklpdzFRMkpfaUw2aGM0ZEFFTUFoczROdlZTM2tOdFdpU0p5QXAzcnpwNUVjbjE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Jim Cramer Compared Intel Corporation (INTC) & Pepsi - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVJBOXc0QmdWLVpmcUJHbmMzN2QybDFaNDJxOTlZSHlVWnpINXZGemhvWHpkNlZkaDNDelJuYk9qMU1aMGxReS1DVlA4Y0NVSzdCZVFJdTZTWFZJaGdqT1RWdGhSTUtNbElVMlNjYmszRmxtZ1BpY0d2UDJpMFN6aXQ0eVlFSy1EbUxnZXBHeTk2OUh0LWl3ZTlIVHBLNEZycUdsRw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 495.76,
+        "changePercent": -1.03,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Prediction: Investors Will Be Happy if They Buy AMD Stock Before the Company's Big AI Event on July 22 - The Globe and Mail: Prediction: Investors Will Be Happy if They Buy AMD Stock Before the Company's Big AI Event on July 22 The Globe and Mail...\n- Advanced Micro Devices, Inc. (AMD) Stock Surges as Goldman Sees Big Earnings Coming - Yahoo Finance: Advanced Micro Devices, Inc. (AMD) Stock Surges as Goldman Sees Big Earnings Coming Yahoo Finance...\n- AMD Appoints Alan Smith as Newest Corporate Fellow - AMD: AMD Appoints Alan Smith as Newest Corporate Fellow AMD...",
+        "sources": [
+          {
+            "title": "Prediction: Investors Will Be Happy if They Buy AMD Stock Before the Company's Big AI Event on July 22 - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWGlONE5HbmVwZEk3MExPT19YVGJOc3h2dEJucV9xLU9Na3gtWDJoMW1ZWUM5d09Cc0FMT2pxMmZSUHlYSW9pMmxPTERaVzVpRGdyUjdULVYwV2JZLXllTHJjOV8tbHhjdXdON2ZnNUhkaGYtTmZEaVdYdUJsREhOSXdwbnRMWWExdl96dUpvM0RkM09ybmlhbGFGMENfQW5RN3JsZE1kWVpUdEpHUE1EZG1ZNXdOSnBlazhFdFpZWTRpcEtQeEtHQmozRTdPY3VRLThZZ0tPZjd1MU9BVHE0MFpsVHlJQnVPZU1la2s4SVNUZEp6dUhmN09rSG9MM1hwNkR0RU1iOFBFNkpHektoQXJR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD) Stock Surges as Goldman Sees Big Earnings Coming - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3pPRFhEb0RYNTRiSDFyNFdocGQzbXlZRC1sSU44N0VYcFg3V2hXWkk1Yzh0ZndlcHpVaEgxZWVsREE0NHhldDF2R2tOdjRFcXB3VHF6TzVyTU5xWUFiVFhnU2d5enpNZHpzQVdqOXZUV1d2QUpOLUMwRGRETXZJY1NrUFoxbGgyWkpUU2VURmp3dWdrZkw1cjF5MA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Appoints Alan Smith as Newest Corporate Fellow - AMD",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjZoQ1EtV19fWHJvcjRsRklIU1o2UlFsd1hBcHJiNURtNmpra2dhWFFtLXQtZkoxV1VJZDA2MnRUTS1aQzY3aUVyNWVLSUZQeXBpR2hpNzU1MXR6RThKWFJ1NV9tbzE0NWRyT2NkamlCdnNBMDl4VUZmRTd4QjZlYTJpdVBnMkVJbWp4VDRaSGQyZVJnaEFRZmZNOEFqeER3OWI4ZDRBajZ1cElF?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 848.95,
+        "changePercent": -0.5,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology, Inc. (MU) Stock Rises After Entering Bear Market - Yahoo Finance: Micron Technology, Inc. (MU) Stock Rises After Entering Bear Market Yahoo Finance...\n- Micron Has Strong Q3 Earnings and Rising Guidance. Is It a Buy? - 24/7 Wall St.: Micron Has Strong Q3 Earnings and Rising Guidance. Is It a Buy? 24/7 Wall St....\n- What's Going on With Micron Technology Stock Friday? - Benzinga: What's Going on With Micron Technology Stock Friday? Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Technology, Inc. (MU) Stock Rises After Entering Bear Market - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFM1V25WSXI5UlpPLVp2dmZ0UFNzTUJtbEtzNzR3bGVPMm9IMmZSWC12d3UtSlZ4bEN0OHF1cEN5bTkzQXRncXVGM3NVQ1RCaUcyOVM0MkJzelBXNkFLdjAxakFqZ2d1ZHRpanlpdEVSQkZteFl6ZFR3Y3JWdmVEZHNGMmxXSjI1TVhsbjR2TkNvdXMtMElfbV9aRQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Has Strong Q3 Earnings and Rising Guidance. Is It a Buy? - 24/7 Wall St.",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRElYbENRSXhjYnFvTm0tV3BIN0ltWEQtYkZvaGhOWnRYRU1hcEhQSDVDSFdRYzhqZ1p5WDNHc2dKZnRIQVVkcGlSbmpGWEl4dUtUVENfTC1BaGl3dlJQUWNjTnVfeTNnM19LcWR2ZkNUVUdDU01JUm5Ddk9kRnZZcl84NWFXMU5XM0RKQzFWNE5tWDkydF9hampQRGlBT3JyT1JGX055d3NvQVlUeHBrY0oydFZZcGJ2TjNIaWdmMkxidw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going on With Micron Technology Stock Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWJrbUFzRUtyQXRUcHEzTUJwemhlSTd1OWN2NG5IQ1JPSG1nVW5QWXFFZ2xPMTRPM2JpNzQ0MnNKX3ZxNDdNaXpZOXJ3RUZZVTVLcGlhYXJ5bzJ5TzdHNE83VWhYa2VxbUE4Z1dvRVBXUGE4NXVPSHUtbzZxTC1SUXgyWm5kMlR6aXd2eHpTaS1raHZ5X1FQTW1JS1VaamV3dDZDXzd2TU4?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-18": {
     "date": "2026-07-18",
     "lastUpdated": "10:55 PM KST",
