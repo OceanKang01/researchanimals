@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-20": {
+    "date": "2026-07-20",
+    "lastUpdated": "11:03 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 765.55,
+        "changePercent": 4.47,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc Stock (LITE) Moved Up by 8.02% on Jul 20: What Signal Does It Send? - TradingKey: Lumentum Holdings Inc Stock (LITE) Moved Up by 8.02% on Jul 20: What Signal Does It Send? TradingKey...\n- LITE Stock Draws Bullish Wall Street Focus Ahead Of Key Catalysts - StocksToTrade: LITE Stock Draws Bullish Wall Street Focus Ahead Of Key Catalysts StocksToTrade...\n- Lumentum (NASDAQ:LITE) Shares Up 4.5% - Time to Buy? - MarketBeat: Lumentum (NASDAQ:LITE) Shares Up 4.5% - Time to Buy? MarketBeat...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Moved Up by 8.02% on Jul 20: What Signal Does It Send? - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVEpJWmhhV21ET1dWMDk2cmF3SFpWWElaS1kycFJJUzZ1TTdweVFWYVM4a083TW9pNjM1U2FONzNqaENUaUhZSHFOZHVFSXpQeTNZVFlNZzVzMWVuLTZteTI1bFllRUZnd3dZTlJ2UVJTNENjS28ycEJkM1JybHJjcTlPR3h1ai1tVzBZ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "LITE Stock Draws Bullish Wall Street Focus Ahead Of Key Catalysts - StocksToTrade",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRWQ5bjIzM2tvMUVTWkVvdUhyMDByZ1dna2E0X3FCWjJoVGVDdXRlWmtyd2s1LUpsOEpjaVRhWWNVc2M5bnRSbVRPcGFUVHJuc3ZTdGNhLVJOaEJCMXc1VkZ3eTdiWEh4RHB4TnVFVW91bjFteHNEbDJJUE9udW43MjBB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Shares Up 4.5% - Time to Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVWJXWjVYM3FuSXJva2c2M1AweDducVZXR2wya1ppdWh3MENRN0RoZzAwQ1cxc3RUNnFZcE1sMG5NaU1BM0J6Y1h6T1NnLWxjelFvYlhRU0tKRldJTTEwaDFyYkQ4S2lpV2FoWHBqT2VTaDEyTGFUaWU4YXJzc3Y3aWxvSEwwMm8zempreVdCcEpIVEN1TUI5U2pQYUlhX00?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 97.06,
+        "changePercent": 2.13,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Is Intel (INTC) Stock a Buy Before Q2 Earnings? - Yahoo Finance: Is Intel (INTC) Stock a Buy Before Q2 Earnings? Yahoo Finance...\n- Why Is Intel Stock Soaring Monday? - Benzinga: Why Is Intel Stock Soaring Monday? Benzinga...\n- Should You Add Intel Stock to Your Portfolio Ahead of Q2 Earnings? - TradingView: Should You Add Intel Stock to Your Portfolio Ahead of Q2 Earnings? TradingView...",
+        "sources": [
+          {
+            "title": "Is Intel (INTC) Stock a Buy Before Q2 Earnings? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV3lSMGtBd2M3cTNBUzdzaVp5eWNlQl95V0NLV0lYZEtqU0lKWUFITXd2V1IzZG9fUHl4aUVhSElTb1BFdWk2bVhxb1BpTHp0NDg5MjdzVXN6UzVSa3VvRnc5ZXJ3Z0F0dllsUDIxbUZTQWtnU1Bta082cFgtRmVKSzFWYVJ4Y2l1YVBUU3ZoQXhzQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is Intel Stock Soaring Monday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWFRsRkxGT0hrY2xhR3NJTjFkeEtCaF83LWZVaWZEYnhObjhHcU1XTGVuUjgzVjB0aXp2N2RpdXZSLU1HbUNmWnQ1ak11V0x5cXJlRlk4cTRnU0xUdHNpSUR3dW5zT3NmS0dBSjA4c2xZVFh1VVZ3bFpWMUVhVzVnRHhqX01La3k1aC1IcXJLUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Should You Add Intel Stock to Your Portfolio Ahead of Q2 Earnings? - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdGp6M3duYkdvNnVjYWdnUTlMN3JfamdmekRwMHhyVVBRdF9mMlZGYURpMzdjcW5TZHF4OEZFTGdsR2JtX3ZzLU1DMkp3ckNQTnRVN3ljb2RuUWVqaXc3OERjT0puVmc3Wl9zTU1sczFOQ1hjNVFPZEtlc0gwYkNLY0txTmJRREJWMW5ySTZjdXpfcmRmdkVydk5COGZ4SnBnSzZybWpJWEJkVHFGQTkzbHNEY1ZJdjdxTVI4RVZ3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 503.57,
+        "changePercent": 1.58,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Increases Despite Market Slip: Here's What You Need to Know - Yahoo Finance Singapore: Advanced Micro Devices (AMD) Increases Despite Market Slip: Here's What You Need to Know Yahoo Finance Singapore...\n- Advanced Micro Devices (NASDAQ:AMD) Shares Up 1.6% Following Analyst Upgrade - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Shares Up 1.6% Following Analyst Upgrade MarketBeat...\n- What's Going on With AMD Stock Monday? - Benzinga: What's Going on With AMD Stock Monday? Benzinga...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Increases Despite Market Slip: Here's What You Need to Know - Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGoyYWdKbjJLZ0VmZE5oeWpHSmt5eWkzV1RndEJzdUU2RnVuZEJTR1NGNzZnTTl4SHNqZjN1MWtGelBrVUlmU2JEazgxQjFSZDlyYXlvb1hKYVNDN2U3R1NFaGtDM1dRdG1HWDlBUHdRblA2alk1V3UtajdvTUFRbG5oYktocmxZZUNSSGVB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Shares Up 1.6% Following Analyst Upgrade - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFBCNlVtNUNMLUlHNnhVVDNKRDdKNFczLTdUak5PV0xHVGVGcUt6SDQ3T1Vydkg4anUtU29YU25JaS00TUNLNHUxWHozUzVadk1uMGVXT3hqVmlZMk45a05GcTZUaHh3VUlnWGRxbzdkeFZIa3VjUmpYdU1Zbk9xdVlHN2FCdXRZS1BHbWxheUtNVUstTlM3QlcyRThTYlFncjRncWdmRi03YXZHZUdpamloQVNwaTk4Z3dHemRfTExUUm8?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going on With AMD Stock Monday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGlyVU5nUlk0QzJqdm9NcDJPM21lbTg1cUNHMnF4NjF3YWM4ZVNieDJKM21uVWwyU3dzWnJzRS1yOV9zRWEwQzd2LVg3dEJrQXpmN2ZRY2pBaHcxalkxLTJFZHpEdHNLM2J4NGxaWlR2dWxMV3Bmekd6SDdlVzhnZkFuZU1vQUdmUFNQazZYUmJiS3BZM3RBYmtFc0VzZ0NBcmI2ZUNvdEhGQ2NEZFk1YUtTQnA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 865.46,
+        "changePercent": 1.94,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology, Inc. (MU) Stock Price, News, Quote & History - Yahoo Finance: Micron Technology, Inc. (MU) Stock Price, News, Quote & History Yahoo Finance...\n- Micron’s Moonshot Meets UBS: Was the AI Stock Warning Early or Just Unloved? - Benzinga: Micron’s Moonshot Meets UBS: Was the AI Stock Warning Early or Just Unloved? Benzinga...\n- The Zacks Analyst Blog Highlights Micron Technology and Taiwan Semiconductor Manufacturing - The Globe and Mail: The Zacks Analyst Blog Highlights Micron Technology and Taiwan Semiconductor Manufacturing The Globe and Mail...",
+        "sources": [
+          {
+            "title": "Micron Technology, Inc. (MU) Stock Price, News, Quote & History - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ucXRlT013TUFhTmhNV2ljVVFmanZhOXRUWDFQaXpWdGxxV2cyVzVXcDE3Q2o1a3Z1ZEl5dWk4RE93WUtnc3BMYkR2VQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron’s Moonshot Meets UBS: Was the AI Stock Warning Early or Just Unloved? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZzJiM0lFN1laRmNwU3NhaUM0M2xrVEtib2pLaDFfbTZZUm9fVmQtemZ5bFFmb0NUVHVac0ZEQjI3VHlVZlpxdExjdzEyczhubDdsY2tCUkowM1JIQzVyRmxiU1RWN1R6dzlMelBRVm5DSFE4c0JSaUJwMWdETmF2SEFVbUJzbHRrT0lSdjRjdzZ5OVdXa21mMU5sVWlXTlpqeXUydkMyVXdvRkFlZDZ5NUhwYlJCaFR3SnA5RFF5QnZmcktLOVFNMGJDM2dKbjg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "The Zacks Analyst Blog Highlights Micron Technology and Taiwan Semiconductor Manufacturing - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTXJpMTl2WUJXMDUyQWsyazk5czZHMWJ4ZjBBaWlDeTBrVzE1WkNYTEx6dDFROVUtWFdJT0VrZ1M4b21nVlJham1CWUdJdmlGSHhKTUlVekliSjhreGJWOTNzUTViYXdwWWgxTjNYYWF4bEp0MEpNRzNUZUZzbVpaRV93T2NNQ2kwWTktbTBRWElhOHNib1hrbXdrMTRaOHpWejlGMnNidnpHNTF2VTBmRFNCeUNNVDFraHhIMmwtcE1YSC1BUnR5VE1YTTgzV1d5RWU1OUkzdjF6empGRXRIQWNjdWhCQ1ZPT21uTFd1X2t5T1RXNmdIbkhwMHZEYXBhXzBYVQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-19": {
     "date": "2026-07-19",
     "lastUpdated": "10:56 PM KST",
