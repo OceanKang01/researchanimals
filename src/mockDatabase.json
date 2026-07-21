@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-21": {
+    "date": "2026-07-21",
+    "lastUpdated": "11:01 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 837.56,
+        "changePercent": 9.41,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (NASDAQ:LITE) Shares Up 9.4% - Still a Buy? - MarketBeat: Lumentum (NASDAQ:LITE) Shares Up 9.4% - Still a Buy? MarketBeat...\n- Lumentum Holdings Inc Stock (LITE) Moved Up by 8.02% on Jul 20: What Signal Does It Send? - TradingKey: Lumentum Holdings Inc Stock (LITE) Moved Up by 8.02% on Jul 20: What Signal Does It Send? TradingKey...\n- How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance: How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Lumentum (NASDAQ:LITE) Shares Up 9.4% - Still a Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOWszb2NBMkR1VmtqU2ZNVGtsZEVqcF8wNUs3NDFsc1VhVGFsRVBLUzN2RGo0QlJta2hNMHNjQ0E5Qk1mQWdCaUxkaVdWQUlvUkp4ZWFwQTNXNGsxbFpfSWNhOXRDQ3UtQkxNYTZnc3FIdkVVVU0wWjF6RzI5UFVFcVIyRkNzdkNLV2FjVTBGMWZJd3B6YzlGOUdLZ3E1ejg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Moved Up by 8.02% on Jul 20: What Signal Does It Send? - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVEpJWmhhV21ET1dWMDk2cmF3SFpWWElaS1kycFJJUzZ1TTdweVFWYVM4a083TW9pNjM1U2FONzNqaENUaUhZSHFOZHVFSXpQeTNZVFlNZzVzMWVuLTZteTI1bFllRUZnd3dZTlJ2UVJTNENjS28ycEJkM1JybHJjcTlPR3h1ai1tVzBZ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVS11aUFSLTlkRVZxSkVBX0x3VzliVVAwV1FwNGFxQ08tcHVFUV9aLVB5R05VREZ0aUQ1Zi14ejh4MEtqNU55dW53aXpiQS1pRWxSRTRoMGNhOVA0OERPbUZhNlRXaDBOcE95WFNNRTZNQXZPWEkxM0MxbTFnV1ZPVWpmcFgyUWVXZDNBa041RkhzUkxzSno4OTBaejcwa1E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 105.45,
+        "changePercent": 8.64,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why I Wouldn’t Touch Intel (INTC) Stock Right Now - 24/7 Wall St.: Why I Wouldn’t Touch Intel (INTC) Stock Right Now 24/7 Wall St....\n- Is Intel (INTC) Stock a Buy Before Q2 Earnings? - Yahoo Finance: Is Intel (INTC) Stock a Buy Before Q2 Earnings? Yahoo Finance...\n- Intel: Insane Valuation Going Into Earnings (NASDAQ:INTC) - Seeking Alpha: Intel: Insane Valuation Going Into Earnings (NASDAQ:INTC) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Why I Wouldn’t Touch Intel (INTC) Stock Right Now - 24/7 Wall St.",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWc4U1JzS3hObGtyTGpfNHNPWjh3eXhhNjVTZkZCMi1pQVRqbVJyYWR3S2FwRkxRalBMTnU1UWMyVW95bU1DV1FsbHB4d0t2ZGp3RlZ0Q0xoZ2FORnRLMjVsNHhNSDhxbGVWdEZtLVZYd0ZWdHNvcW5uS3Z3U1pwRUh2WW9DRlR2bnJBZFZR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Intel (INTC) Stock a Buy Before Q2 Earnings? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV3lSMGtBd2M3cTNBUzdzaVp5eWNlQl95V0NLV0lYZEtqU0lKWUFITXd2V1IzZG9fUHl4aUVhSElTb1BFdWk2bVhxb1BpTHp0NDg5MjdzVXN6UzVSa3VvRnc5ZXJ3Z0F0dllsUDIxbUZTQWtnU1Bta082cFgtRmVKSzFWYVJ4Y2l1YVBUU3ZoQXhzQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: Insane Valuation Going Into Earnings (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVRfN3NVNkNzSGo4eVdNMVFuTVpma1NmQ1JVbF90VXotY0pJNVlMUVQxNk1KTDlROFFrYmRXSDc5cGM2bHAxY284a245bzIydjdBSzgtTlkxcU44amVIQzRFc2V2aG82VjJTeU9LQUZQc0hucVFETjVfTHdLaElBcmJEdGNZVXpNUnF3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 544.43,
+        "changePercent": 8.11,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Stock May Look Rich On Cash Flow But Cheap On Sales - simplywall.st: Advanced Micro Devices (AMD) Stock May Look Rich On Cash Flow But Cheap On Sales simplywall.st...\n- Advanced Micro Devices (AMD) Following Microsoft AI Deal Faces A Fully Valued Debate - Yahoo Finance UK: Advanced Micro Devices (AMD) Following Microsoft AI Deal Faces A Fully Valued Debate Yahoo Finance UK...\n- Why Advanced Micro Devices (AMD) Stock Is Up Today - Quiver Quantitative: Why Advanced Micro Devices (AMD) Stock Is Up Today Quiver Quantitative...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Stock May Look Rich On Cash Flow But Cheap On Sales - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR2d5aUJ2N0hOVWRzazlmdVh2a2lrc2R6SGotekJjTVB5d2hoSFlfVnhUdFI5b2ZCbGxpY3ZZUmpMU01NOTVnamxtb3VRdXpBZGZIZG1jb0QyaVl4ZEtIZmtnNTVHMTktR1N3Q082UU11VnRXQmRwWUtCdm9pbkUtNTJObFNJeWVKaVlwcXNPNE9VNEZ2TDdXT2JQbVJjMXJfckR3T2NQZ2xnX3ZnWDNGM0VVU3NJWnMwX2x6MUYtTHhzNGZTZTRjejVkWVY5Zlg3bWtxNlZPbkdnNlRXWkHSAeMBQVVfeXFMT29Mc3AtU25CcHcxTnJzUFdCZ2I1NzFpakJOVWM0bllSdUtRdzllYzYxVnNmY045Tlk4LTVZNkFuLVNfMFVsTkJsVVBfajROX21qNnRHQzZEY3phbzJWMTI2a0x6U01wRVg4Z0E3SHFuOHNiS2RUV250Z0hiMW1WaEJlcjFGcUhNVjJDbFF0NmlaMUFCY2NPbUpuM19mb0p4NTl5di12TkNvNWVKWTFhQm1VUUVhN0ttN0lLSl8yczVFTDdhN1Jja1R0RlJXMjdRaGlOZFJGczIwWURCN3VsQXVQNkE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD) Following Microsoft AI Deal Faces A Fully Valued Debate - Yahoo Finance UK",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXZmMGV3aGV2Y3k0UHEycHhTMUpfbTZrUF9sTGhSeGxyOFV4RDdEazF1Si1yRDlJQjY1WEQweW1FVTdRd1FqM2JEZWFRemRQR0Q5ZzZBTE1WWUxJcy1ZdEtrNDduT0F6N255ZjdqSXVMa29JUVRPNGlaUmZUZFp4UXotS1QtZFJmRlNoUnJn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Advanced Micro Devices (AMD) Stock Is Up Today - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU3BIMVNMRHpBdXVvcUFwRnM2bjVZZGd4Wk5vbW5pX2w0R2hXMTM4RTdybFppb09CSnB5YWVfZmUxUzZEZlVpNFY5QXhCaGxZa3htbEFuUGRaVFk1Um5UZGxYc0hxRnVwSlR2N3g1ZzQ1LUEyc05PcVdrcmZIMl9iZzdFYlZkSE5FZm1ISU04c0Q?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 970.82,
+        "changePercent": 12.17,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology, Inc. (MU) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance: Micron Technology, Inc. (MU) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance...\n- What's Going on With Micron Technology Stock Tuesday? - Benzinga: What's Going on With Micron Technology Stock Tuesday? Benzinga...\n- Micron jumps 12% on BofA note, chip rally (MU:NASDAQ) - Seeking Alpha: Micron jumps 12% on BofA note, chip rally (MU:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron Technology, Inc. (MU) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcURkYzY1aTFFMlpuWk9xM0tMVTQwWExZb2dHeHNfUjI5dUhpZS1ORjVfZm94Qkd4M1Nlb28ycHF4ZjExbmZPUGE0M1RCajIzZGRYbWF6NDdxTEg2N3lFSl8zV3NkQTYzRVFlaEwyMGltbzVtOGRfMHJyS3I3UnFFTDBMRm9yWDVOeGh6cTlKTnFzV21VYWtKNnptWEt6TlU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going on With Micron Technology Stock Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjdRZl9XalZObS12ZW8zZU5CckxFbFNjb1BzaGhJRUg3bFNkZV9qQjE1WUs4TlRmaGhYWmhfZmlOWjNwdUNGR0E4d3k4WFdOVTJ2RlVDR0psdm51clJrdFI0YWtnU2FidllyWEIxcTdnYjNrMUdhNTRCUWF0aTRzcDFzUWVPM0J5OTB1N1pQS1VaanlXM3J4eTBPY3NNQlBiaGNxRk9pLWN6QQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron jumps 12% on BofA note, chip rally (MU:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDBxbUNPOGJ6T0gxalRsa2RtZU1vREsxMDdpdUN4ZzBiTnhqYWlDeVV5MkFDVWc5ajZMR0NGUndZNG9zRlU4R1JEbll3VjhjT0dCVE1oWVEzNE1JRW5IMzhsbXlGcnRPNWhfZ3dlSVNjbG1kTVZ6VkZHMWVKOFd2eWpuOA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-20": {
     "date": "2026-07-20",
     "lastUpdated": "11:03 PM KST",
