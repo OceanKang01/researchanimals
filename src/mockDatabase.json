@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-23": {
+    "date": "2026-07-23",
+    "lastUpdated": "11:00 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 833.64,
+        "changePercent": 0.47,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings' Quarterly Earnings Preview: What You Need to Know - Yahoo Finance: Lumentum Holdings' Quarterly Earnings Preview: What You Need to Know Yahoo Finance...\n- KBC Group NV Buys 7,114 Shares of Lumentum Holdings Inc. $LITE - MarketBeat: KBC Group NV Buys 7,114 Shares of Lumentum Holdings Inc. $LITE MarketBeat...\n- Lumentum: AI Shovel With Premium Growth Prospects - Dip Buying Opportunity Ahead (LITE) - Seeking Alpha: Lumentum: AI Shovel With Premium Growth Prospects - Dip Buying Opportunity Ahead (LITE) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings' Quarterly Earnings Preview: What You Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTm5zbE0tbXljN3ctbzhDS0Jia0Zfb1AzOUI3ZWdoQnZXZlpyMVdibVkxWVJ3TlpuOHk4SUlEYTd1Vmd2NXdKZ1VvSUxhYTg3NDhfUjFsbWZwMXV0T1FDTHdYYVVOeDdhZXpycWstUkNSV01kaTI4ZGNGV3dXQVdaQnBrUnptRFBBcHBrQkp4UXNjLXRJYjhDaFRpLXpEQk9JcFYxRkRuWjhEV1hpdUE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "KBC Group NV Buys 7,114 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbEFlNEFjWHI2cU1tQUZMWC1xRWFmcXVoMGxHYmtEdkNRUDlTS2tjZmkzSEdWcGNVZDdqVXNXVG8tUFJqNXBjQ3hRYW5nY05xMkRnYm1zT01MX1p1VUVYS3lvR245dGlENnhjMGpTbXJSVlJuWE1Zc3pJQ2QydG1JcnF0ZzViaWZ1Y0hXT0dYVE0wZi13RlNIQVowQ1Z1VUpiQXpxTWNJVWZIdWxWLTlqLXU1dkxOT01qaVlESQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: AI Shovel With Premium Growth Prospects - Dip Buying Opportunity Ahead (LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmQxZWE3YVgycWp2aWlnUzVvRllWTnBCRWx5QXVZMHdIV2RmUUg1TGZuMUtTU1VxYWN1a3hQVkI1YnlycHN3Q3NIZDBldjJBeGV6SFd4bGd1MjRxbGFaUlJOZWdYeXlScjVGQmZrLTFwZTM4RmpIZXFpdlg3cjJnbmpxdDFBbjdFNlEwWjNWTUV0aUJGUVc1ZWoydkUteVRtVUIxVWRiTDlweGQtaE9aSzdyb2Q1MW83aW53UTNQSlJIZw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 100.23,
+        "changePercent": -2.33,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Beats Q2 Earnings and Revenue Estimates - Yahoo Finance: Intel (INTC) Beats Q2 Earnings and Revenue Estimates Yahoo Finance...\n- Intel Soars After AI Data Center Gains Bolster Sales Forecast - Bloomberg.com: Intel Soars After AI Data Center Gains Bolster Sales Forecast Bloomberg.com...\n- Intel Earnings Prediction Market Preview: What Will Lip-Bu Tan Say? - Benzinga: Intel Earnings Prediction Market Preview: What Will Lip-Bu Tan Say? Benzinga...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Beats Q2 Earnings and Revenue Estimates - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWMtQnEwdTRNX19ibi04YU1CWnJzSTVlcjVxUXFFckV0WC14M3Jjblc3eTJQYWY3ak5BRFF5Y2ZXVXFWT3BKWnlyWlF6THdHQ3JoYWFDSExvaEZUSjkzbjJMc3FncEtYLV92ZnlOc04wRHBiTUtkNG4tVU9LS29pbk83VWxncDdCRjFIeEVvVlJ4TTNRUDJuZA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Soars After AI Data Center Gains Bolster Sales Forecast - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEF6NWJoRjUyaGhJYUFsbHc2RzRjeFNFb0owQ2RBOXplUFJxZjREeGpwVlBRdFZpZTE0UHlHR1VBSmdFVi11c3hOZW92WVRENzhaOE1ldmhuaGRtcDllYXFiRDlWcFdTTUtWNVFocnR6LUgydW1nbTA0ZkZEZi1wZXlHdVRYUXpPSnJCTFhWM2I1WFUzalpveWMwRFRNTHh1azJrNW8yanlzdDh2elFKNEJUMA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Earnings Prediction Market Preview: What Will Lip-Bu Tan Say? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUlRSS0YtUTNPVUs0c0I2blRiVnF4ek9rVC1IS1QwZDNJTzhNdVh2MkV2VTZhdTBRS2lkdWtRaGZTYjZ6QXFDRUFTbktpalBnalVWZmk1ZUVlX0RLOG5sQUFnNnJPVkp5cFE2akRlVDE2VFJqb1VLYU85VGZrbXZjb0RGemZ4bkgyT3BIbktnVFp2alBLNnlVcFhNSXh3TlZGOTh4X2ZrbWc2UDllNDZ2YkZ5cGdMWE1xTmYwYmZFMmZBS1gtNHFGcVFsbHVaMHc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 539.69,
+        "changePercent": -2.29,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (NASDAQ:AMD) Shares Down 2.3% - What's Next? - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Shares Down 2.3% - What's Next? MarketBeat...\n- AMD Stock Rises After The Bell: Here's Why - Benzinga: AMD Stock Rises After The Bell: Here's Why Benzinga...\n- Advanced Micro Devices Bets on Helios, Agentic AI to Drive Data Center Growth - Yahoo Finance: Advanced Micro Devices Bets on Helios, Agentic AI to Drive Data Center Growth Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Shares Down 2.3% - What's Next? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDJENXhtcmJFc1I5aHZic0ozTzA2eVNGai1RN1dOdEpBUGZKWm1xZmp0VnJkTU5hak9KdGpmNUZ2eXlzT2tyeGlJUTdlN2s2QW1uNFJRYmFEMTlVTUZmNFJWVTlYeTdsdUZqQ1U1OEhwbDVEU2hPZERIUHBKQ1BfWWZtRkU3OEZpSmVMY0paLU8yS2Y4cE9JdDM2Njdfbi1OZHJSZV9ON1JQWlpkQjhTWHVn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Rises After The Bell: Here's Why - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcDgtclYtSXJkNjJxXzIxeXc1MDZqRFpVN3J6YnoyNUdXWnoyNFpucXJBbXZQWVRrVXdRV29ienl1dDhqQ09qUVVfTlVoMTBiRTlFSXdlYnZmaTM5TmFSVmVaWnRnRWlnaEh2LWw2eHdhWXU5TEp6MVNjdElWaVVRUzBKaDYxTGZzQURHTXhVYkhGOXFvSERxMmZhUHZWaGFPbFVB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Bets on Helios, Agentic AI to Drive Data Center Growth - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFFLdElJanozSm4yZWhHRG1RNG5JNzUzQ2hPLWlreGRZS1RJUUNudkhTQVc5Z2tpOUQ5VUI5NWo5Zzh4N19IalJneVA4cVp6b1p6dGZ1dmJYMUdQUllBdHNWVXltQVVCaWhhdUtjb3Zwd1ZvTkNyQXN0b0U5SlhoN2UxR0ZYNzVyRXpSY1FQS3F4czY2THFvbG4yNEF3M1U?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 990.21,
+        "changePercent": 3.2,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What's Going on With Micron Technology Stock Tuesday? - Benzinga: What's Going on With Micron Technology Stock Tuesday? Benzinga...\n- The Zacks Analyst Blog Highlights NVIDIA, AMD, Micron Technology and Taiwan Semiconductor Manufacturing - Yahoo Finance: The Zacks Analyst Blog Highlights NVIDIA, AMD, Micron Technology and Taiwan Semiconductor Manufacturing Yahoo Finance...\n- Micron Technology Inc Stock (MU) Moved Up by 3.28% on Jul 23: Facts Behind the Movement - TradingKey: Micron Technology Inc Stock (MU) Moved Up by 3.28% on Jul 23: Facts Behind the Movement TradingKey...",
+        "sources": [
+          {
+            "title": "What's Going on With Micron Technology Stock Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjdRZl9XalZObS12ZW8zZU5CckxFbFNjb1BzaGhJRUg3bFNkZV9qQjE1WUs4TlRmaGhYWmhfZmlOWjNwdUNGR0E4d3k4WFdOVTJ2RlVDR0psdm51clJrdFI0YWtnU2FidllyWEIxcTdnYjNrMUdhNTRCUWF0aTRzcDFzUWVPM0J5OTB1N1pQS1VaanlXM3J4eTBPY3NNQlBiaGNxRk9pLWN6QQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "The Zacks Analyst Blog Highlights NVIDIA, AMD, Micron Technology and Taiwan Semiconductor Manufacturing - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEZDcENmQXI3WEp4SE5MNEhvbG9zWXFoek9PSEhoelhmUVgzMVcwM2pVUm84MDlYVVV6QVhIQzBwWWJBMDJrNzJHMW1uMjFHUlhSTGZYbDl5SnNGZTl5ZDhCS2NiNVQtdDZCNEp3aWMwa0oxZGtnZVhfb04xWDJUbTl1SXd2bnVSSy1oZW11N25zd2MyUHlCU2RQR3dfTV9aVjcw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc Stock (MU) Moved Up by 3.28% on Jul 23: Facts Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYndhaG5hYjh5VlpsMXZod2lPQlczV1R6djU5S3pmNGNId3JLTmowVzBDdU5MREdYdDNLbHNQb09YSTRXeXF2c3ZnU2VUVF9UcTNLQXpPNkNGV0E5amczalVacnBFcGdKbGc3elhTVzV0WTVHZVZCdVh5NFBXVWlzcDRiaXJLSFhm?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-22": {
     "date": "2026-07-22",
     "lastUpdated": "11:08 PM KST",
