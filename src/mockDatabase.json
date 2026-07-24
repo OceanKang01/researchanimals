@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-24": {
+    "date": "2026-07-24",
+    "lastUpdated": "11:04 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 762.99,
+        "changePercent": -8.47,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- LITE|Lumentum Holdings Inc|Price:792.680|Chg%:-40.960 - TradingKey: LITE|Lumentum Holdings Inc|Price:792.680|Chg%:-40.960 TradingKey...\n- Lumentum (NASDAQ:LITE) Stock Price Down 8.5% - Here's Why - MarketBeat: Lumentum (NASDAQ:LITE) Stock Price Down 8.5% - Here's Why MarketBeat...\n- Lumentum Holdings' Quarterly Earnings Preview: What You Need to Know - Yahoo Finance: Lumentum Holdings' Quarterly Earnings Preview: What You Need to Know Yahoo Finance...",
+        "sources": [
+          {
+            "title": "LITE|Lumentum Holdings Inc|Price:792.680|Chg%:-40.960 - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WmlJYVVNWURVYllYRnJObHhzbnRKcHRKc1hrTWQ3eUczeF82T1A5S09MVzFucDVrOHNZWFRRNWNFYk5aUWRDZTE5Q0hlTWVWLUgwRUJtaXM5UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Stock Price Down 8.5% - Here's Why - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmJVM0F0cUVyN01uU3hCalhBLTJRbUV4ZkEyazJ1cURLa3RwSmVoel9jaWgtQ3BJZHgydkt4eDc3S0U1bmRkd1poc3VQRDR1VlI3a1hDVGQ5VUFvR2FQcXZUUVBHNEVCZnctNEN3eXJSek5tWlhPWmR5a2VEYWU5cFJkQjE4NUpUWDVLeXJRX09pQmk2b0lDMkszM2FSZW5iblljbEVR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings' Quarterly Earnings Preview: What You Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTm5zbE0tbXljN3ctbzhDS0Jia0Zfb1AzOUI3ZWdoQnZXZlpyMVdibVkxWVJ3TlpuOHk4SUlEYTd1Vmd2NXdKZ1VvSUxhYTg3NDhfUjFsbWZwMXV0T1FDTHdYYVVOeDdhZXpycWstUkNSV01kaTI4ZGNGV3dXQVdaQnBrUnptRFBBcHBrQkp4UXNjLXRJYjhDaFRpLXpEQk9JcFYxRkRuWjhEV1hpdUE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 92.32,
+        "changePercent": -7.89,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Turnaround Fueled by AI Data Centers Needing Its Chips - Bloomberg.com: Intel Turnaround Fueled by AI Data Centers Needing Its Chips Bloomberg.com...\n- Why Did Intel Stock Drop Friday? - Yahoo Finance: Why Did Intel Stock Drop Friday? Yahoo Finance...\n- Intel Stock Brushes Off Best Revenue in 15 Years - Schaeffer's Investment Research: Intel Stock Brushes Off Best Revenue in 15 Years Schaeffer's Investment Research...",
+        "sources": [
+          {
+            "title": "Intel Turnaround Fueled by AI Data Centers Needing Its Chips - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEF6NWJoRjUyaGhJYUFsbHc2RzRjeFNFb0owQ2RBOXplUFJxZjREeGpwVlBRdFZpZTE0UHlHR1VBSmdFVi11c3hOZW92WVRENzhaOE1ldmhuaGRtcDllYXFiRDlWcFdTTUtWNVFocnR6LUgydW1nbTA0ZkZEZi1wZXlHdVRYUXpPSnJCTFhWM2I1WFUzalpveWMwRFRNTHh1azJrNW8yanlzdDh2elFKNEJUMA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Did Intel Stock Drop Friday? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEV2amNwd2RiTDA3U1NGM2x6SE1hczNyRXp1YXBua0JsM0hnek93U0dxSXhIUlJDWmdkVFN2M19CUXZVOUJTRXZ0NEs0TWhQLXlPbERCcW40TE9jSWgwdmpyc1dCWVBTVXZZaE5rRkdkeGN5VmRzYlhjVklGdXVnaXBoQnMtSEhGWGg4bG1hMVJHVE0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock Brushes Off Best Revenue in 15 Years - Schaeffer's Investment Research",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQU1odVZ6eEZTYzVqcXdaM28wZWhYV2xsU2VUd3JCOURqamtMcWV2MW91Nk4wQU1jaUxoZms4U0cwUm5TYUVVQk5JcGQyc1RYZjRRbDQ4NWVFbFprQTZ0WUlKOFNEVzlHdXFTYzE2aWJ3VlZ4Vl94eE5QWG5vNDNSUWY5dk41dHJKM09NeWZSSmJiNzZDemZMQkgxdUZpMXRTUS0waGs0akp2WDQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 521.95,
+        "changePercent": -3.29,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (NASDAQ:AMD) Shares Down 3.3% - Here's What Happened - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Shares Down 3.3% - Here's What Happened MarketBeat...\n- Advanced Micro Devices Inc (AMD) Stock Down 3.3% but Still Overv - GuruFocus: Advanced Micro Devices Inc (AMD) Stock Down 3.3% but Still Overv GuruFocus...\n- Advanced Micro Devices Inc Stock (AMD) Closed Down by 3.53% on Jul 24: What Investors Need To Know - TradingKey: Advanced Micro Devices Inc Stock (AMD) Closed Down by 3.53% on Jul 24: What Investors Need To Know TradingKey...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Shares Down 3.3% - Here's What Happened - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0xXNmhZTDRjbjJiVGYxTlloRENDTUNNWlo1cDBlOWdQSkFuQnBsd2RlRHRXcFZnRHMxUWg2RkVseE1EcWpfZ2w1XzNMb09QeFNfaHZDQ0Z1b3h3WTNQbjhWVHJTcTEtdGhQZ1g0alZtQWhFbUxOeV9sUzc3djBJblZhVkk5c0NnaVNDNUc1bmFwQnZQNXdxNHhHbmZSbElWTzkzeWtLTmV2ekEzQ2F2RGQ3U2dVY2thSUd5dXNR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc (AMD) Stock Down 3.3% but Still Overv - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU9iOVFPVFN1WG5fSzdqWDRtZFc3eTBUZ3dzLTlZeXRxck0zOHRJTXhITXNUemdfYi1pTjRMV3ZYWHV3ZVhyUWMxOFh5TG40X3VfNkVGOE9wckNiWVdfVDB2SVZpN0hDb2VnMmdvR1VYLWRMblFwcU15dFNqUTBqSzRUZG92blp2dElHQmNGei12LWl6WXBVMWNsUWZ6VTNFZnBqU2hFSXpqVlliNl83aDZ4WlRPMjcxdnlZ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc Stock (AMD) Closed Down by 3.53% on Jul 24: What Investors Need To Know - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTRubXg5Nnl3aGJNd2RkN21VRUJqdzRMWUNrRTQ3MlkyZFgtdHUxYnZqaVJWQkZpZDgyQ1JVUUpfMjM5M1Q1b0t3UF9qVmJRUDIxdHdiMFJaX1FIYkJiYTNJdUFjLTZMSWhyMWVBR3l3bF93WlV1R2Z4OGMzZ0Jsa3hzaVpSalpXdFE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 920.95,
+        "changePercent": -6.99,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU) Is Getting A New China AI Demand Signal From Kimi K3 - Yahoo Finance: Micron (MU) Is Getting A New China AI Demand Signal From Kimi K3 Yahoo Finance...\n- Micron Stock’s AI Scare Misses The Bigger Story (NASDAQ:MU) - Seeking Alpha: Micron Stock’s AI Scare Misses The Bigger Story (NASDAQ:MU) Seeking Alpha...\n- Micron Technology (MU) Stock Falls Amid Competitive Pressures - GuruFocus: Micron Technology (MU) Stock Falls Amid Competitive Pressures GuruFocus...",
+        "sources": [
+          {
+            "title": "Micron (MU) Is Getting A New China AI Demand Signal From Kimi K3 - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcU41ZTdtRWpzQ1R3ZW9RbXNsZUFhT1hodzNTNlAxa1Q5T1lfbjUzcVF1eU5SZWdMbDJ3SFo2VWRwdXhibkNSRTlaTndmLVExTTkwNVV6YXJtTXhlQVpXWXZ3R0dSd0tydkdhcVVvbjMyMFBxZTh4d3l0bjI1QkFmbW01d2liWk1NWUZxdWVzUjBVV0M1?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock’s AI Scare Misses The Bigger Story (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0hacEhzMHE4anJjLVh3ejlPS3A4SUVidC1vRkpUejhHaHlGZWpoWWlhNE1YUjJyX2lBS0lkcGtNci1MeERzOEEyS0MtVk5zLTdqQlRxT1ZwejRtMmtJTGZFRUJlQjVQcDNJdm1JSWhvTmljMkRtVURTTHpmZ1gtWGVEdUZWclNDeXlSSm1SYw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (MU) Stock Falls Amid Competitive Pressures - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa21TQV9tRkdEQWpOVV83T2dBXzhYWFhxUVhzNXQxWnh4QWJOVV9vQkhRTHZmXzdYVE9NZXk2MWZxS3NCenJQZVQyNDBOVVc3ek5YTXQ1Wng2RlVOQTZ4Q3RrUkFRcjZfTGNhZ2duMURwUlBpTHBseTUxNW8yejFkNFpnT2lzYTFlLTBIdU5FQWQwNzFpalBzeGh4aGV1QVU?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-23": {
     "date": "2026-07-23",
     "lastUpdated": "11:00 PM KST",
