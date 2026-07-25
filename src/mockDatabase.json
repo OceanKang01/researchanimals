@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-25": {
+    "date": "2026-07-25",
+    "lastUpdated": "10:58 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Caxton Associates LLP Cuts Stock Holdings in Lumentum Holdings Inc. $LITE - MarketBeat: Caxton Associates LLP Cuts Stock Holdings in Lumentum Holdings Inc. $LITE MarketBeat...\n- Lumentum Holdings' Quarterly Earnings Preview: What You Need to Know - Yahoo Finance: Lumentum Holdings' Quarterly Earnings Preview: What You Need to Know Yahoo Finance...\n- Lumentum Holdings Inc (LITE) Stock Down 8.5% but Still Overvalued -- GF Score: 61/100 - GuruFocus: Lumentum Holdings Inc (LITE) Stock Down 8.5% but Still Overvalued -- GF Score: 61/100 GuruFocus...",
+        "sources": [
+          {
+            "title": "Caxton Associates LLP Cuts Stock Holdings in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaklDZW15d043YUp3amFmallFRGd2WmtsOGZHUHZEMkF0Uk1DSU56d1V3VE9zaW1USGdINnlSakdZS3BKZzVlNm93eWg0SUsxR2pDOEdGM19CNU1hNVYzWklQSHRIY0tuck9HQVktWnFxclRyYTkzRE1kZU9wUk5UWHp2NUpzUHRJMm5XSVh1c1ZaRERxLS0xcGRhTG1VQTJsbEZIeGJEd01hRm50Y2w0NXB0QkxJMXdvbmVyM1U3SU9QUDI1Tm9jN0FSZWU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings' Quarterly Earnings Preview: What You Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTm5zbE0tbXljN3ctbzhDS0Jia0Zfb1AzOUI3ZWdoQnZXZlpyMVdibVkxWVJ3TlpuOHk4SUlEYTd1Vmd2NXdKZ1VvSUxhYTg3NDhfUjFsbWZwMXV0T1FDTHdYYVVOeDdhZXpycWstUkNSV01kaTI4ZGNGV3dXQVdaQnBrUnptRFBBcHBrQkp4UXNjLXRJYjhDaFRpLXpEQk9JcFYxRkRuWjhEV1hpdUE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Down 8.5% but Still Overvalued -- GF Score: 61/100 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNclR5Q0ZkYzZQaTZiZUlrdkFwQm55RU16Ui1wUEVXdlo1bF9XX3Z6MllmSDYwdFp3cHVjYmU0UWZhRFpQSTV5eHU3cl9aY09pLXhyeEh5d2k0R0FvNDh1TEZaRTJydFZHMXBQTl9YYmdEdHRpbUN2QWRBYzNqOE5rSmFsZm5Tc3kwQjRIUzg4RW1qRHVpU3NzZTBPa0wwem5rZWJKNE5VTTJ3aVAyNjJwRHNSTGVZUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation $INTC Shares Sold by SRB Corp - MarketBeat: Intel Corporation $INTC Shares Sold by SRB Corp MarketBeat...\n- Intel Beat Earnings by $1.7 Billion and Fell 11% as Cramer Turned Bullish - Yahoo Finance: Intel Beat Earnings by $1.7 Billion and Fell 11% as Cramer Turned Bullish Yahoo Finance...\n- Intel: Insane Valuation Going Into Earnings (NASDAQ:INTC) - Seeking Alpha: Intel: Insane Valuation Going Into Earnings (NASDAQ:INTC) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Intel Corporation $INTC Shares Sold by SRB Corp - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFI5Z3NfUkl3bTlmZEM3Y0wwVk9wWnNNM0Y4QkJsZ1JvekZsQTNnNnBTLTVnd084TmF0b25ncFFqX3NkNzVJdjR5amNEVFp6V2R1eTVtRm54RGowYkJOYXZ3V1cwdGdpNFI0YXpHUExVUGZKVTVJNEV1NC1IRVF6Y1JvU1ZvOFVRUUV1Z0J0RjV6RVhvcGlzNUt0VkZ5YkkzbGVXalN2LXA2SEk?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Beat Earnings by $1.7 Billion and Fell 11% as Cramer Turned Bullish - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQamN1bmh5SjRjMWFNSmNXQWpDUTFrdWVfcFlFN2ZjWUxZYVdCd1ZVQ3AwZXF1a2N4RHBEbVBVSDJfeW5YU1NtTmN1VE5mSjd3UXZyZVVjTWRJcmFVV29vNFU4c1pITU9YN0wxODQtYkpsWFVRWVBOM2p4VjVscC04a3RjMUpmbjljOWdhT3ZKelFuUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: Insane Valuation Going Into Earnings (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVRfN3NVNkNzSGo4eVdNMVFuTVpma1NmQ1JVbF90VXotY0pJNVlMUVQxNk1KTDlROFFrYmRXSDc5cGM2bHAxY284a245bzIydjdBSzgtTlkxcU44amVIQzRFc2V2aG82VjJTeU9LQUZQc0hucVFETjVfTHdLaElBcmJEdGNZVXpNUnF3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices, Inc. $AMD Shares Sold by State of Wyoming - MarketBeat: Advanced Micro Devices, Inc. $AMD Shares Sold by State of Wyoming MarketBeat...\n- Is Most-Watched Stock Advanced Micro Devices, Inc. (AMD) Worth Betting on Now? - Yahoo Finance: Is Most-Watched Stock Advanced Micro Devices, Inc. (AMD) Worth Betting on Now? Yahoo Finance...\n- Advanced Micro Devices Inc (AMD) Stock Down 3.3% but Still Overv - GuruFocus: Advanced Micro Devices Inc (AMD) Stock Down 3.3% but Still Overv GuruFocus...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Shares Sold by State of Wyoming - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNnNNU0RGOXlIRXRtQ0JKVTJaRjlxT0diUHE5ci1BY29oU0lDWjNWOWNnU2kyNmxhQmx0WEdEbTNIMHY4NEpscS1SSUJyZ1kxRHFEdTVlOHFJaXNfcGlXU2ZWSnV4Vk9BOWRLczlOTUJMT0NyeXVHNURETU1vNnBxUEUwMXMxNklqRDlnRC1sMU1oSWtrWFppWTkxbHZkbThSVEluZjh3YndWTVdObjBnVUppYnhNdE5NZ2lOWVZjUUg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Most-Watched Stock Advanced Micro Devices, Inc. (AMD) Worth Betting on Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVEVIb2hxN3RmM1BSRGp0Sm1pbDlZX2VoaWZ2YkozTzZYUEdsVzRUSmEtTmVlWVd0c1RjWm9RQWYyRzlfZk5BQ2lHeVVld2E0MGg0WkZkaXZRZWtzTmJ5RUZOZllrSzI2dzk2Z1FvVnowYmU3dU9ablBJZHRLOXJFQy1fZnhwc2ZrU29KcTRJU3dlSDN4aDZBNWFmem50X0E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc (AMD) Stock Down 3.3% but Still Overv - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMmdpLTBPazZmRW1oWHJybDJINEdSSkctb0t1dU1CaVZqUGhpdHd3TlZKOXFsMmZoYzFxS2t1aXExZzVLOW5QLUZvd01OZ2psVkVncmdONnpmWW8tRTdZVFhEMTlQdDFVZzhTNW0xYko2YlNZeVN0WUNzRjBxTDFTZUMta05SQ3FoWmV3YURlQXRxZjEtUUtkMmp5MFFZN09fNEttckpVcTB3MFdfNm1faXBaampiTndaU3haZXE0MU9WcUx5QVdZVDVwZGR2MHRlYUVOYzBRa3RnY1RqWmVpQU4tZkZqZDBjMU94ZnBlSnc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU) Is Getting A New China AI Demand Signal From Kimi K3 - Yahoo Finance: Micron (MU) Is Getting A New China AI Demand Signal From Kimi K3 Yahoo Finance...\n- What's Going on With Micron Technology Stock Tuesday? - Benzinga: What's Going on With Micron Technology Stock Tuesday? Benzinga...\n- Micron Stock’s AI Scare Misses The Bigger Story (NASDAQ:MU) - Seeking Alpha: Micron Stock’s AI Scare Misses The Bigger Story (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron (MU) Is Getting A New China AI Demand Signal From Kimi K3 - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcU41ZTdtRWpzQ1R3ZW9RbXNsZUFhT1hodzNTNlAxa1Q5T1lfbjUzcVF1eU5SZWdMbDJ3SFo2VWRwdXhibkNSRTlaTndmLVExTTkwNVV6YXJtTXhlQVpXWXZ3R0dSd0tydkdhcVVvbjMyMFBxZTh4d3l0bjI1QkFmbW01d2liWk1NWUZxdWVzUjBVV0M1?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going on With Micron Technology Stock Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjdRZl9XalZObS12ZW8zZU5CckxFbFNjb1BzaGhJRUg3bFNkZV9qQjE1WUs4TlRmaGhYWmhfZmlOWjNwdUNGR0E4d3k4WFdOVTJ2RlVDR0psdm51clJrdFI0YWtnU2FidllyWEIxcTdnYjNrMUdhNTRCUWF0aTRzcDFzUWVPM0J5OTB1N1pQS1VaanlXM3J4eTBPY3NNQlBiaGNxRk9pLWN6QQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock’s AI Scare Misses The Bigger Story (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0hacEhzMHE4anJjLVh3ejlPS3A4SUVidC1vRkpUejhHaHlGZWpoWWlhNE1YUjJyX2lBS0lkcGtNci1MeERzOEEyS0MtVk5zLTdqQlRxT1ZwejRtMmtJTGZFRUJlQjVQcDNJdm1JSWhvTmljMkRtVURTTHpmZ1gtWGVEdUZWclNDeXlSSm1SYw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-24": {
     "date": "2026-07-24",
     "lastUpdated": "11:04 PM KST",
