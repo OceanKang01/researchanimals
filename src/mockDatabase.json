@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-26": {
+    "date": "2026-07-26",
+    "lastUpdated": "11:01 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 762.99,
+        "changePercent": -8.47,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Insight Holdings Group LLC Acquires New Position in Lumentum Holdings Inc. $LITE - MarketBeat: Insight Holdings Group LLC Acquires New Position in Lumentum Holdings Inc. $LITE MarketBeat...\n- How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance: How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom Yahoo Finance...\n- Lumentum Holdings Inc (LITE) Stock Down 8.5% but Still Overvalued -- GF Score: 61/100 - GuruFocus: Lumentum Holdings Inc (LITE) Stock Down 8.5% but Still Overvalued -- GF Score: 61/100 GuruFocus...",
+        "sources": [
+          {
+            "title": "Insight Holdings Group LLC Acquires New Position in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcVlEWHRleE9UVDdIbUdMbmJkZDZabktYeFNhWms0aXNBS3Z4MHRCRGpWWjRKMVlfYTFhbDFCdWVfSGFXaFlCZFVIYlBUemtudnQ2dUV5QnRuNDRCYUU1eG5yNkQzZkNpNHJETjYtUnlfRTZFRVFQSDRPTHBtZGJ6OTZPZ1pBcE53Z2hMdDBYeFpnVVMzaFkxZFAtSHVCMks1YXJiRU5fYW5KaFFKeHZ5RUx5WXcxcUpEaXNYajVLZUtYbWZ2UU4xRlhJOGNNS29zX2ladVZB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVS11aUFSLTlkRVZxSkVBX0x3VzliVVAwV1FwNGFxQ08tcHVFUV9aLVB5R05VREZ0aUQ1Zi14ejh4MEtqNU55dW53aXpiQS1pRWxSRTRoMGNhOVA0OERPbUZhNlRXaDBOcE95WFNNRTZNQXZPWEkxM0MxbTFnV1ZPVWpmcFgyUWVXZDNBa041RkhzUkxzSno4OTBaejcwa1E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Down 8.5% but Still Overvalued -- GF Score: 61/100 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNclR5Q0ZkYzZQaTZiZUlrdkFwQm55RU16Ui1wUEVXdlo1bF9XX3Z6MllmSDYwdFp3cHVjYmU0UWZhRFpQSTV5eHU3cl9aY09pLXhyeEh5d2k0R0FvNDh1TEZaRTJydFZHMXBQTl9YYmdEdHRpbUN2QWRBYzNqOE5rSmFsZm5Tc3kwQjRIUzg4RW1qRHVpU3NzZTBPa0wwem5rZWJKNE5VTTJ3aVAyNjJwRHNSTGVZUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 92.32,
+        "changePercent": -7.89,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation (INTC) Just Had Its Best Quarter in 15 Years. Is the Turnaround Finally Real? - Yahoo Finance: Intel Corporation (INTC) Just Had Its Best Quarter in 15 Years. Is the Turnaround Finally Real? Yahoo Finance...\n- Intel Stock: Grotesque Valuation (NASDAQ:INTC) - Seeking Alpha: Intel Stock: Grotesque Valuation (NASDAQ:INTC) Seeking Alpha...\n- Sei Investments Co. Grows Position in Intel Corporation $INTC - MarketBeat: Sei Investments Co. Grows Position in Intel Corporation $INTC MarketBeat...",
+        "sources": [
+          {
+            "title": "Intel Corporation (INTC) Just Had Its Best Quarter in 15 Years. Is the Turnaround Finally Real? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hxSUo5ODlRbkswNFFPTTNxQzJ4REtjeWwxenJpNGlGYWNGTkhkNml6bTFBamJaQkJQX2taVUkzdVlYZzRPVE44dkdDbnZhRlFfZWU4WkVWZ002eXp1eEZhemNUaVFyQ2FfRHh3cTdqa1lsbkdYT0RKWmhVWXY1RzZ4N1l5M0NwN1FnM1M3YXJoSzdSSjU1eERVazg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock: Grotesque Valuation (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iWm5mQjItRTNsaHA2OGptQ0Y1YVVWbWVQWUR5VFhqMXg2emJGVnNteV9TOGpVNVF6dnpnekcyQnlORUpScXRyV2xkdFhSdVVHRWJqdGZhVFAwVzhoUV84WmJKUEFraEdGZVV1WXRkNjZkS3pK?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Sei Investments Co. Grows Position in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONjJlY2ZJeGtaMGQ0d1plaHNySl9LNHdfZG0yZVJOMmxZeGJJaFhpajVMT0RlVTNYUC1ELWJWLThmTmhHYUdoR1g2TkZ5WnhKc28yNUhGNC1kRHJGdHRqR0NVazN0LXBpMFB0OXVpRnVFN3ZZZnJ4TnZ0WTdhS2tlVjJISEpaVkxGNDIzMWpweEFtYUQxb0taUEtZWUtJUU9MTkFlbV9ZT0ZnNHlVekdZUDNva0dJbmRLMG5YcA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 521.95,
+        "changePercent": -3.29,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) After Its AI Event Still Looks Fully Valued - simplywall.st: Advanced Micro Devices (AMD) After Its AI Event Still Looks Fully Valued simplywall.st...\n- Advanced Micro Devices, Inc. $AMD Shares Bought by Lombard Odier Asset Management Switzerland SA - MarketBeat: Advanced Micro Devices, Inc. $AMD Shares Bought by Lombard Odier Asset Management Switzerland SA MarketBeat...\n- Is Most-Watched Stock Advanced Micro Devices, Inc. (AMD) Worth Betting on Now? - Yahoo Finance: Is Most-Watched Stock Advanced Micro Devices, Inc. (AMD) Worth Betting on Now? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) After Its AI Event Still Looks Fully Valued - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLTVra0hZa0JIaGRKbTdhOXNpNmV6NVVXekdLdHFReVNIakJRcEpqY0pxMWptYU16M2FJQ19IcWczWDU5ZEVqMHJ4YjU2MGNSVC1IaHdjX0otalk1STJvd0ozcUtacGkwS2I1dkJVeUduRVQwc1A2Ymtndk9GS3VSdXJlWGFoZzBjd1N0WEF5a2YxM3d1eF9aTlpNa2hBQTBjb1NDSzY2ZzYxbTFHX01iQ0xkNEhDYUVfaTRickRzZEJsd0REY09jRTZVMzFqdHowTkFSQ2xzVENDSkVFM2V30gHkAUFVX3lxTE5MTm43VFdVbG9rcnc0WE1MdUZyR1A5eFVaendGUll2S2xjUFZkZjY2MUx5MVctTXJvb09sWTRsV0Y2ZmNPc3czRDdVTHpORjBtcTJlYlBiV2xEd1R6eVpWRnRzUnBRd2VfQ0MxTnpSdW5tVnd2Q2Zsakd2X3ZBZ25mcG9OZHlSeTdvUlNvS3AxTFhOX0xTVG5teUprbWNvdWtJNHppRHVYd0NGSC1kOHBnd1IwMnhTamlsdkg0QnlKVzRsY0paY1ZybUtQa2h2Nm9GNnVGc3ZzRGhvYnNpRUdxMV9qdA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Shares Bought by Lombard Odier Asset Management Switzerland SA - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOFE2QjRUM0VpbzNEbzhRSjZTdHg2QWFIRHc5cWZKVkI3TlVrcWx3NFVNTE9WV3FqdlphOVhvOEFJNTA2VjBzem51OU1sZ01OWDBzb0hITHFDMjRrSUg5X2pxaktMTjRyQWtJcEUwT09FUFhtQzBtZU1wWGgtSndydXY1bTR6NzgtRUhDa3ZwVV83RHZfMzhEOGptVS1yYnJaN1Q4MFJDMVEwY21aWmlDT3pkS1RTa1g2RERaV2hCTGhoRU9XbE82MTgwX1VzVkRiQXFZbzRzbEt1clZ6ZnhrX25hWnVxRWdlNUE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Most-Watched Stock Advanced Micro Devices, Inc. (AMD) Worth Betting on Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVEVIb2hxN3RmM1BSRGp0Sm1pbDlZX2VoaWZ2YkozTzZYUEdsVzRUSmEtTmVlWVd0c1RjWm9RQWYyRzlfZk5BQ2lHeVVld2E0MGg0WkZkaXZRZWtzTmJ5RUZOZllrSzI2dzk2Z1FvVnowYmU3dU9ablBJZHRLOXJFQy1fZnhwc2ZrU29KcTRJU3dlSDN4aDZBNWFmem50X0E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 920.95,
+        "changePercent": -6.99,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology Inc. (MU) Is A Top AI Stock In D. E. Shaw’s Holdings - Yahoo Finance: Micron Technology Inc. (MU) Is A Top AI Stock In D. E. Shaw’s Holdings Yahoo Finance...\n- Micron Stock’s AI Scare Misses The Bigger Story (NASDAQ:MU) - Seeking Alpha: Micron Stock’s AI Scare Misses The Bigger Story (NASDAQ:MU) Seeking Alpha...\n- What's Going on With Micron Technology Stock Tuesday? - Benzinga: What's Going on With Micron Technology Stock Tuesday? Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Technology Inc. (MU) Is A Top AI Stock In D. E. Shaw’s Holdings - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczlFUkpjTkUzZlhISEJVZFA0YzRoTjV1ekctekJYbXlIVzd4V3hjU1QxcjgzNjhHc280Wnk0bldwUENJWEdVbmxfcHFZQjlSejI5VTF2djA3Q0FkUEgzZ3UwQlEwNjAwR2c0X0ZnYjJjNTZhdGJ1S3o4R2MwUVQyWWh2bUN0Um1iWTY3YmxkZW8xWmxkLTA3aA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock’s AI Scare Misses The Bigger Story (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0hacEhzMHE4anJjLVh3ejlPS3A4SUVidC1vRkpUejhHaHlGZWpoWWlhNE1YUjJyX2lBS0lkcGtNci1MeERzOEEyS0MtVk5zLTdqQlRxT1ZwejRtMmtJTGZFRUJlQjVQcDNJdm1JSWhvTmljMkRtVURTTHpmZ1gtWGVEdUZWclNDeXlSSm1SYw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going on With Micron Technology Stock Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjdRZl9XalZObS12ZW8zZU5CckxFbFNjb1BzaGhJRUg3bFNkZV9qQjE1WUs4TlRmaGhYWmhfZmlOWjNwdUNGR0E4d3k4WFdOVTJ2RlVDR0psdm51clJrdFI0YWtnU2FidllyWEIxcTdnYjNrMUdhNTRCUWF0aTRzcDFzUWVPM0J5OTB1N1pQS1VaanlXM3J4eTBPY3NNQlBiaGNxRk9pLWN6QQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-25": {
     "date": "2026-07-25",
     "lastUpdated": "10:58 PM KST",
