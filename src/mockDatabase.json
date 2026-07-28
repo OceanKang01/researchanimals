@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-28": {
+    "date": "2026-07-28",
+    "lastUpdated": "11:03 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 651.93,
+        "changePercent": -8.43,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. $LITE Shares Sold by Rokos Capital Management LLP - MarketBeat: Lumentum Holdings Inc. $LITE Shares Sold by Rokos Capital Management LLP MarketBeat...\n- Lumentum Holdings Inc (LITE) Stock Down 6.7% but Still Overvalued -- GF Score: 61/100 - GuruFocus: Lumentum Holdings Inc (LITE) Stock Down 6.7% but Still Overvalued -- GF Score: 61/100 GuruFocus...\n- How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance: How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. $LITE Shares Sold by Rokos Capital Management LLP - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb3hod0tRaXR6X1o0djk0RmxoWC13d0tNbVZiMUlRTzdydzY3UXlVbDdXbGJnQWRadUV4aHlLU1NkQ285eExlaVVhTWF6UFNDTVhWSGtzaExzVHZUSVFramNETTJQYWc2cXZ1VWktaEJMcTdfWE5KeDl5Rzl5aTFBUE44MnhqQnU1STZoWXVHb3JmbXIyNEJKR0l5ME1hb0ZfMEZxUll5dzVDVkR6cW13d0FQQUVIV1dvR25ZbXdmUVROZGpRM0JTSUhxaw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Down 6.7% but Still Overvalued -- GF Score: 61/100 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREtHWFZkbDU3bVlfY3J6Y0xGaThVTXppVkNNNDVzXzdHX0drNVYwd1FjY3BwTEM3V0dWV1ZDNjF6RC1JdEpTRnZxbGtnRVBSY0tIYXNpcE9IaFNtTkRtUk9oLXB1V09vWEZYVk03RUtCZmYyUHpRT3NHcElfemVvVWdISWItVnU4Z3UyVUZmWjYwRGNfTVpldW5wVzZWUVdfUEIwNmNtUG9weE9UMHlsNGRkVFNheFhxWm13NC1YNEhVMUo4X0E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVS11aUFSLTlkRVZxSkVBX0x3VzliVVAwV1FwNGFxQ08tcHVFUV9aLVB5R05VREZ0aUQ1Zi14ejh4MEtqNU55dW53aXpiQS1pRWxSRTRoMGNhOVA0OERPbUZhNlRXaDBOcE95WFNNRTZNQXZPWEkxM0MxbTFnV1ZPVWpmcFgyUWVXZDNBa041RkhzUkxzSno4OTBaejcwa1E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 86.3,
+        "changePercent": -5.86,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Stock Sees Fair Value Lift After Q2 Beat And AI Demand Strength￼ - Yahoo Finance: Intel (INTC) Stock Sees Fair Value Lift After Q2 Beat And AI Demand Strength￼ Yahoo Finance...\n- Intel Stock Is Falling Tuesday: What's Going On? - Benzinga: Intel Stock Is Falling Tuesday: What's Going On? Benzinga...\n- INTC Stock Slides As Chip Selloff And Tariff Risks Rattle Traders - StocksToTrade: INTC Stock Slides As Chip Selloff And Tariff Risks Rattle Traders StocksToTrade...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Stock Sees Fair Value Lift After Q2 Beat And AI Demand Strength￼ - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUFRxQmcyRWhPSno1TUo1Q2owRDJaNnRPX1ZPcGh6Z2dBNUpWa2VDR1lEc1lfdEh2Sk8wR1NmQXdwZm5KeWxUblR1YWZfUWhBbi1QYlN1WHMycy16OEZGVndSOWhlLWJnSkVaRHBiSU5Pa2R4WkhrVTJSS0QwN3BmNUNMOGh4c1Z0OVJqRWNEOXo5NG9GQmc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock Is Falling Tuesday: What's Going On? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONDVwcmJCUl9UN2RERDUxT0xfSFJmYlZfR25GZVpYZFV6dWR0b1Jic1plY3VldkF3UG10QzRzYlZkUFlFMHJkalNJVXNlSXRBc2VlMlI4SElTdy1zTWx1cTdlWExYOWNTYXNrY0x3LWpocTdvODBTQzRiYjZpbHM3SXZlSXNmVGNxUTBqYWFfZ19sdFp5LTNjal82MkFjRmM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Slides As Chip Selloff And Tariff Risks Rattle Traders - StocksToTrade",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vczdNcjhlazZ6VFZOQXZuX2pYbnQ4YlJlYXpGU0QtQmJWbzlVTmRMVlBKSlcxVy1jX0hWQ3lxeGpzbFZab2Vpc0xoLTVOcW1LTXk0ZVg5NG9iRno0YXVKa2dGRTluZnFvSEUyRy1hT2tSWmdfUDI4WmY1MFE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 454.62,
+        "changePercent": -8.15,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Earnings Expected to Grow: Should You Buy? - Yahoo Finance: Advanced Micro Devices (AMD) Earnings Expected to Grow: Should You Buy? Yahoo Finance...\n- AMD Stock’s Surge Was Already Visible In Its Own Earnings Calls - Trefis: AMD Stock’s Surge Was Already Visible In Its Own Earnings Calls Trefis...\n- AMD Stock Sets Up For This Bearish Trade As AI Bubble Trouble Looms - Investor's Business Daily: AMD Stock Sets Up For This Bearish Trade As AI Bubble Trouble Looms Investor's Business Daily...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd25YaVlyZE9lNDV4SDRnZVVvdUhxUUhiWjMyUjBGTzlrQUpVbGNwWmNOTW1KZG1iMkZPbXlDLTI4SE42a251bmZHczBOM2tqaVl1ekFvWi1QZlNyLVNLV0xRYTkwM1lzVnVRZWdlVEJ4ZlpuZ01obXg5cXdBMzNsdHRKM0wwNW92dEJBRXdDMW1HZ3NxSFI5OVBCeDhxcGwxanc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock’s Surge Was Already Visible In Its Own Earnings Calls - Trefis",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOHJDU1JlajhqZU1pNmdiTzc5MDA0RFk5VW9nVXFzMUNhcllKYUpsSzBfZGxjcmlRT3lRdk5HMnlDSjdfSVVvUFIzaVhNQ0VqaER0TUxWN0xfckY1QXdXSldHX0pjc01tbnFhMTBzNUVENXBUNVpaSFZ2aGt3VnpodldHT3Q0S0hmOEsxeUdXTnFuRkNaNjR1RGZud2pYWks0ZC0tUXpFeWdJbmtGMkw0UWJLV1J1cVJ4S2FWWkxwTQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Sets Up For This Bearish Trade As AI Bubble Trouble Looms - Investor's Business Daily",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdFdWN3JiSzJZQ2R0RzZLajNyVXFuRkNjVXJ0Wk9DQWxJalFDRGZ0RkJoSVN4MUp0bHo1cFZuZFdYNTAwZWxQQ3Z5MmxWdnBiZ3p3alZiTUR4X1djQW9XR3JLbTVNMWd4bjl5aUZMeGZuRlBET2o3QkJLN1BQcG9sQjVaczRXQk4zMGRnVHNuS2V1S1NoV2JQZWhtNFF0cnRzWUE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 820.53,
+        "changePercent": -8.85,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron: The Boom And Bust Memory Cycle Could Finally Be Dead (NASDAQ:MU) - Seeking Alpha: Micron: The Boom And Bust Memory Cycle Could Finally Be Dead (NASDAQ:MU) Seeking Alpha...\n- Why Is Micron Technology Stock Falling Tuesday? - Benzinga: Why Is Micron Technology Stock Falling Tuesday? Benzinga...\n- Micron Technology Inc Stock (MU) Moved Down by 10.34% on Jul 28: What Investors Need To Know - TradingKey: Micron Technology Inc Stock (MU) Moved Down by 10.34% on Jul 28: What Investors Need To Know TradingKey...",
+        "sources": [
+          {
+            "title": "Micron: The Boom And Bust Memory Cycle Could Finally Be Dead (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHpvakZ6T0dRNWtNc0tCcFdBaGZWSzFjQ1NZWHU2cndpcFNNQVZaZUdqcUpUMmRxU0dpWDBlX2RCc3dqQXVlQkdzbjBLTkE3NlJJZHpjUmJzN3FrUkVmSktUemJvRElOTVVWYy1uMjc4T1QycnhYNkRSWkRZSzg2SDBQOTYyS0FCcWJyM1RoTlp2SGlZYzRQR2lVb1R6OFd6Q2c?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is Micron Technology Stock Falling Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjR6cVFqdGhsaHkydHZ5cnJnYnRQcElXbF8yOVlwTGZzbERpeFNKVlFlMGp0djJuZV9xajMzRk84TnhNZ3I1ZTlvWG12YXUtSUlnUkN2ZldlSm5jNThpX093QkU4d0Foc0p3M2RZd24zbG91ZFhpQURQaVZtdjNvc2tERnlMUWE2cDI3OUhNTV9oZ3drQ3dnMWNIdkJ0MDBUSWNN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc Stock (MU) Moved Down by 10.34% on Jul 28: What Investors Need To Know - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVdkQWV2aF9WQVhVZkdFa1VaUm1NT0JVOFNLZnp6UElsNDYtNm1OTjRtMHZQcFl1d2dDeUVrMG1hMXdNek4xQkVPWmZvWkZDQmxXX25mX2dfVVZXYzZPNmlLN2NKdmpySmh4TzBJMm1XdlJMSDRiQTRidXVYbE13eExkbmhzaE1q?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-27": {
     "date": "2026-07-27",
     "lastUpdated": "11:06 PM KST",
