@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-07-29": {
+    "date": "2026-07-29",
+    "lastUpdated": "11:01 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 602.35,
+        "changePercent": -7.61,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo Finance...\n- Regal Partners Ltd Purchases Shares of 2,013 Lumentum Holdings Inc. $LITE - MarketBeat: Regal Partners Ltd Purchases Shares of 2,013 Lumentum Holdings Inc. $LITE MarketBeat...\n- Lumentum Holdings Inc (LITE) Stock Down 6.7% but Still Overvalued -- GF Score: 61/100 - GuruFocus: Lumentum Holdings Inc (LITE) Stock Down 6.7% but Still Overvalued -- GF Score: 61/100 GuruFocus...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVlpZTEhTRDV1eHJUSGl0ZDR5eUNEcWgtMmVwa04taTB4eDRwTTU0Y0kzanNHamFWOXBmMWotSXI5THFsblNpT0dhREpFY21pQnZXMDJBaExTNFVSTVdHWjZLbVozOE9PVG9WOGcyQUtTODZjMlVHTXFsb3JQQ1VlR18tS20zaHJjaW9uNW40RQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Regal Partners Ltd Purchases Shares of 2,013 Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOTI0ZVN3dDRQQjBkSjVLSmtHSlZZSDNFaV9faFdEMEZLQk9ZQVJvcFRiY0F5bTAxZ2dSRndOdUFEal9aSWU4WnU0dEJiLWd0X25EazRQdHN5cE9hZFRTOUtSWUZhSkt4V3IxTWZEZGpNVEp5czR6WWFnVFNNUGJzQko2YWtrS2pMdGM2SHQ2bktNRy1RcVZrYm1kUzBLLXNHQ3VzNDg5UU1CXzcwM0xFWGZDcW5CSkY3cU9PSEU5ODlfelBUWFI5dEpBRQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Down 6.7% but Still Overvalued -- GF Score: 61/100 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREtHWFZkbDU3bVlfY3J6Y0xGaThVTXppVkNNNDVzXzdHX0drNVYwd1FjY3BwTEM3V0dWV1ZDNjF6RC1JdEpTRnZxbGtnRVBSY0tIYXNpcE9IaFNtTkRtUk9oLXB1V09vWEZYVk03RUtCZmYyUHpRT3NHcElfemVvVWdISWItVnU4Z3UyVUZmWjYwRGNfTVpldW5wVzZWUVdfUEIwNmNtUG9weE9UMHlsNGRkVFNheFhxWm13NC1YNEhVMUo4X0E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 81.88,
+        "changePercent": -5.12,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Stock Looks Fully Priced Despite Fair Value Support - Yahoo Finance: Intel (INTC) Stock Looks Fully Priced Despite Fair Value Support Yahoo Finance...\n- Intel Stock Sinks 40%, But Most Analysts Still Aren’t Bullish on INTC - Barchart.com: Intel Stock Sinks 40%, But Most Analysts Still Aren’t Bullish on INTC Barchart.com...\n- Intel (NASDAQ:INTC) Stock Price Down 5.1% - What's Next? - MarketBeat: Intel (NASDAQ:INTC) Stock Price Down 5.1% - What's Next? MarketBeat...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Stock Looks Fully Priced Despite Fair Value Support - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ29VYmtxWndIVFR4Z1lhQVZ6ZHJFSUN3RXZEaFBQRmFVRGFZNEFzWVJJeEVXdndDQVVrZDIzV3ZsblJSbW1ZZTltQWxGVVJ2WVY5RU9EMHV1SENQcjVQYVphS0s2eEE3RkZsaGFoOHBPdnI1bVo0eDVwdXlxVDA5UmhIcXNFWWhTZ3ZWRXllY0ZuQ2loV01nRw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock Sinks 40%, But Most Analysts Still Aren’t Bullish on INTC - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdlh6M2tHWi1rM3hGck8teW16bkhfMVNFUEV2T29zTkMtRXRaWlEybm5TbG1FcGs2SFZWQllxQTMzZTROZ2JMVHI2SlowU0dENlpQc2w5cXEwUHBGZ1NTc1NZSktKNWFOajUzNWdVdkZMbTBmNW56MnkwMW11TTZqUWdFRWNCekZzeFRpNnJST2FxRjhValUxdk1zcGNaVlZyOUdQa1dxbGhVVWp0bnZZ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Price Down 5.1% - What's Next? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdEx6VmkwZEhFTUJibk5hN1BDbUlBUm92TGdVOG5YYk5STjBCdW5HbXRCZThJQ0JWQUh4eTljclBibEZyQTlsZThrLU5LWkdwWVktZXlidENoZWRVSGRObGVFRF9zZ01vUkZxcTRiSnhVUVlqNEl3YmxXb1dGX0ZzanJvVW9iVGFRVmJ6cFJja0llcE85ak4tWHlERFhkWmJ0QTZJ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 429.56,
+        "changePercent": -5.51,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance: Advanced Micro Devices (AMD) Stock Falls Amid Market Uptick: What Investors Need to Know Yahoo Finance...\n- AMD Stock Drops: Why Chipmaker Shares Are Falling Ahead of August Earnings - Benzinga: AMD Stock Drops: Why Chipmaker Shares Are Falling Ahead of August Earnings Benzinga...\n- AMD: Current Valuation Appears Hard To Justify - Seeking Alpha: AMD: Current Valuation Appears Hard To Justify Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM2ZxUlpOSkw0YzJkTG56SDBacWg3R1FoZnRiWlR6UXc0bDlxNGFxTGZDaTBfN0c3VXBiUkF4LUVLRENET3BGWGNPYVBRdHhoc09iRkZDUklEdGhhbXp1clRVSGZaNnN5UzZ1NHdkd0dpSWtCZ1BJRkpITVpCTHY1TU5ENm5MQ0QtVmpZQnlJaG5VbDdCS2MtaDA2czNGZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Drops: Why Chipmaker Shares Are Falling Ahead of August Earnings - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdEthZ1BlZW5yU3cyeFVDX2d3TE91eVdsMlJlR2xNdUMySEJEbFoyRGp2LWRoOFpUaHY0dVVhUmRET0g5bFphOGQ0dGEwcDZMYzZVTzJhT0trSVZWaHRlTHhQTDEyelJwNUVBcGw2NmZQUlpiSk5hOFllUFdzeVpudWJKVmk4YmtpN3JHNGNXaDFwdXU4WS1DNTNNcTllZnZZRFp2aWFRRU9nNzdZZUxoWXpFbjRlOWczdi1QdkVPUWg3cUphaHJ0dXd4NHJxb0E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD: Current Valuation Appears Hard To Justify - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0t4MjN6YjdZQkxUakNJSmJfb1FUbEh0MnpZT2RiS3JyNmhRVm02T1VPUVZkbkp4Z3BLM3BkMzE2RUZ4SWxGWDk0WnQ3UDJjT3VqSFkydVpiZHlFMXVIeWgtNmtXQlBwWTRpWm5zcUlDZWJjYmZSQTF5ckNMX3A0VU82UjItVU5lVjFLNW1kc25vZGVWM0k0?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 739.0,
+        "changePercent": -9.94,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Stock: Buy When There's Blood In The Streets (Rating Upgrade) - Seeking Alpha: Micron Stock: Buy When There's Blood In The Streets (Rating Upgrade) Seeking Alpha...\n- Micron Technology Inc Stock (MU) Moved Down by 4.42% on Jul 29: Drivers Behind the Movement - tradingkey.com: Micron Technology Inc Stock (MU) Moved Down by 4.42% on Jul 29: Drivers Behind the Movement tradingkey.com...\n- Stock of the Day: Micron Breaks Below Key Support — More Downside Ahead? - Benzinga: Stock of the Day: Micron Breaks Below Key Support — More Downside Ahead? Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Stock: Buy When There's Blood In The Streets (Rating Upgrade) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3VNVFMyek9LVlZtNEhjaVgzeUpIRThIU2VnWWZzMnhoRkZxYUVuelNWbFdBYndLN3FDNm5MNEhFOWVUeDZkX2tuT2pubVM5NWlzUlZfUXBXdVJMWFlRekNKV010eWJtclp5Vlg3cDJtLTN3ck9vQXVIMTNWQ3FNZ1V5WEJWWW9Oa1JMcTlDSkVnQW5kSXRSNHlwX19uV3o2TDVVTU9xaVk?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc Stock (MU) Moved Down by 4.42% on Jul 29: Drivers Behind the Movement - tradingkey.com",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEZDWjB5cGRWa3M0T3ZCNXFuLXhkSkRnaWlCR2RMd25udjlra1hlZ1k2MWRTR09Yb3lHTy1tX1BEYU1MM2ZOaU9XcmRlb3BXT0VPenpwTlpfc0xpQUtINmxTUHZoZGRpRUZ4SDQwQjEtM2xkM0NKNkMwTXcyY2NHU3poMHBYS2Ri?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Stock of the Day: Micron Breaks Below Key Support — More Downside Ahead? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaU9KWTVmRFM5SGpQYWlXVVVVeV92SldwYVYzT29yZFNLRTRwWGRzWnRhUE9BRFFzZkY2aVBBaDQ3dWVOUU9MQmUtNlVYWkpJR2RIVmRVRXlmWmFHVTUzOUdleU9DdFgzYmtOSjNEdncwd0RWSXhhZTEyeUpvb2RwYmFNZGo5MnF0OTR2ZUNqTlhTckx5TE5YUFVaYmJvVkVxN0F6alY5T1kxZFFfcEF3ZVB1MEtaSkJlTnY5WjN6TWFwWmZkMVVVZnkxTS0zdw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-28": {
     "date": "2026-07-28",
     "lastUpdated": "11:03 PM KST",
