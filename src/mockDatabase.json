@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-08-01": {
+    "date": "2026-08-01",
+    "lastUpdated": "10:58 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 713.94,
+        "changePercent": 2.99,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Amundi Has $160.28 Million Stake in Lumentum Holdings Inc. $LITE - MarketBeat: Amundi Has $160.28 Million Stake in Lumentum Holdings Inc. $LITE MarketBeat...\n- Lumentum Holdings Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs: Lumentum Holdings Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs...\n- Is Lumentum Holdings (LITE) Expensive Following Barclays Upgrade And Earnings Beat Hopes? - finance.yahoo.com: Is Lumentum Holdings (LITE) Expensive Following Barclays Upgrade And Earnings Beat Hopes? finance.yahoo.com...",
+        "sources": [
+          {
+            "title": "Amundi Has $160.28 Million Stake in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUJLak80Y2xZRHJSdzBhN2F2OXdtZnp6T1ZOdTkwS2Y2anhreFRjXzVyQ2F3bU9JNERfengwb3E0cE1aRURXZkxSTjZYY2N6VFdCbTlVSnV4eEozczl1LTQzTFN6THZyNVdZWmFHTUp3VEZQVzRvY3RrSFBiU3VxODBjZDd5eHBuTXlsMmpGbE1Oekc4R3NHY3R4czlZendKS01SMkMwLWhaTGt1cnpOMmsySDRsdmVYb281TkVB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0ya0k4VW00NklzZk5NUGVWaXRJTlZwbUxJZURma3BzVzlUSlNzeUdyb3RuR0IwLUZDRlBVNW1NVHpJeGs5UmNhNUQxMzVGY2U0LTFfQnhxNVg3OTdISXlBMnNpaHI4YUFZay1fRnV2bmVUbVE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Lumentum Holdings (LITE) Expensive Following Barclays Upgrade And Earnings Beat Hopes? - finance.yahoo.com",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWwwRnZsc0ZQOTNNZzBwVU9YWk1seWxMNlNfQzhVaGRlaDRSWlY5aEZTRmIzZlRlN3pSTXg1bFFPN1NjSmdRbWRQbjhQSVdLQzMxUl9HMVdwZ3M3MTdsX2FuT3dqZWpVTUM4TUlnc0VsRHR3Q21NWkkxUlhpYktuLWRTd0JOVnZmalBicFk5RThiZ2h2WGp6dHdVWmNOTUhTd0VXT0RSV0trR3c?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 90.2,
+        "changePercent": -1.02,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Jim Cramer Reveals Why Intel Corporation (NASDAQ:INTC) Is About More Than Just Selling Computer Chips - finance.yahoo.com: Jim Cramer Reveals Why Intel Corporation (NASDAQ:INTC) Is About More Than Just Selling Computer Chips finance.yahoo.com...\n- Intel Corporation Stock (INTC) Opinions on Earnings Beat and Restructuring - Quiver Quantitative: Intel Corporation Stock (INTC) Opinions on Earnings Beat and Restructuring Quiver Quantitative...\n- Intel Stock Sinks 40%, But Most Analysts Still Aren’t Bullish on INTC - Barchart.com: Intel Stock Sinks 40%, But Most Analysts Still Aren’t Bullish on INTC Barchart.com...",
+        "sources": [
+          {
+            "title": "Jim Cramer Reveals Why Intel Corporation (NASDAQ:INTC) Is About More Than Just Selling Computer Chips - finance.yahoo.com",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdk1QVjhON1FReUctY2FzXzFpR0NqQ0dHMWFYYTBRaHF1Zmd0cE9jOEI5MFpoTlB3N3RrVjZfV1pZU0dVMktXdFVjck5peDRnNmZkbXJESms5YVRDcWdTZlh0WU01UlFETHlVZHAtM3UzRmtNUEg4Sjgxc29HUFRYRWYwSFpvQlpsV09ndGc0WDd6bkNwZW93eg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation Stock (INTC) Opinions on Earnings Beat and Restructuring - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzcyOUoxN0d4bWRYMXVFQ2ExbzVkdVZUR0xwa1BqNVNfemI1eFhUTUVQNmpDQThya0FmZWcyclRXUGtyQTl5N3hPdGhnd0VmODdiZ1dBb195LTJNVm1xME4ybTJFVzdPWlN1QVRxSXltY2NSREpxa2pJQ3hYSXl6WUlzRkZhTjhUZWNvRU1KeloyNjYwSjVIZ2VNQUR6ZU8zTmR6Vzd2TlJGTGRLbjhiNg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock Sinks 40%, But Most Analysts Still Aren’t Bullish on INTC - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdlh6M2tHWi1rM3hGck8teW16bkhfMVNFUEV2T29zTkMtRXRaWlEybm5TbG1FcGs2SFZWQllxQTMzZTROZ2JMVHI2SlowU0dENlpQc2w5cXEwUHBGZ1NTc1NZSktKNWFOajUzNWdVdkZMbTBmNW56MnkwMW11TTZqUWdFRWNCekZzeFRpNnJST2FxRjhValUxdk1zcGNaVlZyOUdQa1dxbGhVVWp0bnZZ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 476.15,
+        "changePercent": -1.9,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices Stock (AMD) Opinions on AI Event and Analyst Upgrades - Quiver Quantitative: Advanced Micro Devices Stock (AMD) Opinions on AI Event and Analyst Upgrades Quiver Quantitative...\n- Westshore Wealth LLC Purchases New Holdings in Advanced Micro Devices, Inc. $AMD - MarketBeat: Westshore Wealth LLC Purchases New Holdings in Advanced Micro Devices, Inc. $AMD MarketBeat...\n- AMD: Current Valuation Appears Hard To Justify - Seeking Alpha: AMD: Current Valuation Appears Hard To Justify Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices Stock (AMD) Opinions on AI Event and Analyst Upgrades - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdlBqQmxCVFVLR2VfYnV3VG5QODBiNDdJY3dDX0NOWkFpNjdSM05Wc0I5aDdJdWp0OC14Z2dqYk9tbW1mVEVfbFlSZTJKOXBfTjdxME1lMHU5MUhOZm5FeUwwMVVIdzBwT1ZkNEtuVjRZYnlCLWdnbXFwU1hOLWxXLWpGNlI4OEpaUURYVUtkaVg5dXlDQmNETjloVlBwX015WERtRjNsRmdnVkF6eUdKWHhkZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Westshore Wealth LLC Purchases New Holdings in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFIwUlpUTXF6TW9tQjdnc3d2UGpRRVozVkdTZEZFVldXYzcxOU5GMUREeDZnTTZwdU4yRzhVcm41VWRCUkZmUldnZGxqUThyOWxCTW4tYVBIQXlwTHFBS3diQ2VjWjJoS0p3QUVZazluMlhuSjlETmt6LW1lUlZRNWJMN0M2eXdyUkhzUGp4dXhpUkpkUHdTbUFfYXVqOXpVSmllWUx6RExRZjlhQjJ1TElicklFNEFwMXZlY2htSnU2QTBUMzdoa1ZMVy0zenNqVTF4LQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD: Current Valuation Appears Hard To Justify - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0t4MjN6YjdZQkxUakNJSmJfb1FUbEh0MnpZT2RiS3JyNmhRVm02T1VPUVZkbkp4Z3BLM3BkMzE2RUZ4SWxGWDk0WnQ3UDJjT3VqSFkydVpiZHlFMXVIeWgtNmtXQlBwWTRpWm5zcUlDZWJjYmZSQTF5ckNMX3A0VU82UjItVU5lVjFLNW1kc25vZGVWM0k0?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 823.03,
+        "changePercent": -5.9,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Fund’s Missed Bet on Micron Technology (MU) Weighs on Performance - finance.yahoo.com: Fund’s Missed Bet on Micron Technology (MU) Weighs on Performance finance.yahoo.com...\n- Micron Technology (NASDAQ:MU) Shares Drop 10.6% Even as Memory Market Remains Tight - TechStock²: Micron Technology (NASDAQ:MU) Shares Drop 10.6% Even as Memory Market Remains Tight TechStock²...\n- Micron: Buy Low, Sell High (Rating Upgrade) (NASDAQ:MU) - Seeking Alpha: Micron: Buy Low, Sell High (Rating Upgrade) (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Fund’s Missed Bet on Micron Technology (MU) Weighs on Performance - finance.yahoo.com",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0RrV1gwY3pEN0RxWFZJUms1dWI4Y250R1N0aGZWaFFhdEI0MDdQQWxxUHVBeDlrNm5RUTFYODhZVmZLd2p5RHhkY1dPRlhaQkdBakpvSHVSMDVxdVBhT3VGc1VuTnZHRTdOSW5NT0ZUNGtLYmNjZWd1ZDE2azRmMENJTmcwNEI1eXZwT2JuLVRFN1g0OXdtczZwNHZjems?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (NASDAQ:MU) Shares Drop 10.6% Even as Memory Market Remains Tight - TechStock²",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHlMSzZHcjVCem9hS1pRQnJVbWdXTFJ2anVNWDR3WkdMRmZMS1MwYms5SW1HNFhGQUluWW1aSU8tdFBMbEZsZU1FZXd4bERyUHI1Rmk1Ny11SnpSYl9sV19nMll3S0l2MlZScTlJdFQtZ2xIQnpyMzlnSmVDNGxlV1d2cEJFMWQ5RFpXdFk2dDlYUFpwSzFWQWQ1amVNY0dxRWc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: Buy Low, Sell High (Rating Upgrade) (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYWlVaVVXMktTZGRPTGx0SVNxbktMWmRiX1R2WFNrTmZ6eFpRTzgtT2NzZUhqLVZsYmx0SzBNWGZESGFWb21VcDdFRGVUS0t2cmk2QmN3ckVCR05mVlpYX3VGWlc2SzBMbjBTWmw1Zjhqd2pfS2hpd014bG10TmlPS3ZuT0RkRzQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-07-31": {
     "date": "2026-07-31",
     "lastUpdated": "11:05 PM KST",
