@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-08-03": {
+    "date": "2026-08-03",
+    "lastUpdated": "11:06 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 779.89,
+        "changePercent": 9.24,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- A Look at Lumentum Holdings Inc (LITE) After 9.2% Gain -- GF Val - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 9.2% Gain -- GF Val GuruFocus...\n- Lumentum Holdings Inc. $LITE Shares Sold by Wealth High Governance Asset Management Ltda. - MarketBeat: Lumentum Holdings Inc. $LITE Shares Sold by Wealth High Governance Asset Management Ltda. MarketBeat...\n- Lumentum Holdings (LITE) Jumps 9.3% to $780.46 - AlphaStreet: Lumentum Holdings (LITE) Jumps 9.3% to $780.46 AlphaStreet...",
+        "sources": [
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 9.2% Gain -- GF Val - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMXBEV0QycFZFVHVvSEs4X0owaE0xUlNPLTgzVDhwRzFibHliN2RHbVdsUmRlVnNDTmo3Y3BKWkl2SURwN1dsR3dubmNKckxxUXZEdU5Ma1J2MGF0NHNHT28wT2JyLTVYUW04NUdlLVFmLTdYTVYwZk56X1ZDT2REQWVEVHc5UUlRT1NjanJfa1VyT2NyNjRsTW9Na084cW9kUXV2Skd5ZDlUTUc3M0xSSmhuczA4a3lFd1FJ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. $LITE Shares Sold by Wealth High Governance Asset Management Ltda. - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNzd0NjM3VTd2U3hMMXJIY3pjalhpMTJ3MlZyOVBSZERHT1l0WUxmcEI5UE53Mkt1c2V3MENPalhBMGVSTTEySVdCZWN4MGJZRVRUNjk1WGJPdGcwLWE3T3BwUEQtcFdiYlB1ekd6a1JBQTlQcW9EWUVmbTFYZzJ0RnNlanJPUk1SVkhtbl9lNlc3RnZiZDN5NUkwbk9zN3R4aUZwanFBeWF4ek41bUNhWTFORVJ6cE5FQ0JWVldvZEFnQ0dyc045RHJFQWR6MjV1QXlXcnhTVXUzM0VYaGdiLQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings (LITE) Jumps 9.3% to $780.46 - AlphaStreet",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcno2OTZGSGdHTi1oVjBtbWlwR3k1S0JwcnRzZ3NZSmRKLURGYlYxTFUydHZPaERvRUg0SzZfbC1UNkxHcjR4YzVHWWJsOC1yV1c1MDlxYnJTNUUxejJ0OTBFcU0tUzhHZm9yZkNSZXNJaXdIa3BMN0JISVRDdXA0UlFn0gGCAUFVX3lxTE5yejY5NkZIZ0dOLWhWMG1taXBHeTVLQnBydHNnc1lKZEotREZiVjFMVTJ0dk9oRG9FSDRLNl9sLVQ2TEdyNHhjNUdZYmw4LXJXVzUwOXFiclM1RTF6MnQ5MEVxTS1TOEdmb3JmQ1Jlc0lpd0hrcEw3QkhJVEN1cDRSUWc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 91.0,
+        "changePercent": 0.89,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Stock Is Falling Monday: What's Going On? - Benzinga: Intel Stock Is Falling Monday: What's Going On? Benzinga...\n- Jim Cramer Reveals Why Intel Corporation (NASDAQ:INTC) Is About More Than Just Selling Computer Chips - Yahoo Finance: Jim Cramer Reveals Why Intel Corporation (NASDAQ:INTC) Is About More Than Just Selling Computer Chips Yahoo Finance...\n- Intel Corp (INTC) EVP vests 33,007 RSUs, withholds 14,738 shares at $90.04 - Stock Titan: Intel Corp (INTC) EVP vests 33,007 RSUs, withholds 14,738 shares at $90.04 Stock Titan...",
+        "sources": [
+          {
+            "title": "Intel Stock Is Falling Monday: What's Going On? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbjBTWTY2NkZtQnRWdFQ5MWVrbmplNFJ5Y1Z4RVNwemZJRzJGTjZXVmktYW40YmttUVoxRGNMT3ZxeDJKMnJSNnZJZkNqUGhtMkF4Vk0tZFpMakZYeGJQQ3NzLU9kRXlJLUdKZnVkbnFoV2ExVzAySVFTdG40UkVKcUcycDFrU2d6S1QyODY0MGlkWWFHSkR6RFpKMFM1UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Jim Cramer Reveals Why Intel Corporation (NASDAQ:INTC) Is About More Than Just Selling Computer Chips - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdk1QVjhON1FReUctY2FzXzFpR0NqQ0dHMWFYYTBRaHF1Zmd0cE9jOEI5MFpoTlB3N3RrVjZfV1pZU0dVMktXdFVjck5peDRnNmZkbXJESms5YVRDcWdTZlh0WU01UlFETHlVZHAtM3UzRmtNUEg4Sjgxc29HUFRYRWYwSFpvQlpsV09ndGc0WDd6bkNwZW93eg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp (INTC) EVP vests 33,007 RSUs, withholds 14,738 shares at $90.04 - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlB2dlJFWHQtRXctX3VqZThMeU5SVFRQSnhNZERfVXVvdDJKdUx2eUgyb19rd1U4YTRTamxpNklMWFN6WjQtNDlZWTBFaUtCaXZwcEJ4a1BNN1B6UHZHeEVLRU53Y1ZDM2ZIQ3BOWUdGUjhHV1Bkd2pqckxwTWRFYTY3bVV5VElkUE5ld2lOd1NUbWl1d1hjWWpGS0xva1ppWXhvMVhoRQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 484.64,
+        "changePercent": 1.78,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD Stock Climbs Ahead of Q2 Earnings This Week - Benzinga: AMD Stock Climbs Ahead of Q2 Earnings This Week Benzinga...\n- Advanced Micro Devices options market prices an 8.5% post-Q2 earnings move - Seeking Alpha: Advanced Micro Devices options market prices an 8.5% post-Q2 earnings move Seeking Alpha...\n- Advanced Micro Devices, Inc. (AMD) Earnings Outlook & Stock Forecast - The Globe and Mail: Advanced Micro Devices, Inc. (AMD) Earnings Outlook & Stock Forecast The Globe and Mail...",
+        "sources": [
+          {
+            "title": "AMD Stock Climbs Ahead of Q2 Earnings This Week - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVG8xblpCLVFIUkhIZ3JvSnlqZ082ZDA2dV9jRDRpS0RfMDlLY0MydDQzSTdJcFY4dF80SENVMVFRLUlaNExRWlhCbVg0eTVRWjRVdU5sVHJyM1kycXQ2MU5hSjI4Z2N3MkxzXzRjWG5mMlcwTDFRWkdOTTdEeFpvOENZenNyeHg3NFBWMi1udHU5cm4wRGNIN0tYel96Rnk2SGdORDVOQW9TaEF4?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices options market prices an 8.5% post-Q2 earnings move - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXFNRzMxWGxNOW14YVZOQTNYclpsUGpMLXZsM0xDWmhURi1sMlVZNnNiTTNGcTg1MVhDVkQtUW5SeUcwbGhqZENCbTFEa0JzaWVMVkxLdjNFTFR2Q2tHQ0FuY1FvREE1QkZJRHpzMXY5OVRSVjMxNS1ZcTRzOG5qNTBHUElJbEZ4WXBUR29lYmc0eGZIOU80WnZzeTgyVE16SWxlX1IyZ2VPNEhQU3p3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD) Earnings Outlook & Stock Forecast - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLXVxczRpODZQRGsxTzlfWDdoT285REFhSWJ2emVmS0YyTkt0bUs0Y216U2llbEJQb1poYkVFVFl2ZWVaSXN0RTlwN3RzQ2NqODdhTzNIMVJsZ0pkNU55UE5jRTVJTmFsNTFXLU5WcHZDdUZ6aGFUS0FJaXJQOUdMVnFnUGFNYVBwdlFPYXotOF9iUVpaMDdtUHU2TU1FSDhBeDNiOEN3NkxZUkxOdnBaNEtVRGtEdlNnRmxIRkxVUDItaXRMVERicm1rbXQ5cUdsNWo0VS1uTnk2MmV3d0RR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 829.5,
+        "changePercent": 0.79,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Jim Cramer Named Micron Technology (MU) His Top Memory Pick - Yahoo Finance: Jim Cramer Named Micron Technology (MU) His Top Memory Pick Yahoo Finance...\n- Micron Technology Stock Is Falling Monday: What's Going On? - Benzinga: Micron Technology Stock Is Falling Monday: What's Going On? Benzinga...\n- Micron: The Math Makes No Sense (Rating Upgrade) (NASDAQ:MU) - Seeking Alpha: Micron: The Math Makes No Sense (Rating Upgrade) (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Jim Cramer Named Micron Technology (MU) His Top Memory Pick - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU0J2a3NJcWZWaFdmUlhOTkFGeDdsLU53dFVGS2FmNTZaYld5Y1BNRXQ0N3NfdHJvS0JIc0tqTDEyeU5rTHh1Tk1OcnpjSmJsLW9QUk1hbTRCaXgwbnFacTFNYTZnTXhoRUoyM3JiSGtPbS1Vem12cUJnMG12OV9ualhxM2J4U2x2SVh6dVREWlNRUDNEcmozYTlxSTJfWlEx?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Stock Is Falling Monday: What's Going On? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXludzVQWlZWdGctSWZYUTBnZTdTRDVYLVpkM1ItbXc3UVRqNWxmUnNqbGhUNWdwUEE2dS1qTXBLMjFwU0ROTm5jWTVaR29BOUNRVDdKdG0weEk0ZDd4dVRveDNlb0RNbkJVNERCSzBKUUlzRkJqOHlDQW9iZGtyTFFJRzRKMkV4QjJTWlFzTC1mQTNKYXdHcXExLTdzM0NaSlA4dGVzM1NURmM3RFE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The Math Makes No Sense (Rating Upgrade) (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVzN6MElqM2tyM0xNZHc2NEhuLUJlVUhWTUhaRXYzd0h4aHpVVFRaUUVGUktNMndNdHluYS11ZkRGS1hiMnBINHlzV1I5bXFuV1hWTzF6cTNibjhZanNqTHZBU0ZxdmU4b1hZRG1WY1Y5QnNOT3JLeGhxbGYxX2JBanAwRllESzNvSlFrLU5xRQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-02": {
     "date": "2026-08-02",
     "lastUpdated": "10:58 PM KST",
