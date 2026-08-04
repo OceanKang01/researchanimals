@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-08-04": {
+    "date": "2026-08-04",
+    "lastUpdated": "11:06 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 849.47,
+        "changePercent": 8.92,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- A Look at Lumentum Holdings Inc (LITE) After 8.9% Gain -- GF Val - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 8.9% Gain -- GF Val GuruFocus...\n- Lumentum Stock Soars on Trump’s Ban of Chinese Components - Benzinga: Lumentum Stock Soars on Trump’s Ban of Chinese Components Benzinga...\n- Lumentum Holdings stock may move 9.5% on Aug. 11 earnings - Investing.com: Lumentum Holdings stock may move 9.5% on Aug. 11 earnings Investing.com...",
+        "sources": [
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 8.9% Gain -- GF Val - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbXZkNUxWRm5LOVV0MTlWUzA3dnNwd0lBZDVPaUlNdGxBTkJTcmY4NHNVWWNxZUZrZFl2dlB6SUhxTGVBS2hFcl9MWGQ3TE54Yld3d0dlMGhUcUdjb2xJSVo5RzZvcldKUXQzZUk2RkZ6QncwODJBTjVMb2xyY3VLZXBKZG5jNkV2TWphbjlNRE9GZlVfaTh3Qzc5dGMyVnZIZFBodUtlOXBlbm1BdG9feVVmSDNyeWd4Tktj?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Stock Soars on Trump’s Ban of Chinese Components - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEtLMU5BT2dJSDZkMmM0RUo5bEZwZWMxOXVXbmViUldhUXUwODZnYkx2TlNLNVhMZXNQYVJTYUdJcTNrMTN2elhmUXByLXRzYzFCN1JjTV9mamtaZmJRblBVMzMzclp5WFNxM0FJNjlQU1BfVElRNUpsb3hUVnhlN1pRY2FhV1k4bXBPZzlBbVFXalNWOUNveGVWWEdaYWpsVHVLWFlNOGVGRHg1MXdZeHBIbG1VTlBQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings stock may move 9.5% on Aug. 11 earnings - Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORE10YlJSWVhPdmRQR0tWaExiNFBCYTJ6b1FBZVhGcHFVb1RWWGtuQjZuY2o0TE95dzNmMlNnbTM4X1JNTlU3RG5yVVlhRjg4cnRzVTBwbnNuUUItTmFWQXJFR2lMSnNJU2duS3ZnWkk2ODYxQmRTMFhMZ3owOU1oTWlIZ3JWaXduXzZWNkFuQWRENmYwc0hiU1BfV2hleklmLU5XTlFvMEVtNkNJV0R1M21XQTRtdkU?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 100.86,
+        "changePercent": 10.84,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Jim Cramer Reveals Why Intel Corporation (NASDAQ:INTC) Is About More Than Just Selling Computer Chips - Yahoo Finance: Jim Cramer Reveals Why Intel Corporation (NASDAQ:INTC) Is About More Than Just Selling Computer Chips Yahoo Finance...\n- Intel Corp Stock (INTC) Moved Up by 8.47% on Aug 4: What Investors Need To Know - TradingKey: Intel Corp Stock (INTC) Moved Up by 8.47% on Aug 4: What Investors Need To Know TradingKey...\n- Janus Henderson Group PLC Has $24.32 Million Stake in Intel Corporation $INTC - MarketBeat: Janus Henderson Group PLC Has $24.32 Million Stake in Intel Corporation $INTC MarketBeat...",
+        "sources": [
+          {
+            "title": "Jim Cramer Reveals Why Intel Corporation (NASDAQ:INTC) Is About More Than Just Selling Computer Chips - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdk1QVjhON1FReUctY2FzXzFpR0NqQ0dHMWFYYTBRaHF1Zmd0cE9jOEI5MFpoTlB3N3RrVjZfV1pZU0dVMktXdFVjck5peDRnNmZkbXJESms5YVRDcWdTZlh0WU01UlFETHlVZHAtM3UzRmtNUEg4Sjgxc29HUFRYRWYwSFpvQlpsV09ndGc0WDd6bkNwZW93eg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Moved Up by 8.47% on Aug 4: What Investors Need To Know - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZG0tbFFsLUdEdHVHZkh5TnN3MHItWnFwaU1HVHBGOEZCdm0xZEtnbDhzcVJTN0V6UHQ4YW1WZHpSVGxOMVpXTHdWZm84VjAxeE1YaFNlSThSU3VNVjZqeEZTWWRBT3o0UWdmTlR6NXdIQ0s2MXFFNGFDZElxTWZHbFNMN0NyaXcwZ2Zj?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Janus Henderson Group PLC Has $24.32 Million Stake in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaDA3YkVVcFhac2NDYzR1UHEtNFpGbHU4Z2wtZDc0bk9hQzJNTy00cWNENzRuWjVYdV9FLVNKb0tNTVlVMVY0SXdKYnRYZWZpQ1dzbVM4X283UWdTRG1rSzhDUFRMTWdKMDhHdE1EalgtV2dRZ09xWlRLSTRoS2o5cUNpTlhNR0FNZWtGdGdCLWUwSlk0YUdmX0U2QURxMDdiWDgwSDIyVU5XMmNuclYydVRhanlGbDJ4Zmk5R2dabVR3Qjl5TzExWldOX1dfdXpR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 518.58,
+        "changePercent": 7.0,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD's revenue climbs 50% and data center sales doubled, but the stock is down - CNBC: AMD's revenue climbs 50% and data center sales doubled, but the stock is down CNBC...\n- AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - WSJ: AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX WSJ...\n- Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool: Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026? The Motley Fool...",
+        "sources": [
+          {
+            "title": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down - CNBC",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FSkxiYWZwZ3B4SElFOWl3R0tlcUowc0ktU3JLN3lBTG9iSFBoMllXVExVMjR2bHY1NjhkSzZzRE5hdzZjcVBkM2NoMkl1Y3YyT09xd2NSVEx0ODA1NkZSbnh3aGl0ZTJJRVdkS1NLVWl6Z9IBd0FVX3lxTE5DZjZ1S0J3SURPUW8tNlIwbG1CeDIwRDlPY1lRQmN1YW9GQjZ4RjEtMmtQS0tvS0RMS2UxQW5Bc0UxU0hnbUxuYk10MlFxNXFVSWJ5MUc1YWVHRG4zSWEyY3dTS2k1RFA5dW1sWVBCdkNZLTFMRjgw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - WSJ",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFaGtxOHFMdFctcDd6TTgzZndpV0U1QUFGRV9nbFdxcVZDemlTTW80ZmZTOWxXT0N1ZUJYM3ByQ3Z1ZGF3d1E5S2FjRlp3dzBicVRtaGNBMUV5V1BEWUFfZ2lwaE9kck1xYlNYTENuTnFlMEFkcHlwRGpxYlY1UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdnJhZDNhOFFPWkZ0VzdObnJIUzJxRUlpbVdhQm9ZOU1vcmJ6LVhpNEtXbkxmWlh5aDZvUUl6aFgyTzdXYWhyZ1IzSTFjWmhhdXI2OWVMa2F1UzlsQS1QY0JVTmdUcllldV81eWpyNzB1ZUdNMHZjR1ZJYjZNZmZabmZEOThYWFRsMGJZME4tQ05ZREw3Mm9TR2IyVWVuMFlhZ1pxVTQxRGp0WTQ4b0o4dEhRRjVDR1h2dWpLVWxVS3VscS1aWEpzbGpOTQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 892.67,
+        "changePercent": 7.62,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Bear-Case Earnings Could Still Be 8x Higher Than 2018 - Micron Technology (NASDAQ:MU) - Benzinga: Micron Bear-Case Earnings Could Still Be 8x Higher Than 2018 - Micron Technology (NASDAQ:MU) Benzinga...\n- MU Stock Rallies As Analysts Hike Aggressive AI Price Targets - StocksToTrade: MU Stock Rallies As Analysts Hike Aggressive AI Price Targets StocksToTrade...\n- Jim Cramer Named Micron Technology (MU) His Top Memory Pick - Yahoo Finance: Jim Cramer Named Micron Technology (MU) His Top Memory Pick Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Micron Bear-Case Earnings Could Still Be 8x Higher Than 2018 - Micron Technology (NASDAQ:MU) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnZfaE5JUUU2ZVdRdEFwMVVJYjQ4MVlRMUtoNzN5WnFBcW9JTV9YSU9xZTV0U1gwUlJDTDA0N1cxMDhCcEhOQm1XeEEzZGc5N2FnUWhQUTVpUFBXN3pvNWVZWEVlRlhqTEZhaVJwSjlkZS1PRlM4YWc3NXpXRWRYNTFuLUM3RDBoNVF0VFQ0MHhWeVFXdGJGZzRn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Stock Rallies As Analysts Hike Aggressive AI Price Targets - StocksToTrade",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44M09PRzk5NGtqR2dfWE9HSWRUX3EtQlFzR3VtblVQQ09SQjZzbGpXRVdzbUthVDgtVjE3enZ5MW5YXzRtWS1jNjdfdUZ6OFVjMTE3X3NZeVYwQWV4c2ZQbWI1RlF5QzdVUEt2NnVwZXE1TU5NNVliOUFXWG4?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Jim Cramer Named Micron Technology (MU) His Top Memory Pick - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU0J2a3NJcWZWaFdmUlhOTkFGeDdsLU53dFVGS2FmNTZaYld5Y1BNRXQ0N3NfdHJvS0JIc0tqTDEyeU5rTHh1Tk1OcnpjSmJsLW9QUk1hbTRCaXgwbnFacTFNYTZnTXhoRUoyM3JiSGtPbS1Vem12cUJnMG12OV9ualhxM2J4U2x2SVh6dVREWlNRUDNEcmozYTlxSTJfWlEx?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-03": {
     "date": "2026-08-03",
     "lastUpdated": "11:06 PM KST",
