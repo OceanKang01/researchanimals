@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-08-07": {
+    "date": "2026-08-07",
+    "lastUpdated": "01:30 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 838.06,
+        "changePercent": 1.43,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc Stock (LITE) Moved Up by 5.04% on Aug 6: What Signal Does It Send? - TradingKey: Lumentum Holdings Inc Stock (LITE) Moved Up by 5.04% on Aug 6: What Signal Does It Send? TradingKey...\n- Lumentum: You Snooze, You Lose (NASDAQ:LITE) - Seeking Alpha: Lumentum: You Snooze, You Lose (NASDAQ:LITE) Seeking Alpha...\n- Is Lumentum Holdings (LITE) Reasonable, Or Are Expectations Too Rich? - Yahoo Finance: Is Lumentum Holdings (LITE) Reasonable, Or Are Expectations Too Rich? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Moved Up by 5.04% on Aug 6: What Signal Does It Send? - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWVRjUmlYbGpCMWZtTFNKRzdFSF9SZldIZnBTb2wzVjR2Tm1QYU5QZmJpYUtaNGh1ZG12YUVpVFVxUDlXNTA3WW5tTXFzVXJqR3N1dG81dHlNMUxpeWg4d1hSUHEtaDhCbHFMVHpha1VxaVp4YlFlRUpIaE5JeTJHZXowbUF5S2xUY0hZ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: You Snooze, You Lose (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ja2s3dXZ5dFBFNGlIWW9lSTFLN0ZwQy04VXczVkxwNE5tWWFmTjJic3gxQWtyTWl2eFc1Z3hHT3lneHNmcWNNQ2xWclROdUlxWmFpQVJGMW1nYmk1MmNxbjZkQWVpNWxQUWVDYTlmaGpIRWZCaWJkWQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Lumentum Holdings (LITE) Reasonable, Or Are Expectations Too Rich? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZW9tTlYyWXRULVdfRFpTSzMxd2hrOFRzZW5aVHN6VDVER2dESkMwUlNaSGJQbllMQXFTSWRfN2NZWEY0ejc0NXZYVUFKZVd4VVF2X3luaHBJaEN6VV9oZ2VRNWQ4TXJ2OVRDcFowWk9RUWpKUmFuS2I0ZmwwcE93RGROOGcyME0taVZvZVlUYmxyYzZWdy1rR1BZNFdGT191NUk2OFd6NUFWc0xQRXdzNA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 99.81,
+        "changePercent": -1.24,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What's Going On With Intel Stock Thursday? - Benzinga: What's Going On With Intel Stock Thursday? Benzinga...\n- Intel Corporation $INTC Stock Position Lifted by Parallel Advisors LLC - MarketBeat: Intel Corporation $INTC Stock Position Lifted by Parallel Advisors LLC MarketBeat...\n- Intel's Turnaround Entered A New Phase (NASDAQ:INTC) - Seeking Alpha: Intel's Turnaround Entered A New Phase (NASDAQ:INTC) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "What's Going On With Intel Stock Thursday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDlXMzhMcmRIdXFmZmR4WXFRZm0tLU1BVVVuZ3preU1KS3FhRzJHYjdaNUVPT2t3TV9GeTZfQmhWTnF0d2laVjIxb19scmtnUHZoNzliczczX1JiR29TOEJ1ZzNra2RmUDlKOUw1V0JoQ3cxX1FxbXdHNmQtT2w2SmdYeTNaLVIxdkNsYlBqZUFycVdibFB5UVd1QQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation $INTC Stock Position Lifted by Parallel Advisors LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVG9tcExiNm9ZTGJKeGNSNXhRNTlpY2NBRHhlVDNldGNsc2dqT1JLSVRoWmw5VHRDZ2dmd1hBdEtBenE5c3NKQmlZdUdrZ09mUDVsOW1kc0hIRWdLRmN1VDBWR3dpUnZSblZsSzFxOXZTZTJuZS1Kckk1bUxXLWpRX3YwcE90LWhJV3VhNktCTDZueFJ2T0RWczlGZDFsVU1nQU1OM0JWZ1lUZUN4cUpwaWJMZGpTX1pjM0oxemxWQk1jdmllQS1GclZB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel's Turnaround Entered A New Phase (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUxXRkJnYjRkdk1vem44QWZnZ0hmZUFMQ2Q1SVBjT3IxeHFKTTJZNC1XUnVycGpBOTFNMDFsQWdhQWdrSXpNQmRlWEdMaUxraEE3NGpyQVN2Z2U0czBYUHRHR2tPQ3IzMkdwdks5dFc4bnVnQk5tQ29mNjAyYkRneXNLUFo?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 489.28,
+        "changePercent": 1.5,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices, Inc. 2026 Q2 - Results - Earnings Call Presentation (NASDAQ:AMD) 2026-08-05 - Seeking Alpha: Advanced Micro Devices, Inc. 2026 Q2 - Results - Earnings Call Presentation (NASDAQ:AMD) 2026-08-05 Seeking Alpha...\n- AMD Stock Is Sinking Wednesday: What's Going On? - Advanced Micro Devices (NASDAQ:AMD) - Benzinga: AMD Stock Is Sinking Wednesday: What's Going On? - Advanced Micro Devices (NASDAQ:AMD) Benzinga...\n- Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool: Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026? The Motley Fool...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices, Inc. 2026 Q2 - Results - Earnings Call Presentation (NASDAQ:AMD) 2026-08-05 - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOE1tNUYxMVkyUklLelZRZWNHaW16cHlHU1A3c2lrakhid21UaFFYVWQxY3pTN2c5bDRqcldfNnE1WWtBOUUtZ0RfbkVUbmFrdEs4aHJER1p4YlVjS2ZaV2w2a242NnhBWUlKN2pvM0c1RWR2VjFiaV96aWxqb3VSblpfYWdpTHo3N2hrblZvUW1lejJVUDZ3OExUMk12MmR0Q2N4aVlSY2szQm5yeThZ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Is Sinking Wednesday: What's Going On? - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOC1hbHZWZlZCQVNpUEdfcHN2Um5vYjJSZnh0WVZ3SWRQb0dFSG1zZm8weEpSWjZ2RzZRX0NPUUZlaEpmbjc4SUlpbDZ6ZmRNeFBZNVRpRXF1WHhvWWFuM19rWUVvTHMydDJSWjMtRkxOeGlmRjVPZ0xJZkNzNjl2Wm9oT1dFYWtBeVJHbmlBMks2bVAzUnpTc1laeXoxdndfSUdSc2V1TTBLMVkyNkhsSTVpR095NGEtYllueHRDUlBlTFdpU3lJ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdnJhZDNhOFFPWkZ0VzdObnJIUzJxRUlpbVdhQm9ZOU1vcmJ6LVhpNEtXbkxmWlh5aDZvUUl6aFgyTzdXYWhyZ1IzSTFjWmhhdXI2OWVMa2F1UzlsQS1QY0JVTmdUcllldV81eWpyNzB1ZUdNMHZjR1ZJYjZNZmZabmZEOThYWFRsMGJZME4tQ05ZREw3Mm9TR2IyVWVuMFlhZ1pxVTQxRGp0WTQ4b0o4dEhRRjVDR1h2dWpLVWxVS3VscS1aWEpzbGpOTQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 881.47,
+        "changePercent": -1.31,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology Stock Is Falling Thursday: What's Going On? - Benzinga: Micron Technology Stock Is Falling Thursday: What's Going On? Benzinga...\n- MU Stock Slides Again As Semiconductor Selling Deepens - StocksToTrade: MU Stock Slides Again As Semiconductor Selling Deepens StocksToTrade...\n- SK hynix Vs. Micron: The Memory Trade Rotates Into The Valuation Gap (NASDAQ:MU) - Seeking Alpha: SK hynix Vs. Micron: The Memory Trade Rotates Into The Valuation Gap (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron Technology Stock Is Falling Thursday: What's Going On? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0NBdlJ4aUt0RkRaZldaSldVdDhuSXpueU1rUklSTTZrcUdTTURZRUNfZ0RYRTdMNjdZOUVmclluMTktMXdERGtNdUNuX2VDeDMwZGZPYk05LThaNHhPY3lfNmVwNElJODFGVVZGWXVqR2ZFOVF3b1ZlTnYxU3BwMDl6WTlwcWhBT01mWHhhZTlHVzhCNE1kTE1wVHJ5VW1rWVBONDU3Y3pIUnotUHBHLQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Stock Slides Again As Semiconductor Selling Deepens - StocksToTrade",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDS0VlekpBaXdmYWlCMXFnZTg5YzZTOXdqWDVrdHFIam00b2Z4Tmthclpfa1M1elNMVmVoWS1yUmd6WU9DNC1HZ0EwU0xQalN1LTFkZXhyUVdhdldZUkhyS0lDNUZfVHVfaDlBY193ZUZGdG51elZvU3dtTTJzVmc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "SK hynix Vs. Micron: The Memory Trade Rotates Into The Valuation Gap (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTFNazNXeW9WWGRxbjhvaUJDdHI2WGp2RndseGNrN2ZsMmp0OVYwbjV3bkJ6cEpYdU9OMXNaeXRYcHRjSEk3VmlWcVluVkpoNWd4TEZtZEJLelR1aG9BZW1FMHppcmJjX3k1bnlmaXZZaXZZN2VEa2p6ZmR6S2ExRWpCWWhQM0VYY1hXZnBBVXRKMnlmcmlwcW1heTBLVjR5S0Z6ZW9aYURyVVE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-05": {
     "date": "2026-08-05",
     "lastUpdated": "11:04 PM KST",
