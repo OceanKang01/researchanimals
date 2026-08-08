@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-08-08": {
+    "date": "2026-08-08",
+    "lastUpdated": "10:33 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 890.17,
+        "changePercent": 6.22,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Czech National Bank Purchases 2,700 Shares of Lumentum Holdings Inc. $LITE - MarketBeat: Czech National Bank Purchases 2,700 Shares of Lumentum Holdings Inc. $LITE MarketBeat...\n- Lumentum Stock Price Prediction 2026-2030: Could Lumentum Stock Reach $1,500? - TradingKey: Lumentum Stock Price Prediction 2026-2030: Could Lumentum Stock Reach $1,500? TradingKey...\n- Lumentum Holdings Inc (LITE) Stock Up 6.2% but GF Value Says Ove - GuruFocus: Lumentum Holdings Inc (LITE) Stock Up 6.2% but GF Value Says Ove GuruFocus...",
+        "sources": [
+          {
+            "title": "Czech National Bank Purchases 2,700 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT2RIeWw0RFVncWRLSGV1LWhLeU9xZ2QtcFJpVzR3SFRhbWpfdWhHa3dnb0hmN21Rd0hEbGQxRVd3THZqU1RKN3R3Umx1bnRRU29rY1pPeE02el81SFFjOEZmQTAwMm9BbGt4S2pnbUM2ZUxTc2FTWXQtNTAxMFptT2tPazhMOHlMY2FGRXc5LTM5SDZfUXBZcjRoUWNhQmlaaFJkcFJXWXdFaGJzTTg0R1kxX2VlSkNwdnp5bFVzd09LOFNKTzhyNTNVNEk?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Stock Price Prediction 2026-2030: Could Lumentum Stock Reach $1,500? - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVjVHckhfZ3FVTTVEbnFqNjllUGFENGxUbTdZRUJLQlo1Q2NNbEluZlAtYzlvYzBfd1FmMlZRMmgzZ3JCc2pjaVdBRk1Nd1ctM05feFVaNkFMUVhRTzJBOG00bE5rendKVmExLWMwYWdtTktIdHhJV19KTWVpazhQUm9ZNkZubUJRZnAtR28wLVFjSF9seHdyeTZYUVJ5R0F2OTdqOHlIc2ZBdWhmNzl2RW95ZDdDcm9pc1FMV29qNUNYSW1XS1hXQWFmRQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Up 6.2% but GF Value Says Ove - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSHFTcFd1WFBpenJyVDdWNy16MWxDdlpiWUxEOU5lMXBLMmN0TzdzUkVhQmY5cUR4RnpBV1F6dm5Bd3NBMERsb2NfV01INWt5Q3ZsYjQ3dTBZSWloeXcydk5IZjZ2RklDR1VpUGdaRzBnMXVpNlVIQ1Z6V3VpeWZEeUZBaHN5TjVPaU9nc2VuYWcweVVkR005LXVCNzdxZlAteWc5N0JIUEdnYnk2WUlQT0V2VW5PM3lSeVpQXzV3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 101.65,
+        "changePercent": 1.84,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth - intc.com: Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth intc.com...\n- Intel Corporation $INTC Stock Position Lessened by Victrix Investment Advisors - MarketBeat: Intel Corporation $INTC Stock Position Lessened by Victrix Investment Advisors MarketBeat...\n- Intel Corporation Stock (INTC) Opinions on Earnings Surge and Foundry Advancements - Quiver Quantitative: Intel Corporation Stock (INTC) Opinions on Earnings Surge and Foundry Advancements Quiver Quantitative...",
+        "sources": [
+          {
+            "title": "Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth - intc.com",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRUxHR0ptaktqWkhmcjlETXgwR1ctUmRNUG0wSEFHVi1rX2IyM0NFNXRjaFlYSV9nanA1VGo5dFFGWmpYY2ctNFVFX2dJOEdaX0RqYVN2R1U0a3dycWs2WTRjWUVsVWp4LU1SdjlhUlQyaEQyMjdsZlUtb1NLQXdSLTNoX2w0Rm9HTlJISGFQTFptVUxhOUNzcnd0Vkg0MzJCY3N0Z2VNZDJxM3NqamNfWmpn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation $INTC Stock Position Lessened by Victrix Investment Advisors - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV19nLUdTMGNjVktTWGVyRE9TTFFmazBUdm45bWlUYXN6QWlfRGNhS2t4SDNETXVNVHphdXZFMS1kR3hQaUNRVmRZMUR2Rm90bzV0WWJzY0FDcVdlRlRUSDRKVi1EUElOY1pKekpBalJYQnprQkJxTlB0MjRQZjhBTS1lNElOajdnTzBTbHZQZnY0Ry1DdWRQa2JWRUV5TmxqWTVnalJnYmtCLUluaTBfbXpjNldfNnpaQXlhUk9oZlJfeDU4Nm9CcVFac2tRVktBcUZIVg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation Stock (INTC) Opinions on Earnings Surge and Foundry Advancements - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUjBrWlVETnhIcDFkMW14dlpNcTVWazJnSlBvVDd3SFhLUDgzdnB4TkkwVjMyMGZ6cGpLTG1xOXZueXE5VTd4Vm1vSWk2dnU5SVI1NW1XMmc1SUw0X0lnT3VuWkJKT1Q2Q1ZJUU83aEdCSXhWNlVGd0lBM1FXdk5LaFpNUEdERXRMRnI0cjFleWowZzF5ZzlLUC1xeXV6UjgwTEx3QWFCUDZKTGwwNGxfT3o3TzFIcXRuVGJB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 483.36,
+        "changePercent": -1.21,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Should You Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Return of 200%? - Yahoo Finance: Should You Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Return of 200%? Yahoo Finance...\n- Advanced Micro Devices, Inc. Just Beat Earnings Expectations: Here's What Analysts Think Will Happen Next - simplywall.st: Advanced Micro Devices, Inc. Just Beat Earnings Expectations: Here's What Analysts Think Will Happen Next simplywall.st...\n- AMD: The Market Is Pricing In A Fantasy - Seeking Alpha: AMD: The Market Is Pricing In A Fantasy Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Should You Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Return of 200%? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDhfQ2MteVRNZk1SVTRHVUJEdHhqZ2NxTnQySnVoUHVHLVBIbXM5aVBJc2J5dWVrMG9SaG4xRTRZV2paTkZlVldmS0thMTlRUEw4a05sVGJGdnRLNVlwMnhTWlJWT0VKMlJKWW5ldzBKU1FqZE9DOFJRaVZvZXo5aV9mdTJfTDc3Qmo1ODZEVldHZERFbVZJdEZYWQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. Just Beat Earnings Expectations: Here's What Analysts Think Will Happen Next - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaTdVdzB2SC0tcmxCTk5sRm9CR2t2Yl9HTUFUN0s4VVY2VGRPb3ZkZTVLc1l0cDgzMFR4NDliSUJPdXUwT0F1eHplbzdxZ3o0aFpMNXNRZERpWFd5UU9hN3o0VTVKanhoallCRjkybU4ySExqX21rdzhOd25wVkotRDNoLW1MMmMzSDlSWFppUXBLdkdiLTNFamdzWXZUVDlhbko5VjRyTnhDclBWSDZyZjJ1d0tsTEdWOXpMWXhVVTJiT0pNdExQNXFYRmFLQVZyWjVFdVB2SDRNSktCeVdzZGNmN0XSAeQBQVVfeXFMT2k3VXcwdkgtLXJsQk5ObEZvQkdrdmJfR01BVDdLOFVWNlRkT292ZGU1S3NZdHA4MzBUeDQ5YklCT3V1ME9BdXh6ZW83cWd6NGhaTDVzUWREaVhXeVFPYTd6NFU1Smp4aGpZQkY5Mm1OMkhMal9ta3c4TnducFZKLUQzaC1tTDJjM0g5UlhaaVFwS3ZHYi0zRWpnc1l2VFQ5YW5KOVY0ck54Q3JQVkg2cmYydXdLbExHVjl6TFl4VVUyYk9KTXRMUDVxWEZhS0FWclo1RXVQdkg0TUpLQnlXc2RjZjdF?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD: The Market Is Pricing In A Fantasy - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa3RiU2ZYMEg4dGw2emI0T0RsaFRPZGtNMElEX1NVN1hRTFRKR0dITmlUVURHQS1xeVJpTW9KeWJDWlVuRmItRFZ2ZTRhZGFHbGhCejljRDZVdzd1bkg5M0FFVURLaFNROGpscVZSV2tNV180V2VQcHk2MG1pbGgtTlZ6X2NnUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 877.57,
+        "changePercent": -0.44,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- UNICOM Systems Inc. Buys 24,800 Shares of Micron Technology, Inc. $MU - MarketBeat: UNICOM Systems Inc. Buys 24,800 Shares of Micron Technology, Inc. $MU MarketBeat...\n- Micron & 2 Profitable Stocks Smart Investors Are Buying in August - Yahoo Finance: Micron & 2 Profitable Stocks Smart Investors Are Buying in August Yahoo Finance...\n- Micron Technology Stock Is Falling Thursday: What's Going On? - Micron Technology (NASDAQ:MU) - Benzinga: Micron Technology Stock Is Falling Thursday: What's Going On? - Micron Technology (NASDAQ:MU) Benzinga...",
+        "sources": [
+          {
+            "title": "UNICOM Systems Inc. Buys 24,800 Shares of Micron Technology, Inc. $MU - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzMtV2ZBUUZBaFdVdldlOE5pWjJnT3piY25UeVJieUdPM2FMbHRVT2hjT0ZXRHUtTVg5V2xkVlRybFZiYTg1bXEyUFVWNEh3UEdoOVF6MzRoT1NiOVZOYXh6TDB1a2lZT2dRNEZOVkU1bF9MUmZfd3hHYWxrWWViOE00Zzl3cEI4MHNoRi02SzFlRTFtVnNpUFFCbFRfLVNfTFFFWUhIU1Q3S0JnVUtiMjdvMlNmM3d5dHk5ejVDYTFQRlE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron & 2 Profitable Stocks Smart Investors Are Buying in August - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaWVnXzBZR0ctVnFxRmVZb3MySlJNM2dWRmVtMmNCQ3NVR2hfQUxKNWRBRGZoZnptSmFXdm5jbmdQWnZKYm9FdVFzU3dDR3JVZ21HeG5VS2RDUXpLZC1GV3dvTmFHRUc4Y0hISjRiXzA5dXZSMjh0NldWX011VG5kU01Nby15Y2l0aFMxVkNvRXFxWTB4THJvREFaTUZLdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Stock Is Falling Thursday: What's Going On? - Micron Technology (NASDAQ:MU) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0NBdlJ4aUt0RkRaZldaSldVdDhuSXpueU1rUklSTTZrcUdTTURZRUNfZ0RYRTdMNjdZOUVmclluMTktMXdERGtNdUNuX2VDeDMwZGZPYk05LThaNHhPY3lfNmVwNElJODFGVVZGWXVqR2ZFOVF3b1ZlTnYxU3BwMDl6WTlwcWhBT01mWHhhZTlHVzhCNE1kTE1wVHJ5VW1rWVBONDU3Y3pIUnotUHBHLQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-07": {
     "date": "2026-08-07",
     "lastUpdated": "10:40 PM KST",
