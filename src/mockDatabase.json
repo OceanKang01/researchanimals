@@ -21,6 +21,108 @@
       "earningsDate": "TBD"
     }
   ],
+  "2026-08-11": {
+    "date": "2026-08-11",
+    "lastUpdated": "10:49 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 820.59,
+        "changePercent": 0.87,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (LITE) Q4 Earnings and Revenues Top Estimates - Yahoo Finance: Lumentum (LITE) Q4 Earnings and Revenues Top Estimates Yahoo Finance...\n- Lumentum: Fiscal Q4 Earnings Snapshot - KTVB: Lumentum: Fiscal Q4 Earnings Snapshot KTVB...\n- Lumentum Shares Up 3% After Key Trading Signal - Benzinga: Lumentum Shares Up 3% After Key Trading Signal Benzinga...",
+        "sources": [
+          {
+            "title": "Lumentum (LITE) Q4 Earnings and Revenues Top Estimates - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFFIN1hDVjlTMXlIVWFSeVV1TnVib3Vib0wzLWl6NnA5azlkSWgtQW91Z2w0M0pBMk5XUWFoTldzMmRlbUY3QjFnb09JV1lGN3pQQVFlNUZEbWo2MHRIQmgxZWhJOFZJak1hQ3V1VVY3TFJ1a0pUZGwtOVNCd1B0ek4tUGk2V1EyRHpVTEhRampWY3FBbmtDbXpEVHphWVBX?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: Fiscal Q4 Earnings Snapshot - KTVB",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOXp2dkNqWnJkUi11ZXdrdjloNGRMN3p5bEdGbzJETEZVZkRKTHluRnkwNFdUbjJiX1diaGlyRjR3RGYxQk5idWJVZG11LTUxeFNsMzcta3VBWkdRLUUxLUV2YUpvajEzZWJzWnU2TDRXeHk4dkxZOFNlaWNkTllEUEd1MUs0WjF5UDYyM2s0QTlZWjBBeHpKMV9sRWdEV2g4WHB6SE03SnRxNkF1OFVzbFB4VENMQVBhODRBMWp3alFITl9WQldPc2lITy1EUXc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Shares Up 3% After Key Trading Signal - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU05NNG5BNjBGXzF4eVJBeVJlT2dqY2xMM3N3STdhTUdQamFQN2tJZWtkUjc1Mm55eWo1Y3cyN2VrczRENy0zcmRGZ2JUMy16MzBTOVFveUNJS3lWRW5Ea3puVkxrb1ZxaWtsck95anBVRnJRX0JIWExPcW42UGdZOXd6bExDRFV5SXp4clQ4NEI4MnBlbVU3OWZ0dnBVZkc5ZUZF?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 97.71,
+        "changePercent": 0.19,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates - CNBC: Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates CNBC...\n- Intel stock shows resilience above 100-MA after AI capital raise (INTC:NASDAQ) - Seeking Alpha: Intel stock shows resilience above 100-MA after AI capital raise (INTC:NASDAQ) Seeking Alpha...\n- INTC Announces $15B Stock Offering To Support Capex Amid ‘Strong’ AI Compute Demand - Yahoo Finance: INTC Announces $15B Stock Offering To Support Capex Amid ‘Strong’ AI Compute Demand Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates - CNBC",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wLUxnRncxa2pNdGoxaFhBVnZzNU40Qks5MDFnSFJ5eHAzdWo0RGluXzctenFpbmREckVJQkFhTHJMREdNbnZaeDNtYnNDQnBxckd3bGZ2Qm1xbU9ZaW01bkQwNnRvdUFRUUVjYXpyT2JxSjjSAXhBVV95cUxOUFZTSFNOX3hPb2lHTzhMMXdESmV6anV2SlNObC1wZmNDM3RmUmtVdXdfMmpETzkxTmVROG5Idy00V1Q1UEt4b1VEaS1aZEdRRXBYNmZKbGotSU0yNkNPMDJZcHZsU29zMTdWekNHSUNWT2lBellmMlc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel stock shows resilience above 100-MA after AI capital raise (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWdxOXR0aU1PWWRLRzlqZkg1S1pXaVJsSXRqMi1fNFhtS1JTRnFYU2x1d29SYUFUTEhGbV9ObndGc2xFQTEzMzlxNERGcVY1YnN1ZHYyZUxIaE1Na2RXWDFUNU9fUktpRURJNzh2WFp3MTduTmt2aFlhLUJWVTNMN1FMXzNzWE5hQ1VHRDRNR1M4T1JhTlNZSl8ycV9vSW5uZVNBVQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Announces $15B Stock Offering To Support Capex Amid ‘Strong’ AI Compute Demand - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV0JQaDI4U21Qd1E4Q1VpYkF0dlg3T182Nnc3OWt2MHVrQzU5OVRrdXlSc09WajlUQnozX0plYUFPZlpOUVNtOHdZNEdqTkRNSmtycTR2SlFjOGFFcFh3VDBVRjhwNW4xeFM1dWl6N2lnZjdTV1dvNGJHUEhDOHpBNktYbGs0RTR1SkxER1hwSXJjOTFRZWlFNlpPaTdib00?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 474.32,
+        "changePercent": 1.01,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What's Going On With AMD Stock Tuesday? - Benzinga: What's Going On With AMD Stock Tuesday? Benzinga...\n- Why AMD Stock Tumbled 18% in July - Yahoo Finance: Why AMD Stock Tumbled 18% in July Yahoo Finance...\n- Advanced Micro Devices (NASDAQ:AMD) Trading Up 1% - Here's Why - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Trading Up 1% - Here's Why MarketBeat...",
+        "sources": [
+          {
+            "title": "What's Going On With AMD Stock Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdTNBSEwtUzBNQVVKTGVoLTc1WFFVTV92YXdDZm1LdnZ4VXhtLWhMSS11b1hvMVFXNGRWeTZlMGNMd3Y3c0cwcV9qekVaSFBnV01Vc2UzU28tck4wemFJa3BqQ3N0cXZTeE54bHVzeG1oRW9aQ0xYUnUyVHN4dC1wbXl0VEd3U3A0V1NkVzEtY2dRSUJPOFJ3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why AMD Stock Tumbled 18% in July - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXVHWVFFc1NYZlRONnhmZ0dXemtDMXRfcVNhc0drbm4yTF9WRllfZENSblhxaXJpT1ZmakRpaXBYVkZZQU9SeHpZdXZSckZMMkpKc3BYUFY1RHRxV3dWaWU3LThkeUF6LU1xMkNfcnpqR0gteXhOcHBQZUs0bVN5RlZFUnhWdlN3eFZMMmNNLVdLMEE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Trading Up 1% - Here's Why - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2JYRVpkc2s0X3N2b3hzSnBLVG5tSm1Ua1JxNFRzc0FGSlRWX3FwSGNHZWtPSEh5M1pUcUxydHAyT21oQXBrdVFqNTVCajhnMzNSNnVOeE5iSmM0OHViN0N5czB1MEFReWlvUXRHb0tOSnVWdW8zcDFycTN3cjJ0OXV4QW0xWDlsYjhRSFpEcHJnWmZHS2ctclhTYnQzSkVwZGotNjUyUkJNQzFVREE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 868.52,
+        "changePercent": 0.87,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- The Changing Dynamics Behind Micron Technology (MU) - Yahoo Finance: The Changing Dynamics Behind Micron Technology (MU) Yahoo Finance...\n- Micron Technology, Inc. $MU Stock Holdings Lifted by E. Ohman J or Asset Management AB - MarketBeat: Micron Technology, Inc. $MU Stock Holdings Lifted by E. Ohman J or Asset Management AB MarketBeat...\n- Micron Technology Stock Is Gaining Tuesday: What's Going On? - Micron Technology (NASDAQ:MU) - Benzinga: Micron Technology Stock Is Gaining Tuesday: What's Going On? - Micron Technology (NASDAQ:MU) Benzinga...",
+        "sources": [
+          {
+            "title": "The Changing Dynamics Behind Micron Technology (MU) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmVjaGxjNG5BWm5ZQXFVSDJQcVBUdC1zSWlFeHJKTFNtUFVBWjlXZVF0OXI1bXpXcGtGZjNNOUZXelc1Z20wdlhiV09XMEhPbDh3dm54RmdCMDExWnF2MmVwNmFTSU9OcmRaMV8tcEZFSjJURlJDMmVPV3NGdzc2UEMxTGpoNUIyRkliaHVwVnFRMDdwdzN3Qm1pTzQzZHlvanJIdnk2ZzU5WXc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology, Inc. $MU Stock Holdings Lifted by E. Ohman J or Asset Management AB - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ3hCNEVMdDFiRE0wMjN4YzNJQXFxTFU1YmZuUklmcUtNUmJvNnZjYWRPUTVLZlU4SXVib2ZNc1JYVGlHVGRyeC1KRUh0WENzcEZiNlVXT0FUM2xLWUNrSGJuWnE1RHIzTTdqTHNkbmpaeU5fMkNEVnE5SXJaNG96bktjMUtCZWQ3YWtjRzU3T0UwYXVEYnZKa0hTa2VVcEt3dEh6V0tRcHExM2tTQ2JiUTFNdGt0YU1HWWQ0dzN6V0pfMllTb0FBS2gxTWtmYmdMMzRPa3hWZDFTX28?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Stock Is Gaining Tuesday: What's Going On? - Micron Technology (NASDAQ:MU) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXpJNGZ5ZjBGRDNFa0tXdzh1ZldNMzBwa0swMEZPbXpNX1dDaENkdXRReWN1cE5MeDNVeC1RM3lFelVNYkhqc0F6TTJDQ1NKOVFibFlnalB3ZDA5eGlObDN3WkRkU2FTOXpTdHU5ZHNURzl2M09Vc1dTM3ppWmlBaGVOb0RFdXdBTU5QX2I1bkY2Y1FVNGljWnd5LWZXVVFISjJIX09qVWljeVJ4UnVtSkMzOFZMZ2hfTXNtc25DLUxwNE0?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-10": {
     "date": "2026-08-10",
     "lastUpdated": "10:41 PM KST",
