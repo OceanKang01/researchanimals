@@ -3,24 +3,126 @@
     {
       "ticker": "LITE",
       "name": "Lumentum Holdings Inc.",
-      "earningsDate": "TBD"
+      "earningsDate": "2026-11-05 AMC (마감 후)"
     },
     {
       "ticker": "INTC",
       "name": "Intel Corporation",
-      "earningsDate": "TBD"
+      "earningsDate": "2026-10-22 AMC (마감 후)"
     },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "earningsDate": "TBD"
+      "earningsDate": "2026-11-03 AMC (마감 후)"
     },
     {
       "ticker": "MU",
       "name": "Micron Technology, Inc.",
-      "earningsDate": "TBD"
+      "earningsDate": "2026-09-23 AMC (마감 후)"
     }
   ],
+  "2026-08-13": {
+    "date": "2026-08-13",
+    "lastUpdated": "10:47 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 880.41,
+        "changePercent": -5.58,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc (LITE) Shares Fall 5.6% -- What GF Score o - GuruFocus: Lumentum Holdings Inc (LITE) Shares Fall 5.6% -- What GF Score o GuruFocus...\n- Lumentum Q4: Everything Screams Sell, Except The Numbers (NASDAQ:LITE) - Seeking Alpha: Lumentum Q4: Everything Screams Sell, Except The Numbers (NASDAQ:LITE) Seeking Alpha...\n- Lumentum (NASDAQ:LITE) Trading Down 5.6% - What's Next? - MarketBeat: Lumentum (NASDAQ:LITE) Trading Down 5.6% - What's Next? MarketBeat...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Fall 5.6% -- What GF Score o - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObU5DaHFjR1plUHp5aThtTWh0dnV3ck1vbkpuaDNLZnE3Vl91U1VnM0UyWEtndVJFZmRQZnY3TG9CZHhCbDFsTHBZTDN5RV8tUnMzMzZSUGxqS2ZYM1FEU2RieENlVXdQV3hfakZzenFxTGIxSEN5ajNuX0RHQzlWalZTWDl6UU1QbVBubXdRd0VwZWpDTFFEXzRLUnpJOEQzc1g1V1g0dEprNl9oU3lSNzBzUkZUZ1k?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Q4: Everything Screams Sell, Except The Numbers (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUTJmU00wQXhuYnhoNG9wNmE2N24zUWVrS0lENm95SW5pZERBRnF2WXJHZW13ejZKQUk0bWNMdy16T25ReWF0dDlyXzZrRXJBNEowaWFORnIweHFRZllMYmUzZ293Vnp2QUROX0RKcXgtdldWSjNCVG9jc2RNNjJ2dDJIWmxXNUZ3OWNsU0xEUTJvbDlYU3dOeUdNaw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Trading Down 5.6% - What's Next? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWRVZ09KZHBkMUg2RjhVZW53Unc3SmJlU2k5X1g4SWpRWFcxNGhtbHhFSVJPdWhFdTAtMmZMNnhmV0VURnlXNVBjbXlSd01faERzam5yNlhkUGY5aDBaQTdWYW1GWFJBSERxWTY2N253MnZRSFhEOGRsb1JiS1VtaG10TjNSSFMwenlFcHhjYU1WcUdISFg1Z01UYzVPQ3dYZ0E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 104.56,
+        "changePercent": 3.58,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel: The Entry Point Is Gone (NASDAQ:INTC) - Seeking Alpha: Intel: The Entry Point Is Gone (NASDAQ:INTC) Seeking Alpha...\n- Intel Launches Major Equity Offering to Fund AI Growth - The Globe and Mail: Intel Launches Major Equity Offering to Fund AI Growth The Globe and Mail...\n- Intel (INTC) sets up S-3 shelf to enable future common stock offerings - Stock Titan: Intel (INTC) sets up S-3 shelf to enable future common stock offerings Stock Titan...",
+        "sources": [
+          {
+            "title": "Intel: The Entry Point Is Gone (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWmV0R0lpVV9hRFlkYnprSGYzZnRrYmZYQTlvTVhMaXNvN1JoU085bVJjejUtOE13T1FLaUdVS2ZZUTFEVXpHZlFQSWcyY0NVWG5QNF9LS1NmYWptTXVkZUFqcVMxUDduOFNPeFNORktRVE9iOWw2OFI2bDZpMFU1OE9B?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Launches Major Equity Offering to Fund AI Growth - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRWZNVzhySUllcy1pYXBNWWs2d1hzS1paRTgzY2ZlMElfcVBuOXFpcmZxcXV2MU9pYUhReWxMVFVnLUVjdWY2LTcxNzRnTjNsTGNILTlsUHFiUzFQaXEwWVd0bFNlN3hTNkRNb21TQUZEY3dzTXBYaVd2dEV0cGVQZWg2eDd1emdrSVhMdnhXY1pNcWV2U05KLVBTcXJXN3hGTU5HdEtFMVZsZEg4MmNYSGgtTFFwWEZaamZSYzFTVVcxejN4TWt5QWtWQjJwanNGbFhGQ2xJM3o?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (INTC) sets up S-3 shelf to enable future common stock offerings - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVk5aXhyYjlUX3dreTVaMlhIbFg4UEtkaDJCTmgweEc3QlJybmZqTEhoVm1keHdYZmhFYmlZd3RrQVgwMjdWN1Q5Y3pBOHQxRFlGVVpkN0VWVDNmd2xGVkN5SXVkVVJKOWZNZGJ5YkhhMkVPZ1RNUU5Gai1ZVG80UHRfbnc2MkJoRm1ZUzRIU2M1ZG5E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 483.01,
+        "changePercent": 0.02,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Plans $5 Billion Bond Sale For AI Expansion - Yahoo Finance: Advanced Micro Devices (AMD) Plans $5 Billion Bond Sale For AI Expansion Yahoo Finance...\n- Advanced Micro Devices (AMD) Stock Is Emerging As A Core AI Infrastructure Trade - simplywall.st: Advanced Micro Devices (AMD) Stock Is Emerging As A Core AI Infrastructure Trade simplywall.st...\n- Insider Selling: Advanced Micro Devices (NASDAQ:AMD) SVP Sells $67,889.25 in Stock - MarketBeat: Insider Selling: Advanced Micro Devices (NASDAQ:AMD) SVP Sells $67,889.25 in Stock MarketBeat...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Plans $5 Billion Bond Sale For AI Expansion - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbmx5dFRJMUhWYmR6WERKN1lPd0txNWVIcDRRODB3bTkyd3NHdmRTQmI3bmxwVmVqT2N6NHJ3VDRPWnVEUDNlN0pIekMwSEdsZ2gzV0lWenRmSkkyMjlrbUlaMjlwdmtXSkpfYWgyV21kWTIyNUJCTm5HQ2xsZ0M1bVhNazdYMWowMDlNc2tzYXk4NHpqb2QzSnFjNnU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD) Stock Is Emerging As A Core AI Infrastructure Trade - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcVk0RGZneElnSVNuXzhaUVZ6Z19EOVcwTHZ3UWp1M2RXdVg2Uy1hU3NLcTdob1M1UkF2eDhxZDc0dnZKYi1HRVRDS1U4a2VIaW1pRkNnY2Q2TmdGeC15aWI4U2lFVUZxZHgzR0xSOHlEUW1zUERZZGVXSG16OHR0VlZNODRfbEwta0MzTEpwQzRCQkhWdUFmaVNraUxZTFdwdENQYlJ3R2tCQmVwNFhSYmJ3VWZnWjg5amh6ekVla2hmUHU0UmFGNklydFNuMW9rcDg0Ul94UnBJX05ERWNF0gHkAUFVX3lxTE01Qm8wUEdDaXFPaDk1eURQeUZpM09kcllpSloteHlNU25IUnM2VXc0UVpvb0dOS0pkTkNXdnd6NXBxdVIwNHhzSVpsbXlRX0ltVVNqaEF4YThsMmVQMG9qSVRnTUQ3SEhYUVF5TEdZNGNWUWFLQTVrRVgxcEVGQVBIRFpZRlo0a3RLeEY4MTRib2Fpek1uZ1pJbk9lMk5iMlZLUUVIYTIySDRVb2ZMLUZDcUVlOVdSRUcxWDZsWjh4MXNJMlZWZjdiRmh1YnRQOEU5d1NkWDE2SXRDazFVblBSZ3RaWQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Insider Selling: Advanced Micro Devices (NASDAQ:AMD) SVP Sells $67,889.25 in Stock - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTFJJN1hiZndEMHp1dmNlbklmZ3lhRzZmZnpuSncxaFhmdlRiNHRyNnY0UFhBVGYwX2RKb0JMMHpaY2tsckVadmFHUG1Palh5SUhHenM4ZVoySHFWODFGOXM1T1JBeTAxN2o0SGgydkhON09tRlB4eFZQQlA4MmxuVkhHQTVqSGVJZTZuLS1hN1hHbWcyV24wNHV5TENoNmtFSFFFVjd5VW5RbHE3SWlCc1BpUmhrMFVhVmdfQmN5ekNpVzUwcDVzdA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 949.83,
+        "changePercent": 4.23,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Buried One Sentence About Dec. 9 - It Could Begin Retiring 12% Of Its Shares (MU) - Seeking Alpha: Micron Buried One Sentence About Dec. 9 - It Could Begin Retiring 12% Of Its Shares (MU) Seeking Alpha...\n- Micron Technology (NASDAQ:MU) Stock Price Up 4.2% - Here's Why - MarketBeat: Micron Technology (NASDAQ:MU) Stock Price Up 4.2% - Here's Why MarketBeat...\n- Micron Technology (MU): A Clear Beneficiary of the AI Infrastructure Buildout? - Yahoo Finance: Micron Technology (MU): A Clear Beneficiary of the AI Infrastructure Buildout? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Micron Buried One Sentence About Dec. 9 - It Could Begin Retiring 12% Of Its Shares (MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVk9raGQ4aXZuN3NHbWlLVnJZY2tHd1dIQkhZMUtsQVNEQXpCN0V4cmRFam85Ni15dDU3SlI1VWNDczE1anlyTXZmUlpqMVMwX1ZTZFJNMEdYZEE4LWNxczIyTDZCbUh0NnJ0RC1lVXlkWS1Mb1BBdnJfQTZvc3I4TmtxUE5QdGFpWjF2dkU2NGl0NlZGUEY2bk1fLVVRODVUY01VN0JyX3ZtYnZ2ZFFyRFQ2a0diWlRzc0N4SjlCMWFWVC1MXzBR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (NASDAQ:MU) Stock Price Up 4.2% - Here's Why - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXNEX1pmdjNEUVdDeEpRRTZhcG1SbWJPM2hsVWQzb1I1Mkk2ZFB5dHd6WEh0LTJ4RmdxbHJxVTVsOHBMY1JuaFJtNlVZWjdEN3hFemJPX1hiSnlxazdxY1BuVDF1VGZiOHlXNEdWR1ppSkx4QVZQN2hZY21rM3luUy1NWlVvVVNUUkJTZnBVdTZjS2lPY05hX1dPNjV1LUJYNlU3SkVsUENWeGJl?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (MU): A Clear Beneficiary of the AI Infrastructure Buildout? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS1p0S0phaWcxY0w4bjlJQk53aDdSMTZCMjcwWE1ZcWw3T1FRSFdNUzdlQ0I4R0lTWEV6VUNtY3VLVHI2VFJoTVdMYVVERUFxeGJmbkRxbUMyNkwxNVFaWVlWOVRoMHBuc1dpenlkUTJ0NXE0d0J6eGpWWVBnUWVfZHh4MHRYREhLaUZka3c4RHRGSm5LM21IV1dVdEw1eWh0Uld5Wg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-12": {
     "date": "2026-08-12",
     "lastUpdated": "10:45 PM KST",
