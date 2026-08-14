@@ -18,9 +18,111 @@
     {
       "ticker": "MU",
       "name": "Micron Technology, Inc.",
-      "earningsDate": "2026-09-23 AMC (마감 후)"
+      "earningsDate": "TBD"
     }
   ],
+  "2026-08-14": {
+    "date": "2026-08-14",
+    "lastUpdated": "10:27 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 926.14,
+        "changePercent": 5.19,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc Stock (LITE) Closed Up by 5.18% on Aug 14: A Full Analysis - tradingkey.com: Lumentum Holdings Inc Stock (LITE) Closed Up by 5.18% on Aug 14: A Full Analysis tradingkey.com...\n- Lumentum Lists Five Investor Events From Aug. 17 to Sept. 10 - Stock Titan: Lumentum Lists Five Investor Events From Aug. 17 to Sept. 10 Stock Titan...\n- LITE Stock Gains Then Fades After-Hours As $7.2B Loss Overshadows Beat - Yahoo Finance: LITE Stock Gains Then Fades After-Hours As $7.2B Loss Overshadows Beat Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Closed Up by 5.18% on Aug 14: A Full Analysis - tradingkey.com",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNXhyeEVqdlp6RjU4MjVJYkZEaUNfMGhTek5qYXd3Vk9mc3NWMFFNY2pTclNLM1F1MUFBbktURnBaZUhwVEh3cDJ0U21odzZxV0MtanYySjA4SEJBZENkWldaamREa2dhNll5MVk3clZ0YUhEVXFuU0hMR0FwQ1h3Vm00Sy1RRWFNSnUw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Lists Five Investor Events From Aug. 17 to Sept. 10 - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSGpyQ1pvcmRRcm5iTTlKbTlrajFaUEswR3JmaTluMnFTRTFmMmpycXppQlNnRGRsUW5KU0hQNUpSSEExdndxbmpwakIycTlma3dJcUw3a0VrOWZ5bUlqS0ZzQU9RZzFEY3NRYUV5SUxtakNfcUVRNTBDTzNxeU5rOVlxUWFNUDR4cVVaTGIxV3BIVERLa3c?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "LITE Stock Gains Then Fades After-Hours As $7.2B Loss Overshadows Beat - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzdMeXNBZk1sdHo0UXgzVktHeFVzWWw5VEdXZDN6QklMcnNhcjJuR3BXQXJKajctY0pBVnp1ZXUxQ0h6OXpGQXdfWFNtTEtvYjAzckpIeVZiWXFYQ2htZ3ZZR0RCV1FRUEdPXzR0RU9fR1YtY2VhQ3RhQ0ZXVVVkM0pWdDFtMVR6X2hBZmc1MTRPUDN3NWZR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 102.5,
+        "changePercent": -1.97,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here’s Insiders Fund’s Thesis on Intel Corp. (INTC) - Yahoo Finance: Here’s Insiders Fund’s Thesis on Intel Corp. (INTC) Yahoo Finance...\n- Intel Corp (INTC) CEO Tan Lip Bu acquires 105,263 shares in Family Trust - Stock Titan: Intel Corp (INTC) CEO Tan Lip Bu acquires 105,263 shares in Family Trust Stock Titan...\n- Generate Investment Management Ltd Invests $5.09 Million in Intel Corporation $INTC - MarketBeat: Generate Investment Management Ltd Invests $5.09 Million in Intel Corporation $INTC MarketBeat...",
+        "sources": [
+          {
+            "title": "Here’s Insiders Fund’s Thesis on Intel Corp. (INTC) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzgxWnlfQ0RNbVhUak1tUTNIdWprcUw2Y0hhVFQ4bndPemVhMU53R1JXZHZpc2dJZlB6VmRES1I0UlRiNF9oU3NNaUp0VzZiYmtWdUFGRzVESHJaQVR6UjRJNUV5aGxaZnd2Vm1QdjBPZG9tOFRjaUl0YUpqMXNPUlJRQ3Rpck4xT2U5d2d5V2NQbkRqd0NEUWhfTWs?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp (INTC) CEO Tan Lip Bu acquires 105,263 shares in Family Trust - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRG9vUnJtVEVKZ2ZKaFUyNXNzcE85R0syeVJPbHYwX1EtUG9GQkNTcDNOZk96VGhLclRtVDRLMEZqby00Zi02OEZ0eHNaUEhtdUZlWXcxTExibVJ0U09xaWRsRDNoeFB3RFU5YmZxNER2WHlvR1RtLTZDdjNnMFhwSkswWXZIaE4xTmJDbDhXNG05bHlUcVhpRGczMEF5WEg5TTZpcmJ0SQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Generate Investment Management Ltd Invests $5.09 Million in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUzRkcHdZb2tfRXRWcHlxbW9SNDBhRjl3LWJjb0wycnpFOFctZ0Z6NGtJQnJBdktDeEhybEtOX0NCTFVlcHBXTzNmdldpOFpIa1NXMUVQaE1JQ1lJZmwwQ29POXFQMWFuTkhUc191X2VLTXFBZ0QyRTNFYnBjbTFLRjg3RExtcFVkVmFnSldVSHRHb2xvclY5cy0waG5aVktoV2p6cXRKTkhNdnE1dWtaNVBXdWJWQWxObnp5cDR1RUlXckNCeWo0S1Q1V0FDcHU2d2ZDWW5aeFo?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 514.39,
+        "changePercent": 6.5,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What's Going On With AMD Stock Friday? - Benzinga: What's Going On With AMD Stock Friday? Benzinga...\n- Advanced Micro Devices (NASDAQ:AMD) Trading 6.5% Higher - Time to Buy? - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Trading 6.5% Higher - Time to Buy? MarketBeat...\n- AMD (AMD) Stock May Be Undervalued On Cash Flow Yet Overvalued On Earnings - simplywall.st: AMD (AMD) Stock May Be Undervalued On Cash Flow Yet Overvalued On Earnings simplywall.st...",
+        "sources": [
+          {
+            "title": "What's Going On With AMD Stock Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUUUtbTZ1bV9zNnRESG4ybDBobnZHa0ROQS0wNWVfS0F6UVpWMVN0UWJxdU5kMWxJX2U2bUlWdVA3a2FSREFfN1FOQU44OEJabThpdlpfbG5mVHhPbFFXTE5yQmxxOWhDUmhScGN4NkpGSHVRZ0l6OUVIOVhMZVpCY0FLWGlDNnJQUWx5MFlncG9pdC0tRlE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Trading 6.5% Higher - Time to Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVnhaUjZzN0gteTNzSUVtVTJaUnRhOGlUT0NiUU5aN1A5UlB2aVg5Znd3TndLbHVtdEFNcGVsNzg4QXBnTFByU25qRWJKbzB6UXJMX293b1JIWUNGRl9LMm41X1Z3Y2thSU56SUQwVUFCNjRDSGdZRktVN1MtUThlVjFObDhmLTNrTERfdnVZTlBUdnRqblVhLXBMN2RRWXpmckwtaWpuMGtzRVF2QmZMYWJfV3M0YWM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD (AMD) Stock May Be Undervalued On Cash Flow Yet Overvalued On Earnings - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYkR5RHNGVEtieW1vLUQtSzg5Y2ItdTZ3M01KYXRMUWNSMGxPVUx2cWNNbWlaUEh4bE53empBcFlZYW5EMWRVdDM3cVBGRjBZZW10dG9KSElVZTFTalRfcXhhVUdIVEZ6WU51bXJjdVZMZ0xKUzdqSnZqWjhfcFJIbDRtQ2RuYjVpcUJvUVdzaUNpaTAyZ00tWHEwT1EzdFpiN2FuUDhvS1JjbWJQbFh3aWhEemlSOTNTeUZPemJnZXlsYjd4VDhjUjJlTUZlbE4yUFNXVGZtUk9pT080eVVv0gHkAUFVX3lxTE4tTm05TFR1RWk3ZEhuQ2JuWVNkTEZwRDVHR2UzVlBDc3JtWHhKdXhVbEJ1MlBiVU9WVkVzd1kySWltbWFVdGFPZmFoUXdCTUxsbWhVTlZzRkdFa1h4MV9IUDJxN1FTcTFYYXRNZTdjX1BFQXYyeVpDX1loU2ptdjZZbXNFa1FUR2d3dEFzaXVuZ0gtQllVRGlMdFRmU3RsVmdnMS15OEVJWXBXS3ZaNUFFR1BYSnc5aHpNTG52Umc2UWVHa0g3Y0J1Mkp0N0RrZ2djeTlLdVpsT3F6d0NxT2xEeXZKbg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 971.66,
+        "changePercent": 2.3,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (NASDAQ:MU) Trading Up 2.3% on Analyst Upgrade - MarketBeat: Micron Technology (NASDAQ:MU) Trading Up 2.3% on Analyst Upgrade MarketBeat...\n- Micron Technology’s (MU) Competitive Edge in a Rapidly Evolving Industry - Yahoo Finance: Micron Technology’s (MU) Competitive Edge in a Rapidly Evolving Industry Yahoo Finance...\n- What's Going On With Micron Technology Stock Friday? - Benzinga: What's Going On With Micron Technology Stock Friday? Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Technology (NASDAQ:MU) Trading Up 2.3% on Analyst Upgrade - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0lCdVFVdGFqVVlNOHRwSVlmOXFzdEFjYU1ZQzVzelBMRjJaTEFuLXJDdjBaWEZOVVpMZWVuNFhUY25odkdDY2JfUlpiTnFVZnlKOHY0RW9mNGlQOVJzdjE0NHBYaHdIS1ZjYjRVS0MzMTVJY1JYWmRBMFJaQ2Q3OVVuMERKM3M4dEp6VGxLZWZxTHk3WGZzbUpkWG04SzJxNnFGeWtLN05mNkhPYlNrNG5EZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology’s (MU) Competitive Edge in a Rapidly Evolving Industry - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEZXTnU1ZkZndzdKWnNhTG1EcnJCbmVPUGJIRlhzbk03VW9iOWVDNERZMkQxaEN5WVVFM3RRdW1tdGdXemJEWDJXSWhjb2dyTWVYOG9NMlh4Q3pSeHJhZ290V0JkZHFoeXpwZjZlZzRCQzNVeHRLNnBlUVhkdWhhSWloNFJSR2ZkM2ZmQk82bzJ4aDYxNE1QTXJuSnBIU0VIZWl1bg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With Micron Technology Stock Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGhaWnh1ZUQ5ek9BcGt3TFZpNXJONGdHZTFJcWRaelBNOWVQVjFxUU85ZmNQVy03VXFGODlWUDF2ZG80czZpNy12ZWEtVWlFUlNrX1BsazJVbWxlcHFnVl9HSmZiWlZsbVVka09Mci1iRFdLYW9mMjEyNUdNaUt5b2R2T2lMa0NlbDA5bTYyQ2NWSmZtNko4QXNSYzVYTC1ZOExTMFBLNEE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-13": {
     "date": "2026-08-13",
     "lastUpdated": "10:47 PM KST",
