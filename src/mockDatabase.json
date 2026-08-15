@@ -18,9 +18,111 @@
     {
       "ticker": "MU",
       "name": "Micron Technology, Inc.",
-      "earningsDate": "TBD"
+      "earningsDate": "2026-09-23 AMC (마감 후)"
     }
   ],
+  "2026-08-15": {
+    "date": "2026-08-15",
+    "lastUpdated": "10:26 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 926.14,
+        "changePercent": 5.19,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Jim Cramer Weighs In on Lumentum (LITE) and Coherent (COHR) Post-Earnings - Yahoo Finance: Jim Cramer Weighs In on Lumentum (LITE) and Coherent (COHR) Post-Earnings Yahoo Finance...\n- Lumentum: Explosive Earnings Growth Can Justify The Premium (NASDAQ:LITE) - Seeking Alpha: Lumentum: Explosive Earnings Growth Can Justify The Premium (NASDAQ:LITE) Seeking Alpha...\n- Lumentum Holdings Stock (LITE) Opinions on Strong Earnings Beat and AI Demand - Quiver Quantitative: Lumentum Holdings Stock (LITE) Opinions on Strong Earnings Beat and AI Demand Quiver Quantitative...",
+        "sources": [
+          {
+            "title": "Jim Cramer Weighs In on Lumentum (LITE) and Coherent (COHR) Post-Earnings - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTlEMk56R1Foa0s5SzVPU3YwZzBSTGw4UV9wejgyZ3l0S1JHVXNBRUVxSWtvWHN2OUZzTXlMemVDSjNfX0JmdzZBOW5ZaUo3elNkWGZzeklaS3hhTnZTd2lwMjNHcnd1TGJBMVhkeTJiZm9lWkJhNVRabDZKZkVjWDE0NXE4bkI4eHNCVUVUdUtsb2xOVHlkTWFTYl8?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: Explosive Earnings Growth Can Justify The Premium (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVEhyR2plR3d3WFRLZnNYZjY4WE1KVjhjVHJpcWR5ZGVKSWRQM2hWeENLc3JjdlBxdWI1UnRoU09KX0p3N0hhZnhiSE5KTlB0VHJXNEU0bl9idTlJaDQ4VWlCVWpLSXBEWW9TeHBSRWJrellaRE1ZWDNydnNFVkdqSlYwdUh5Yndlb192a3NPMEhYTXgzakdPWGFhSQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Stock (LITE) Opinions on Strong Earnings Beat and AI Demand - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNF96SUtydmphRU1xU09LU05UOHNZQ3ZWZEJhd3VMRmZGY1ZMU21yNURhVGNoU2JXR3hXR3F2ZmlfWWV2ZVRrUk9sejF0QWFIMTJzZmhOZ2hGd0RzX2NnYUFtRmhYd2M2UGowbXNRVXh5ZC1VV0lQYlg3cGloX3lQWmthQkUxc0ttR0l6eDhPaU5MVU5SNDdQcHJIeHVUZTNwV3FYbHY0OEZGdDQ0Rk1aZnpUcEQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 102.5,
+        "changePercent": -1.97,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here’s Insiders Fund’s Thesis on Intel Corp. (INTC) - Yahoo Finance: Here’s Insiders Fund’s Thesis on Intel Corp. (INTC) Yahoo Finance...\n- NewSquare Capital LLC Invests $720,000 in Intel Corporation $INTC - MarketBeat: NewSquare Capital LLC Invests $720,000 in Intel Corporation $INTC MarketBeat...\n- Intel (INTC) sets up S-3 shelf to enable future common stock offerings - Stock Titan: Intel (INTC) sets up S-3 shelf to enable future common stock offerings Stock Titan...",
+        "sources": [
+          {
+            "title": "Here’s Insiders Fund’s Thesis on Intel Corp. (INTC) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzgxWnlfQ0RNbVhUak1tUTNIdWprcUw2Y0hhVFQ4bndPemVhMU53R1JXZHZpc2dJZlB6VmRES1I0UlRiNF9oU3NNaUp0VzZiYmtWdUFGRzVESHJaQVR6UjRJNUV5aGxaZnd2Vm1QdjBPZG9tOFRjaUl0YUpqMXNPUlJRQ3Rpck4xT2U5d2d5V2NQbkRqd0NEUWhfTWs?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "NewSquare Capital LLC Invests $720,000 in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1RkbEFwSWN1SjAxUG5EaGdoRUpVZURMRDJfQW5odi1Rb093MGE3VWtySkpDOWNLNDlhUUQ3eGhmdFNBVEN2Tk5sTnlYa2toQnJidG1STXpEQnJlRXpGQ3YtVDBWX0RscmY5YXh1UXVQNldfcnRtR0IycHFNRFFNVXhNcVZldnc2SGhpSzA4X0RaeFRobE9zQ0xkbWVTQUpEaEN0M0IzZ3FEYkwzUUFTVTZSQW94ZHdtVDZWN25ySHY?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (INTC) sets up S-3 shelf to enable future common stock offerings - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVk5aXhyYjlUX3dreTVaMlhIbFg4UEtkaDJCTmgweEc3QlJybmZqTEhoVm1keHdYZmhFYmlZd3RrQVgwMjdWN1Q5Y3pBOHQxRFlGVVpkN0VWVDNmd2xGVkN5SXVkVVJKOWZNZGJ5YkhhMkVPZ1RNUU5Gai1ZVG80UHRfbnc2MkJoRm1ZUzRIU2M1ZG5E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 514.39,
+        "changePercent": 6.5,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices, Inc. (AMD) vs. Sandisk Corporation (SNDK): Chip Earnings Momentum Meets a Mixed Market Reaction - Yahoo Finance: Advanced Micro Devices, Inc. (AMD) vs. Sandisk Corporation (SNDK): Chip Earnings Momentum Meets a Mixed Market Reaction Yahoo Finance...\n- What's Going On With AMD Stock Friday? - Benzinga: What's Going On With AMD Stock Friday? Benzinga...\n- 4,254 Shares in Advanced Micro Devices, Inc. $AMD Acquired by Dockside LLC - MarketBeat: 4,254 Shares in Advanced Micro Devices, Inc. $AMD Acquired by Dockside LLC MarketBeat...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD) vs. Sandisk Corporation (SNDK): Chip Earnings Momentum Meets a Mixed Market Reaction - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY0lCLWRMWnhxalJqQ0cxWVp5QWxhUkd6emoyVmRtZWpzVndZaEd3dnh4eGR6elVEMG05S21ITWJSZndnRElpSmRIeGZvaHhVR094UlhXSWZITXlkcVJHMEZveW5NTzVaRzcxaGg5VXpuS3Zqd25pRXJZRmRrQW1SaVUzekNyRThzRmlVbzB2TVdVRnlIcnc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With AMD Stock Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUUUtbTZ1bV9zNnRESG4ybDBobnZHa0ROQS0wNWVfS0F6UVpWMVN0UWJxdU5kMWxJX2U2bUlWdVA3a2FSREFfN1FOQU44OEJabThpdlpfbG5mVHhPbFFXTE5yQmxxOWhDUmhScGN4NkpGSHVRZ0l6OUVIOVhMZVpCY0FLWGlDNnJQUWx5MFlncG9pdC0tRlE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "4,254 Shares in Advanced Micro Devices, Inc. $AMD Acquired by Dockside LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUk1TY21IUjlUNHpoS3NTcC10eFlucUR1ZUw4ZS1DZ1N0SVFxVFBaNnJ0cEtQV3laT2pPWHItTmd6bHlBdy1xT0JvTER6UmVrSDZDbWN5ZFFHa1p5Zk5kTThmVDY0VEx1YVV2dkJUdUt0d1FqS3dRWVlsMWpDVEk1Y1VVZTRtb28yVUdBcTdKeWQ3Zm5uSlNqNlhFVVllU1ZtbjBfN3lsSWtBMHh5WGtIR0w0S1JqSjNJaFRfMlMxXzE0ZU1lSXh1dVhBMA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 971.66,
+        "changePercent": 2.3,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Portside Wealth Group LLC Purchases 2,421 Shares of Micron Technology, Inc. $MU - MarketBeat: Portside Wealth Group LLC Purchases 2,421 Shares of Micron Technology, Inc. $MU MarketBeat...\n- Micron Stock Stages Cautious Recovery as Key Metrics Point to More Upside - Benzinga: Micron Stock Stages Cautious Recovery as Key Metrics Point to More Upside Benzinga...\n- Micron Technology’s (MU) Competitive Edge in a Rapidly Evolving Industry - Yahoo Finance: Micron Technology’s (MU) Competitive Edge in a Rapidly Evolving Industry Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Portside Wealth Group LLC Purchases 2,421 Shares of Micron Technology, Inc. $MU - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHBQbTNscHNySDNLQzJGWTJqQ29SbnFzNUJtb3lja3o5SjZjcy1JQnVIa1FYQjRBZXozbHI3eHk3SzVJRHJ3bTJpdUJhMW1xY0xMMUdhSEh6NEZ5ODc0cGZsaTd4NjZueTZQazItTHhCSmVBVDE3N1JWRWJqX1B3cFNSeDJGWlUzSmo5ZDlUaVJlSGsxZFhnMUdrRWhqUnhEUUh6NWstU3B4Yjc1RDFYMHhoblFPQ1FaOXJkYmVha1JzR18yaUVGUzRwZWEzSUJMMFE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock Stages Cautious Recovery as Key Metrics Point to More Upside - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZS1CaEpoTVBmZXpXTE0xSGFfeGQweVVNckk3NEtyX1ZaV1RsQ3hqVWpUU19vckx1UkhCc3kxMFlsX3Z1RXVocl9OM2QxdEJnREZFMmNraVhfT3M2blNUQm1CeERpSTZqdGQ2MjFFR0dGay1sdlZkV0xRTWtBZ3Z1ckR0NUx0cmhtRmxiSmZtckVXQUlxS2k5Uzd5MzFJOEVlVDRfalRzQlpuaFZpaGJoRXpoY3hmdU9OTjRfd1JOMTl0RVhGVmktU2l5Ylc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology’s (MU) Competitive Edge in a Rapidly Evolving Industry - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEZXTnU1ZkZndzdKWnNhTG1EcnJCbmVPUGJIRlhzbk03VW9iOWVDNERZMkQxaEN5WVVFM3RRdW1tdGdXemJEWDJXSWhjb2dyTWVYOG9NMlh4Q3pSeHJhZ290V0JkZHFoeXpwZjZlZzRCQzNVeHRLNnBlUVhkdWhhSWloNFJSR2ZkM2ZmQk82bzJ4aDYxNE1QTXJuSnBIU0VIZWl1bg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-14": {
     "date": "2026-08-14",
     "lastUpdated": "10:27 PM KST",
