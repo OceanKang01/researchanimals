@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-23 AMC (마감 후)"
     }
   ],
+  "2026-08-16": {
+    "date": "2026-08-16",
+    "lastUpdated": "10:25 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 926.14,
+        "changePercent": 5.19,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Jim Cramer Weighs In on Lumentum (LITE) and Coherent (COHR) Post-Earnings - Yahoo Finance: Jim Cramer Weighs In on Lumentum (LITE) and Coherent (COHR) Post-Earnings Yahoo Finance...\n- Private Advisory Group LLC Invests $2.08 Million in Lumentum Holdings Inc. $LITE - MarketBeat: Private Advisory Group LLC Invests $2.08 Million in Lumentum Holdings Inc. $LITE MarketBeat...\n- Lumentum Holdings Stock (LITE) Opinions on Strong Earnings Beat and AI Demand - Quiver Quantitative: Lumentum Holdings Stock (LITE) Opinions on Strong Earnings Beat and AI Demand Quiver Quantitative...",
+        "sources": [
+          {
+            "title": "Jim Cramer Weighs In on Lumentum (LITE) and Coherent (COHR) Post-Earnings - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTlEMk56R1Foa0s5SzVPU3YwZzBSTGw4UV9wejgyZ3l0S1JHVXNBRUVxSWtvWHN2OUZzTXlMemVDSjNfX0JmdzZBOW5ZaUo3elNkWGZzeklaS3hhTnZTd2lwMjNHcnd1TGJBMVhkeTJiZm9lWkJhNVRabDZKZkVjWDE0NXE4bkI4eHNCVUVUdUtsb2xOVHlkTWFTYl8?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Private Advisory Group LLC Invests $2.08 Million in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSW53VzNUdHdWY3NjZHJJM2pXT1Q3SHROQ1h4VWh6bVBfZUJDTUJVbkJHbHVGQU11T19HWW9ZNE95WDJOa2lRZlMyYllIMWVRX1E4SjQ3dm4xclo3NTAySE9jWTlLd3BucERjRmcwTzZCMFdxQ1lVNmQwbFpkRlg1MFk3dThnc3RxMS1OVFRIb2hldUE4eVNhbGNjTEVzbHpKWUhHUTZscjU0S3I1MDdRMFJxcWhBN0tQa3NoeThPTXk2aVdxZGVydDB5SWVGdzZ1R1dn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Stock (LITE) Opinions on Strong Earnings Beat and AI Demand - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNF96SUtydmphRU1xU09LU05UOHNZQ3ZWZEJhd3VMRmZGY1ZMU21yNURhVGNoU2JXR3hXR3F2ZmlfWWV2ZVRrUk9sejF0QWFIMTJzZmhOZ2hGd0RzX2NnYUFtRmhYd2M2UGowbXNRVXh5ZC1VV0lQYlg3cGloX3lQWmthQkUxc0ttR0l6eDhPaU5MVU5SNDdQcHJIeHVUZTNwV3FYbHY0OEZGdDQ0Rk1aZnpUcEQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 102.5,
+        "changePercent": -1.97,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here’s Insiders Fund’s Thesis on Intel Corp. (INTC) - Yahoo Finance: Here’s Insiders Fund’s Thesis on Intel Corp. (INTC) Yahoo Finance...\n- Swiss Life Asset Management Ltd Trims Stock Position in Intel Corporation $INTC - MarketBeat: Swiss Life Asset Management Ltd Trims Stock Position in Intel Corporation $INTC MarketBeat...\n- INTC Stock Hits 25-Year High: Retail Believes Next Week Will Be 'Most Important’ For Intel - Stocktwits: INTC Stock Hits 25-Year High: Retail Believes Next Week Will Be 'Most Important’ For Intel Stocktwits...",
+        "sources": [
+          {
+            "title": "Here’s Insiders Fund’s Thesis on Intel Corp. (INTC) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzgxWnlfQ0RNbVhUak1tUTNIdWprcUw2Y0hhVFQ4bndPemVhMU53R1JXZHZpc2dJZlB6VmRES1I0UlRiNF9oU3NNaUp0VzZiYmtWdUFGRzVESHJaQVR6UjRJNUV5aGxaZnd2Vm1QdjBPZG9tOFRjaUl0YUpqMXNPUlJRQ3Rpck4xT2U5d2d5V2NQbkRqd0NEUWhfTWs?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Swiss Life Asset Management Ltd Trims Stock Position in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMGJZWnZQS2lkaTM0ZkFnZFEzeWs4TXNYckl1SmN0YXNaS01LaTh1ZlA3bWlaM0tfOU15bDJuWVY2VHBvbUZHODlLSndpU1pxYm94YzVfTC12SjVhUy0tNm5qMjIwSDJIWE9hUHI4RkNrVmZfdmZBbzlzWm93OU5VQnNyaHE2VThEdkF2TDZXU0RpMUZHRG1UdTYyVHhDeDl0a2lmUl91ZF9Gd1NJbUF1NXZwMGZRczNQdVhqd2F3a2FHeWtiWXVZVm9wdUdweGdWM29rMTZn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Hits 25-Year High: Retail Believes Next Week Will Be 'Most Important’ For Intel - Stocktwits",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdlU5Y1BPdklzNGJLOVlpN1k5MFJGeWlVWlpkVXlCX1FraDM2YmZCYnFIN09WZE84aEd3T3BLUnpXWUNtUFhsQnFkVTQ5am9admVUNExmdkpsN0JhZ3NLOFdvclFkYlVUTXhLUDBMSHctcFlPYVVlR212Z0EyVTBub2F5V1U3dm1rbVRjS2RLZS0yVXFIcjl1cEd2RFZQTWMtUVphTENkX083a1hncFNfTHZYXzlkSnVDSDVMdzNzS3NUekd4eUdfY3RSNnRiU29BLVhXYkhLcEhEYWlXc05LZjhUNEZzQQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 514.39,
+        "changePercent": 6.5,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices, Inc. (AMD) vs. Sandisk Corporation (SNDK): Chip Earnings Momentum Meets a Mixed Market Reaction - Yahoo Finance: Advanced Micro Devices, Inc. (AMD) vs. Sandisk Corporation (SNDK): Chip Earnings Momentum Meets a Mixed Market Reaction Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Shares Bought by TCW Group Inc. - MarketBeat: Advanced Micro Devices, Inc. $AMD Shares Bought by TCW Group Inc. MarketBeat...\n- What's Going On With AMD Stock Friday? - Benzinga: What's Going On With AMD Stock Friday? Benzinga...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD) vs. Sandisk Corporation (SNDK): Chip Earnings Momentum Meets a Mixed Market Reaction - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY0lCLWRMWnhxalJqQ0cxWVp5QWxhUkd6emoyVmRtZWpzVndZaEd3dnh4eGR6elVEMG05S21ITWJSZndnRElpSmRIeGZvaHhVR094UlhXSWZITXlkcVJHMEZveW5NTzVaRzcxaGg5VXpuS3Zqd25pRXJZRmRrQW1SaVUzekNyRThzRmlVbzB2TVdVRnlIcnc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Shares Bought by TCW Group Inc. - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMUhUZWVncXBjbUpkMjRoYTRkdVUxVWtIY2lKb1dLSmVHYno3YkR2LUh2SFE3RG9YUDgzaU5kb1l1cHBFUlRvVEsyUDZLWGd4MWowUnI1V1A1bXZfSjNfYXN1b1lYV1dlT1VZeTlGWl8tZjN5SW1HYXZPcnNhWmQyUDQ1Q21fOW1MZllYeXpITzd5STZhdElFOWVQemQwX3V2QUF5QTkyMUI0YVJLcDE2RUtyZm9PSm01aDdaUzUySQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With AMD Stock Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUUUtbTZ1bV9zNnRESG4ybDBobnZHa0ROQS0wNWVfS0F6UVpWMVN0UWJxdU5kMWxJX2U2bUlWdVA3a2FSREFfN1FOQU44OEJabThpdlpfbG5mVHhPbFFXTE5yQmxxOWhDUmhScGN4NkpGSHVRZ0l6OUVIOVhMZVpCY0FLWGlDNnJQUWx5MFlncG9pdC0tRlE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 971.66,
+        "changePercent": 2.3,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology, Inc. $MU Stake Decreased by Salem Investment Counselors Inc. - MarketBeat: Micron Technology, Inc. $MU Stake Decreased by Salem Investment Counselors Inc. MarketBeat...\n- Micron: Strong Buy As KOSPI Fear Looks Overdone (NASDAQ:MU) - Seeking Alpha: Micron: Strong Buy As KOSPI Fear Looks Overdone (NASDAQ:MU) Seeking Alpha...\n- Micron Technology’s (MU) Competitive Edge in a Rapidly Evolving Industry - Yahoo Finance: Micron Technology’s (MU) Competitive Edge in a Rapidly Evolving Industry Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Micron Technology, Inc. $MU Stake Decreased by Salem Investment Counselors Inc. - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ1VvV08xWU4yeDZFZGlubWppblUtZjhzMWVzVmJjbGpTeWNIaU5mdTM1bXVoWTIwMmh2QjloUkFfZ0E5MWptMC15ekd5SDh2VG9IMy1hb205YU1pM3A0b3IwRDlGczc5bjB2MGc5Nmh2RmZNVENicXR5R2kxVVBSS05xbTgwc0JWRVBjWGhfTHZkRERQZXRuMEJDUUJseG5Ua2gtZ2tzSG5TSG50YjdFd1h6QkVyYnB3UWphU3B1WXR2Sld3eU1NV3o0T2p4SURGVVE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: Strong Buy As KOSPI Fear Looks Overdone (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjBETXFmOVZUaEQ2bGw3TGx6Q3JxaS1ZU08zMWhvUFFSemQtMjVfdk1wMUJwaGFRWEx2UklPR25ESFlsRWpVWFZCU0NRNGc0WExiQTNERG96b3RaaHdJZlpDcWRFM2kybnBmcURKcWZXZ25qdDRYblM5MG5OVExmMFIzLS1nUnVWbmNGUzV4cVE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology’s (MU) Competitive Edge in a Rapidly Evolving Industry - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEZXTnU1ZkZndzdKWnNhTG1EcnJCbmVPUGJIRlhzbk03VW9iOWVDNERZMkQxaEN5WVVFM3RRdW1tdGdXemJEWDJXSWhjb2dyTWVYOG9NMlh4Q3pSeHJhZ290V0JkZHFoeXpwZjZlZzRCQzNVeHRLNnBlUVhkdWhhSWloNFJSR2ZkM2ZmQk82bzJ4aDYxNE1QTXJuSnBIU0VIZWl1bg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-15": {
     "date": "2026-08-15",
     "lastUpdated": "10:26 PM KST",
