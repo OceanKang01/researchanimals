@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-23 AMC (마감 후)"
     }
   ],
+  "2026-08-17": {
+    "date": "2026-08-17",
+    "lastUpdated": "10:28 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 968.9,
+        "changePercent": 4.62,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (LITE) Stock Looks Fully Priced Despite Cash Flow Upside - Yahoo Finance: Lumentum (LITE) Stock Looks Fully Priced Despite Cash Flow Upside Yahoo Finance...\n- Lumentum (LITE) gets 79% of revenue from overseas sales in 2026 - Stock Titan: Lumentum (LITE) gets 79% of revenue from overseas sales in 2026 Stock Titan...\n- A Look at Lumentum Holdings Inc (LITE) After 4.6% Gain -- GF Val - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 4.6% Gain -- GF Val GuruFocus...",
+        "sources": [
+          {
+            "title": "Lumentum (LITE) Stock Looks Fully Priced Despite Cash Flow Upside - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVdvY1hpMVFMNEtLM2pEZzVEcVNCZ0hNM21KNy0wSFhjeEtHWF9Vb1hUT01yblcwTDU5MVpaM1B2ajB6TnpzWmQyclBobjhWb1hXa3ZhdDlUTzdaTjdKd2dYN1RuRzJGMHFnSXVtV0c0c0RwaDZTdTcza2pRR3FSLWtpUDJNTC05ZVJvWl9BWHRWLXBZWm54aFMwS1U?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (LITE) gets 79% of revenue from overseas sales in 2026 - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRG1DMWFMa2NlWG43bHpZV1VaMTA1UUkyTTVCMEtMWVNEYU12V2NNdl9SV0tmVTF0SG9lbm41U05mUmVlUzZTRjZyTTVaYTUtVUlwY1RPeWgybEF6aUVKc0N6M3pWdjRaQTlxYXVMSXJaZzRIcHJIQVhnM2Mwcjk0bkhkYUZOVnoyX1ladExWcUVGa2JtYVlpN1pkTnlWclVNaGRLeXA4WERwdGlK?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 4.6% Gain -- GF Val - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWGZXeWU1N3dKT0x3VDBTZWFaSjRqOTVDMW5sNE5HSloyVzJOdGJhaW11bFhwMmpCZ3NqWC1ERjhRTWI2WGtEdC16VVo5NjRycFE2WUlDaEd5Z0hjU295ODJvUHBsR2tqUmNvZ05vdHhYZ1d2YnQzR0N5NWd1M1pBT2ZKSE14eVRyWlo4YlZpTTVFYVJPVHExN1NKM1pfR3g0XzZuMHU3MWZ0aExqTEpJRjdybE84NWhYSFRj?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 103.49,
+        "changePercent": 0.97,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel’s $23 Billion Capital Raise May Have a Silver Lining for INTC Stock - Barchart.com: Intel’s $23 Billion Capital Raise May Have a Silver Lining for INTC Stock Barchart.com...\n- Here’s Insiders Fund’s Thesis on Intel Corp. (INTC) - Yahoo Finance: Here’s Insiders Fund’s Thesis on Intel Corp. (INTC) Yahoo Finance...\n- Intel Corporation $INTC is Corrado Advisors LLC's 7th Largest Position - MarketBeat: Intel Corporation $INTC is Corrado Advisors LLC's 7th Largest Position MarketBeat...",
+        "sources": [
+          {
+            "title": "Intel’s $23 Billion Capital Raise May Have a Silver Lining for INTC Stock - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3M0OFZucjBWYUwwdWZxTU5mYXhvT0pjZUVJVjZydHY4X3kwWkdtMThXbGVLejB3SllhT3MzV0ZVa25ENW5oY0JNRnFiVWRibmplNldUVURVN2MzSC05cGdOR0ZDVl9uQnZRSndUWEt1TWMxcU1td2VPZm5QRlEySm9uNEF0ZWxQc3ZpQXZVSTVNZi1hUU1xTllpNEFSVHlReDNtbUZCZDJkMkJFaU8xSzdzeGZJdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Here’s Insiders Fund’s Thesis on Intel Corp. (INTC) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzgxWnlfQ0RNbVhUak1tUTNIdWprcUw2Y0hhVFQ4bndPemVhMU53R1JXZHZpc2dJZlB6VmRES1I0UlRiNF9oU3NNaUp0VzZiYmtWdUFGRzVESHJaQVR6UjRJNUV5aGxaZnd2Vm1QdjBPZG9tOFRjaUl0YUpqMXNPUlJRQ3Rpck4xT2U5d2d5V2NQbkRqd0NEUWhfTWs?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation $INTC is Corrado Advisors LLC's 7th Largest Position - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVVacXBhVFVTOU9OQzh5TDF1bkllR0R1NGNoa1RkbkZJd1pZVTF6SFZJVHBlRTk0SWlET2piV2owdGxBcEZyeFc2bW5NLWhDaEU2bzVNbDVzNWJHeURZRkdla3M3bXljR3BBUVk1eHlhaHIyU0d5SkxTOWNZcUF3b19qZE9nRDdlbWYyUi14blkySDZFbklJaDZHd1Y0ZlhrbXBfM3B5MEJacWRTY19ta1FVN1B1SHFpZjdnWno3WTgteDNiT19Ydw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 506.0,
+        "changePercent": -1.63,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Is Positioned for the Next Wave of AI Demand - Yahoo Finance: Advanced Micro Devices (AMD) Is Positioned for the Next Wave of AI Demand Yahoo Finance...\n- Advanced Micro Devices (NASDAQ:AMD) Shares Down 1.6% - Time to Sell? - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Shares Down 1.6% - Time to Sell? MarketBeat...\n- AMD (NASDAQ: AMD) director transfers 30,000 shares as gifts - Stock Titan: AMD (NASDAQ: AMD) director transfers 30,000 shares as gifts Stock Titan...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Is Positioned for the Next Wave of AI Demand - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSDJfeXlKYmRPbzdoRTVJVTVCbVBuNHk2d2pEV0M3TDVXWGNEM0JqaXZldjAzRXFXUVQtRUtMbkNrcUJzaHdsMldvZzRMM3VGSEEtbXcwYlQ2blNtaDYwb0VDN2lzNTZVVlNtNDVmSkVTelBiM3hXVGt3Nm5DalREWkNBcjV6M0VVZTFvVWZwSW1BcG9PNmtCemxNUlVCaEVGazEw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Shares Down 1.6% - Time to Sell? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdzRqZ1RHT3ptMVN1QVBJZElFOFVuMDFLeTlNbVY0T0M3UE5MYnB3TXlXMzFqd0hHQ1ktU0hCanl6R2hCTWhkR1RGZjJCVzd6V3g1b084WnlwLV8wX1FiYk1zVVBNbHhWWUw2R2xvaXprdVlnYmprN3lKS0tNaFUwQkdqTWtzdWNIUTJDaXhveUhDYVNuOVRjOWpWUEFJUmZUMjljXzdheWZLY1ZtTklLS1dPbFI?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD (NASDAQ: AMD) director transfers 30,000 shares as gifts - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRWwwNHJMYzRJWlRZb0tScVpaeFExandIYWg1T2RVUHhJMExBWTZPM0Jzbmk3ZEdVOXlZN1pMSllONHYyZkhTc2lqRXdPZTY4bmpES2FFNk9yU3FWQnFFd3VtYVRlUUhqaGJpV0hoeHhTQVlQRzFpX1Z0VUtxRVNjVEduWUJZWmZScXJrYl9ZdUc5T1NtakJSRFBsbE5HYWo4VGx1bXRoLXNNNGZpZEtDUVkxZ2dLRENvQkhj?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1011.75,
+        "changePercent": 4.13,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU) Gains as AI Boom Reshapes the Memory Industry - Yahoo Finance: Micron Technology (MU) Gains as AI Boom Reshapes the Memory Industry Yahoo Finance...\n- Micron Technology (NASDAQ:MU) Screens as a Peter Lynch Growth-at-a-Reasonable-Price Stock - ChartMill: Micron Technology (NASDAQ:MU) Screens as a Peter Lynch Growth-at-a-Reasonable-Price Stock ChartMill...\n- Micron Could Double From Here and Hit $1 Trillion - Benzinga: Micron Could Double From Here and Hit $1 Trillion Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Technology (MU) Gains as AI Boom Reshapes the Memory Industry - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkRlcDJ4X1NwNlh5am9CSWp6NW83aW4yMlRTcVNTUHFpaC1YSk5zdTFNMG9DamE3WW9tNjBGc1c4dlhmYUN2MUZtejhTV2tFbFVVNUk2UkRiZ3ZpV1V3WTRFbk1rRy1GQkljM3NSVEhweHdPaDVIcWpBaEljUFJDME1OMFBlbjluNVBSWl9GakJtUm5vTnVQWA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (NASDAQ:MU) Screens as a Peter Lynch Growth-at-a-Reasonable-Price Stock - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaWc2dTU1QWpDazNCSjBRcW50RHhNWTBOdk5OUE9YdldQano5eVdkQmw0YlFnTUJtdlhTSk9jU0tPU0ctQjhnZkE2VklnTHhPSXhFVEY4dks5ZHFBa212dVNXWDRrWml6aWxxQm1weUZXaHhNUmxvdl8ySGxXc2NqLTVpcFZLQTJBcXhueHQ2ZENqTjlNaERaMkJhNjFIX2lzbmdoMlp5R0dOYVpydzZJbjgwa0c2S2dYQ3VZZVNxOHNpV1cwT0VEMFNzWElIMlhhSlE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Could Double From Here and Hit $1 Trillion - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZm1zeTI0V0Z4Rm00Y2RlZVN4TFl2SVV0OW5SS3QwOHVlckNSTWhGN3d2QjN2dmRJQ3ZTZV9sQ3ZmNWxTNEcyZ1BaU3ZCVGZsU2FHQUZrWlNrVlE1aHlhX1lzVEU1ektWQ1lfSmhJVm1kd2VrMXJ3MS14Q0lUWkltQTJEZnBCU1dOcjQ4T2w2VjdZX0FUQWlwOEcwSHZTMWNJSkRvZUM4ODV2VDE3alRFcGVLeld1WGVvcXhPMV9yS0FnZw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-16": {
     "date": "2026-08-16",
     "lastUpdated": "10:25 PM KST",
