@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-23 AMC (마감 후)"
     }
   ],
+  "2026-08-19": {
+    "date": "2026-08-19",
+    "lastUpdated": "10:28 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 827.6,
+        "changePercent": -5.23,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum: I Have Truly Underestimated This Beast (Upgrade) - Seeking Alpha: Lumentum: I Have Truly Underestimated This Beast (Upgrade) Seeking Alpha...\n- AAOI vs. Lumentum: Which Optical Networking Stock Is the Better Buy? - TradingView: AAOI vs. Lumentum: Which Optical Networking Stock Is the Better Buy? TradingView...\n- Lumentum Holdings Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance: Lumentum Holdings Stock: Is Wall Street Bullish or Bearish? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Lumentum: I Have Truly Underestimated This Beast (Upgrade) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHJza3FYanlFSFl2Uy15TEFJTTA5ZEhxeTBiNG5xakF4eklRX25sLUVaeTM1VVp5SWJRbUlqb1NCVzBjRXlHd0xhd1RKSXdFNlBMQ1NfYnRtSFJfSndndVFBOWpYTFY0ZTVjQW1JdUdtLUNfMkZKTU5iM2hEbEJhM0ZwRDUxVDh0MWtJSnE0Q1l0SkYxRVNnWVctOTM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AAOI vs. Lumentum: Which Optical Networking Stock Is the Better Buy? - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDB3Z2ZkcGI0TVlJcEVrRHlzNnJyR3A5aGNpalI5ZnNvUUs0eUQ0MGtoeVNlbzhPNTUxUFRWem1sdjRHaFQzMDBsdm9MNkxaYzA3VC1Ic3pvSGZGaTVSeXhZVlR5Wml3YU1QMkpYQ2p1S0JWdXVwYXFhX0dxTTJtaFNXdGNwVHlGaTJkUW5fQ0ZsS1psVE5ESzJVV1RQLUZESmxVRnh3S2VSZUp1VEptMmc1M2QyZ0dZUGpoT0x3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ1doSjVuNkFOelRENXZsSjNXRjVDcG9JdDA3THBQSGZZVmpHN1MzcDE5dzh4VU1YMTJfcFByYXRydm9Fb0IzZk4wNzVPTlVfcnBUcEdvdk53Z3UyN0FXV1ZtR3JTX2pDR1VtQ3JWU2ZVaGxfVXE1VGdoZzN5T2hvdWI4c0p0OWhDZEtDVllYYUpnbl9qUnBFX2VCRHI1d2JqZXc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 92.8,
+        "changePercent": -4.02,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Insiders Are Buying Intel (INTC) and Opendoor (OPEN) - Yahoo Finance: Insiders Are Buying Intel (INTC) and Opendoor (OPEN) Yahoo Finance...\n- Intel Corp Stock (INTC) Moved Down by 3.58% on Aug 19: What Investors Need To Know - TradingKey: Intel Corp Stock (INTC) Moved Down by 3.58% on Aug 19: What Investors Need To Know TradingKey...\n- Intel GPU pricing jumps 48% in a month, Wedbush says (INTC:NASDAQ) - Seeking Alpha: Intel GPU pricing jumps 48% in a month, Wedbush says (INTC:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Insiders Are Buying Intel (INTC) and Opendoor (OPEN) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXZWaGl3ZjN6SVF2RHR2NGhJdkNiOHdKYTBvRHVJSGFGZnhNdUpLVzE3SXd2aWFzc256akFmU2FpY1VLX21jWGdKbjhPd0dFMHI0c1F6Qk5FZDdJcVRGSzltNkRCU0QyblZMZEU4ZDFpWjFyb3duVE14bHYxbFJqTmtJM21BWmtNZm9RbUNWRmkzTjFyX3djSU5kWk5aazh2aUE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Moved Down by 3.58% on Aug 19: What Investors Need To Know - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdFM4cGxLZ1pWZHo2VHpLYWQzdlhTT3VObXZ3VTl0cm5zamtIR2FWbGlIYURFanVWV2FYU0w5REM5OVRPVXRiZjkzaVFsdFg5VWN4dHQ4enYzMmJZYlAyUnR1WVBYRENuV3RzcVgzMHpVUFAxUklRdFo2TkgtSkZHSjlfTlJ6UGdweU1N?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel GPU pricing jumps 48% in a month, Wedbush says (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMmNaOFM3N0pqOFlVOUdJWGQ3R0FRV2l0aWFON0dzNTl4cXA3VDVXaHlrZDlRN0h4SkVfZlhQUnJWX3RNQmpvMHA1eW1GNjNGbGFNa2F4WHgzdWI0MmczMnBhanVtdHYxeHVyZXNoTkFaa0lielc0ay0yVDhKeHcwWnFIU21PQ0xxVk5mc1BpMlZudw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 466.42,
+        "changePercent": -3.71,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices vs. Salesforce: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool: Advanced Micro Devices vs. Salesforce: Which Technology Stock Is a Better Buy in 2026? The Motley Fool...\n- What's Going On With AMD Stock Wednesday? - Benzinga: What's Going On With AMD Stock Wednesday? Benzinga...\n- Advanced Micro Devices Inc (AMD) Stock Down 3.7% but Still Overv - GuruFocus: Advanced Micro Devices Inc (AMD) Stock Down 3.7% but Still Overv GuruFocus...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices vs. Salesforce: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaDhSc1hwZGtWWkxWcEdfUl9hM0E0ckp4SU9CZnNnYkVGeC1HVlgxcURWOXEwdHBkZURWZW91ZWtHMGl3enZ1SEdHSm5Rc0dGVFZvdlB1YnZRSzZWVWJwN2JnSTN1ejZtYVdjVG13QWprZDlBb1VXX0VudFFvN3puS0Nrd1hpX21oYmJ6YUxqYTVWb3BMM29EblJlRGRRcWlfVUtxVGxPQkNGdFVrZ2p0QVgzWFFCUkZZeUYwLXk1M1BRd19TR2tMNkFkR00xYllVeWc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With AMD Stock Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVdJcmJwT1J5NC15WDNQa0k5alFsZ0czeDhyWFRHUENNdGZBbDN3bFpkeGsySFlnX1NFTWJNMGJIYmRwRlpJRjFKdXU0UVRVYWR0a3JDRWUtSWtGY0hmSHBWdkdzZlcteEphbkRmZzdtbElzNGdfYkJrOVp4ZHI3NW9VQVY1WnpyTi1YVXNBamlHeUpQWDBQbzZqQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc (AMD) Stock Down 3.7% but Still Overv - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGx5d3dwYzNtNV81dEQ1dnpDVnI5amJoY3JHd0pBQmZGMHlwZVZBSHhGZ0V1TEtqQUZwRFI1V1RzcXNHRVR4bkE1MW0zXzN5ckpwdkF4VmdBN2VRRjJtb0IyREY2OXBuazN0TDQ0eTdaLU8yelp0NGF0TFFUSk1qdVJabm1KSzRMdFZDMFFaY0t5NDRrZXN6a2lWeXNRblhnZnhLUTJYYzJSQ3F1X29xMGNaXzhLbFdsdXlB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 937.1,
+        "changePercent": -0.39,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU) Is Earning More Than Apple or Microsoft, but Can It Last? - Yahoo Finance: Micron Technology (MU) Is Earning More Than Apple or Microsoft, but Can It Last? Yahoo Finance...\n- What's Going On With Micron Technology Stock Wednesday? - Benzinga: What's Going On With Micron Technology Stock Wednesday? Benzinga...\n- Arvest Investments Inc. Sells 1,147 Shares of Micron Technology, Inc. $MU - MarketBeat: Arvest Investments Inc. Sells 1,147 Shares of Micron Technology, Inc. $MU MarketBeat...",
+        "sources": [
+          {
+            "title": "Micron Technology (MU) Is Earning More Than Apple or Microsoft, but Can It Last? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWHNRSjQ1NWk0X3FQQ1VpaFg0MndUNEtxdzdMZXZ2alRIUzlJMU5IUFY0Z29uRFlLMC1jbGJLaUdoTHYyUTZidV9ZNE53NEwxTFFVVXMxZjItRUJQclFjQnc5by1tQklHbHRNaGFxU3h4MFcyeTkteDlrWHJzeHRRVm9FblE4X2F1VW9Db2VrYnVHNmhNVlB3TQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With Micron Technology Stock Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWm9ReHJxdWZ3clJ0eFFaY0E4WFRpR1lxY1pPc1hrSFhxRUZmUjlZbm1uNEoyMnZ6MmlSTlR6eExHOXJ4aW13WHgyUUxIOGJDd3FaTC0zRVJRbnlWekxVLTdUbVVqUExsVDFDTUo1TXpHSTg0OFMweDlxZ04tRGhRVUNCZkVuWno0aGRIaUJDSlMxdS1qa0t1ODRuRllCVExnblY4bkJEa3F2V3ZB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Arvest Investments Inc. Sells 1,147 Shares of Micron Technology, Inc. $MU - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzQyMnV4LWZQMWxldDFSS0dsSW9YbG5uZzVMbkJBWjVRQTNWcDVkczRYUm9PSU5PUFltd3JfcWp4LXp1WnFKaFd1S1E1QW84MFMtNjN0MXJiUzNQeDFRcjFiMEVDbFlTZ0l4N1oxSTJWSzZwbmZRbllTekhLUW54dzQwT1RzcXN5a24wRVZfVlk3X3c0eFNqVkM4c3JwTUlQWGVaRDdHVEx1ZzVvVF93aHhUTjJWRzg3YUlxdGdnWUYwaVRpVWl4cA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-18": {
     "date": "2026-08-18",
     "lastUpdated": "10:27 PM KST",
