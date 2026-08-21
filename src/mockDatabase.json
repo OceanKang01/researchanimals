@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-23 AMC (마감 후)"
     }
   ],
+  "2026-08-21": {
+    "date": "2026-08-21",
+    "lastUpdated": "10:28 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 866.71,
+        "changePercent": -1.43,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (NASDAQ: LITE) exec lines up new sale after 1,500-share trade - Stock Titan: Lumentum (NASDAQ: LITE) exec lines up new sale after 1,500-share trade Stock Titan...\n- Lumentum (NASDAQ:LITE) Trading Down 1.4% - What's Next? - MarketBeat: Lumentum (NASDAQ:LITE) Trading Down 1.4% - What's Next? MarketBeat...\n- $1000 Invested In Lumentum Holdings 5 Years Ago Would Be Worth This Much Today - Sahm: $1000 Invested In Lumentum Holdings 5 Years Ago Would Be Worth This Much Today Sahm...",
+        "sources": [
+          {
+            "title": "Lumentum (NASDAQ: LITE) exec lines up new sale after 1,500-share trade - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUhKUlU3TUU1WXYzdFlySkV5LXpvZkZkaHIwY3FsejM3MjNXa3pscmh0QkNZYUJaeXAzX0VsbWlTb1h2RnBibXlPM1ZMMDBWQ2tzY2cxb2JMajE4bk94cWtseW0zdWZFTmVVS0dqOVd4WGQxUGRCSDNQaTlTbnRibk5uazFjV0JTVnM2cFYzTld5YTNCWk5yT0NFMmFuUzA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Trading Down 1.4% - What's Next? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUNoTTY4MDVVclhuZy1qeUpjTWNqR0FJTW1qTGtoUGlkX2xNSlJPNkRvZnJ3ZGx3dkZmckFnbXRJRU01a3NQNTY1RWlueUlaUTh0WlBSYmxKbE9KNmhGUFlwODRHTnJyTE5IOXJ6SmFUdWhlMXBGNGw1UE9Ya2ZzbkJxNlVyOVRnbjhCTzhfZmhkOVlETUUxYlVhTWdyVnZkMlE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "$1000 Invested In Lumentum Holdings 5 Years Ago Would Be Worth This Much Today - Sahm",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVEVTSS1FcENHSC1fWk9WSWZXU3RaQVUxdThyYjlHcko3M2drOTNoa0cxUjlhYmM3cjlCalRhQjNFZUZzX2t4RkJicDFXWFpOUjhtdzljSTlSVzk5N3Z1Q3J2UXZSM204MDlQX0FTODU4VkFta3lveWtZVGxGWUh2dkEwZFNaNTNnelJsbE5mUHlDWTBtWWlRZVhXWVp3N01oVWFralBmdk5GOWd6WTBoMDdTVVo3TFhGc3h4VUJfSzdRdkRhN3VqRQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 90.07,
+        "changePercent": -2.24,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (NASDAQ:INTC) Stock Price Down 2.2% - Time to Sell? - MarketBeat: Intel (NASDAQ:INTC) Stock Price Down 2.2% - Time to Sell? MarketBeat...\n- Intel (INTC) Stock Became 67% Of A Major Investor’s US Equity Portfolio - Yahoo Finance: Intel (INTC) Stock Became 67% Of A Major Investor’s US Equity Portfolio Yahoo Finance...\n- What's Going On With Intel Stock Thursday? - Benzinga: What's Going On With Intel Stock Thursday? Benzinga...",
+        "sources": [
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Price Down 2.2% - Time to Sell? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcmd5OC14VHZLd0d0Wkc1NzJkOHFTSG5CeU9uSUtGcU5oOUoyU2dPT0tFYncyMThUdncyVnAwV0staGowam95VGZWZDhGb2JKVGxEV3E4dXF6SE1HR2R2VllxOG9LMlh0WlBMUjBhMXRhQm41bHFVNVVUTFZCNlllR01MVk1OZGRjN0pYeFhyMV9OWTNrNUZoOTVVelpVSnlCcmk5dmVn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (INTC) Stock Became 67% Of A Major Investor’s US Equity Portfolio - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2tvWjhadlh4OE81VldzbzBfRkg4X1BpdndsOUZJQm5IVjNMTk81UU9tRVJIVmR4VHdrREJYR3VHRG5WbGNNMmkzSXpGMF91c2lZYTV4OXZscER0TzBnQXExM2xRR2ctOVJ5NUJPRzY1QWRwNFJZaWxUOFhNQzlJVG4tWWE0WS0xanJlLUpwX01HdVM5d2c?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With Intel Stock Thursday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFp4M3BiOHJkRi1PYWRRbjctTVMycjItVXViQ2Znelh4a0ZYSGpyWXV2TWVYZ1N1M2tDY0pudFpyMG0zMDR2WDdsdE9WUmZXcnB0MHB1cmRCZVIwUHZCTHQyS1IzYTZ3NTlIRmdVRmFIR0syclF0dW5ESGNiYW1oTzlGNXEzY2hQSThxbjFMVTRGWWNkamdYbVI0cFphWFhaZlVabVpR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 473.25,
+        "changePercent": 0.81,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock - Yahoo Finance: Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Shares Bought by J.Safra Asset Management Corp - MarketBeat: Advanced Micro Devices, Inc. $AMD Shares Bought by J.Safra Asset Management Corp MarketBeat...\n- Advanced Micro Devices vs. Salesforce: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool: Advanced Micro Devices vs. Salesforce: Which Technology Stock Is a Better Buy in 2026? The Motley Fool...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR29qS0twb1ZRTHlzcjlCbHdEWFpUbG5Qc2pBeHJwWjFLQlVRRzNmRkdLOTcxY3ZrdVFPaC1nazBWY2hNazZGaXdWbklxUTNCOWh6NWljRXV6SjhYMk1GVkNsclNmanVfdmhLTnJvLWV0aEJqX0w2NElhdFpwSnlYSzVPX1VuX2xiZ0lfRGlJLXZhYXB2TlFCS0x0S0hIdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Shares Bought by J.Safra Asset Management Corp - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSTM5WThpRV95SkNSdE5GOVNlYlBYMlVtYlpwalljZ0lDMEdMY3JMMVRnMUY5ZkRBd3lybE90QTR4b29tbHN1empWendLUUNvMU0wWXp2SnEtNWR2RTdWM05icVg3X1F0VFdHc3BBQnNack1FNTJWblJuZnpFTVZnRG5ycFp1SDYwd3Z4c0lPWjNQYkxxNVExc3FHYkVJQkxEc0lfTV9aMjdJMUJoVTFrQWhLX2dmSGJxSVllNXdTWVB0NHpmNmx1TGE4bVBobk9UT3Rj?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices vs. Salesforce: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaDhSc1hwZGtWWkxWcEdfUl9hM0E0ckp4SU9CZnNnYkVGeC1HVlgxcURWOXEwdHBkZURWZW91ZWtHMGl3enZ1SEdHSm5Rc0dGVFZvdlB1YnZRSzZWVWJwN2JnSTN1ejZtYVdjVG13QWprZDlBb1VXX0VudFFvN3puS0Nrd1hpX21oYmJ6YUxqYTVWb3BMM29EblJlRGRRcWlfVUtxVGxPQkNGdFVrZ2p0QVgzWFFCUkZZeUYwLXk1M1BRd19TR2tMNkFkR00xYllVeWc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 966.78,
+        "changePercent": -0.77,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (NASDAQ:MU) Flags All Eight Growth Screens as Fundamentals Accelerate - ChartMill: Micron Technology (NASDAQ:MU) Flags All Eight Growth Screens as Fundamentals Accelerate ChartMill...\n- Oppenheimer & Co. Inc. Buys 6,702 Shares of Micron Technology, Inc. $MU - MarketBeat: Oppenheimer & Co. Inc. Buys 6,702 Shares of Micron Technology, Inc. $MU MarketBeat...\n- Micron (NASDAQ: MU) CEO lines up another multimillion stock sale - Stock Titan: Micron (NASDAQ: MU) CEO lines up another multimillion stock sale Stock Titan...",
+        "sources": [
+          {
+            "title": "Micron Technology (NASDAQ:MU) Flags All Eight Growth Screens as Fundamentals Accelerate - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTHcxcDg2WmxqcU50aklvWW5BelBVRjE2Rk5fRG00Q1cySnEwU3BvdUI4ZE5NcHhGOC0yNlJ0TDM2eTBnMXJERHYwb0ZtWXhnZy1NNkwzREN2cW9QSkxTR1pDcDNlZE5jWnQyRzRWVjRSR0N4bnAydXhzUVd0bVhwLThEVGlmSXBZZFJFZ1MxM0Z4djgtVGJGalhKYmthcEY0NDRGQmFRRjVHVFlRSnRWbnFNZkhqUEl1Q3EyeTF1cHFMa2NtNkJaeTlLSmwtYzA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Oppenheimer & Co. Inc. Buys 6,702 Shares of Micron Technology, Inc. $MU - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFB3d1RRNVl2MmthSW04WGlEWW1TaW5nZ0YzMW1heDhqc1BjZEMxY2pxbDFUMlBJMVlCQ1pZUUhRRUJaUTRLRlcxcWlhZVRFWC1oU0s5ZmlZSzNDbl9abnN1YjVhM1prcU9aYi1fbmhadWR3VFJDdmdOZ1BuWXFwWjJ0bEVZbHdGT0VNX05vNVZ3aVBERzNacUJ4WVlWZFJIUDFkXzkyN2FFbkRPWTlmMzVvQWsyNEpCbkNGLTFaQ3JFdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron (NASDAQ: MU) CEO lines up another multimillion stock sale - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ1NwTURJUEo3SWE4bnlOaFJFRnlsd1IwaWc1cFpKWGdIU0U4ME5oQ0lINW5MRmU2QzJtRGVhX0xidERjc0dGWm5NS2J6TGN0LUVsTUFfREhsdVFST0toU1Y2NFdLMGZ4b1BlbmJRY2RmT3B5cm80SkxDOWNqWjNfZV9YNnVnYjZDaTNVUDlHcnJCZmptcTZiVWtJNzc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-20": {
     "date": "2026-08-20",
     "lastUpdated": "10:31 PM KST",
