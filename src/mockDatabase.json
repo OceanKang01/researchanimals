@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-23 AMC (마감 후)"
     }
   ],
+  "2026-08-24": {
+    "date": "2026-08-24",
+    "lastUpdated": "10:30 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 830.17,
+        "changePercent": -4.22,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Coherent (COHR) & Lumentum Holdings (LITE): Two AI Optics Suppliers Just Beat Earnings. Why Did Investors Punish One of Them? - Yahoo Finance: Coherent (COHR) & Lumentum Holdings (LITE): Two AI Optics Suppliers Just Beat Earnings. Why Did Investors Punish One of Them? Yahoo Finance...\n- A Look at Lumentum Holdings Inc (LITE) After 4.2% Decline -- GF Value $163.14 vs Price $830.17 - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 4.2% Decline -- GF Value $163.14 vs Price $830.17 GuruFocus...\n- Lumentum (NASDAQ: LITE) holder lines up $412K stock sale - Stock Titan: Lumentum (NASDAQ: LITE) holder lines up $412K stock sale Stock Titan...",
+        "sources": [
+          {
+            "title": "Coherent (COHR) & Lumentum Holdings (LITE): Two AI Optics Suppliers Just Beat Earnings. Why Did Investors Punish One of Them? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2JZNFJSOTB5YUU1R19UenIyYVlidDFyY0FlLTN2R2lNNzY2NF9LSUdsZElEUnVtSy1wUnh4SFlDNXlUclFaUlA5RFJodzdDOXNGaTNsNG9zUmw2VXFENldYNGhQeHZWa0liZUtEV1RQVGEwc2pTN2ZoSDk0VXE5NFgzQVRWZ2ttbVk4UVRWaERkNm9DbVRUR2J5ZWJFZTJ0Qlln?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 4.2% Decline -- GF Value $163.14 vs Price $830.17 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzZyMkZ1RlBDMjFhaFp4S3g4cmh4azhVd0YyeE1RR1RyUWhTN2t4TC1sTC1GaF9UaWxwdnp6c3VCb2xyMlBnSldoQVpMTFdWMWdxbGVnRXQwQkQxaXlhMmJqYk55d1NSajRzVFJ4bjdoa00tbF9wY3ppQU1wZ2lpRGRsbkkwRzBob0RNako4QU5xbG54SUE3SnVoRGwxWmthSjJBSE5WZTZLamF5RW9uN0ZrOVgxQXZ6aU5lR0xBWQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ: LITE) holder lines up $412K stock sale - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGpySmVEak12emRqMXhWNVVuMUdBUVlZWTRONWRERU5od2tFMmpnRmJHb3B4TmduZ29TRkpIU3ZyUXF6ay1BUVVOeXJ4eFVadHBvaldtQXFvZTNmQ3c0WnZYZjZ0Z3pfTnBPQjNEN0VocnYtSGxuLTdSQThtTFUxbFlOX1MwUllWMm5SWGVQblhXdTIzWWFfWVJta1BlcDg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 87.26,
+        "changePercent": -3.12,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Is Intel Stock Falling on Monday? - Benzinga: Why Is Intel Stock Falling on Monday? Benzinga...\n- Intel Corp Stock (INTC) Opened Down by 4.60% on Aug 24: What Investors Need To Know - TradingKey: Intel Corp Stock (INTC) Opened Down by 4.60% on Aug 24: What Investors Need To Know TradingKey...\n- Intel Corporation $INTC Stock Position Decreased by Janney Montgomery Scott LLC - MarketBeat: Intel Corporation $INTC Stock Position Decreased by Janney Montgomery Scott LLC MarketBeat...",
+        "sources": [
+          {
+            "title": "Why Is Intel Stock Falling on Monday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMzk1LXhpRnFZUnI1QVNUZGZEV0xfOUZyUTlINnViRU9VQlFjcUtnYmRSRU9HYnBIeGJldTdfV1EybXluUVBkUDZMVHc3TXZaOWF1Q2lyei1nMUh3LXNkdHFPcWozVWpoR200NDRUZVJrc2FmS05HY2Vsdlg3WjhqNmRobnZhYlFkcHk4eTJvSFFpV2M2aTN2SXZkVWJ0UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Opened Down by 4.60% on Aug 24: What Investors Need To Know - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFQ4bnZkNlNKSllFM3RucVpoajJCU1NsR1ZYUUVxbThsR3ZNNFN3Vkx4alJ1MnR1ZWE4Z1FWODIxbTdZQ0VVQ0ZWM3FyaGNvQWczTEFJYW0wZWJ1V01ESzIzSHV4LVdrVWpINVk5d2FZVE9YOE14X1p1R3M0TGNQWEVoOUNzUFJWT08w?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation $INTC Stock Position Decreased by Janney Montgomery Scott LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdjJYMjJpM2tRWDZzdmQwYU9BQzVFSUtTNHRtWkFZOUVPV1VCZ3owV1hOZ2RSWjVERjlBMUVfV3pZcjltM29WX0xwbXlQU25aanY1V2JIOXRfckJiMGVNUFJPNXRMVjdMNUVVbHlaVDRMelBVMXBCZ2RRWXAzTkdKSFplV0E1QnI4UWZXX3gxSlBkdWlMR3Q2Nkg0S0R3bWxOV2syOWV2TnhTcFB4aHc4am1wWnVVWmEzTFRuQktVYnRBcE9QSFV3bWhoSThqaEM4dVJzLVdR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 456.74,
+        "changePercent": -3.49,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock - Yahoo Finance: Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Stock Position Lifted by Danske Bank A S - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock Position Lifted by Danske Bank A S MarketBeat...\n- Cerebras Systems (CBRS) Revenue Surges: Why Did CBRS Stock Crash, and What About AMD? - Yahoo Finance: Cerebras Systems (CBRS) Revenue Surges: Why Did CBRS Stock Crash, and What About AMD? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR29qS0twb1ZRTHlzcjlCbHdEWFpUbG5Qc2pBeHJwWjFLQlVRRzNmRkdLOTcxY3ZrdVFPaC1nazBWY2hNazZGaXdWbklxUTNCOWh6NWljRXV6SjhYMk1GVkNsclNmanVfdmhLTnJvLWV0aEJqX0w2NElhdFpwSnlYSzVPX1VuX2xiZ0lfRGlJLXZhYXB2TlFCS0x0S0hIdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock Position Lifted by Danske Bank A S - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTXdnSGdLcl9YYVdZZWcyQ3RneXJpZUFUOFBTUHZiM1oyMUp1cFJXMjR4cW9lVHNhZk1rNmM1b0ZEOVJUdzk1ekR1XzlfY3VUTXVOQUYwR1FSSVJPM294MkxpclVoQTlFUjYtT1dsTkpDMWxQeG5hOHRYREw4NE1Jd2FWeEU1TkxjN2FpMnJzUjdDaEwyVTRpTHNxN0hoUnZlSnZvbUF6bjhSTHlNY0s0V0Nhc19xeU1GeEFCdjBNY2oyamZzeXl0RHJyX3E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Cerebras Systems (CBRS) Revenue Surges: Why Did CBRS Stock Crash, and What About AMD? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFhsamgwSTdhZnk4U1N2X1Z2cUZGV2hSR0tMVzRDN3FVMFhTb25NTGRYSi1MWW9iV0R1VkdLRVYtVm5sekRmOElIY1F2RWlfV0JDUVlsWGZoQnZlcU9UWmljWlhqamR3VHpFWVVpeHhhSmtpMmEybjlKUjN1dEJnNElQejdqa1lJT1kzUlkwQmhXM3BtRXJlQW5nQVpLQ21ULXlR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 910.43,
+        "changePercent": -5.83,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology dips 6% amid semiconductor selloff (MU:NASDAQ) - Seeking Alpha: Micron Technology dips 6% amid semiconductor selloff (MU:NASDAQ) Seeking Alpha...\n- Micron Technology Inc Stock (MU) Opened Down by 6.86% on Aug 24: What Investors Need To Know - TradingKey: Micron Technology Inc Stock (MU) Opened Down by 6.86% on Aug 24: What Investors Need To Know TradingKey...\n- What's Going On With Micron Technology Stock Monday? - Benzinga: What's Going On With Micron Technology Stock Monday? Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Technology dips 6% amid semiconductor selloff (MU:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0FiSG9fdjlrRS13WmpLZVN0cXVickFDS0pUNmNMdWtnQmM5MU9EMWdnbGVubGNQdzBOd3o3eGNzWW11U0VnS252RVM0aXNUU0V2YUxHdE9GQXlLeTNudkpiVDVZWHE5VlN3OU5CYVhQUVBid3Vqa2dCSXhzU1BLTWJVQ2NnbUxTa1gwNXQxTjBVbmc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc Stock (MU) Opened Down by 6.86% on Aug 24: What Investors Need To Know - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkowRFNtMnNpNzBqc09kVU1FQmtZMFpGTUZncWRGeWV2Q3d2OXI0NGlNc1duS2tHQU9JbWJpZWotcVZ5RHBmLTRXd083end1LU5hbTdVWHNlZEtmdng2OGRkR3hxQzJNNGNLTFE1TjVxaURvSmNJdzljUFU2SHhtT0c4TWR6Q2dX?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With Micron Technology Stock Monday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFdnNXRDV0JWUXNkdFRLQ2RVaWtTLWl3aXZ0VnA4bGFQMVA4Q1FRRDViZ3FTZ0p2azdDS3oyZUdEZ09BQmJxd2xkWDUyMXR0cW1KSUN3Qi1qZ3dTTUdzczF5YzByT0xqbkhxaGhQVzJLZ0gxTi16eVc4T3NNQTRpQ1Y4bk14TkgwY2V5S2VObkFlN1VuM0pDOVV0d3lPLVEyOXM1RXROX0Q?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-23": {
     "date": "2026-08-23",
     "lastUpdated": "10:26 PM KST",
