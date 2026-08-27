@@ -18,9 +18,111 @@
     {
       "ticker": "MU",
       "name": "Micron Technology, Inc.",
-      "earningsDate": "2026-09-23 AMC (마감 후)"
+      "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-08-27": {
+    "date": "2026-08-27",
+    "lastUpdated": "03:00 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 939.03,
+        "changePercent": 6.04,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc Stock (LITE) Moved Up by 5.14% on Aug 26: A Full Analysis - TradingKey: Lumentum Holdings Inc Stock (LITE) Moved Up by 5.14% on Aug 26: A Full Analysis TradingKey...\n- Lumentum (NASDAQ: LITE) exec sells 1,500 shares over 3 days - Stock Titan: Lumentum (NASDAQ: LITE) exec sells 1,500 shares over 3 days Stock Titan...\n- Lumentum Holdings Inc (LITE) Insider Sells 1,500 Shares as Stock Trades at 5.2x GF Value - GuruFocus: Lumentum Holdings Inc (LITE) Insider Sells 1,500 Shares as Stock Trades at 5.2x GF Value GuruFocus...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Moved Up by 5.14% on Aug 26: A Full Analysis - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXRMb3RmZlZlTE9qMVJnUXFOYi1JMTFxUldLSkhiQlhkTVBkTDQzYmFpbTRUYjkxZkxmN1Q1MDhXZWh4LXY5YXVKeW1pZklCcnZqU0Qxa2xLU1BoLV9vWHVCT0ZueUdPZk5keUJPdUh2VW9YNHZralA2eXVpLXQ1bkpFUUxiMFo5TzJN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ: LITE) exec sells 1,500 shares over 3 days - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNE9HOExlRXp0VXlncFR6ZFB2Tko1dVBGM0Z6YXBmN25aWlROVzB4QkJFdnFsa0wxbjdDOXFIdHYwTWpZWEpDbjhTclRrdzJJV0xmUURoOVowd0c3Rm00ZE5yaFRPTEM3Mk5hTDB4Wmp6ZTVVWFVIaFVsQ1VkVUFBdmtvcUk1WEtCNDlfWWk3aTE5cmRUOFlKblVlT3BJaGt6NXhJR0VTdTlVR291cFBDX0ZCNXdiUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Insider Sells 1,500 Shares as Stock Trades at 5.2x GF Value - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVERNdTNvbHBhRTBNb2pBeGszbWZnSEtsRDd4OEVRalpSM0ZmUmQ3QTB4VkRHZDVUWHREZmQ0eFNuYnhKWXoxcW5jWDNubW9fUEw5OFFyYVc0bzNuQjZIWGVPOXphckMtYlNFb0M3cE1PVFZPTVBJZV8xMDVneUxXNTE1VDkxX0JvRG9FODhhQmNCMmQ0RW1PVW9ScVhDVExqNHl3MFBaQ2U5NmhkamNfRjlrekN0ZDdrOXE1bmNSQjc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 88.24,
+        "changePercent": 0.87,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Jim Cramer Points to Government Stake for Intel (INTC) Drop - Yahoo Finance: Jim Cramer Points to Government Stake for Intel (INTC) Drop Yahoo Finance...\n- Intel Corporation Stock (INTC) Opinions on Pelosi's Recent Purchases - Quiver Quantitative: Intel Corporation Stock (INTC) Opinions on Pelosi's Recent Purchases Quiver Quantitative...\n- Private Advisory Group LLC Purchases 9,631 Shares of Intel Corporation $INTC - MarketBeat: Private Advisory Group LLC Purchases 9,631 Shares of Intel Corporation $INTC MarketBeat...",
+        "sources": [
+          {
+            "title": "Jim Cramer Points to Government Stake for Intel (INTC) Drop - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmM0MG9RSUxkLUpkNDYwZTFJTW1paDBicnMwOEdZTk9fUDRCX2xqVG9CNC13SHpTX3FZVkNYMVR5aDJNT25RdjFyQVNzRUlOaTZySVo3NlF5ZHZydkczS1RhcE54VGo1NjdjRXhGMVVyZ0xJYndmWlVCbERMekZfdTNEMDZRWXI5bnlraFBBakNyRDFFSWhXcndQRHZraEV1?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation Stock (INTC) Opinions on Pelosi's Recent Purchases - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEpab3F4S2lJbExNVVZWZTctYks1MkwyYV9xSXR1QmJNbXhNV2xFMDhQR1FET21DdXZiVDZwTmZMS2NQV2VRSEo1UmQzRXdyekl2WUNZbm91Q3NOZ1Nvank5VXd5S01BVzM3RDZLOHVjd1BIQldaNjY4Y2ZtcE9jcTdfNHE2Wi1TT3VHYmNaM3EyZVUtUUF2NlVkR1ZNV2FfTm9GNzVoaGdRdWM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Private Advisory Group LLC Purchases 9,631 Shares of Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa3JfZTRlMEVSNWhfS29DVDMyYmlfandDOEJHM1VIdDVoU0F0MGY3ckphTWRFbG5scDBJbEhPU2p4NzNsYjY2NE9WZFlMT09aOW5ONWowR0tKRURjRVdWTDNmMHI0ZHFGNnZpSGNnWU9ETFJuSkJhbnBuUFhRUU1OUFJLVXlBYVBGd2w2cWxNcVNyd1hsZkthRUJ6WXJWbG9KT25rbTNSUDZVMDAzOFdoWnk0T0JpLUcxYWtra2ROei1WVnpNTE9zTVo0bmxPMDFp?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 480.93,
+        "changePercent": 0.37,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What Is Going On With AMD Stock on Wednesday? - Benzinga: What Is Going On With AMD Stock on Wednesday? Benzinga...\n- Odyssean LLC Buys New Shares in Advanced Micro Devices, Inc. $AMD - MarketBeat: Odyssean LLC Buys New Shares in Advanced Micro Devices, Inc. $AMD MarketBeat...\n- Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock - Yahoo Finance: Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock Yahoo Finance...",
+        "sources": [
+          {
+            "title": "What Is Going On With AMD Stock on Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcHNKQTdtNk94TXNmcG5Oa3BBcmRUNE14VWhGSXdXVGFjUk5GRjRpcFJiYndKSkw2LUY2NUNCcnRRNUxFbmhFVHlwMlZrdkRCUENIWkNTbGg3cUZMa0xQbURFM19mcmRScnhmZFB4Q2d5eGVFTGd1cXRzbi1VOThrRE5iTkNPX2V1Q0lxQ2EtNGxvZTA0MW5BSnlfZ1JBMHo1?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Odyssean LLC Buys New Shares in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzVzYml5dnc4Y2ducm9Eb2RwalczVlh5bjgydWY4d1RNYVQ4QllpbDlTdW1SY2FHOGhoalhjOWZmSHVTQlROcFkyVVE5cHJxdzBfaU9nUDFGUC1BdlhMVzlPSW53bHBUVDF0QWwzQWhFWmt4UXNtX0FZYUJ5a2VHZDFsQk0wU2VkSFREZGxzdl9qR3l6MzlMQ0RnbXZFWFVNb202S0w3OWdkaTJyU1VPa2xxTnA3dXBhM2hwdlE0bVo?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR29qS0twb1ZRTHlzcjlCbHdEWFpUbG5Qc2pBeHJwWjFLQlVRRzNmRkdLOTcxY3ZrdVFPaC1nazBWY2hNazZGaXdWbklxUTNCOWh6NWljRXV6SjhYMk1GVkNsclNmanVfdmhLTnJvLWV0aEJqX0w2NElhdFpwSnlYSzVPX1VuX2xiZ0lfRGlJLXZhYXB2TlFCS0x0S0hIdw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 938.4,
+        "changePercent": 0.58,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron sets Sept. 30 date for its next quarterly earnings call - Stock Titan: Micron sets Sept. 30 date for its next quarterly earnings call Stock Titan...\n- Micron Technology Inc (MU) Shares Surge 0.6% -- What GF Score of 80 Tells Investors - GuruFocus: Micron Technology Inc (MU) Shares Surge 0.6% -- What GF Score of 80 Tells Investors GuruFocus...\n- Micron Technology Stock (MU) Opinions on Q3 Earnings and AI Demand Strength - Moomoo: Micron Technology Stock (MU) Opinions on Q3 Earnings and AI Demand Strength Moomoo...",
+        "sources": [
+          {
+            "title": "Micron sets Sept. 30 date for its next quarterly earnings call - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVVzTkhjVzRzeGZPS1daOEx0WmJHLVpWMm5pTFJHZzNsSGV4VlhjbDlpcVBrSG1pREZJT3hhX1FzSlJqa0IwaVJDbzhueXFzOXE5MVNaWnRfSnBPbG51Vk1WRFh5alAyX3NGTFJuUEI4bDVjMVkwTE9LZ3NVbklJOVFoWjQ2SXdmS1FzdVZxOXVsdTJxQkxPdHZuRFlkRWg2YWtsSGRKZTZtV3NxTFlhYjltRQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc (MU) Shares Surge 0.6% -- What GF Score of 80 Tells Investors - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlQzMjhJUjlsYjdwcjcwZTNpb05jdXJFOEpmaHlVWmVxVXFrUDVXYkZSclZUMjF6cy1CRjJHc00yVWNmTnV2ejE4UDdKaUpsZG9fc3BNTkRTcTBla2lCWVB4YWVFYVBmNlA4a1NNQ0tsX0VRVjBMN011ZzRMRWNDSjRMSnJxdHV6UEdrc1Y1R1d5MzVIM1BfNnZ6THVPdFFhdjNST2dvSG1UczJZcklTWDcwdHlqQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Stock (MU) Opinions on Q3 Earnings and AI Demand Strength - Moomoo",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTGNOUlpnRWRMLURpTjRRdklFOHA3MXhWVE9wNmRqWmxjaW5POTlRZEpGcmlQVkNxaHBOaDI3NU9ZZ1RWUkpDa0lRbWJjcGk0OG5OeXcwMkgzcEt1azdtVlN4dG5naVQ0TGVBb1JaY0dGNXBYcHk4TlF5ZzBIU1dQTFZxckJuel9iSTRhNHJqMmpCaDVMZndCXzhfQlhTU3RI?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-25": {
     "date": "2026-08-25",
     "lastUpdated": "10:31 PM KST",
