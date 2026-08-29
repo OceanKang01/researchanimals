@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-08-29": {
+    "date": "2026-08-29",
+    "lastUpdated": "03:35 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 895.0,
+        "changePercent": -6.39,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc (LITE) Shares Fall 6.4% -- What GF Score o - GuruFocus: Lumentum Holdings Inc (LITE) Shares Fall 6.4% -- What GF Score o GuruFocus...\n- Lumentum Holdings Inc Stock (LITE) Moved Down by 5.09% on Aug 28: Key Drivers Unveiled - TradingKey: Lumentum Holdings Inc Stock (LITE) Moved Down by 5.09% on Aug 28: Key Drivers Unveiled TradingKey...\n- Lumentum Holdings Inc. (LITE) officer plans $470K stock sale - Stock Titan: Lumentum Holdings Inc. (LITE) officer plans $470K stock sale Stock Titan...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Fall 6.4% -- What GF Score o - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSzh1RG9GVXR5dUNCeWtGWHNPelI3Ni1UOFNtYnpCbU40TGdaZk1SdmxpRE1CR29ybDNBUnFtNHA1VERYYktOdkp4MkxYX005STJQN2piTlh6ZnlmeXJiMnNNczVfU2pQLUs3NERyaTI2Z3pVYXFTTW4yNHAyRzlvRGY5Vmg2VnBfbVZ0b20xa0l3VmZtMHJyeF93OVY2VXZ3am1fUlJYbzNOT0JheE9PX2NzbTctUDQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Moved Down by 5.09% on Aug 28: Key Drivers Unveiled - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeklHQW14MHVuSFY1Qjk3WTlLYjhUSV9zRWVKY2hTa2I1ay1DakR2SFhnR2FfNkoxaXltSWdBYlRTVWx1WDRUbmVOLXg3NGY5cnBHaWttSVVlR0Y4dzlQaHZDSHJjRHh3d1ZvbEFvYXQ0dkxKUmMtUUNUY01wc0dXQ0paeDMzVGhRVXJB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. (LITE) officer plans $470K stock sale - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXVXTkhGTXZJNmwtTWVuQjZYY2U5RWVObndPWG5jVXhXd0pnRGNTcU9PZldORzVHSkd0N2hzOXlqSkh5ZkE4bnRYZTlMaFczZGl2Vk1QTW5NdHRob2k0dmRrSUJYbFFzZko0R3JhXzFpTElvVkhkT1dyZmRndUROVVp4bzdBbEVUcWFSYWc1WnpMWDN3SzRyd3B0cEROUW8?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 89.47,
+        "changePercent": -2.85,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here's Why Intel (INTC) Fell More Than Broader Market - Yahoo Finance: Here's Why Intel (INTC) Fell More Than Broader Market Yahoo Finance...\n- 'Insiders Only Buy for One Reason': Intel's CEO Just Bet $10 Million on His Company's Stock. It's Now Even Cheaper to Get In. - 24/7 Wall St.: 'Insiders Only Buy for One Reason': Intel's CEO Just Bet $10 Million on His Company's Stock. It's Now Even Cheaper to Get In. 24/7 Wall St....\n- Intel Corporation Stock (INTC) Opinions on Pelosi's Recent Purchases - Quiver Quantitative: Intel Corporation Stock (INTC) Opinions on Pelosi's Recent Purchases Quiver Quantitative...",
+        "sources": [
+          {
+            "title": "Here's Why Intel (INTC) Fell More Than Broader Market - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUxKZDhVOHd5TmJodEJ1MFVtY1hRY1Jsd1VMMkJjendhcVZhYUo0MF9qX2J4WTZ2U09IN3VsQ1ZrZWJsanF2MmZyRjVzdzRnSXRKbEp1VGJJbjlId0JrN0Z0NnZYdUxCRnNsUXJSb0RRcW9nVm9ZQkVFQzNubUNEZ2lERnFCdlVQZ19yRVllTDd6WlBj?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "'Insiders Only Buy for One Reason': Intel's CEO Just Bet $10 Million on His Company's Stock. It's Now Even Cheaper to Get In. - 24/7 Wall St.",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOHpCbnlzU3lRLXZnM3p4Ylo2WXZsNHRITFE5WHNjeFR1MVdodW0zSktweGVyR25VcUdNTGxyU1IwZUV2RE85TEE0bXZKdEROclJOXzZsS2dWWktSZW0tTkU1eF9IbzV6WlRMWEN3UlY1b2RGTmdYMURrZURiQWRQT3A2dF8tQV9UVGc4bmlsYjEwdFRPUGtqOV9sX0k3cFI5dnJxbGYtb2ZnV2NaekhicWdwaURiMTNMZW00d3puNGJSaFFsRnpGdjhGMmRPSzZlUzlIRXNUYmtGanNSTXZwZjZrVEI3T1Z1dzRtbjRaaUdHdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation Stock (INTC) Opinions on Pelosi's Recent Purchases - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEpab3F4S2lJbExNVVZWZTctYks1MkwyYV9xSXR1QmJNbXhNV2xFMDhQR1FET21DdXZiVDZwTmZMS2NQV2VRSEo1UmQzRXdyekl2WUNZbm91Q3NOZ1Nvank5VXd5S01BVzM3RDZLOHVjd1BIQldaNjY4Y2ZtcE9jcTdfNHE2Wi1TT3VHYmNaM3EyZVUtUUF2NlVkR1ZNV2FfTm9GNzVoaGdRdWM?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 465.58,
+        "changePercent": -2.33,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices, Inc. $AMD Stock Position Raised by Elefante Mark B - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock Position Raised by Elefante Mark B MarketBeat...\n- Why Is AMD Stock Trending Today? - Benzinga: Why Is AMD Stock Trending Today? Benzinga...\n- Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock - Yahoo Finance: Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock Position Raised by Elefante Mark B - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEE0RkM1S1Z2UUVKQ0REcGVJUVgwcUlRNFhZTkNUTVNDNE5UV0dFY1JFNnpjNEJIUjdHdV9oOXVxWXZYcWRSMWV1WV9OQm1VZEZmbXlmLWtWU2EyZWJGX0VsaVlESld5REtjX3FHTTBrY0RaNFJyNG00YUpiTGdNYlFTYXctMDdxV09DRV9lSUJhaGh4X0VheXlPbUdqd3V0U1RoTTcwdC1iN0hOMExRdEFrZC1tZ3VFRGtxLTRUd2VGYTE2cXVVTkhfWXA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is AMD Stock Trending Today? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeW5VRjRzdmRLT0NMMmU4Z2NyZjZ0TVdtXzl6WTA1Rk1VenBvVFprU2puelNPMjRHaTRUbUNDMTdfWkU0Qy1kNi1YbEdteEh6ZjJYV0trS2xNd1pPYmgxUHlRWGpTUmI0VVhJcnRBMVFOb3pZZk5aenRQVjI5SVFWOUNZMkZxbmxzTXQwWQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR29qS0twb1ZRTHlzcjlCbHdEWFpUbG5Qc2pBeHJwWjFLQlVRRzNmRkdLOTcxY3ZrdVFPaC1nazBWY2hNazZGaXdWbklxUTNCOWh6NWljRXV6SjhYMk1GVkNsclNmanVfdmhLTnJvLWV0aEJqX0w2NElhdFpwSnlYSzVPX1VuX2xiZ0lfRGlJLXZhYXB2TlFCS0x0S0hIdw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 932.86,
+        "changePercent": -0.27,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU) CEO: AI Shift Breaks Traditional Memory Market Cycles - Yahoo Finance: Micron (MU) CEO: AI Shift Breaks Traditional Memory Market Cycles Yahoo Finance...\n- Micron Technology (MU) insider Bjorlin sells 25 trust-held shares - Stock Titan: Micron Technology (MU) insider Bjorlin sells 25 trust-held shares Stock Titan...\n- Nvidia Just Validated Micron’s Biggest AI Bull Case (NASDAQ:MU) - Seeking Alpha: Nvidia Just Validated Micron’s Biggest AI Bull Case (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron (MU) CEO: AI Shift Breaks Traditional Memory Market Cycles - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnVMREtyQmtOTHRVMHNqaVNyWUV3d2tnTVJsRTlrVGw1QTRQd1FkaUtxSlBmQmpmVUQ3SlZEeXRLNGV4MHExMWp5Y3hCSXptWXJKTjJiUm9IRTN6aE5tbWFyXzdVSVByc0FYTnNrRUlvRkgtQW5HaVM3QWZiR19MVHJhR09ORFFVY0x3dWFxQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (MU) insider Bjorlin sells 25 trust-held shares - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmRBc3VSbUxMZlh6XzlIeUhYTktJZFQtZFNmQWtXRlFBMUNiYjNEZ3RfWFZtZ3lSb0ltbG1hM0NKODRoNVZYa0VJSUFwai04MFJxRnZCYmhQOXN2am53aS1xamY4Q284cE5GMkJkVGJGVlhhTGo3S2xYSFViX3pxVDJRbEF4aURfNW10aG50R1ozRlFTTFotZEtQZEhmd01DbV93QWxGeW0tcGdZLUY5eHo1OA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Nvidia Just Validated Micron’s Biggest AI Bull Case (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVlfV0lhWXc0MGE3cVhCX3FxenZPLUdQUlVDWmdHR1R3bWphUmwtRlk5MV9kNXU5S2ZFMFJ4TjVSLWMwbUdRS2lQVjQ5d1FTZ21PWWJPenZBU2NIYjdEeVRPWEtveGtpSjQwMU45SGt6SFlGTWdTUEM1cFV0bVFwUGo4a1kySmpES1pvUEVvSGtHNE1q?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-08-28": {
     "date": "2026-08-28",
     "lastUpdated": "06:01 AM KST",
