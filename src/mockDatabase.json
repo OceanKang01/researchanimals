@@ -23,28 +23,28 @@
   ],
   "2026-09-01": {
     "date": "2026-09-01",
-    "lastUpdated": "01:06 AM KST",
+    "lastUpdated": "11:53 PM KST",
     "summaries": [
       {
         "ticker": "LITE",
         "name": "Lumentum Holdings Inc.",
-        "price": 914.76,
-        "changePercent": 2.21,
-        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings (NASDAQ:LITE) Clears Minervini Trend Template and High Growth Momentum Screen - ChartMill: Lumentum Holdings (NASDAQ:LITE) Clears Minervini Trend Template and High Growth Momentum Screen ChartMill...\n- Lumentum (NASDAQ: LITE) officer plans new sale after 4,500 shares sold - Stock Titan: Lumentum (NASDAQ: LITE) officer plans new sale after 4,500 shares sold Stock Titan...\n- Lumentum Holdings Inc (LITE): A Closer Look Behind a 67 GF Score - GuruFocus: Lumentum Holdings Inc (LITE): A Closer Look Behind a 67 GF Score GuruFocus...",
+        "price": 868.95,
+        "changePercent": -5.01,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (LITE) officer to sell 500 more shares after August stock sales - Stock Titan: Lumentum (LITE) officer to sell 500 more shares after August stock sales Stock Titan...\n- Lumentum Holdings (NASDAQ:LITE) Clears Minervini Trend Template and High Growth Momentum Screen - ChartMill: Lumentum Holdings (NASDAQ:LITE) Clears Minervini Trend Template and High Growth Momentum Screen ChartMill...\n- Deutsche Bank names its top AI hardware 'pick-and-shovel' stocks (LITE:NASDAQ) - Seeking Alpha: Deutsche Bank names its top AI hardware 'pick-and-shovel' stocks (LITE:NASDAQ) Seeking Alpha...",
         "sources": [
+          {
+            "title": "Lumentum (LITE) officer to sell 500 more shares after August stock sales - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjhtQ00wdnhXVXV6TmhNbV95WE5MdGRONHdDN2VENy1EQk1MaXAwTjNXOEl0YmEwNUVzS0pTUkppeUJBS1EtTkhnN0VVVk9TZ2tTQnM5ZHlYRzA5RnliVkpIYTk4MXhTNVBGMkVEVFU0VG10ZkpaMjJSclh5TnlBUTZUSGdqSGstU2lyeEF3emFQaURrTVg3ckYxSzdfakE?oc=5",
+            "provider": "Google News"
+          },
           {
             "title": "Lumentum Holdings (NASDAQ:LITE) Clears Minervini Trend Template and High Growth Momentum Screen - ChartMill",
             "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS1FrSFJnOUlZNEw3NTFRbWU3cl9uRWFJYkxiU0dTOWZoQnpQdWk0UEl2VEFPeW5FdFhIMENlWFJVblhwTzRBM2s4Zl9LNFN5Smp3aGRJZUNLblRBX2lKVGpwa0FhaU4yQ2RGbl9aRDlKdDV2bnd0NFgtY19iaUNwWVBoUDA3ai1JWlIwVmxnWnc4dEhpRDlGUEtEMFMxSk5xekkwaEtvLTdxSW9aUlh4aWhwNVVCV1dKaHJDRmJuTlBsRUc3endpTFdKX0xiMG1QdUZoTzY3SmdaWXdw?oc=5",
             "provider": "Google News"
           },
           {
-            "title": "Lumentum (NASDAQ: LITE) officer plans new sale after 4,500 shares sold - Stock Titan",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWZnUkhudVByNHNQQU9DM2M2UDZtTVBtQzRBQ0k2b2VHUGJHcHpOTDBKQ1laWEl3OXRaUXVqTVA5aEpOLWUweUtPWXgwQ2NaT25oU1FYR0ZLVFIwOGhLSDhmaDYwNGxrLWJjTFRianV1YlZOUHdtMmNFSVZlR3Y4M0stVWFqVVFraWxOVzkwcjdnbnQtdjg5cUlVTzNMNWc?oc=5",
-            "provider": "Google News"
-          },
-          {
-            "title": "Lumentum Holdings Inc (LITE): A Closer Look Behind a 67 GF Score - GuruFocus",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenk4b3JGckZ4Sm0tZVhOeHAwRGQ4RVdjTTV5X1kxNGlqdUx6WHVaNkpuc1daTU5HMDM2RWlYYU43VEM1Vm5EOWU0NzJnaW02M1lpN1FpRS1UOVpHUm83Vmx1Sl9BREVoMlUzQ2lfZmZNbm1LekYxWGFYdG5aRmhHb0RYcDlXSjVvdUpUS1NOTExfWktHVEltVU5kcW9PdXdfT3c?oc=5",
+            "title": "Deutsche Bank names its top AI hardware 'pick-and-shovel' stocks (LITE:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzVVRHN6VUtIVWtxTXUwYlQ5YW5CeXJ3T040MktCWS0tZHRKbFlWSlJySDQ1UXZySC1DdWVLZWtPbmRHN1BhMmg1ckRtUnlraU9xRWJSVEgtTEdWd3NldU04a1l2ZFdmRHpNa2NWX3NzN1NwMzVPS3ZZeTY2dGNocmRzNzh4VjBha082ZGoyTHgxbFZCX2tOZjR1ZFNIUG1BTGc?oc=5",
             "provider": "Google News"
           }
         ]
@@ -52,23 +52,23 @@
       {
         "ticker": "INTC",
         "name": "Intel Corporation",
-        "price": 89.51,
-        "changePercent": 0.04,
-        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here's Why Intel (INTC) Fell More Than Broader Market - Yahoo Finance: Here's Why Intel (INTC) Fell More Than Broader Market Yahoo Finance...\n- Intel Price Forecast: Nvidia Picked Xeon 6, Invested $5B, Yet Analysts Still Trail INTC - TradingKey: Intel Price Forecast: Nvidia Picked Xeon 6, Invested $5B, Yet Analysts Still Trail INTC TradingKey...\n- Oxford Financial Group LTD. LLC Invests $1.15 Million in Intel Corporation $INTC - MarketBeat: Oxford Financial Group LTD. LLC Invests $1.15 Million in Intel Corporation $INTC MarketBeat...",
+        "price": 88.97,
+        "changePercent": -0.6,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Stock: Is INTC Outperforming the Technology Sector? - Barchart.com: Intel Stock: Is INTC Outperforming the Technology Sector? Barchart.com...\n- CFO4Life Group LLC Buys New Position in Intel Corporation $INTC - MarketBeat: CFO4Life Group LLC Buys New Position in Intel Corporation $INTC MarketBeat...\n- TRB Wealth Management LLC Purchases New Position in Intel Corporation $INTC - MarketBeat: TRB Wealth Management LLC Purchases New Position in Intel Corporation $INTC MarketBeat...",
         "sources": [
           {
-            "title": "Here's Why Intel (INTC) Fell More Than Broader Market - Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUxKZDhVOHd5TmJodEJ1MFVtY1hRY1Jsd1VMMkJjendhcVZhYUo0MF9qX2J4WTZ2U09IN3VsQ1ZrZWJsanF2MmZyRjVzdzRnSXRKbEp1VGJJbjlId0JrN0Z0NnZYdUxCRnNsUXJSb0RRcW9nVm9ZQkVFQzNubUNEZ2lERnFCdlVQZ19yRVllTDd6WlBj?oc=5",
+            "title": "Intel Stock: Is INTC Outperforming the Technology Sector? - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUZ0VExRRE85R1c2RUItc2RuOEt5dFo0LTRnUVd4YXRuZDJ2cktHVDVWVXZkWklHVUFBYjlFcXZuQWluUTk1bWpTZnU3TXpHQjh6Z2g0NXR5QmpwSGNHOENyU3gyTDNtTGNsZzV0TUxfT1VaQW1NbTdONHBKQTlTSmN5eHdSVGJUNW1EMThCc2VIdEIxS2poTFJaMG01bGFN?oc=5",
             "provider": "Google News"
           },
           {
-            "title": "Intel Price Forecast: Nvidia Picked Xeon 6, Invested $5B, Yet Analysts Still Trail INTC - TradingKey",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUTJ0M002eEJBWW5ocUl6ai1nTkJ1WjFMMktJRWtzekFRcktQd1d1MTFOd1RwbVFQWk9hU25UUC16RzBnbXBXdWZwcE5pS2ROeVN1YXhFZlNjVVctMWg4SWI1Y2FJazZTOTg2OVd0OWpmMGFKczk0ejdZX090Mkg2TU1Tc2Z4b2EwaUJ5MkxITm1NLWxic2JFdDVJRGZjdTBwbVNETDFURk1jMHBQN0ZQV3BhYVcyT2JDYWR2S1hLMERJNWc1bmVwODBxcUN1YUdxMlNQemdJbktvdzQxV0pmZXVIX1Zfam5N?oc=5",
+            "title": "CFO4Life Group LLC Buys New Position in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRmxqQlFGRk8wc2tZdEhBMWx2TE54bkt2NUZyWkhLdHhPUVNyZTZkdi1jeC1yOHp1dC1BenI4SDNYYnhER3loYjVRaUtzNHdJX1RiZDZFOEU3OTBqcmpXQmFYQTN5dldFU0RUUGoxVDhfckNLZjRTWFkzajNBTU9BbEc3QnF3SFZsVWtEYmt3S3lacFFweDJMbk9wSkE0aWUzUlJJQ1BNNTBraXlTQWRNNGtYNWJBTVEzT29hMkJSTXE?oc=5",
             "provider": "Google News"
           },
           {
-            "title": "Oxford Financial Group LTD. LLC Invests $1.15 Million in Intel Corporation $INTC - MarketBeat",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT1YtMjFyblJTRlI2U1RLWjVFRHl0SXlfSGNEOWtTMTNBQUJKVXd5dVpkM1NjUDJWS2JIRndGMVppVFRUWTEzWC1lSDYtQnBFYzh1cHhxcXVMRVhmRWZtc1hGUndjdkJvN256ckRCNVVucTc0ekdYQ0RCWGM2ajNmU0NEQ0prYjkwZTNtY3lsUXJUZnNJY2VZejhZNVZfakZvMnAyek9BVjRBMzFlZGhzYU84ekN3M3Bjc3RUVnZoOGVlbGJCTjBYR2lDRTVWbVFybkFV?oc=5",
+            "title": "TRB Wealth Management LLC Purchases New Position in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNVpITklUUDNydE5LeTBoNzlvOTM0TTduRGNiSzZSbGd2MjA3LUgyUDB4cFRkNjhsbVNhcW9WTFM3UEFaVjRoN3dIRGFBa1ExWS1zQjNab05kN3c4Y0VHVjRSb1dUbkRlSXNfc0UzN0ViQlJHTnlTQ2FJWng0N3lZMUhSaWlsdEViS0x4WFZqWFBGTzZ6cGM0bUZOeURlZUhPaUtCaU1zM0JYc1BCeUFhdDVWY2dfdFdpcF9mbVF0NVBCaWhQZXBUWDV1RHpTRjh4?oc=5",
             "provider": "Google News"
           }
         ]
@@ -76,23 +76,23 @@
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices, Inc.",
-        "price": 470.72,
-        "changePercent": 1.1,
-        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD Stock Alert: Advanced Micro Devices Teams Up With Cisco on AI Infrastructure - Barchart.com: AMD Stock Alert: Advanced Micro Devices Teams Up With Cisco on AI Infrastructure Barchart.com...\n- Advanced Micro Devices (AMD) Launched A Sovereign AI Platform In Saudi Arabia - simplywall.st: Advanced Micro Devices (AMD) Launched A Sovereign AI Platform In Saudi Arabia simplywall.st...\n- Why Is AMD Stock Sliding on Friday? - Yahoo Finance: Why Is AMD Stock Sliding on Friday? Yahoo Finance...",
+        "price": 459.61,
+        "changePercent": -2.36,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD: There's Little Upside Here (NASDAQ:AMD) - Seeking Alpha: AMD: There's Little Upside Here (NASDAQ:AMD) Seeking Alpha...\n- Yukon Wealth Management Inc. Invests $1.49 Million in Advanced Micro Devices, Inc. $AMD - MarketBeat: Yukon Wealth Management Inc. Invests $1.49 Million in Advanced Micro Devices, Inc. $AMD MarketBeat...\n- AMD Stock Alert: Advanced Micro Devices Teams Up With Cisco on AI Infrastructure - Barchart.com: AMD Stock Alert: Advanced Micro Devices Teams Up With Cisco on AI Infrastructure Barchart.com...",
         "sources": [
+          {
+            "title": "AMD: There's Little Upside Here (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82a3l6eWM5TUcxN1RWX01oQ293NEZlU0t6S3JkbTdrMmVpUW1UWDhXWkx2Z0xDaFhnWllUYnhqMnE0RlphempZT2VKMHFRNWNTLUIxem0tY1hEOVhmb3B5b1BHaGlWa1pKTVhSOEgzbDE2Ujh2WFJrSmtR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Yukon Wealth Management Inc. Invests $1.49 Million in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVG0tR2o4ODV4ZXZTdVhjNXZjNTduLVp1LVE1SlYyVUZ5MXpmX0tlQ0hOYlJDSWNLNDJSRFlmMko1RmJKdXQ0TG1mTEVxdHFtSEZBOTdMLUNmU0xsald5cWR6TXVHb1JDMDd2TUpuYjB5cUM0ellwbG5sMGVNNGg0ZmM5VVhLaHpjdVdQNFRpNFNqZWFXQTlrMGQyc3dWVGVpLXQyaHNkbFJ2RkViUDFMLVdCWUZha3dxT3JpVENWQVZLNGo3dWlHR09VbHo5dGRQUTJjOURadmk1UQ?oc=5",
+            "provider": "Google News"
+          },
           {
             "title": "AMD Stock Alert: Advanced Micro Devices Teams Up With Cisco on AI Infrastructure - Barchart.com",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZU90Zy1mZXZGT25KYXhNQThIQjRudXljMzBFRjBFc0I1NzlLM0hjVTlqbE8xN1JTS0RoLVdlT3RCVnJMeXJUU1BnVmxNZzF4Umdja2J4dEJQamdLWkFkc3ZDNFhieHFFUVN0d19rSG9ReWl0cHp4TTgyVFREQUthT0FISElUcC10NjZhcnBFdUhzSlUzT0RfVV9qbTBTeGdTRUVmbThKcWdicy1JMktaUGx1Ylg1d0lDR3FUSi1TclQ?oc=5",
-            "provider": "Google News"
-          },
-          {
-            "title": "Advanced Micro Devices (AMD) Launched A Sovereign AI Platform In Saudi Arabia - simplywall.st",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdTlBMTc3aGt1SlJRQTNkTGRRWnhYeGV5eS1YeUJyZ0s3VDFZRGRQelNKSThPMzNQVHpLVVZDRTJNaUE1YXNUWTZfR25tV2NWVVduS3lpVC03clFtMDFid00tNmZBZlkxMjdWb2VOcU5ldVd4b2FWaG53b1VjczZHSmNvTjY3WmlxTnZ2S1BwLW90ZWZFTUJVRDVqVDkzOGdHdXA3WVBXUG8xMUlJUEhmNU90TU5mX1d1VW1MWThsZENoT1pHOXFGc0tXYUtnRHR0ckhfa00ycHNnMWNYNEHSAeMBQVVfeXFMTkdUd0k2TVZ4Q3lTQU5YanhyVnpfeHl5eHBXYzdSQW9ZbDZ2UHhJV2cxQkhvVnhZUXZDQWowVXEzT0xPVERVaGNyYXMycHZNcUdSNkdKV1k4SDZjV0s4OFpSTERVbHJZUmpTYXlBTy1mcEwybi03T0RxYUstclU2alA3WjdtcWRFTFU0cXRqaGdfOTJ3WEZ6NVp0cVVaWkdCaHBWVW16YnpRWWZVb09ndkNBeE9CRl9aaVRSNlUxUElPRkx5Q29kM2p1NlNpQjAySUpObDhrNFFyNVNZSWY0elFVdm8?oc=5",
-            "provider": "Google News"
-          },
-          {
-            "title": "Why Is AMD Stock Sliding on Friday? - Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMkhpLWo4Tkc4V1Q0MTlJZUVIWDZleG92R0czanZ0SHVEbUtfdjVDX001RDR2WmFUZ2dWOXpzTkx2ZUVaLThSRXh6TDdiREdpN1VuMFZoeWloY3h2VEdKb3MtRHBQUW1YNnFkbzZ2TkR3dHdzaGhtMDFNM2dIaURDV3UwVlQ0OF9oaXczaEJYaEFieTVMMnZyZQ?oc=5",
             "provider": "Google News"
           }
         ]
@@ -100,9 +100,9 @@
       {
         "ticker": "MU",
         "name": "Micron Technology, Inc.",
-        "price": 958.73,
-        "changePercent": 2.77,
-        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU) Gains Driven by Earnings Upgrades - Yahoo Finance: Micron Technology (MU) Gains Driven by Earnings Upgrades Yahoo Finance...\n- Micron Technology: The Center Of Gravity For The Memory Supercycle (NASDAQ:MU) - Seeking Alpha: Micron Technology: The Center Of Gravity For The Memory Supercycle (NASDAQ:MU) Seeking Alpha...\n- Micron Stock Flashing Intriguing 'Buy the Dip' Signal - Yahoo Finance: Micron Stock Flashing Intriguing 'Buy the Dip' Signal Yahoo Finance...",
+        "price": 933.44,
+        "changePercent": -2.64,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU) Gains Driven by Earnings Upgrades - Yahoo Finance: Micron Technology (MU) Gains Driven by Earnings Upgrades Yahoo Finance...\n- What's Going With Micron Tech Stock Today? - benzinga.com: What's Going With Micron Tech Stock Today? benzinga.com...\n- Micron Technology Stock Price Predicted to Exceed $2,000 - Intellectia AI: Micron Technology Stock Price Predicted to Exceed $2,000 Intellectia AI...",
         "sources": [
           {
             "title": "Micron Technology (MU) Gains Driven by Earnings Upgrades - Yahoo Finance",
@@ -110,13 +110,13 @@
             "provider": "Google News"
           },
           {
-            "title": "Micron Technology: The Center Of Gravity For The Memory Supercycle (NASDAQ:MU) - Seeking Alpha",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHpYdWdMMmRESFVyX2pJRFZJLXVVQUlVaEJQLVZoQ3hhRnlKQUZaVS1tV21NMTdSQVdOWWhiSmg3UjBlc2NlU1J1YW9TRmVCTmI5VDgtZDlkVTZQajZxNkU5QkVNU3czUl9VdHZZZDIzbEtiYTdHQ3MtS2xpS1JZNXZhazJBZzBpRmVQT2YyTWgxUnB4Sjh2SkI2SmMzLWp6cHRMTlBDM3NCQQ?oc=5",
+            "title": "What's Going With Micron Tech Stock Today? - benzinga.com",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZndoQnBEV2FvenVMVElqUEdjd0dsVmpydGljOHk4TlNmWmRIVmtEQUxUYU16eDFUbWVhWlM3ZVlzaHZrZGhMcHJjY1QwLWJQMDhScXp0WkY5OHdHdW80YU1ncHlLYWxBQlprR29CaktEb0Z6ZWJORkdNamZkMC10X1VUUmhmMjhMUzM4WlBPXzNXRExxR0dONg?oc=5",
             "provider": "Google News"
           },
           {
-            "title": "Micron Stock Flashing Intriguing 'Buy the Dip' Signal - Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNHpzQkt2TmdhRExsU3Vld2VHeW01MXM5SDJwb3dTcHM1V2dqVzJUQ2RUaTQtVEZvNlRQU0xRUlNLNGFzM1hHbjFtaUowSDYybFp5Wm5OUXJiZFYyY2F2Ym5OSUs1ZWctUGdJblFuVWJBaS13dVFYR3JLNjVZYTVvaU51c1Q1RF9iNlVyTjdzUmJ6bWIxUW1ldVY5UFd0TlAxU05N?oc=5",
+            "title": "Micron Technology Stock Price Predicted to Exceed $2,000 - Intellectia AI",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHhUdXh3YUZEMEdLNFVqNHpPbS0wUTdvOUktQldMX0lCZzN1M2V3aUFxc1pvTVR5ckRCY3U5RTk4TDE0YjhvZEgwVzVZX3lkcm5Kb0tBYXEySi1EWW1LTGNCZ1NVVVZ1N3owYndha3g2RVpuaUpGOVd2eF9WX3FwblFkR25CRzRxdHp1cWJBakVrQQ?oc=5",
             "provider": "Google News"
           }
         ]
