@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-02": {
+    "date": "2026-09-02",
+    "lastUpdated": "11:55 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 870.58,
+        "changePercent": 0.19,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (NASDAQ: LITE) unit president sells stock under 10b5-1 plan - Stock Titan: Lumentum (NASDAQ: LITE) unit president sells stock under 10b5-1 plan Stock Titan...\n- Lumentum Holdings (NASDAQ:LITE) Clears Minervini Trend Template and High Growth Momentum Screen - ChartMill: Lumentum Holdings (NASDAQ:LITE) Clears Minervini Trend Template and High Growth Momentum Screen ChartMill...\n- Lumentum Holdings Inc (LITE) Shares Fall 5.0% -- GF Value Says S - gurufocus.com: Lumentum Holdings Inc (LITE) Shares Fall 5.0% -- GF Value Says S gurufocus.com...",
+        "sources": [
+          {
+            "title": "Lumentum (NASDAQ: LITE) unit president sells stock under 10b5-1 plan - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPelZySG5nWjBJQlU3WFJhTEdsLWZkdXBQOUtqbVlhcUFNTWpRLV9YZGhvVm5ONTVKVkhUajJld0YzTkVPLW8yTDJqc0gtZ1lEYkxkR0JRRkxJd0R0UzRNVmpRMWt5N3l0TjFMVmdNc05OdGVOSTNaUEtRcDFlU3h0X2k2cDNzdFU0M2xWX2VjcDEwa000YUxBeWF2U1l2NEFHLTlJaUZrU3RnSmxvOG1rTG05eTJGQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings (NASDAQ:LITE) Clears Minervini Trend Template and High Growth Momentum Screen - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS1FrSFJnOUlZNEw3NTFRbWU3cl9uRWFJYkxiU0dTOWZoQnpQdWk0UEl2VEFPeW5FdFhIMENlWFJVblhwTzRBM2s4Zl9LNFN5Smp3aGRJZUNLblRBX2lKVGpwa0FhaU4yQ2RGbl9aRDlKdDV2bnd0NFgtY19iaUNwWVBoUDA3ai1JWlIwVmxnWnc4dEhpRDlGUEtEMFMxSk5xekkwaEtvLTdxSW9aUlh4aWhwNVVCV1dKaHJDRmJuTlBsRUc3endpTFdKX0xiMG1QdUZoTzY3SmdaWXdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Fall 5.0% -- GF Value Says S - gurufocus.com",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYnJLVUY1Uy1NQmt2VnV1MVNBeDEwd1lZZWVjcF9HSWVwbmJ2Z3RjQzY5Yi03aGpqWmdMYlFtSjQzS0I3Q0Z5US1DWHI2SUZRSVVQOUJhSXJmaDBSZUNHTWRGUkdPVmhDM1BEb3NnT0VHLS1BdEtjcndyY1JMdTFnUmFLSVFEMDdJZHM0Q1c2eW9DYTFEbEVDbGhtZkt6ZlcwREs5dkJOd2RGa3lFUGpUbQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 90.05,
+        "changePercent": 1.21,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Sanctuary Advisors LLC Buys Shares of 366,969 Intel Corporation $INTC - MarketBeat: Sanctuary Advisors LLC Buys Shares of 366,969 Intel Corporation $INTC MarketBeat...\n- 2 Reasons to Target Intel Stock in September - Schaeffer's Investment Research: 2 Reasons to Target Intel Stock in September Schaeffer's Investment Research...\n- Intel Stock: Is INTC Outperforming the Technology Sector? - Barchart.com: Intel Stock: Is INTC Outperforming the Technology Sector? Barchart.com...",
+        "sources": [
+          {
+            "title": "Sanctuary Advisors LLC Buys Shares of 366,969 Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzE3NjVFdFpoWHdMd3JYQzVEYW1FOGtFTU1nS3lKSHNLc0x0VmhZRndOVGdlM3hnalNMX3VUaVpoNHR3YjBLYTdxMGdFdEkxbFNoRTBFX3lZTzFsZVZvYlRmYTdzNVZ6MU9kZnBwb2hBbUdsTndIX1l3dFM3Q2IxX2NDQlNJeE51SkdXZ3dOR3VjcDQzNmV2Yjd5ajZVYUNJMVZOcjVBYVNONTZwTGdLT2h1YzNVaTJlckpxVGZiOHE1SkRvSndz?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "2 Reasons to Target Intel Stock in September - Schaeffer's Investment Research",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaXZGcjExTjdYRW1IcmFYLXV5V19iVGRNNE1zSWpzTGFsdmE4cHMxQXBmR0lVQWN4WWdGcXlZQnNrQ3hjNUh1bmtBczZhZVFOUEU3dU00dmFnS0k4UWtiN3cwU3JDUUlla1VvOUZxTTBhd203V1lqNFl4WFYtTGd5RndnNnFWRG12cGFVQjFBVGpDeWVBQVM5NHJpTnBYRy1IYi1JVExnMWpORVE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock: Is INTC Outperforming the Technology Sector? - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUZ0VExRRE85R1c2RUItc2RuOEt5dFo0LTRnUVd4YXRuZDJ2cktHVDVWVXZkWklHVUFBYjlFcXZuQWluUTk1bWpTZnU3TXpHQjh6Z2g0NXR5QmpwSGNHOENyU3gyTDNtTGNsZzV0TUxfT1VaQW1NbTdONHBKQTlTSmN5eHdSVGJUNW1EMThCc2VIdEIxS2poTFJaMG01bGFN?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 457.06,
+        "changePercent": -0.55,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices, Inc. $AMD Shares Sold by Sheets Smith Wealth Management - MarketBeat: Advanced Micro Devices, Inc. $AMD Shares Sold by Sheets Smith Wealth Management MarketBeat...\n- Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom? - tradingview.com: Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom? tradingview.com...\n- Advanced Micro Devices, Inc. $AMD Shares Bought by Navellier & Associates Inc. - MarketBeat: Advanced Micro Devices, Inc. $AMD Shares Bought by Navellier & Associates Inc. MarketBeat...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Shares Sold by Sheets Smith Wealth Management - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOFhtQ3V4MF9RZUZ3MVFUSXdKcjJuZFFMTmNqQ1BMU3g3S1QyNW9ndUxpWS1xazVVOUhraTBtT1habWYtTTdEV2VwZjFJQnU3ZXBYWTMzdHUxVGRlV1FpZGFuUWpsYTNXeXR1VEp1NFEwdmxqYUY2ZVVOLV81RTRpaVNIMTMtc2gyWS1xWmo2NlRRaFNvNllORFY2WUpFQzJicDg2cUdFbTY5empHWW52Y3QxTlg2Z05rSDNsbGhJN1hnc29VdXBDSmJ6cmhCRDR0azFR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom? - tradingview.com",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0EtU0Y1WmgtVFZDZHQ2SXoyM2g5WmFkWUprTjVQSTZ0anlUOVhrSXJ1c01vQTJsb2xSUUJhWUJ6ODFvUEhnSTAxdFc0bVhmSzh0ZnZtaW1tTVdYbDFLNnBaRURxR2xjcEdoUmp4dEVSZTAzY3N2N0VPVWY3OG5hZVpQUGo1cGV0T2ppX0w4OWFQQ2hvN1lBY3A3LTI1dC1kdDgycHZudVFzQkxFNVVsbFptdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Shares Bought by Navellier & Associates Inc. - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUThBbnE1aE5fbGZMbnVMaXZwZUlZczdDMGtKUTFFbElhdVE0VTZCZ1d5ZDljbjRGTk9VQzdLcW5nUGJqaTh3bHJnWEpycWc1Ml9MSy1TelphVzNqTXdQUjJNb0h2YmFGVHlDNmFieVM3RXVXZjBhRHdxMmFHWm90ZUV1QjQ1SlhJREgteXg3ZnF2QzU0OFBDc1R5alB5TGI2eW1pb0x5TEdrRGxmNWFqTmE1ZmJPbnNsT0xpcEE2ZFpTdWFvNG9SdWQ1aGZiZw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 956.08,
+        "changePercent": 2.43,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU) Exceeds Market Returns: Some Facts to Consider - finance.yahoo.com: Micron (MU) Exceeds Market Returns: Some Facts to Consider finance.yahoo.com...\n- Why Micron's Strategic Customer Agreements Make Me Even More Worried (NASDAQ:MU) - Seeking Alpha: Why Micron's Strategic Customer Agreements Make Me Even More Worried (NASDAQ:MU) Seeking Alpha...\n- Micron Stock Soars 685% in a Year: Is the Momentum Still Sustainable? - finance.yahoo.com: Micron Stock Soars 685% in a Year: Is the Momentum Still Sustainable? finance.yahoo.com...",
+        "sources": [
+          {
+            "title": "Micron (MU) Exceeds Market Returns: Some Facts to Consider - finance.yahoo.com",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTlvUWpPQWhyUkQxXzYzNExwVUd2Y3RzMTZEREZCX2pISHQzUGtXMkpNY09qZmE5X3M5MnlHYVhfQmF5Um9aaEM2UU9vSnQ3WlNTTHBRUDVkU0lidW5zTnl5Ymt0QzF2Q1ViaWU5MzNzbWRGcW5jcFdfdWNyeXl0NVN5T0hHRkZDV2lTQ1RSRnBSZGpXY2pPSExKLV9pUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Micron's Strategic Customer Agreements Make Me Even More Worried (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOclJuTVZuTWVxWXlzLXFNbGloWFk1V0FpeTZvcjZDcUxQOWJiVENoNV9zcmdBaFhkNWtKMW1Wb3JLZ2RNRUhRNVBySFRxRGZ2aEZCTkVPbHZ5a2FCTi1ueWdsbGh1TDdJODJUNzhJUEN3QlM3TnhjcFpiSE5IMjFLbDhyLW5RLUppd1EyMTJ3Y2RJYVc2TmVTUi14cHdKdFNBRXlEZnFTREJZWVE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock Soars 685% in a Year: Is the Momentum Still Sustainable? - finance.yahoo.com",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1gxRFJXcHJ3Nm0xU2JmWDZJaE5zLThsY2lDeXFOTTFoUlkyU2RyMkI2Y1ZqT1QxeWkxNEdhMXdjVkhHQVJhckxpYlZFYW55NXNOYlpDdUQxcWhtcXltb0dmZjdDbVAwSDQyWTZSamsxQUVwZkVuTWNDcjJCd3RTRnFSZTVWX1ZhcFZLMnlBZDhDMDhUdGI4YnVHM3c?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-01": {
     "date": "2026-09-01",
     "lastUpdated": "11:53 PM KST",
