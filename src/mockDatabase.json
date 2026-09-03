@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-03": {
+    "date": "2026-09-03",
+    "lastUpdated": "11:52 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 847.37,
+        "changePercent": -2.67,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (NASDAQ: LITE) officer plans 500-share sale after recent trades - Stock Titan: Lumentum (NASDAQ: LITE) officer plans 500-share sale after recent trades Stock Titan...\n- Here's How Much $100 Invested In Lumentum Holdings 10 Years Ago Would Be Worth Today - Benzinga: Here's How Much $100 Invested In Lumentum Holdings 10 Years Ago Would Be Worth Today Benzinga...\n- Lumentum: It Is Simply Too Expensive (NASDAQ:LITE) - Seeking Alpha: Lumentum: It Is Simply Too Expensive (NASDAQ:LITE) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Lumentum (NASDAQ: LITE) officer plans 500-share sale after recent trades - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkRkZUxXbk1NZHJNSVBPUm9laDEtdXNYQXVPeE5uaVR6SXRFOExPWFI0dVVRMk84TkFaWExpUmVFZGM3QXJkQ1dEX0pFUEV2OGV4QXh0SW16N3UwblYydXQtcV93N1VHZVFBMW9mUU9iMEVjci1jdUtEeFVSODFXOGJXVVRBUExDTGVRb1hVbHZxVE9UczhqQnppYUxhY3M?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Here's How Much $100 Invested In Lumentum Holdings 10 Years Ago Would Be Worth Today - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMmJhZ3hxS18tX2xpcVBxczFvZi1mSHFNUG0xWVlGa3JLNTYzbXNyd2UyVmFfamY3UzJDenBrbjliazdTMDFxaUVBY3piczJxTndhNUZMVjJsb2RJUnBOOVRQdWFtTS1yaEFDY3U1ZDF4NDRFREpOTmZLWl9ieGtDMWp6ZEVPLXU5UExmU3ZqMDI0REpvM2FHNlVWelg5bjJIbTBiMkhfT3UySTVMNE5qaFRxdjZGWEdMOG9vUXRsWHlvVzg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: It Is Simply Too Expensive (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSjlNdlpJSV81VnN6aGZRMTk2bk5qTHhUdnNwdDFXYUdtOGhOWGFVZXEwbkUzMHJUMGVoS09yWjBJVzE5SG53OEpxd29WZ2MtUl9nQmhweENkNjZxZUk0LTZEdGRhRE5hRWkyczR0TF9GLXQ4cjBlWGJvTUZGVHhBWFlB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 91.67,
+        "changePercent": 1.8,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Outperforms Broader Market: What You Need to Know - Yahoo Finance: Intel (INTC) Outperforms Broader Market: What You Need to Know Yahoo Finance...\n- Intel (NASDAQ:INTC) Trading 1.8% Higher - Time to Buy? - MarketBeat: Intel (NASDAQ:INTC) Trading 1.8% Higher - Time to Buy? MarketBeat...\n- 2 Reasons to Target Intel Stock in September - Schaeffer's Investment Research: 2 Reasons to Target Intel Stock in September Schaeffer's Investment Research...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Outperforms Broader Market: What You Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ1NWdEJiZ2RaS1ZqcHd2b0NkVmFXUmhzd2xWUVh3SGNBbmd2M1Qzcm5QSjlrVEVRVF9NRHpXekoyOEpZdTB2WGZ5M3Zxa1pjTERzSzl4NllTOTVCSGZkd01JaU0zWFpBdzR0RHJvUDIwa2JUSFA3N3dkQ1JpQVctTDhOdER4amxud1Z5VndhV2p3S3FJMnFhRDhSekplXzNCMGtWSQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Trading 1.8% Higher - Time to Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODQ3eDA4Wm5UNklLaVVNSWthdy13SmxoQTEwU2RkS0FKQ2lYWGlRNGRqNGNveF9PdUstVTBxZ0NlRGk0aTFic1cwWW1QZlVjMV8wdHE4U05LYV9WVnpOX05xTmpmX29DVElXYUZqbnB0U0toYVUtcTlwOFNPLXF6VFFUTUU1aHF6a0tlQ1ozcktJcTNFM1VtN1JhV1dMaHdkVG5yTXBra0dIaTA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "2 Reasons to Target Intel Stock in September - Schaeffer's Investment Research",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaXZGcjExTjdYRW1IcmFYLXV5V19iVGRNNE1zSWpzTGFsdmE4cHMxQXBmR0lVQWN4WWdGcXlZQnNrQ3hjNUh1bmtBczZhZVFOUEU3dU00dmFnS0k4UWtiN3cwU3JDUUlla1VvOUZxTTBhd203V1lqNFl4WFYtTGd5RndnNnFWRG12cGFVQjFBVGpDeWVBQVM5NHJpTnBYRy1IYi1JVExnMWpORVE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 456.16,
+        "changePercent": -0.2,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now? - Yahoo Finance: Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now? Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Shares Bought by Navellier & Associates Inc. - MarketBeat: Advanced Micro Devices, Inc. $AMD Shares Bought by Navellier & Associates Inc. MarketBeat...\n- Why Is Advanced Micro (AMD) Down 5.2% Since Last Earnings Report? - Yahoo Finance: Why Is Advanced Micro (AMD) Down 5.2% Since Last Earnings Report? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDdVVklrbENqSEtwZkFWR1FSQkcwOXhpWmJTT0hhcVNEM182WVNSOWgtVkJyOXdmeEM4SExpamNXNlFJdTJoTl9vdUdZbjlDalpUZnkzbjdMSFU1QVVGekRZMU9WY1RnaVk2SEpkQWl3MXhsdUZuWHhBUGIzTXpXS0U1WE1fUzZkS2VXV2EwOFk0VVdYdE92ZnBvSk00SlB0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Shares Bought by Navellier & Associates Inc. - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUThBbnE1aE5fbGZMbnVMaXZwZUlZczdDMGtKUTFFbElhdVE0VTZCZ1d5ZDljbjRGTk9VQzdLcW5nUGJqaTh3bHJnWEpycWc1Ml9MSy1TelphVzNqTXdQUjJNb0h2YmFGVHlDNmFieVM3RXVXZjBhRHdxMmFHWm90ZUV1QjQ1SlhJREgteXg3ZnF2QzU0OFBDc1R5alB5TGI2eW1pb0x5TEdrRGxmNWFqTmE1ZmJPbnNsT0xpcEE2ZFpTdWFvNG9SdWQ1aGZiZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is Advanced Micro (AMD) Down 5.2% Since Last Earnings Report? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTlppcjBISGZnckI3QmZFSkRUT2hVU2ZYZEp0TUVHNE91WjFhRmJzbDVoaGFrS0RQc3VVc0JZczR4S29lY1VZbUI1Z3VQZDZoU0dPWmk5S3JzNkstWFp0Qm9qVmlxZ29SdDZha1ZPTDY5SFNDbW9tSGozUFFKamxSWmlzdHVPcG9JOC1DLVRCWFBZd1Z5cmtJ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 958.16,
+        "changePercent": 0.22,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU) Gains Driven by Earnings Upgrades - Yahoo Finance: Micron Technology (MU) Gains Driven by Earnings Upgrades Yahoo Finance...\n- Micron: The Q4 Report Has Impossible Expectations (NASDAQ:MU) - Seeking Alpha: Micron: The Q4 Report Has Impossible Expectations (NASDAQ:MU) Seeking Alpha...\n- Why This Analyst Says Memory Stock Valuations ‘Make a Lot of Sense’ - Benzinga: Why This Analyst Says Memory Stock Valuations ‘Make a Lot of Sense’ Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Technology (MU) Gains Driven by Earnings Upgrades - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0dIOWhpR3VjZGdwQTdYSkJvUDBPRDM4WkdQNzV4U05IWGtoZ0NWODczM3dzY09aM1l5M010Q1lQZkx2Zzg3cG84REgzdE00SUVTWXBIWHBaRmhrWno1UENlYWQxRmhETnd2Sk43NWhvRlF6VHpORThGa0hGd21XenowTWJyeW5vbzY1b0EzX3FKYjJkU3lYN2h1d1J2S2M?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The Q4 Report Has Impossible Expectations (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1BuYjZpRVBtYVpqSmtWaTJkRlFsenJ1ZERyUDk0Wk1qYkZOX21pWHB3VTRhdHhNUDlqVTM0WkhXUENrSTV3U2U4Tndqd1JwcWFPengweExYNHhabmpnSnBMRWpnTUZ2MEtRQmlGMUJiYnh4WXo0UFRsVTRoNlZfeUtjNGxiVUJITlBmc3NHUFc5TTA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why This Analyst Says Memory Stock Valuations ‘Make a Lot of Sense’ - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTd2T1haeHFzckFObWtXVWw2anV0OVV6dmR5ZUNVU0NTRm1SSWpCV0FvS05uMHZoZ3ZiQU8xcE9DWnFNN3NzZms3R0U1Tm1PZUNRNXJuLWZYbnhrNmFEZVVaNWV3SDZfS2xPTlphTUdKaVIzQk1JWE5HV3dna281dVZic0h2STZpQ0lfYmxfWFhrLUhRZTRjQVlkNVR5cUpGUldIUi1BaF9pUFVrOTI0ajdPOEVYeUxXUVE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-02": {
     "date": "2026-09-02",
     "lastUpdated": "11:55 PM KST",
