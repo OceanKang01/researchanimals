@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-04": {
+    "date": "2026-09-04",
+    "lastUpdated": "11:49 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 881.26,
+        "changePercent": 4.0,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (LITE) exec sells 1,500 shares in 3-day pre-set trading plan - Stock Titan: Lumentum (LITE) exec sells 1,500 shares in 3-day pre-set trading plan Stock Titan...\n- A Look at Lumentum Holdings Inc (LITE) After 4.0% Gain -- GF Value $166.49 vs Price $881.25 - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 4.0% Gain -- GF Value $166.49 vs Price $881.25 GuruFocus...\n- Lumentum president Wupen Yuen sells $1.3 million in LITE stock - Investing.com: Lumentum president Wupen Yuen sells $1.3 million in LITE stock Investing.com...",
+        "sources": [
+          {
+            "title": "Lumentum (LITE) exec sells 1,500 shares in 3-day pre-set trading plan - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXRPcFN6VElwNkF4U0ZSVGlwZm1Xem02YzlCbGZJLWk2Q2lqNUYtNk1KNjFsUTdtMGpEd2pQeTRLd0EtMEdoZXhfOHY1TDl5UUYzQTlWeXRGNmY0UUl0aTBsdnNnNkRWRkN0eW10YzRGa0E5MWZDNkVqLWhaZGZkdTI4emRwM0pxSnhNdzNoZkJHTk9YTllWYTlmMURTRDFrRWJQSDIzS2xwaU8yR1A1T0lJOGV4QQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 4.0% Gain -- GF Value $166.49 vs Price $881.25 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGhzSENkWDl0SVFPVDRHLUNLX3kxSTQ5R3UySFBpcUs1TjYya013bmN4VURFNng2TDJFOExKaVh2cWxEYXFZbmxKLXpNOVRxTjkwcFVGQl8wVVFxYmtjbXljaXZZdXRFdktDUldVckRtOHRzZG1Wend1cEJKWEZJU3pMTEZJcUhXYmZXTk54QTFHX283d2h4VFkyY0JZeEdZRHVjS1RZMjdQdTdYc2hTS0xuWFlkc2VvQmJJ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum president Wupen Yuen sells $1.3 million in LITE stock - Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTNPOWpVNTRaUXZKdUtEckNlX0VYR0lpdnE4YlhVMW5oYml0R1J2YkRCTDJRSXo3cnNmUlBfYllET1RuZmJwWDVzbER2LVlEOU54Wm5FRzUyYzJHcEwtd1o4QTZoQ3VvWVkwTlZnLS14bmE2bTFIRE93SHpFMmdDV0szdVZpWkltRWhpSFh4SXhnQ3Z5NGZKS1pkV3g3MTRnSVg3NXlfNWdOTWxNakwzYVZvamNJS0lHMFVNT182aWZ4NG9WWGlNeUkwVjVfUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 95.8,
+        "changePercent": 4.51,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Intel Stock Popped Today - Yahoo Finance: Why Intel Stock Popped Today Yahoo Finance...\n- Intel Corp Stock (INTC) Moved Up by 3.57% on Sep 4: Facts Behind the Movement - TradingKey: Intel Corp Stock (INTC) Moved Up by 3.57% on Sep 4: Facts Behind the Movement TradingKey...\n- Intel Corp (INTC) Stock Up 4.5% but GF Value Says Overvalued -- GF Score: 66/100 - GuruFocus: Intel Corp (INTC) Stock Up 4.5% but GF Value Says Overvalued -- GF Score: 66/100 GuruFocus...",
+        "sources": [
+          {
+            "title": "Why Intel Stock Popped Today - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOElqdTF3VGpWM3ZEaDJONjctbW00NTU4VmNoVDFsaGUwc0Y5bVJaMDZ1S1Vfd044b08zeC1mak1OaWJPVkdyZHNNeWsxdjdRdHZjcnNCYlBBbl9raV9HSzlOdGJrX3NPaEk3UzhpSjJfT2RNcTl3YWx4MTRfR0VwaTNKZW1qRy1HaHowdnMtZzgyS2VCQTIxUg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Moved Up by 3.57% on Sep 4: Facts Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMi0tS3BkdWdObGdNWUlycU5ZRjhCaEdYYS1lMzExM1FwaXBCMVM4akNVcHJhWDllUmlkZUxOMXdfMFV3NVNrQzdWN0FqR3dvVXBzN3RhUzdqVl9lb1hKYkJkWU5EWVJwcnZ5UlFlbFZKbXRrSGtFNU9RaGthWW16VHQ5WXI5c19lbkpv?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp (INTC) Stock Up 4.5% but GF Value Says Overvalued -- GF Score: 66/100 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONktsb3lzeG16cDFpNGpnYV9YcmlmNkpuMzFOVmVsR1lGeEpCT2FrRUg1U2xsdmdyT1N3WWtvMENWOVprbGtwS1FUdWN4QU5sV0pPMXNYNUJZd2drM1M0MWNEWVBwckV6SDVxU0w4TzJGM25tdGY1VmJieTdqUmtsYzRJRGswVkhTN1EyY3BER2lhanRRTzc3V0l3Y3gwaGJJMVZ2aENwd3psZnBUbzg4?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 477.57,
+        "changePercent": 4.69,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now? - Yahoo Finance: Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now? Yahoo Finance...\n- Advanced Micro Devices (NASDAQ:AMD) Stock Price Up 4.7% - Should You Buy? - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Stock Price Up 4.7% - Should You Buy? MarketBeat...\n- Advanced Micro Devices Inc (AMD) Stock Up 4.7% but GF Value Says Overvalued -- GF Score: 87/100 - GuruFocus: Advanced Micro Devices Inc (AMD) Stock Up 4.7% but GF Value Says Overvalued -- GF Score: 87/100 GuruFocus...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDdVVklrbENqSEtwZkFWR1FSQkcwOXhpWmJTT0hhcVNEM182WVNSOWgtVkJyOXdmeEM4SExpamNXNlFJdTJoTl9vdUdZbjlDalpUZnkzbjdMSFU1QVVGekRZMU9WY1RnaVk2SEpkQWl3MXhsdUZuWHhBUGIzTXpXS0U1WE1fUzZkS2VXV2EwOFk0VVdYdE92ZnBvSk00SlB0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Price Up 4.7% - Should You Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMUJXTXNxZHM3RWJpbjA0QlNXb1pyWTZTSFUzeW1ZRXhscFZ6YTJGcEltTFN4THl0RGxMN1dVWHN4WEZEQnRWYkFrbVNKYkdoY2Vxd0hGbFRjLVNOYkxYT3ZUVnhHOWtlNTJ6cWZHRTV3a2ZrVUlQSVJMeFRHZV9mZ0RySGpoRU4yOGVEeUNXanZ2VS1CY2dpTjJoUUZFY1BpZzRVZzBHNWl6MWJBdHpPTXc5X0R5QjBpUmNJdWYxenkzeHF2?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc (AMD) Stock Up 4.7% but GF Value Says Overvalued -- GF Score: 87/100 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWmdDT1NSa0U5a0JacFNSMF85VlQ4MTFaQmF4emU0aF9hQnluenI4a24wenhOTlhILVo2Nm5vNXNNOEJtSmc3d2w3bC1IaWhiZ094cXIzTF9qZE1tN3dGNHBZTGxnVFQxNHgzd2E0eVhfV3hIQmZQSDVRcGtpdjJkdDI2UnJwZmt3aDVjRlZOaU5DWVI1NFZDZEx0SlhuekZUMkRPYklXU3JkVzg0U3ozMFljRGI4Sng4c3NpUUhfRTNlZFU?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1016.59,
+        "changePercent": 6.1,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Micron Stock Just Popped - Yahoo Finance: Why Micron Stock Just Popped Yahoo Finance...\n- Micron Technology (NASDAQ:MU) Makes the Affordable Growth Screen with High Growth and Low Valuation - ChartMill: Micron Technology (NASDAQ:MU) Makes the Affordable Growth Screen with High Growth and Low Valuation ChartMill...\n- Micron: AI Fatigue Into A Big Day (NASDAQ:MU) - Seeking Alpha: Micron: AI Fatigue Into A Big Day (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Why Micron Stock Just Popped - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVBSQko3cmhIcVBoM2RyS2h0b3NjdEJrQ1F1ZVVJUjhrS0NpOFZxYzN4ME1OWXF0S0o3RHhIaE1XbDVBTnhSYWJCR0l1c2xlWjM5WC12R3RSaXdCRkJ2TDJrcUlYdVBkQnI1TEF0bl9uUm9TbXN5dTQxVEVSWWN2a2ZqTERYMUNhdEdmUUdiM1hGUC1MZ2NNZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (NASDAQ:MU) Makes the Affordable Growth Screen with High Growth and Low Valuation - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaTdmU09TbUZvSFBTTW84dG5QeUtCd1BCaW9Vbk84STJMSkh2THd0T0NPQTFnOTZmR2xHR3h0azE2QU9SWFg2TTUzbllOa01XekllQ19KWjdjZnhIVGhJY0dpajU5cE9jbGlkRS1udC00NnB4RkMzRzI1aW1IRi1oQXJoLXMxbUFFa2E0a2VwUXF5OVYxQnhBRHRmeTBWSVZ4YWxZYW5NMEU3aDRvNDBuZXcyY1dSQnBZNG5qaU1tcFFFdDVXdkJOcE4xT1hQZHl5RWUzQTZ4Q1prbHpmb3p3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: AI Fatigue Into A Big Day (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYXNSWGJCOU03TVpySld5dXpabWpjZWRLLVhNenU1cXBmeUZXN2RNR1dnUHZUNHg2VHh4VG9yTmNIM1pEcXhRaUJrYXlwQlFNOEhobmtiRmJVcVBYQXQwWmlKb2R6UElhbUR2QVMtelhZQ0dIdm9nazdkOG9mUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-03": {
     "date": "2026-09-03",
     "lastUpdated": "11:52 PM KST",
