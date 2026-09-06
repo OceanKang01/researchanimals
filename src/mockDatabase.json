@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-06": {
+    "date": "2026-09-06",
+    "lastUpdated": "11:38 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 881.26,
+        "changePercent": 4.0,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Street Calls of the Week - Investing.com: Street Calls of the Week Investing.com...\n- Lumentum Holdings Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance: Lumentum Holdings Stock: Is Wall Street Bullish or Bearish? Yahoo Finance...\n- Lumentum (LITE) exec sells 1,500 shares in 3-day pre-set trading plan - Stock Titan: Lumentum (LITE) exec sells 1,500 shares in 3-day pre-set trading plan Stock Titan...",
+        "sources": [
+          {
+            "title": "Street Calls of the Week - Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUnhWSnpld2k5TzBSMXEyVkZkZ0VyYXowRHk4WnN3bkp1MXN5YUdjZzgyZ3lZVm1BZjY3eGdnbVMwODhVdkxkYjk4MFVSX24teS04a2Z4dkw1QWVxTlVIM3luTm9DU3BkTEh4TjdaaDdfakY4aWZCZ1NLZnRPU0ZRRW1WdUVkcTdSTWd3N0MtNTVaczg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ1doSjVuNkFOelRENXZsSjNXRjVDcG9JdDA3THBQSGZZVmpHN1MzcDE5dzh4VU1YMTJfcFByYXRydm9Fb0IzZk4wNzVPTlVfcnBUcEdvdk53Z3UyN0FXV1ZtR3JTX2pDR1VtQ3JWU2ZVaGxfVXE1VGdoZzN5T2hvdWI4c0p0OWhDZEtDVllYYUpnbl9qUnBFX2VCRHI1d2JqZXc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (LITE) exec sells 1,500 shares in 3-day pre-set trading plan - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXRPcFN6VElwNkF4U0ZSVGlwZm1Xem02YzlCbGZJLWk2Q2lqNUYtNk1KNjFsUTdtMGpEd2pQeTRLd0EtMEdoZXhfOHY1TDl5UUYzQTlWeXRGNmY0UUl0aTBsdnNnNkRWRkN0eW10YzRGa0E5MWZDNkVqLWhaZGZkdTI4emRwM0pxSnhNdzNoZkJHTk9YTllWYTlmMURTRDFrRWJQSDIzS2xwaU8yR1A1T0lJOGV4QQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 95.8,
+        "changePercent": 4.51,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Outperforms Broader Market: What You Need to Know - Yahoo Finance: Intel (INTC) Outperforms Broader Market: What You Need to Know Yahoo Finance...\n- Intel Corp. (INTC) Stock Price, Quote & News - techi.com: Intel Corp. (INTC) Stock Price, Quote & News techi.com...\n- Intel Corp Stock (INTC) Moved Up by 3.57% on Sep 4: Facts Behind the Movement - tradingkey.com: Intel Corp Stock (INTC) Moved Up by 3.57% on Sep 4: Facts Behind the Movement tradingkey.com...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Outperforms Broader Market: What You Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ1NWdEJiZ2RaS1ZqcHd2b0NkVmFXUmhzd2xWUVh3SGNBbmd2M1Qzcm5QSjlrVEVRVF9NRHpXekoyOEpZdTB2WGZ5M3Zxa1pjTERzSzl4NllTOTVCSGZkd01JaU0zWFpBdzR0RHJvUDIwa2JUSFA3N3dkQ1JpQVctTDhOdER4amxud1Z5VndhV2p3S3FJMnFhRDhSekplXzNCMGtWSQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp. (INTC) Stock Price, Quote & News - techi.com",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85d1ZLUHR2Nm5DMllwdUg4S2ZlTVJodElpbDMtTDM0SHpOMU1qRnVsaDRiZU9JbWs5aS1ZTm01MkU0UlZQVFRaLQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Moved Up by 3.57% on Sep 4: Facts Behind the Movement - tradingkey.com",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMi0tS3BkdWdObGdNWUlycU5ZRjhCaEdYYS1lMzExM1FwaXBCMVM4akNVcHJhWDllUmlkZUxOMXdfMFV3NVNrQzdWN0FqR3dvVXBzN3RhUzdqVl9lb1hKYkJkWU5EWVJwcnZ5UlFlbFZKbXRrSGtFNU9RaGthWW16VHQ5WXI5c19lbkpv?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 477.57,
+        "changePercent": 4.69,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Is Advanced Micro Devices (AMD) Pushing AI Governance And Confidential Computing? - simplywall.st: Why Is Advanced Micro Devices (AMD) Pushing AI Governance And Confidential Computing? simplywall.st...\n- Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now? - Yahoo Finance: Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now? Yahoo Finance...\n- AMD Stock Is Up 136% in Six Months. The Company’s Own Guidance Explains Why. - TIKR.com: AMD Stock Is Up 136% in Six Months. The Company’s Own Guidance Explains Why. TIKR.com...",
+        "sources": [
+          {
+            "title": "Why Is Advanced Micro Devices (AMD) Pushing AI Governance And Confidential Computing? - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOampQa00tbU52dUkwalk1SjQ0bV82UzRtYzl0Z2M5MVp5N1R3a3NVbk5pOGdxRGg2UHVOQkhQMXJ5V25LalFGTk02cmsxa2RRdFRqam94bGJCOVp4dUhRcFRpbG93dENvVVBDazdwUGJOUy1vMkdESGJuQjFyM2V4X2VES2VJM2VRZkFxNTdsSmQyQi1VbF8wYXlVTGlMX1U1cUJsYUJjN0JhVlhHU3VLb0UzQTI4YkFpeDdEVFR3UnlaWmUwanZmNWY1NS1rNWtId3lCTjNBNjhDZWI5QlHSAeMBQVVfeXFMT2Y5T1RIWElTeTFFUFlUY2p5SGhWdFprdEtPakc5X0xncEVjbTNXalRBaHd6YVRVaC1hRzk0bmJhRlpONEJfZTh3NmxwU2dLcHVLSFgtamlWWkxLdDY1bnFYbEtYSlNjQ0ZZY2JJUklFYWZ4MW56WFZTRVRsYlFVTktJSEdzZzY3THk5di05UzRrWTUwWlFPZ19KSllVWGd0WlBIRmFpN2JCcFFBdmtZT2pKUVEtY19feVZ3MTEyMy1tVDYwMVl0dzZ5cTBDOTJXS2wzZEFOQW9JR0NmSG1MblpINzg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDdVVklrbENqSEtwZkFWR1FSQkcwOXhpWmJTT0hhcVNEM182WVNSOWgtVkJyOXdmeEM4SExpamNXNlFJdTJoTl9vdUdZbjlDalpUZnkzbjdMSFU1QVVGekRZMU9WY1RnaVk2SEpkQWl3MXhsdUZuWHhBUGIzTXpXS0U1WE1fUzZkS2VXV2EwOFk0VVdYdE92ZnBvSk00SlB0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Is Up 136% in Six Months. The Company’s Own Guidance Explains Why. - TIKR.com",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNEw2cTRjbVBIb2UtdHd5TWVRX1d5M3llWUJjZzliTFZlSGZzY29LT2Z0aVJ3N1BoZWNXeEU4SzhuNnJzZlV2cjFxOFE4WFc2bGVjWF9tU3V4aTNfeVlXTlExLTRGa1lubTZQbFAwM3dnZnF1bUxwWUw0b3NTZkVJVUp1UGNKN1hGQUFJTElKN1NWZVdoZEdQS2c4bF9tS1E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1016.59,
+        "changePercent": 6.1,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU) Gains Driven by Earnings Upgrades - Yahoo Finance: Micron Technology (MU) Gains Driven by Earnings Upgrades Yahoo Finance...\n- Micron: The Q4 Report Has Impossible Expectations (NASDAQ:MU) - Seeking Alpha: Micron: The Q4 Report Has Impossible Expectations (NASDAQ:MU) Seeking Alpha...\n- Micron Technology (NASDAQ:MU) Makes the Affordable Growth Screen with High Growth and Low Valuation - ChartMill: Micron Technology (NASDAQ:MU) Makes the Affordable Growth Screen with High Growth and Low Valuation ChartMill...",
+        "sources": [
+          {
+            "title": "Micron Technology (MU) Gains Driven by Earnings Upgrades - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0dIOWhpR3VjZGdwQTdYSkJvUDBPRDM4WkdQNzV4U05IWGtoZ0NWODczM3dzY09aM1l5M010Q1lQZkx2Zzg3cG84REgzdE00SUVTWXBIWHBaRmhrWno1UENlYWQxRmhETnd2Sk43NWhvRlF6VHpORThGa0hGd21XenowTWJyeW5vbzY1b0EzX3FKYjJkU3lYN2h1d1J2S2M?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The Q4 Report Has Impossible Expectations (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1BuYjZpRVBtYVpqSmtWaTJkRlFsenJ1ZERyUDk0Wk1qYkZOX21pWHB3VTRhdHhNUDlqVTM0WkhXUENrSTV3U2U4Tndqd1JwcWFPengweExYNHhabmpnSnBMRWpnTUZ2MEtRQmlGMUJiYnh4WXo0UFRsVTRoNlZfeUtjNGxiVUJITlBmc3NHUFc5TTA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (NASDAQ:MU) Makes the Affordable Growth Screen with High Growth and Low Valuation - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaTdmU09TbUZvSFBTTW84dG5QeUtCd1BCaW9Vbk84STJMSkh2THd0T0NPQTFnOTZmR2xHR3h0azE2QU9SWFg2TTUzbllOa01XekllQ19KWjdjZnhIVGhJY0dpajU5cE9jbGlkRS1udC00NnB4RkMzRzI1aW1IRi1oQXJoLXMxbUFFa2E0a2VwUXF5OVYxQnhBRHRmeTBWSVZ4YWxZYW5NMEU3aDRvNDBuZXcyY1dSQnBZNG5qaU1tcFFFdDVXdkJOcE4xT1hQZHl5RWUzQTZ4Q1prbHpmb3p3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-05": {
     "date": "2026-09-05",
     "lastUpdated": "11:39 PM KST",
