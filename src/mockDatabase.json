@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-10": {
+    "date": "2026-09-10",
+    "lastUpdated": "11:51 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 935.7,
+        "changePercent": -5.39,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- LITE Stock Jumps As Wall Street Bets Big On AI Optics - StocksToTrade: LITE Stock Jumps As Wall Street Bets Big On AI Optics StocksToTrade...\n- Why Is Lumentum Stock Surging on Tuesday? - Benzinga: Why Is Lumentum Stock Surging on Tuesday? Benzinga...\n- Insider at Lumentum (NASDAQ: LITE) sells 1,500 shares in 3 trades - Stock Titan: Insider at Lumentum (NASDAQ: LITE) sells 1,500 shares in 3 trades Stock Titan...",
+        "sources": [
+          {
+            "title": "LITE Stock Jumps As Wall Street Bets Big On AI Optics - StocksToTrade",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40cV9xYmJrdE1SVHVObC1BS1JCYW96UlBHTlJGZGZaQjM5RTRHSFl4ajFoTzFnRmo0SGxvSlZ2XzE1X1FFYmdWamRTN3ZGei1kR3N4VVVIYy1udXNYUHAwNzhfcWZmTHl3N3pISlRPeTNyMGF2Z2QzOVpIdU1VenM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is Lumentum Stock Surging on Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUHJ3RHdRYW1zWTZwZEp1YkpqRW42SWNDM3RaZ1dYYWpwWU5VTldwVkVodV9wQkJBWDg0eDcwNlduYlg0c2FEbTVKMDlCY0NfRVpPdDRxVUdrLUJtTHB2aTVtS29TQ0lNUmVUOWI2Wld5MXAyU0FSUXV1eE5YdHBidmJuanZ2aFFDLUxuUVFzaFJHY0JwYTlaS3hPdDVob2dZQllr?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Insider at Lumentum (NASDAQ: LITE) sells 1,500 shares in 3 trades - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHQ5OUlvcjhfeW5JY3ZqSDgyYzYtM3ptR0RJa1lYV0c5Q3BPTFlSTVdvN1BoZ2h0YUl3bExDN29ZNWpQSGZ3RU9qbkhFdkFpd19DdHVpbU11cjlLRlJyc3BBZG83ejdMSHJ3U0VKdUt3WlFSVHdza21wOC1UcE84N2tXUDJGYnZ2dFBobmhpV0ZzWXNRc2dCYUNNQUxBbllyZF9zbDlOU1RzMUN4UHozWC1wRmtHZw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 100.32,
+        "changePercent": -5.57,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Should You Be Bullish on Intel Corporation (INTC)? - Yahoo Finance: Should You Be Bullish on Intel Corporation (INTC)? Yahoo Finance...\n- AlphaGrep UK Ltd Buys Shares of 12,718 Intel Corporation $INTC - MarketBeat: AlphaGrep UK Ltd Buys Shares of 12,718 Intel Corporation $INTC MarketBeat...\n- Intel Stock Pulls Back After $20B Equity Offering And Mac Setback - timothysykes.com: Intel Stock Pulls Back After $20B Equity Offering And Mac Setback timothysykes.com...",
+        "sources": [
+          {
+            "title": "Should You Be Bullish on Intel Corporation (INTC)? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTlBoZnllN202eVJxaEpTZEFvX1lpMFpyV1VjOTJ6OTU5c01pWGZxZHQ5R3FzVTJNZHpwV0ktZm11S3cxVFpnR0F1TzVTa1hjZUl3UFJBV0FINkF1ZXRsRDFyRFNJZVBVZXFpeWRHVk5oNk4yODl2Q2s3akdGVlpreWhjLXRnQ0UxVU1PdGRTaHBaRE9ZYjVSc01pdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AlphaGrep UK Ltd Buys Shares of 12,718 Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQS1CWEx5YVVSM0hWM28tRHBjWWNvY19WWHo1QmwwUVpUQjdjQS1YaHdWNUtCWjVRYmt4M3B2M2NiMmIwaFozdWtKVVJ0OGlyU0lLS2FENGVZaHNnR2k1TmZ3aFJEM0daVjBxcDgwbTA4ZmdzZnFUcmdXYl9qbDRVVXQ5NzZXTF9JUlBDNm44aGdoNDdGcFFvaTJXbFFvTHNxemowYjB2M3RpbTFTLWlwQ1NOTnpkS2tqWUJZWUxB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock Pulls Back After $20B Equity Offering And Mac Setback - timothysykes.com",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVlJ2MUx0Y2Ewbk9STWFKeDZoNWRxRkV4TllsRTRva2J3WnJDWWx3SEhoazZGcnd2cHllRVlpc09NcWNTeVIwNTRhSVk2Q3hSUnlUc1kxT0JGYjl3LXVMVnRsMkpyQ0JFNU5GNFZVQXh4VmFZQ1dhd056eTJuUWJ3Qg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 503.6,
+        "changePercent": -3.36,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (NASDAQ:AMD) Shares Down 3.4% - What's Next? - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Shares Down 3.4% - What's Next? MarketBeat...\n- AI-Optimized Processors Fuel Advanced Micro Devices (AMD) Stock Growth - Yahoo Finance: AI-Optimized Processors Fuel Advanced Micro Devices (AMD) Stock Growth Yahoo Finance...\n- Analyst Sets Lofty Price Target For AMD Stock - Schaeffer's Investment Research: Analyst Sets Lofty Price Target For AMD Stock Schaeffer's Investment Research...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Shares Down 3.4% - What's Next? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR2FpNHFkdTBIOWd3VkJ6cFJnaW5qd3YwYms0T3l3Q3dOU2JNWENRVWczelRoTlVVeHlDaW9Hd1dNeVVrYU5jbVZKdWZWVHJyWjBwMDY3VmxpZ3VYOFV0VjZScnhEWU0yRW1DRkdGeUNWRmhsN1BXNC0xVzZNQzhHRThjUW1uSXdDYzhjRzc4SEsxaFZ2Q1NMd0ZQdHdaM3NJdkcxUEFUbFFVOEw5T3F3VU1aUlBfOUxzQ1Fn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AI-Optimized Processors Fuel Advanced Micro Devices (AMD) Stock Growth - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWGpLMjFjVktrd3Z3OF84U2p4Ylc2ZUltY3loZlhrQ05TWFlJYjhyMWZtc3ZiczBEZnl5Qk1IQU1BQWctcTRyTzF2MjdKWXZPSHV6amxPdGNtT1JoVUt6M3RHRGNfbXRNd2hKemhIdVdjS29IVW13RndwOXl6WF9YSWVGRko1WnphamhYQnlQVThYNzI0bG5uY2pUUERzdEpsWXBocw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Analyst Sets Lofty Price Target For AMD Stock - Schaeffer's Investment Research",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3BiV2NjMEU4Yk1Yekh0TC10UXdxVU0wTGlTVXlTWFZNcWtObERsVF9fbFB5X0FzUDdpYmtUN0JWWmp1aVNaSjIxdFh1YVJocGVIZEZreVo4aDZldFJsZzVieHFvMDRGdWlxcC1yMU5tb3BVeUxPQy16YmpJVHh0c0h4cVVJckJnalhTSElGX0FpVTJDb1VzM0NNLXN1MjB5bUhnNUtHNA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 977.41,
+        "changePercent": -4.9,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- MU Stock Slides As Legal Fight And Chip Selloff Rattle Traders - StocksToTrade: MU Stock Slides As Legal Fight And Chip Selloff Rattle Traders StocksToTrade...\n- MU Stock Slides As Legal Fears And Chip Sell-Off Hit Momentum - timothysykes.com: MU Stock Slides As Legal Fears And Chip Sell-Off Hit Momentum timothysykes.com...\n- Micron Technology, Inc. (MU) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance: Micron Technology, Inc. (MU) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance...",
+        "sources": [
+          {
+            "title": "MU Stock Slides As Legal Fight And Chip Selloff Rattle Traders - StocksToTrade",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZM3FMVW5TWWdTLUk0TV9nZlFKOFl4VGhJWjNRc2FPYk5DNFdNd2c3UWhKR1NiWGljRGQzbkI4YUZuVW15Uy0zWWl3aHdnMC1Mc2t3cU1LSjRFdG9pWHo0MDlPNWN5RUJXeWVVN0dydHBvTWV2XzBWSjVKV1Y?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Stock Slides As Legal Fears And Chip Sell-Off Hit Momentum - timothysykes.com",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSUcwaEh0SnpRWHFZZVJldFlOWk5yV0RreE12VC1UeE5zVThLdFdXNU16RF9FekJQRDBWem1XTWFUQkdoM3ZCdjIycHRYdlRjSFZPS2EzV1JwRFpPclItdUgtU3lWUGEyZ1FTbUY5aWs2aGhQVm5fQVd2Y1Y3T01HcA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology, Inc. (MU) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUmpMcDRWQUhWaFA1bl9YZGZUUnlvQkg0elMwT3FmYlVpVjJWWjNLOUlhWE1fVUNJWUEwRnhfdkNpRGxFckZ1Qkd5bFlQa0h3QTljQUU1dGpzajFFN2dOd1R6UV9MbXpYYU1GSHVVenREbVB2aWI4WkFKZ3pia2hQSGtCTGw4X1lFVGlLcWZZd2kxRkd2SEJvME0xVnhkcjQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-09": {
     "date": "2026-09-09",
     "lastUpdated": "11:56 PM KST",
