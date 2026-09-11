@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-11": {
+    "date": "2026-09-11",
+    "lastUpdated": "11:59 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 927.03,
+        "changePercent": -0.93,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- LITE Stock Jumps As Wall Street Bets Big On AI Optics - StocksToTrade: LITE Stock Jumps As Wall Street Bets Big On AI Optics StocksToTrade...\n- Why Is Lumentum Stock Surging on Tuesday? - benzinga.com: Why Is Lumentum Stock Surging on Tuesday? benzinga.com...\n- Officer plans 500-share stock sale at Lumentum (NASDAQ: LITE) - Stock Titan: Officer plans 500-share stock sale at Lumentum (NASDAQ: LITE) Stock Titan...",
+        "sources": [
+          {
+            "title": "LITE Stock Jumps As Wall Street Bets Big On AI Optics - StocksToTrade",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40cV9xYmJrdE1SVHVObC1BS1JCYW96UlBHTlJGZGZaQjM5RTRHSFl4ajFoTzFnRmo0SGxvSlZ2XzE1X1FFYmdWamRTN3ZGei1kR3N4VVVIYy1udXNYUHAwNzhfcWZmTHl3N3pISlRPeTNyMGF2Z2QzOVpIdU1VenM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is Lumentum Stock Surging on Tuesday? - benzinga.com",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUHJ3RHdRYW1zWTZwZEp1YkpqRW42SWNDM3RaZ1dYYWpwWU5VTldwVkVodV9wQkJBWDg0eDcwNlduYlg0c2FEbTVKMDlCY0NfRVpPdDRxVUdrLUJtTHB2aTVtS29TQ0lNUmVUOWI2Wld5MXAyU0FSUXV1eE5YdHBidmJuanZ2aFFDLUxuUVFzaFJHY0JwYTlaS3hPdDVob2dZQllr?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Officer plans 500-share stock sale at Lumentum (NASDAQ: LITE) - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaGxCelRtY2pRTDBqaExHR3lnNWhkQjN0Z3NlWWtpRUFMdG1TeUFFV2pkZk5YZi1yZGJGVkE5RUttSWY5SnpYeTVSYXRaOHAzMXBsRGxVZ0k3N3hvWl9RUTNnOUVHNlk5TGRmUGYxb1dXUGRFcGFrd2hLbXFvbVUtU1RiM09TN29VTWFLM2pwRXFPUDNsNHhKa09XVUNwd0E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 102.94,
+        "changePercent": 2.61,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation Stock (INTC) Opinions on AI Chip Packaging Developments - quiverquant.com: Intel Corporation Stock (INTC) Opinions on AI Chip Packaging Developments quiverquant.com...\n- Should You Be Bullish on Intel Corporation (INTC)? - Yahoo Finance: Should You Be Bullish on Intel Corporation (INTC)? Yahoo Finance...\n- Intel (NASDAQ:INTC) Trading Up 2.6% - Here's What Happened - MarketBeat: Intel (NASDAQ:INTC) Trading Up 2.6% - Here's What Happened MarketBeat...",
+        "sources": [
+          {
+            "title": "Intel Corporation Stock (INTC) Opinions on AI Chip Packaging Developments - quiverquant.com",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVprZ3kwLWFvWlJlc1B4RGlxXzF0R2F0b3VOdnh2V0JmejBzRWQ2dlVGVlg1Nm56X2ZBSEcyMzFNS056bjJfRTVRM3FwY0dZemZ3ai1nLW9YOC1LS1NNUTg0SFJ2S2tuZnJDZjd1cTRLYlpBS1Bld09USjlhZVctb0EzdWxkZkNmX1BzbUpYbkQ0MzdNTUtKUkh0R0I5bDJaRzNnSVVaUXpEU2h3Z0Jv?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Should You Be Bullish on Intel Corporation (INTC)? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTlBoZnllN202eVJxaEpTZEFvX1lpMFpyV1VjOTJ6OTU5c01pWGZxZHQ5R3FzVTJNZHpwV0ktZm11S3cxVFpnR0F1TzVTa1hjZUl3UFJBV0FINkF1ZXRsRDFyRFNJZVBVZXFpeWRHVk5oNk4yODl2Q2s3akdGVlpreWhjLXRnQ0UxVU1PdGRTaHBaRE9ZYjVSc01pdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Trading Up 2.6% - Here's What Happened - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMDlmVFVxaFduQmxiRjVIMzhhM1RJNHEwV0syWm9CbVFNeGVDUlJoLV9pSVZFN3k1Z2xBbjZhSU9NN1RUVjBwUC1DUm5aX3hENlJkallfR0xoSUxJUUcyb0lLUXFFcWRRa1lTYm1YYW9xSXZ1eE41b0pYTlhxQkt3NTlQdGhrSmFOdTUxUHdGTlJrUUIwMjNsOUlzbHh4ekVhcWFGbEwzRVF1VmR2WDJBYQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 516.13,
+        "changePercent": 2.49,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices, Inc. $AMD Shares Bought by The Manufacturers Life Insurance Company - MarketBeat: Advanced Micro Devices, Inc. $AMD Shares Bought by The Manufacturers Life Insurance Company MarketBeat...\n- What's Going On With AMD Stock Friday? - benzinga.com: What's Going On With AMD Stock Friday? benzinga.com...\n- Advanced Micro Devices (NASDAQ:AMD) Trading Up 2.5% - Still a Buy? - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Trading Up 2.5% - Still a Buy? MarketBeat...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Shares Bought by The Manufacturers Life Insurance Company - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMWYwRUwybU5mWXd1ZWpYTGxCaGx6WlJBb29SN0gtX1J1eGtpcUdVM1VCUjVnTE5xUVIxQWZEalpTQkpBb2l0enhZRjdKX1VTN2NTYXJPMEpPdFZqV1ZydWRaaVVMUGNNcjl5djhmOFhmdjAtVVZRZTJZUFRYX2ZsMkd3V3lhWTlQLVR6cXpqMFJxcXB6X3RSQmxfMW8yQkNRMF9pZENYMWI0VFJFZWhFa3VZLW01RzNpU0hDekM3WXFxdjVjWU5hSGY3T1JGOUY5RFFYNlhTS0VudnE4VnlrdG92dw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With AMD Stock Friday? - benzinga.com",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3R1S2xCOXl3Nm0wXzhlQk1qaXdUZlJ6LVl3ZlhZdktDUWZ2TUZVNTlnaVg4X041WF9MeXdpMTJ0RGhudDFHODV0blJSM1dXa0pPYlU2OXg0TkJwenRnbS1qMmpRc29UbnNTalI4a0lxNS1wVWQ3RzdGTUVFNjcyVHVmRHRTa2ZKOERLSGVCMTAyLTBKblE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Trading Up 2.5% - Still a Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcy1SbFd3Z3d2bEl4VDUwT2pXZkNmZXJoSlN5aHQxVGFKX1hqT3VmZm0zNVd2VHU5MDR2Mng1d3pNMkprWFdNZG8wZ29RZFNhVnZHUlRTUHpLemZQSVM0QVdQVm1qR1JqbWdWczZMTWtUZUR2WGViME5OVXlDMXJTRG5iYWptTjFQZXZVemNCMDQ3UmdfNHpZRmljRllYQ1dpU1JvN1o4UXhuSlJvWVRnYUxDbjVUblVBY0Nr?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 975.26,
+        "changePercent": -0.22,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU)’s Taiwan Workers Want a Bigger Slice of its Record AI Profits - Yahoo Finance: Micron (MU)’s Taiwan Workers Want a Bigger Slice of its Record AI Profits Yahoo Finance...\n- Why Micron Needs To Be In An AI Portfolio (NASDAQ:MU) - Seeking Alpha: Why Micron Needs To Be In An AI Portfolio (NASDAQ:MU) Seeking Alpha...\n- Applied Materials vs. Micron Technology: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool: Applied Materials vs. Micron Technology: Which Technology Stock Is a Better Buy in 2026? The Motley Fool...",
+        "sources": [
+          {
+            "title": "Micron (MU)’s Taiwan Workers Want a Bigger Slice of its Record AI Profits - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWx4c1NVdzNjRVp5VTI4QjYtdlMxcHpBazJ4SDU2bkdhSUNkYzFNemUxR1N3RHdyZzVPekZxb1NaRDdWUkJPaGdQUWpsTHhyQ2U1dzJ6dnI3WEtLS0sxLXJLMnplcWFKU1dPUFJfZFd4YzlBRDFoVW5yaW02MUx1VDlaS1lZTmRwU0tINWh3YnZwUnhIOWhMNmJR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Micron Needs To Be In An AI Portfolio (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYzJTbmxMR2V6MWZKemMxeTg3clVYSjVjdkllMGFYb01GSlh6LWpPaTV0a05LdFAySFYzYldhZzhsRFl6V3M1YUFpd3I0LVlPX09sbW0xQUt0bGpEYXZOdktZb25QbkVscU9RbXBHSG5VS0RKaVpTQVdTU2d5MUt2cXpYSWxQUTZWbVE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Applied Materials vs. Micron Technology: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamR5MGQ3YmRNYVlUT1BlYXNaWTl2WTJFSUJTb0lRUWl0MzNOZUswa2pnbUVFbXhEZlJyT0l2WUFXczhMeXNETFdWSFhRa0JiN3Jpd3FFUnNtOWtnTFpyVWQ5QTAzNlZmSWk2VXFSbHZ5aTFORUFKaHg2c3pxanJlaS1pcTFJRkFjOURYWjZ6N0xnQ0tlbjBEc0F5WTZ2eWJMaF9PSEJMQWt1bHpnTFZkQXp3NzVCVzNOSU5tNThRb1Q0em1xUlZ0YUFGQzJoRGh0cVVQaA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-10": {
     "date": "2026-09-10",
     "lastUpdated": "11:51 PM KST",
