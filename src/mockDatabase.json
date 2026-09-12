@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-12": {
+    "date": "2026-09-12",
+    "lastUpdated": "11:52 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 927.03,
+        "changePercent": -0.93,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- LITE - Finviz: LITE Finviz...\n- Stewart Asset Management: AI Infrastructure Drives Lumentum Holdings’ (LITE) Potential - Yahoo Finance: Stewart Asset Management: AI Infrastructure Drives Lumentum Holdings’ (LITE) Potential Yahoo Finance...\n- Lumentum Holdings Inc (LITE) Stock Down 5.4% but Still Overvalued -- GF Score: 69/100 - GuruFocus: Lumentum Holdings Inc (LITE) Stock Down 5.4% but Still Overvalued -- GF Score: 69/100 GuruFocus...",
+        "sources": [
+          {
+            "title": "LITE - Finviz",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rMUNjRkVHYU9mSHR6aTFpNEpzUk9ELXBoUmxJcUpmQ1J1Z0xsSm92UzIxSE1NeklnOXFLQkE0dDVOc2taLUNBanF5YkhpVzFSYzJMZ0dxdkZMbnVnRlV0OEZGbGRmcElWbTBGSkk4TFhiTnZSWk9qNWJuLUltdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Stewart Asset Management: AI Infrastructure Drives Lumentum Holdings’ (LITE) Potential - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ1lrLWlVTnBicnhhWTZ0YmZMLU11WDlHU3JTTFUzNUhPSmQtNjlBQWFQQnN2R1FlOF9yWXhQbTZlRDhvdEROMVFPQmdaRk10SzFFQzg0eVctOV8tRm1lVFFuNTlmdWlXRVVoQm1uNG5IZGtpRkFfQ3ptQXBaZTcwdkFrS2hkZVJiZWxVWjhBRTdMNGh6ZjdpNUJPS1pQeWtUWU1xU0szYzNHQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Down 5.4% but Still Overvalued -- GF Score: 69/100 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUo5QkZBM3BTeW1WakNtQ0puMlNiS0RFQXpuN3R3Q3hNSERhbGtVREFaQlU3ZXc4QnJYbjVHckZfQXllYklmM0tWRld2Zjk0a3pSVFRDbDFJSG9pVHI4ZldWR21rcWx5T0IzUFBaYlluNXNYNlpfUFRyaHprcFo0SGFDeGxnRi01MngyQkQ2RFN5My1tNUJyX1ZveEl4VDZBYXhTSy02WmdYaFJrSnBGM2NfbkRhdw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 102.94,
+        "changePercent": 2.61,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Should You Be Bullish on Intel Corporation (INTC)? - Yahoo Finance: Should You Be Bullish on Intel Corporation (INTC)? Yahoo Finance...\n- Intel Corporation Stock (INTC) Opinions on AI Chip Packaging Developments - Quiver Quantitative: Intel Corporation Stock (INTC) Opinions on AI Chip Packaging Developments Quiver Quantitative...\n- Empirical Finance LLC Grows Position in Intel Corporation $INTC - MarketBeat: Empirical Finance LLC Grows Position in Intel Corporation $INTC MarketBeat...",
+        "sources": [
+          {
+            "title": "Should You Be Bullish on Intel Corporation (INTC)? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTlBoZnllN202eVJxaEpTZEFvX1lpMFpyV1VjOTJ6OTU5c01pWGZxZHQ5R3FzVTJNZHpwV0ktZm11S3cxVFpnR0F1TzVTa1hjZUl3UFJBV0FINkF1ZXRsRDFyRFNJZVBVZXFpeWRHVk5oNk4yODl2Q2s3akdGVlpreWhjLXRnQ0UxVU1PdGRTaHBaRE9ZYjVSc01pdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation Stock (INTC) Opinions on AI Chip Packaging Developments - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVprZ3kwLWFvWlJlc1B4RGlxXzF0R2F0b3VOdnh2V0JmejBzRWQ2dlVGVlg1Nm56X2ZBSEcyMzFNS056bjJfRTVRM3FwY0dZemZ3ai1nLW9YOC1LS1NNUTg0SFJ2S2tuZnJDZjd1cTRLYlpBS1Bld09USjlhZVctb0EzdWxkZkNmX1BzbUpYbkQ0MzdNTUtKUkh0R0I5bDJaRzNnSVVaUXpEU2h3Z0Jv?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Empirical Finance LLC Grows Position in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeUQzTUU5SHJfejE4NGowcTRDVWdrdXlMbVNMX1dDS1ZEWDc5d1FfUEVYaFRnT2pJNl9LUjViTHRwMHlzZmRPZEs2c0ZhTW1mcUowNEp6UXBLbnJIaTBhRS0tRXMydkVjbzl3Sjl0Tzhqd1hxXzBIV3JVV181SnNNNUNoY01PbGxuMnAwdE9XZDdyNmJmc2FnZ1NVQWVIa1NIMkVYemJmRGRKcDFlRXRNU040LVVucE9GdFhjcU1qQUY?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 516.13,
+        "changePercent": 2.49,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note - Yahoo Finance: Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note Yahoo Finance...\n- Advanced Micro Devices (NASDAQ:AMD) Stock Sold Off Rep. Gilbert Ray Cisneros, Jr. - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Stock Sold Off Rep. Gilbert Ray Cisneros, Jr. MarketBeat...\n- What's Going On With AMD Stock Friday? - Benzinga: What's Going On With AMD Stock Friday? Benzinga...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGI1U0NyWE5JWnV3NGhGRDh6YXJuR1lUN0dtZzhodHpLRG1KVkhOTEE0bUlmMkozOUJkWWlSLXNmRFl6TlFaU2VRdV9RaTNPODRobmc4NDZmV2wtTVBLdDcxYTJ0NWZCUEdQVnNUYW5Zb3NkOERVOUVPcUFpbEtjcjRiLWdPR1JUVHloNUYtdktkN251dDl4em1kb24tSlkx?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Sold Off Rep. Gilbert Ray Cisneros, Jr. - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbGMxbURhS1I3enJnRkF0R20wT09XbXpxMGlnWFNaX0pnZURqRXRvdklXRG1qY2JGMEhxYnNwdUlPcVJ3bm9rVDNwdzlfNXJ6V2tnNVBVSVBrLU4zejI3NVFJcDJob2Vqc2VRb0g0WVFzaWRCMDZ0ZzMwNWktQl82UVQzRmEzbE9GRkxFUmpFbmx0TGFkV0w5Y1BNMnppQV9kRjBnRmNuOGlFM0dxcW9BS3E5bWtMbXgyYU5kaFMxUmd3OXd6TU9yRFZNOHdhaFlyNllpZEtB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With AMD Stock Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3R1S2xCOXl3Nm0wXzhlQk1qaXdUZlJ6LVl3ZlhZdktDUWZ2TUZVNTlnaVg4X041WF9MeXdpMTJ0RGhudDFHODV0blJSM1dXa0pPYlU2OXg0TkJwenRnbS1qMmpRc29UbnNTalI4a0lxNS1wVWQ3RzdGTUVFNjcyVHVmRHRTa2ZKOERLSGVCMTAyLTBKblE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 975.26,
+        "changePercent": -0.22,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Prediction: Micron's Sept. 30 Earnings Could Be the Most Important Catalyst for AI Memory Stocks This Year - Yahoo Finance: Prediction: Micron's Sept. 30 Earnings Could Be the Most Important Catalyst for AI Memory Stocks This Year Yahoo Finance...\n- Micron Technology (NASDAQ:MU): Strong Growth Meets a High-Quality Technical Setup - ChartMill: Micron Technology (NASDAQ:MU): Strong Growth Meets a High-Quality Technical Setup ChartMill...\n- MU Stock Slides As Legal Fight And Chip Selloff Rattle Traders - StocksToTrade: MU Stock Slides As Legal Fight And Chip Selloff Rattle Traders StocksToTrade...",
+        "sources": [
+          {
+            "title": "Prediction: Micron's Sept. 30 Earnings Could Be the Most Important Catalyst for AI Memory Stocks This Year - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUd3bUp4ZzFlZHVIMTV0VFhVZ1d0Q1oyTUE1eEdGakVUNHQ1T1JxUWV3elNZbDlaX1k1OExYSjE4RHZDTUFlZVJxR01FUm5UU2dRWVJyTmFRLVYtc1VXcmR3QkhFWjVVOUYzeGFYX2pCbXhudnhLTTB4STJZR3Jnd3pqSUwtY3I3Y2VLcWdneWJSRkdXM1BZTmJDSVRpNjR3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (NASDAQ:MU): Strong Growth Meets a High-Quality Technical Setup - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWlNoYjVFQ3RmZWNOY0Vob3h2aFM5N0lCNlJaUi1waWZmQlZnWkVQeFFicjBmVTNLVm1ycndkR2p1RFp3U3p6Skh0UkRXU1MwXzhKbENhcV9UVmNNeXRDYnpEaGtsRGpERUJhR29XeG9feEtzbG5US3RDOEJYSHZ6V0dGQWhkQVdGZVhJeGFzTHRSbXQtVHZHN25ZMmQzRXBFTnJvLXBqc3dqVzB1eFQ2U2NrMWZCVWNGY3M5UmhsRG5kaW55ZWc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Stock Slides As Legal Fight And Chip Selloff Rattle Traders - StocksToTrade",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZM3FMVW5TWWdTLUk0TV9nZlFKOFl4VGhJWjNRc2FPYk5DNFdNd2c3UWhKR1NiWGljRGQzbkI4YUZuVW15Uy0zWWl3aHdnMC1Mc2t3cU1LSjRFdG9pWHo0MDlPNWN5RUJXeWVVN0dydHBvTWV2XzBWSjVKV1Y?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-11": {
     "date": "2026-09-11",
     "lastUpdated": "11:59 PM KST",
