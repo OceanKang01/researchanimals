@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-15": {
+    "date": "2026-09-15",
+    "lastUpdated": "12:24 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc (LITE) Shares Fall 9.9% -- GF Value Says S - GuruFocus: Lumentum Holdings Inc (LITE) Shares Fall 9.9% -- GF Value Says S GuruFocus...\n- Lumentum Holdings Drops 7.5% Amid Sector-Wide Selling - AlphaStreet: Lumentum Holdings Drops 7.5% Amid Sector-Wide Selling AlphaStreet...\n- Lumentum Holdings Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance: Lumentum Holdings Stock: Is Wall Street Bullish or Bearish? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Fall 9.9% -- GF Value Says S - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3hhelR4RC10MmQ5MThJdThPWDd1LWJkRVhac0pXd0dpQV9OUjl3YXpUcHJsNFBOcE4yUzFqbHRoVVlfb1VIbzZwMGhieE5WbUtEdElDLUFjMlFhSVlxZHplbEQxMS1VbE51ZG5pSG1IZkVxMlIxeXZ1Y2xHa1hXU1R0TUo0WTZpdXk4UnJkbHpjX2p3SGlyMm1yb2U5YUlvWG9pUi1PUVlvemp6b21zWg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Drops 7.5% Amid Sector-Wide Selling - AlphaStreet",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ29HOXpfMkxldGdxcG0tYmF1SmEtWFA2SUJxUjB1OEtEVmIxMS13T1RPVHU3aEFLS0ZuUk1vMmozZnh6bmpWamRCWVUzSTlUbjJiUGtfTlZGZy11TVl1V214T19Uajk4N21HMzExeDh0bTN1dmhBQ3RUazdoVFduNnJEeC01VU9RSHfSAYoBQVVfeXFMUGdvRzl6XzJMZXRncXBtLWJhdUphLVhQNklCcVIwdThLRFZiMTEtd09UT1R1N2hBS0tGblJNbzJqM2Z4em5qVmpkQllVM0k5VG4yYlBrX05WRmctdU1ZdVdteE9fVGo5ODdtRzMxMXg4dG0zdXZoQUN0VGs3aFRXbjZyRHgtNVVPUUh3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ1doSjVuNkFOelRENXZsSjNXRjVDcG9JdDA3THBQSGZZVmpHN1MzcDE5dzh4VU1YMTJfcFByYXRydm9Fb0IzZk4wNzVPTlVfcnBUcEdvdk53Z3UyN0FXV1ZtR3JTX2pDR1VtQ3JWU2ZVaGxfVXE1VGdoZzN5T2hvdWI4c0p0OWhDZEtDVllYYUpnbl9qUnBFX2VCRHI1d2JqZXc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know - Yahoo Finance: Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know Yahoo Finance...\n- Revere Asset Management Inc Invests $1.08 Million in Intel Corporation $INTC - MarketBeat: Revere Asset Management Inc Invests $1.08 Million in Intel Corporation $INTC MarketBeat...\n- Intel Corp (INTC) Stock Down 5.6% but Still Overvalued -- GF Score: 66/100 - GuruFocus: Intel Corp (INTC) Stock Down 5.6% but Still Overvalued -- GF Score: 66/100 GuruFocus...",
+        "sources": [
+          {
+            "title": "Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEUzLVNTUmEzajZ1OElhbHhhRjZvWno5azIwYk1vZU1mazVMazlDUWRwWXF2RnhvYk9lcGJaeVBkcDNhZy00YXhWdjM0dnpPa29fMnRvWjNWaDBMOTdVYnB6dHBFMFU1VkQwaHBMMUplSTdfam5IZXdnZFpPNWVoTnlDUW45c2dxYnlWX1RSdjQyaDNRUFhvMllSU2dGZ1FtVGFIcjBUamhfX0E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Revere Asset Management Inc Invests $1.08 Million in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWx0RGtyZzVkQUVDYXJDTDVMSzZXRTFPanluYV9OXzFTNFFMTzJTdkhRQ3BPYXpWNnJuTWxsSFZiRTg2b1BNSERfUFpNbGQ1OTZOb2VnYmMxd2dPbUZNODRWZFVqbEZMRXpxdE5ZY1c1aE9JbjUwUG9iM0lyUU5aSHV3dmhudTNfRXlvYjV0YnpZSmZCVkxXRFMzSFNhdDltR01aME8zcEJwNW5kMGZCTGo0OVZxSFpnUGE2ZVlWeFpFVHdNRko1alhHQTVtTzA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp (INTC) Stock Down 5.6% but Still Overvalued -- GF Score: 66/100 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPczBJeWltZGtpNUg0VHllQm1YWFlmR3Y4dUIwakZvYlpuNXJnVXFxeXZsRDN0WHVhMEVuZFlUamEzQUdkN3dmSmFsTGdKYUVxVmRPRnU2eW5rT3FSeE1sRHNCUHlQQll0TzZfLUwwS2VQNFRDUUM0S0dLVWYwdVd5Z01TdF9QRmZFOXpDZlJoQnkwVEdVemtXZnhqYTNsTXMtZVpLdGg4NA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (NASDAQ:AMD) Stock Sold Off Rep. Gilbert Ray Cisneros, Jr. - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Stock Sold Off Rep. Gilbert Ray Cisneros, Jr. MarketBeat...\n- Why Is AMD Stock Falling Monday? - Benzinga: Why Is AMD Stock Falling Monday? Benzinga...\n- Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance: Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Sold Off Rep. Gilbert Ray Cisneros, Jr. - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbGMxbURhS1I3enJnRkF0R20wT09XbXpxMGlnWFNaX0pnZURqRXRvdklXRG1qY2JGMEhxYnNwdUlPcVJ3bm9rVDNwdzlfNXJ6V2tnNVBVSVBrLU4zejI3NVFJcDJob2Vqc2VRb0g0WVFzaWRCMDZ0ZzMwNWktQl82UVQzRmEzbE9GRkxFUmpFbmx0TGFkV0w5Y1BNMnppQV9kRjBnRmNuOGlFM0dxcW9BS3E5bWtMbXgyYU5kaFMxUmd3OXd6TU9yRFZNOHdhaFlyNllpZEtB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is AMD Stock Falling Monday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdEhDUGF6QlZZUllrQzhaQllfcHZ6MU9SbnlPREJsM3IyS2FuRXNvZTAzTFFKaWZ1UzdTX3BjMmt5VC1VS3JSUzdVdUdpdVd0WTBFYVJ4c183bUZIMUlnTkRha0tlUUNlaWRqdU5GdUtJMlNibG83RkJHbk9DdlgzVjNxZ2xsMUEtcmRyRw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMzZhWHVIaXpja0tRUzJiM0tPUkQwMWs5TnBiQ1NfVmlWZ01qaWFwX2hvSkhZMHA1TTRZZzFSUWNmdmQxQW15QjNRN0RaSDdEY2VXbDdsRDhaR2dQR2YxTC0wSmNrZWVxYlZQNURCS0o0M2dwSUdFT2tFYXk5SHg1ZllIekhHUWNkYWtSTkhON0ZHbjZqMkQycjRYRQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Is Micron Technology Stock Falling Monday? - Benzinga: Why Is Micron Technology Stock Falling Monday? Benzinga...\n- Micron Technology (NASDAQ:MU) Stands Out for Accelerating Growth and Improving Fundamentals - ChartMill: Micron Technology (NASDAQ:MU) Stands Out for Accelerating Growth and Improving Fundamentals ChartMill...\n- Will Micron Technology Stock Soar to $1,500 After Sept. 30? - Yahoo Finance: Will Micron Technology Stock Soar to $1,500 After Sept. 30? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Why Is Micron Technology Stock Falling Monday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2VJeFFFNmlIZVVjb0FOT0ZoVGJiNXY2TXdMUFNyZFZNVW1GQVlPTGtHbE1tOVE0b3NiN0hlRE5NY0MzTU95R0FLcm5Cc0lsVkxaS0sxR3lQdUx0WE1ac3dXbGdPZE5zaEp3bW5KU3FON1RKbjVIYkc0N3VYQ0NXT0RkSUpHblhmY3hhbmV1MXZlNWtSaFUtUVhSS29sVEU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (NASDAQ:MU) Stands Out for Accelerating Growth and Improving Fundamentals - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYTkwRkJiOFAza1JrR1Ytb19XUGhCZGdUTUNVU1lsVlhTZTVadjFyYmdZS2hEaFpFbWVNc05TRnZFaE1QQ25ORzZZY193Sm1yTVpwUkNMVDdhTDlPOWd0eUhPaV9jTk1FNmdpRm5oUmp1Vnl5UkFWUUNXVmo0NmZadWRRdTB5X3B5RDR1OGpXMW93ZDd6UWRIcUlIM1E4MWwtYThRVjFMMmlmeGFXdk5ma0xveTRGNXpaQ2xZc1FmRnlpZGxQQzdLWmFJSjdvUzZaNF9lRw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Will Micron Technology Stock Soar to $1,500 After Sept. 30? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWUtTdFhTMEd3azI4U0RxbU5vR2llZ1BtNGc5clhKanFNTDQ5bUdiUDJuZklhMnI5NmRyM1FFSUJnSTJZcnRPRWpnN1RDZlprZkhCWWdZYU5VUHJ0SlRzRUZhZVdHRWxOS3p3WmtzRjl2UWdoQVlfaXRseXZHZU9la2hPX0RkazBCcnowaTBHdXhIOUd2bWhsXzEtRQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-13": {
     "date": "2026-09-13",
     "lastUpdated": "11:58 PM KST",
