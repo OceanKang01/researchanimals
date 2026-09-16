@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-16": {
+    "date": "2026-09-16",
+    "lastUpdated": "12:03 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings (LITE) executive’s preset sale plan moves 1,500 shares - Stock Titan: Lumentum Holdings (LITE) executive’s preset sale plan moves 1,500 shares Stock Titan...\n- LITE - Finviz: LITE Finviz...\n- Lumentum Holdings Inc (LITE) Shares Fall 9.9% -- GF Value Says S - GuruFocus: Lumentum Holdings Inc (LITE) Shares Fall 9.9% -- GF Value Says S GuruFocus...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings (LITE) executive’s preset sale plan moves 1,500 shares - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYjVzWWM5YWhoMlNkSnI3eGtPZmN6Sm5zdTVubC01M2ZldE5qZEphRU5vbjB4ZDZsSTRsTTBvMWVudTFiUkVHY25YTDFEcF9BQTlXTzF5TFlhX2Y0N1kycFJFVk5UeW45QmlkX1ZHbTVob044UlpvcjJqcEF5a0FucjdGZGVsYlhlYmxFY05Yb09XUWN4dDZaTkh3TXBqVU4zSlRPV2dBdmlsczJjeW5KQktLSzg1dw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "LITE - Finviz",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQk9TUjBBUGlFRl9fT0lEU2dKcHJNNkgtZ20xR2IzRDhpUVpIb29ZMlRoQ3VWbk0xMmtjVGZvMWRRSEFWSm1WNm01czkwdG9lV1Rhcjk1MGRCZjNJWGhhNml3WERGNTVqakYtVkZGY0w0OVFBSl9aS01yZjNrV3JNcg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Fall 9.9% -- GF Value Says S - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3hhelR4RC10MmQ5MThJdThPWDd1LWJkRVhac0pXd0dpQV9OUjl3YXpUcHJsNFBOcE4yUzFqbHRoVVlfb1VIbzZwMGhieE5WbUtEdElDLUFjMlFhSVlxZHplbEQxMS1VbE51ZG5pSG1IZkVxMlIxeXZ1Y2xHa1hXU1R0TUo0WTZpdXk4UnJkbHpjX2p3SGlyMm1yb2U5YUlvWG9pUi1PUVlvemp6b21zWg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know - Yahoo Finance: Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know Yahoo Finance...\n- Intel: No Bad Products, Just Bad Prices (Rating Downgrade) (NASDAQ:INTC) - Seeking Alpha: Intel: No Bad Products, Just Bad Prices (Rating Downgrade) (NASDAQ:INTC) Seeking Alpha...\n- Tigress Financial Forecasts Strong Price Appreciation for Intel (NASDAQ:INTC) Stock - MarketBeat: Tigress Financial Forecasts Strong Price Appreciation for Intel (NASDAQ:INTC) Stock MarketBeat...",
+        "sources": [
+          {
+            "title": "Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEUzLVNTUmEzajZ1OElhbHhhRjZvWno5azIwYk1vZU1mazVMazlDUWRwWXF2RnhvYk9lcGJaeVBkcDNhZy00YXhWdjM0dnpPa29fMnRvWjNWaDBMOTdVYnB6dHBFMFU1VkQwaHBMMUplSTdfam5IZXdnZFpPNWVoTnlDUW45c2dxYnlWX1RSdjQyaDNRUFhvMllSU2dGZ1FtVGFIcjBUamhfX0E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: No Bad Products, Just Bad Prices (Rating Downgrade) (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmpfVTBsSVVEMG12MWFHYjJNbkZIRWpFMWJvSDhUTDg1cVp5aFJDMk50UXpsSWk5T1BkRGRJUWttX01QMU12Q1NvOXZiRS1KTUljXzQ0a2ROVlJvWjVXX1labVFtalVBamFtT2lBN3YwaF9hUTNxcnQ4MVNtZmNHbUstV1BHYmZkSHpJZUE5dU05QV8zR2VZTm5ZYw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Tigress Financial Forecasts Strong Price Appreciation for Intel (NASDAQ:INTC) Stock - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0lFM21nazl1SWVTa0NWTTBjRUpBQ05lR1FfdURNMkRaWFZwYk1xMEVYQS1ZLU5vZWdON2xjbE94YTRMeV9KOEoyYXBmbnBOTE1OenhSY0trRjFzV2MxclRFQk1ZdzZJbnZ0S3oyTVd1ZU9ZXzAtVHliTXpEWm1iX21maklHNjRsRm5GY3FBUHAyYVZ2NXZ5THpXTGFzV2w0ZE91a0ROQkxVMnQwc09ST2l2czZPb1I3RDhKMzF2OXBjZVlZdi0zUEhvQm9UQkZ6alBkY1RWd2RlMzQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What Is Going on With AMD Stock on Tuesday? - Benzinga: What Is Going on With AMD Stock on Tuesday? Benzinga...\n- Advanced Micro Devices (NASDAQ:AMD) CEO Lisa Su Sells 70,000 Shares of Stock - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) CEO Lisa Su Sells 70,000 Shares of Stock MarketBeat...\n- Why the Market Dipped But Advanced Micro Devices (AMD) Gained Today - Yahoo Finance: Why the Market Dipped But Advanced Micro Devices (AMD) Gained Today Yahoo Finance...",
+        "sources": [
+          {
+            "title": "What Is Going on With AMD Stock on Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXJjYUJGc0o4Q0U1eGpCeGxBazRmb3VFZmJXVXZSdi1wMzY1V3BmRjY2cWVHck44N1pMMFZ4ZjY1QmVhNi1FUzQ2amltTzZuVjBRQlFUUjFWTmxfVlZ0UENZZUxZbnliaGF4VWZ2SFpYV0NoT0prWnhoOHJDVHVYM2Vidkw1d3Y4YW5zLUhKb2NtT2RIWFNZQUg3S0FHZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) CEO Lisa Su Sells 70,000 Shares of Stock - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa0hlQkpzaENGYmJwejZNbUdtTl9TS0p3cmlYRDJ6ZmdoV2x5X3lzSlFlWjVRRjN3THJSSjFkMnNnRWFKNnBWVGRDcXh6d2tOY2ctVHg0d1JsTS1zRlA1aTZqRVA4b21jU3pvYUJTNGZ0MkxBTVFfbXZaSGQtS0JpNkM5ZTJ6UmdFd2RJT1BWQnBpdDlxZzYxNmxqbmxNRFFBWll0azZSV0gyeGNEd0xhY2xXdlN4RjJYeGRRY2J1R2llT1A4TFlmTWFGSjFUWFgw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why the Market Dipped But Advanced Micro Devices (AMD) Gained Today - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3pLNllnYVpQajlXMTM2eXNxOEg0SjVLNTNuazIyT1EzaWZVclhDTlRMQzhpTlhyblE1MUJwR1JuVTJPOHdvUExuclZhamVXVXNoalhsaGdiN3hCZEFqUl9mem0tSVI1QnRLWHVURWw0YkNfTy1TVENyWWNIMUdzMW92Y2U0LVNjcUh6M1gtQUM3ODBfZlh6Vi1oaWFyZw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Jim Cramer Validates Caller’s $1,400 Micron (MU) Thesis, Doubles Down on Charitable Trust Position - Yahoo Finance: Jim Cramer Validates Caller’s $1,400 Micron (MU) Thesis, Doubles Down on Charitable Trust Position Yahoo Finance...\n- Micron: The AI Memory Cycle Still Looks Underpriced (Upgrade) (NASDAQ:MU) - Seeking Alpha: Micron: The AI Memory Cycle Still Looks Underpriced (Upgrade) (NASDAQ:MU) Seeking Alpha...\n- Micron's research lab has a planned $10 billion budget. Deirdre Hanford will lead it. - Stock Titan: Micron's research lab has a planned $10 billion budget. Deirdre Hanford will lead it. Stock Titan...",
+        "sources": [
+          {
+            "title": "Jim Cramer Validates Caller’s $1,400 Micron (MU) Thesis, Doubles Down on Charitable Trust Position - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHI5c1B3NHZSN2l3aTJzd0lBMWlsamN2a0hDZkZIY1JjUS1ZUlJQU3AxbF9SWUY2eEdCNjBVNWQ4V3I4dVZ1WTdYTXZQSk42czhBTTlHSkNONkFiREhTM2tISWI5d3NUWm1hOWYxd043cTdzdzJhY1lnS2dSMElCdGNGU083UFl6THJ1NGpZRnNndE1DelNVNUp3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The AI Memory Cycle Still Looks Underpriced (Upgrade) (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWFzT3ZtZDlsUDluN3Axck8tVGFrQTQwV2dYLUU0VkZWX25DZ2s2YklQVGpUWTdEVWo3cUtPcjNXbDNUc0g2WEE4UHpBREMxOVl4OWo5VHlkdXBmZnVKUmZ6VG5wZjZ0TTdYZmZIeVZOZ2dqMG51WlFKbDd6NHk5bFZSNjVvc0JsdGFFYUdVSXhWMEhMeWtZRUZvOG81YkNX?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron's research lab has a planned $10 billion budget. Deirdre Hanford will lead it. - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEozQmgxdGdXaWFNenhoaVgwQXJpU01zaUpISnZhNkhveFBzeDhmbzRMQnE1RGZ6SWVCMmI1UjJuRXBJcERDTWF6Y0tLd2dDekEtYzh1OHhjVS1GRTRwQk45aVJPOTVLcVY1ZGxIenFRSkVBU0I4TTNfVC1pekxheUxueVNKb0FVRTNFUjB1ZzdlbmdIM2NQR3dFNEJPRUdnTjRicE0xbG5RTk5f?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-15": {
     "date": "2026-09-15",
     "lastUpdated": "12:24 AM KST",
