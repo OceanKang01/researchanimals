@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-19": {
+    "date": "2026-09-19",
+    "lastUpdated": "12:00 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc (LITE) Shares Surge 4.2% -- What GF Score of 67 Tells Investors - GuruFocus: Lumentum Holdings Inc (LITE) Shares Surge 4.2% -- What GF Score of 67 Tells Investors GuruFocus...\n- Lumentum (NASDAQ: LITE) officer sells 1,500 shares under pre-arranged plan - Stock Titan: Lumentum (NASDAQ: LITE) officer sells 1,500 shares under pre-arranged plan Stock Titan...\n- How Lumentum Holdings (LITE) Powers the Next Generation of AI Data Demand - Yahoo Finance: How Lumentum Holdings (LITE) Powers the Next Generation of AI Data Demand Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Surge 4.2% -- What GF Score of 67 Tells Investors - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTnpRS2VjWGM5VVpGQmdOMnJnMEk5QVI3c2lxUHZZSmJ5bVc5WUplcTB5Wl9mTnFoQUZYWjBMOUtQdFhNWU53VDY2Zi1VTE5rbktxckxoWWpLRlNOaXVpZms4UkYtVV95WE5nODdlRnRsTUgxYzlsTHdFMlIwa1NXaUhrRzdzQWJfRjFVTkVWRGFxU3F3ZGQ5a1dZY1czZ0dmUDNyZ0tra3h5SUtqa0N2M3R1WW16eGlQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ: LITE) officer sells 1,500 shares under pre-arranged plan - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVZUbkV3WnZCSjNIYnZYYXd4VXNoYTlrVGVDQzJmcFlmaFg5V28xUmt2NHp5S29heEx2NjlDUnItNlhYZ0xoWDdsbGNUY05vb0ZrM3RWenhfME8wUU9vQ3ZuNk1mZkZUS3JwZkRKRUpWamQ2SHZLRjB2SU9yekZaQW9sUGtlTGJQSm0yVWpxQmVMMUpBNHg2VTkxUHl6SE1oSGZlbkQwOTNhUHBQd3JnbU9PUFhWUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "How Lumentum Holdings (LITE) Powers the Next Generation of AI Data Demand - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc2dzU0l0WDlPemJmMndlREl1NVptZWtOZW1IS2pkUmYzVE9xRENvQWwxVWNHQkE4blJqWjJPNGFVR1lFVmxqcndPZjZHZGJTYW5SM1VvSGxlbTNURVgxdUJjZkYzZXB0NVBFSkxyRWRHWDBnTldwejVMVXk4VXVQN0FlX2MycUpOa0cxUThEd01iS2xMMVRKekhZLWZUaUE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here’s The One Jim Cramer Likes - Yahoo Finance: NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here’s The One Jim Cramer Likes Yahoo Finance...\n- Intel: More Foundry Rumors, Less Financial Details (NASDAQ:INTC) - Seeking Alpha: Intel: More Foundry Rumors, Less Financial Details (NASDAQ:INTC) Seeking Alpha...\n- Nykredit A S Makes New Investment in Intel Corporation $INTC - MarketBeat: Nykredit A S Makes New Investment in Intel Corporation $INTC MarketBeat...",
+        "sources": [
+          {
+            "title": "NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here’s The One Jim Cramer Likes - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRnpQUjRwd1dzTTJrM0p0Y0Mxa1lmS2RrdnZtRGIwNEluVFhCd1V4ZGlXdnZwWk41eDQxcFdzV3lqNjRPUHJvakwya2Z4MlBUUTFsVDRlU1dfN3p3MmRra2twT0VjbTR2VC1GQW1hSGh4cVFHNmdaQk1FSnVPVXlwZ05Bdl9mbzBMdXhzT25RNzM2cTNSTmZaXzVJcmRmXzBU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: More Foundry Rumors, Less Financial Details (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUldtazdYNDZUNUJCTDNHY1duTS02ZktqcmdYQ2VYVzdrdmY3MV81RHNmY1BFMEgyTGNNOFdtQUJMaHhpSldNM3o5ak9ZbDdwcDAxaW95Q1BLM09pQ2QwV19TNEZtUnV3N1hjczdOMmFsS2FydXpnbF9nQzR6cUZNbmk5enF4NkhUTU9rdm1yMHZBU2h5VVV2eW9NcHdOTGMtMXJFUDlhYTRuUjd5emtF?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Nykredit A S Makes New Investment in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlY0M3hFSExhTkdWOGNvZWd6amZ2cHY1MTRDREdrZFZlejlwY3Nya1ZmSmRmV1haWGR2a21xV002OVB6Zjk3MnNLbV81bURGTlNEbFZ4czF3UVJKdUl0Y1pxeXY3djJhSVdMUUVWRjMyb2pzY0ktVTcxNVlSYzE2QzBzNXppOTdmdVdXcDdDWlpSQkJ0ZWt1d2xLOEFYdFhWZkh5TXktT1BwNDVMWmRSZ25yN0pUME1fRERGUA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Jim Cramer on Advanced Micro Devices (AMD): “Buy It” - Yahoo Finance: Jim Cramer on Advanced Micro Devices (AMD): “Buy It” Yahoo Finance...\n- Nykredit A S Buys New Holdings in Advanced Micro Devices, Inc. $AMD - MarketBeat: Nykredit A S Buys New Holdings in Advanced Micro Devices, Inc. $AMD MarketBeat...\n- What Is Going on With AMD Stock on Tuesday? - Benzinga: What Is Going on With AMD Stock on Tuesday? Benzinga...",
+        "sources": [
+          {
+            "title": "Jim Cramer on Advanced Micro Devices (AMD): “Buy It” - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUmYxY3Rfbl9MdWNxOElRNEU1YnF6SjNIN3JCSVFHZ2t5MXlfdlZKS2ZlakJGb1VYaVRnSDN2VmNnTnllTkViWVpkLVltR1g2bW9nNzVCXzdyeWVDUzFleDZ5LURnVXpnbjhTcFZObDY4YjN1SjBuRWJpNkJNZEk3c3BWa0tHR1B6SWJadFpub1A2UF9McEV1YjE2MDMzZ3c?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Nykredit A S Buys New Holdings in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHZQSk1lb2pxRWFzZDBObUFIM1VkNmZ6Smo1ZmVoTmZocEVNUWR6b1ZEMlYyUjBZX0Nyd2NUMVVCUUNqbEF5RzlNck9PRGpQTGhDWTdvMXl6a2Q4Tmc5dTEwRmo0bzhYZGpWVEdISEU5X2VkcXZVYzhVdUFsek0ydHJXa192c1NMd2ZuenpQM3M3c1pfcUlKdkEzNkxBTllUel9VTmZvREdMaFplZ2xmcWV6aGFFb0RaM2NSclpKamszRm8?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going on With AMD Stock on Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXJjYUJGc0o4Q0U1eGpCeGxBazRmb3VFZmJXVXZSdi1wMzY1V3BmRjY2cWVHck44N1pMMFZ4ZjY1QmVhNi1FUzQ2amltTzZuVjBRQlFUUjFWTmxfVlZ0UENZZUxZbnliaGF4VWZ2SFpYV0NoT0prWnhoOHJDVHVYM2Vidkw1d3Y4YW5zLUhKb2NtT2RIWFNZQUg3S0FHZw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance: Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance...\n- Micron Technology Has Just Shared Great News (NASDAQ:MU) - Seeking Alpha: Micron Technology Has Just Shared Great News (NASDAQ:MU) Seeking Alpha...\n- Micron Technology Inc Stock (MU) Moved Up by 3.10% on Sep 18: Facts Behind the Movement - TradingKey: Micron Technology Inc Stock (MU) Moved Up by 3.10% on Sep 18: Facts Behind the Movement TradingKey...",
+        "sources": [
+          {
+            "title": "Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUhoaHA4THExVWtDR3dMbDBjQXlaSm5MVWZ6LVlGVU5fRGxnWmxETDVsdzRsbk4xQUlpcUdRMWVxSDVDZXIyN0NhZGlSWmo3S3RpUS1tcm45ZVN5UXlKbzNGQnRjd2RLeWxmc2hYSkx3ek1PSm5jVWM5Y0VJLW00MmlocU9qR2lwOGZvYTl6OFMtWDZvOEhGWHRheWZOOWQteFE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Has Just Shared Great News (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUW1iMndtQTUzRnJtU1JlV1BRRktsUjlwUDd3cll3bTlHaDFxTmF4T1dEQU9HcjhRTTBvMDcyMmVDalEtR1JfQzRpVmlZb2tHSDhpS3V4a3hyWGZ2eDBvWEZXQjlacE95ZGo0MHl2N3dqYlY4eHA2YUhINzdyaG8wdUl0YVIwSHpXeC1lOG13?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc Stock (MU) Moved Up by 3.10% on Sep 18: Facts Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWw1bUhBdjdjUGZBcjF0cXRXQTliaTF0UURmVFE0SUMwOXMyT3N6dW9mRV96ckotLTNfakpoUmRLQUdHb3Z4aDlIUFVWdUtPLTMybTRSbWNRelpiVU5kWnVLM1R3eHo2ckhYeUlxeEVNU3BNWU5iYWQ3UDJUZ3NRUjJUbG9sa2gz?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-18": {
     "date": "2026-09-18",
     "lastUpdated": "12:00 AM KST",
