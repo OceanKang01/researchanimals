@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-20": {
+    "date": "2026-09-20",
+    "lastUpdated": "11:59 PM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 930.91,
+        "changePercent": 4.17,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- How Lumentum Holdings (LITE) Powers the Next Generation of AI Data Demand - Yahoo Finance: How Lumentum Holdings (LITE) Powers the Next Generation of AI Data Demand Yahoo Finance...\n- Lumentum Holdings Inc (LITE) Shares Surge 4.2% -- What GF Score of 67 Tells Investors - GuruFocus: Lumentum Holdings Inc (LITE) Shares Surge 4.2% -- What GF Score of 67 Tells Investors GuruFocus...\n- Lumentum (NASDAQ: LITE) officer sells 1,500 shares under pre-arranged plan - Stock Titan: Lumentum (NASDAQ: LITE) officer sells 1,500 shares under pre-arranged plan Stock Titan...",
+        "sources": [
+          {
+            "title": "How Lumentum Holdings (LITE) Powers the Next Generation of AI Data Demand - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc2dzU0l0WDlPemJmMndlREl1NVptZWtOZW1IS2pkUmYzVE9xRENvQWwxVWNHQkE4blJqWjJPNGFVR1lFVmxqcndPZjZHZGJTYW5SM1VvSGxlbTNURVgxdUJjZkYzZXB0NVBFSkxyRWRHWDBnTldwejVMVXk4VXVQN0FlX2MycUpOa0cxUThEd01iS2xMMVRKekhZLWZUaUE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Surge 4.2% -- What GF Score of 67 Tells Investors - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTnpRS2VjWGM5VVpGQmdOMnJnMEk5QVI3c2lxUHZZSmJ5bVc5WUplcTB5Wl9mTnFoQUZYWjBMOUtQdFhNWU53VDY2Zi1VTE5rbktxckxoWWpLRlNOaXVpZms4UkYtVV95WE5nODdlRnRsTUgxYzlsTHdFMlIwa1NXaUhrRzdzQWJfRjFVTkVWRGFxU3F3ZGQ5a1dZY1czZ0dmUDNyZ0tra3h5SUtqa0N2M3R1WW16eGlQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ: LITE) officer sells 1,500 shares under pre-arranged plan - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVZUbkV3WnZCSjNIYnZYYXd4VXNoYTlrVGVDQzJmcFlmaFg5V28xUmt2NHp5S29heEx2NjlDUnItNlhYZ0xoWDdsbGNUY05vb0ZrM3RWenhfME8wUU9vQ3ZuNk1mZkZUS3JwZkRKRUpWamQ2SHZLRjB2SU9yekZaQW9sUGtlTGJQSm0yVWpxQmVMMUpBNHg2VTkxUHl6SE1oSGZlbkQwOTNhUHBQd3JnbU9PUFhWUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 108.6,
+        "changePercent": -0.18,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here’s The One Jim Cramer Likes - Yahoo Finance: NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here’s The One Jim Cramer Likes Yahoo Finance...\n- Intel Price Forecast: Nvidia Picked Xeon 6, Invested $5B, Yet Analysts Still Trail INTC - TradingKey: Intel Price Forecast: Nvidia Picked Xeon 6, Invested $5B, Yet Analysts Still Trail INTC TradingKey...\n- Why Intel Stock Is Cheap Under $100 (NASDAQ:INTC) - Seeking Alpha: Why Intel Stock Is Cheap Under $100 (NASDAQ:INTC) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here’s The One Jim Cramer Likes - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRnpQUjRwd1dzTTJrM0p0Y0Mxa1lmS2RrdnZtRGIwNEluVFhCd1V4ZGlXdnZwWk41eDQxcFdzV3lqNjRPUHJvakwya2Z4MlBUUTFsVDRlU1dfN3p3MmRra2twT0VjbTR2VC1GQW1hSGh4cVFHNmdaQk1FSnVPVXlwZ05Bdl9mbzBMdXhzT25RNzM2cTNSTmZaXzVJcmRmXzBU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Price Forecast: Nvidia Picked Xeon 6, Invested $5B, Yet Analysts Still Trail INTC - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUTJ0M002eEJBWW5ocUl6ai1nTkJ1WjFMMktJRWtzekFRcktQd1d1MTFOd1RwbVFQWk9hU25UUC16RzBnbXBXdWZwcE5pS2ROeVN1YXhFZlNjVVctMWg4SWI1Y2FJazZTOTg2OVd0OWpmMGFKczk0ejdZX090Mkg2TU1Tc2Z4b2EwaUJ5MkxITm1NLWxic2JFdDVJRGZjdTBwbVNETDFURk1jMHBQN0ZQV3BhYVcyT2JDYWR2S1hLMERJNWc1bmVwODBxcUN1YUdxMlNQemdJbktvdzQxV0pmZXVIX1Zfam5N?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Intel Stock Is Cheap Under $100 (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLVh0bzE1V29QcE54NVRaZzZ6aUYzNXhOb0xlWjFqLWwteEp0NHdNblVzdmNnTE1LTjNqdGJVdC11OWd6WDd1WkRnUTFHTHkzUlowcFFING10c3U2WGpmVnlacmJuRDB2dnNsQzVIaDg0NzJNV0pqRkpXamZuWm56ZQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 559.82,
+        "changePercent": 2.7,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix - The Motley Fool: Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix The Motley Fool...\n- Why AMD Stock Jumped Today - Yahoo Finance: Why AMD Stock Jumped Today Yahoo Finance...\n- AMD Delivers Its Broadest MLPerf® Inference 6.1 Submission - AMD: AMD Delivers Its Broadest MLPerf® Inference 6.1 Submission AMD...",
+        "sources": [
+          {
+            "title": "Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdWJxd3JwRE1sUVJ2YU82Nkg1X0FnUHFnQzJ3aE9mR2hVbVg1ZjJ3QUJab2JYendXZ1VSOWFiNjFkcFpDdFpkV2ZVWEJISnhsUTlPN3ZHR2VYaDRGS1QzQUlfMmFXT3l4ZW1DRjA0YkcxVmdRUEN1eVljVlNwYnRfNldWb1J1bVNJX3RXM3ZLZUpFbEZXbW9lM3llam12cEw5VEZWZUtkcXBiekpXMGZDU09GMUtiREFWLXFkejBxamsxQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why AMD Stock Jumped Today - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb1dOSF9kalB5d2hESVZ6VDZTbnBGZ1h4NkNsV256RHlSdF9BTTE5X2ZMc3NHYkhHQmUzbnpFNHBXZFFIZXRHem1ON2QzdU4wOTVvTXcxVXFZNlJjZWg3TlI4Rk5oLUtNUF9YUTFBeWVDOVBMak9nc0xkNjNzLWVVUXNDZWFXVzZRYzNnLU93RUp2R0stM2c?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Delivers Its Broadest MLPerf® Inference 6.1 Submission - AMD",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmRMNkg4V1U0YzJpNTA5MVJudFFZSDRVdTJnbDBrOHVLYWR4LXkxOGdYb09OVk9YUTZpZFZUYjJtZmdiZmEydmhBazJBSmswTmE5WEdHeXB1TC1XaE9OZEd2Tmo4aDgyY1E3eS1obDA4TXNOSlhCU1FxQ2tOVFl3UkYyVE5XTmozUFU5SzBvOUNoeXNfcnVoMFl3MWI?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1015.8,
+        "changePercent": 3.92,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance: Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance...\n- Micron: Likely Dead Money From Here (NASDAQ:MU) - Seeking Alpha: Micron: Likely Dead Money From Here (NASDAQ:MU) Seeking Alpha...\n- Micron Stock Eyes a Big Move as Closely Watched Q4 Earnings Report Nears - Benzinga: Micron Stock Eyes a Big Move as Closely Watched Q4 Earnings Report Nears Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUhoaHA4THExVWtDR3dMbDBjQXlaSm5MVWZ6LVlGVU5fRGxnWmxETDVsdzRsbk4xQUlpcUdRMWVxSDVDZXIyN0NhZGlSWmo3S3RpUS1tcm45ZVN5UXlKbzNGQnRjd2RLeWxmc2hYSkx3ek1PSm5jVWM5Y0VJLW00MmlocU9qR2lwOGZvYTl6OFMtWDZvOEhGWHRheWZOOWQteFE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: Likely Dead Money From Here (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObmZ2LXJLMnlfZmdqZ0lRdy04M3FCcTVPSENVUGFoX3JtQ1ZuTUQ2SEdzUVJncmZIXy1raE5OTG1rTVNxZ1o3dXNPRngtTDZXVTg5WU1CNnlyUzZWeDN3YlJMelVpb3haRUQ5S1JlOWJEM2p5QjhKZUR3UHQ5TFpPeQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock Eyes a Big Move as Closely Watched Q4 Earnings Report Nears - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZzNxM2VaNklnaW1fZHc0bjZ1SnZ6ajZpbTd6aU1UdDQ0NmRubGhfMWRaUkVaRGJsQWpTalAwMjEyV0NVZEtvRElYVzlCblhnMENtejQ4XzdZZkxSTlFRNU56TmdqWHRTS0N3SDhzZDZGWVRucVRIY2ZUSzVrUE80NFNHdGNjV2ZWZ2ZPcWx5bmZraGFDbmRaU0lNWXBkbU1GMWVPbU9uc2JKN1N5WGx6QlNkU1hMdzdKNms2b1N5OXhzZzh6Mnh1OA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-19": {
     "date": "2026-09-19",
     "lastUpdated": "11:58 PM KST",
