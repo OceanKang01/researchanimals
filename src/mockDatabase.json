@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-22": {
+    "date": "2026-09-22",
+    "lastUpdated": "12:39 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (LITE) Moves 4.2% Higher: Will This Strength Last? - Yahoo Finance: Lumentum (LITE) Moves 4.2% Higher: Will This Strength Last? Yahoo Finance...\n- Lumentum Stock Gains as New Optical Module Targets Hyperscale AI Demand - Benzinga: Lumentum Stock Gains as New Optical Module Targets Hyperscale AI Demand Benzinga...\n- Lumentum Holdings (NASDAQ:LITE) Combines High Growth Momentum With a Breakout Setup - ChartMill: Lumentum Holdings (NASDAQ:LITE) Combines High Growth Momentum With a Breakout Setup ChartMill...",
+        "sources": [
+          {
+            "title": "Lumentum (LITE) Moves 4.2% Higher: Will This Strength Last? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenl2YzFpV2lHTDN6YWJFMWVfb295MkszeEh6SUc2aW8tRk1TVlhVTmVWQ1lXMDNaSzlZUVctTUN2MGRRbHJtM2ZaelpsN05KS2h0LThNREF4cW92UXJRc1EtelBrTnF5YjlBTEtnMWhEbElweklwQUR0V0s2VEdTS1ROLXBUa1JpWG5QVmY4ZS1NUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Stock Gains as New Optical Module Targets Hyperscale AI Demand - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOUZORHBFU25FQnZnZDFfV0dGYXkxY3VWVnBwS2dfeHRTcVRkNGFEbHl5Mzd6RUpPWnJMSVZzMmtuOU9rbGVzSkI5NzB2ZmNOZ2lLLVkwbUZRamFJeEg0NmtJemNHWFQzTDhQZC1ZdGJzbHVDYWt1S2U4Y1ppa2xtVW1KX3VaVkI1MEZEYXJCbUVhTUhOR2NLMDhHYkZ6XzV6Y0hYX1hEUDB3d2UzTzR1SXJQXzlMTEl5bEZBdlpzNjRZdVVFZGlkUzZvaTA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings (NASDAQ:LITE) Combines High Growth Momentum With a Breakout Setup - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQazhOTmlBV1FkSklueWVZdlA3aV9fcUJUWlA4YnFVNS1kei1aWlkxNGJaNDBJSG9OVGU5Q2JRZ0kwS0Vmb0xmTi1reGdpWXRSRW5KVWZxdk1XTEhMa0wwUW03aUJSUkxoa2tLeFQwdDlOT2hrb2l5WjNNSFBmM2pOdjgxVld6ZHphOFFIVFl2Vl9NTE5oSHo2R2Jqak1EeVp2N01iMThHSUJoQkIyRkdDN3JOVWhOMkt3WkJicENLenAwTG1Rb3VmUmpWc3Q?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Jumps 9.1% as Muse Reopens the CPU Debate - Yahoo Finance: Intel Jumps 9.1% as Muse Reopens the CPU Debate Yahoo Finance...\n- Intel Shares Rise Over 5% After Key Trading Signal - Benzinga: Intel Shares Rise Over 5% After Key Trading Signal Benzinga...\n- Tech strength sends Intel higher by 12% (INTC:NASDAQ) - Seeking Alpha: Tech strength sends Intel higher by 12% (INTC:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Intel Jumps 9.1% as Muse Reopens the CPU Debate - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTTBOS0Y3T1FPTE5qdS1UcTFBbzFLT3pRcUlwcXNHS1F4TDhkUUphdnpaVGxSVHpjMWFiV0NvMUZGUG0yRjBheWhiaTZ3XzhVUlZZQVdHVnkzUndMQXFxUThqMzU2OHphaHNHRFpma0JxS3VZMl8yc2h6WDFvRXVrZzd1cEdId2l4eXBYSVJB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Shares Rise Over 5% After Key Trading Signal - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUkZFOEp6TnJvNmRBZGxTWlVraFJCUnlLaHhGUkVJQnRiN1EyTnlpaEtOVUo0QldhYnp1Q1loV2dPWE9BRThDUmVmY3RiRC1GMjNDN00tNThnb1FhNmJRRTlGQWtoU0N6eV9vNjBhd1JscWxJU1I3TkNic1kyQTNxNkkxakZiSFFEaG5PbXJlLXBRQzUwRzJHT1lYTnAzN0VLWHdnVw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Tech strength sends Intel higher by 12% (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSUpWVmxxeE8zMTF5cFU1VlRWU2tIVTNqU0dTemtKR0NuYmQ1RUQxcmYwVzlLMGE2WnlDRjRyZW1fT0loZGZQcEQ0RDlReHZ6LVRBcXU5aS0ycHBOLTdvcjdtV1JZV1M3MFVKMENKd2JDcmhfYmdhcExOdGlvYnVLQWFn?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices rises 10% to set new high (AMD:NASDAQ) - Seeking Alpha: Advanced Micro Devices rises 10% to set new high (AMD:NASDAQ) Seeking Alpha...\n- Amd stock hits all-time high at 584.95 USD - Investing.com: Amd stock hits all-time high at 584.95 USD Investing.com...\n- Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix - The Motley Fool: Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix The Motley Fool...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices rises 10% to set new high (AMD:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR3dPajNEVmlOeTlQeGtFNUU0cElPcHN3STcxWE9abTYzb0lKVTdoUHJDNmwzYUR5bGdLMEoyREdkWWxmOTYwWW1veXB3XzlJd29YeTQtSW9KZTJWNEZNd2tGalVvckFoTWtmYUEweGQtZjZ2Ni1VQUdYWVRuVGRhNDNGNDN4QW83ZUhrY2RR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Amd stock hits all-time high at 584.95 USD - Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1ZNWmhEQUpFY1lNV283U1FOTE9SNTBUMGhlTjRTem9HZWZnbXo2c0trSGcxUkNaeW9rcHNXN0oybDZhQ1o1STBSdmJiZE9oZHZjS0IzLTI0clF4b19YLWZOUThmMHNxR0l3M0Z2d01zVUd2MVZrN294dExnQ0hGUU03UzJhUXFjS21FY1RIam1Fajk1T2xjSWZiTXlNQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdWJxd3JwRE1sUVJ2YU82Nkg1X0FnUHFnQzJ3aE9mR2hVbVg1ZjJ3QUJab2JYendXZ1VSOWFiNjFkcFpDdFpkV2ZVWEJISnhsUTlPN3ZHR2VYaDRGS1QzQUlfMmFXT3l4ZW1DRjA0YkcxVmdRUEN1eVljVlNwYnRfNldWb1J1bVNJX3RXM3ZLZUpFbEZXbW9lM3llam12cEw5VEZWZUtkcXBiekpXMGZDU09GMUtiREFWLXFkejBxamsxQQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance: Micron (MU) Beats Stock Market Upswing: What Investors Need to Know Yahoo Finance...\n- Micron's Stock Could Easily Double (NASDAQ:MU) - Seeking Alpha: Micron's Stock Could Easily Double (NASDAQ:MU) Seeking Alpha...\n- Call Traders Cheer Micron Stock's Latest Bounce - Finviz: Call Traders Cheer Micron Stock's Latest Bounce Finviz...",
+        "sources": [
+          {
+            "title": "Micron (MU) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWdtMzltXzUteS11b1VMd1Rya1M2dnNPNmE1LUNuSUt3WnJxYzNsQTVMZ2VCamJFUTdYX1RoSWtlbVdiTnBXRWw4Q0J3bUl3Tmg0S2hObEhvLUFFTERxTUZMd0pQMTZrVDY5WHZFVkloMFVNbEotVW9rcnVHbTVjY0RwYU5rR0c0NkRtcjNBWFVVdmR1a0tOdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron's Stock Could Easily Double (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTmdQbm55dFR0RkJibHg2UU1YaGNxcEN4RF9ReElKWlh3R1FOUjFwa19EM1NwOURwUUxIdHlmSlZDc3FSRlZuSV9oLUlBeXREbzRZUXhvWV9WblpQaVdqOGdERFFJX2xFYmxDcWEydzN1MUNCbHI1SVVpR2UzSnM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Call Traders Cheer Micron Stock's Latest Bounce - Finviz",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLWR1bDdkUU1aRk1HRlB5SV9YbnMxM3kwS1FwYVppZjktcjlkTk9naGY0Yk93amVBdFo1OGEyVEhyMkFLWjRYMDdMcEZqVl9wOUZxRVBvbEkyS3lhdW5HSDNEdVFNWEgwMUZtX1MxR1AxZTBjdEZ0UktWQWliRE80UVd6WQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-20": {
     "date": "2026-09-20",
     "lastUpdated": "11:59 PM KST",
