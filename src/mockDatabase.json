@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-23": {
+    "date": "2026-09-23",
+    "lastUpdated": "12:10 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (NASDAQ: LITE) executive plans 500-share sale after recent 1,500-share trade - Stock Titan: Lumentum (NASDAQ: LITE) executive plans 500-share sale after recent 1,500-share trade Stock Titan...\n- Lumentum to Demonstrate DWDM ELSFP at ECOC 2026: What's Ahead? - TradingView: Lumentum to Demonstrate DWDM ELSFP at ECOC 2026: What's Ahead? TradingView...\n- Lumentum Holdings (NASDAQ:LITE) Combines High Growth Momentum With a Breakout Setup - ChartMill: Lumentum Holdings (NASDAQ:LITE) Combines High Growth Momentum With a Breakout Setup ChartMill...",
+        "sources": [
+          {
+            "title": "Lumentum (NASDAQ: LITE) executive plans 500-share sale after recent 1,500-share trade - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQm1SbDY4YlBTZUpHUGZodlJ6YkJCbXpHTS0zNHhKYUFlUjF4Wk1lYV8zTzhNX3ZFYU9vZUJXYjdzUU5FUkV5cUNGc29fTG96MjVkY19ISWdQWTJEUHlVZzNCaU1YVXdrODh0UUpNaDY4SnFqaXBHaU5QMGhLQnlsXzZMWnAtdlF6Vl9HQ2VqN3NPeDluX2lhVThHaWp0S0U?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum to Demonstrate DWDM ELSFP at ECOC 2026: What's Ahead? - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2Z2cUxObGNFWHNtUzA0NVJrVGNlclVpUUJVRmx5dlFwR0cySkdBbThYQ0xQY1RUMXo3QTRhV09XSmk5NnNxc1REbUpmdHFGSFBmaVprU3lzQlN1V1dOdGliM0ZUWldJZGUtM0dick15YU5TbnVWdUF5V3B5bXM4eVBYWU1RM2VDOWtVN1YtMzNHUHRDWWI4N0F2MWxYVGdXTGJVc1lUMExtR0ljV0JmWFl1ejA0Qk0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings (NASDAQ:LITE) Combines High Growth Momentum With a Breakout Setup - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQazhOTmlBV1FkSklueWVZdlA3aV9fcUJUWlA4YnFVNS1kei1aWlkxNGJaNDBJSG9OVGU5Q2JRZ0kwS0Vmb0xmTi1reGdpWXRSRW5KVWZxdk1XTEhMa0wwUW03aUJSUkxoa2tLeFQwdDlOT2hrb2l5WjNNSFBmM2pOdjgxVld6ZHphOFFIVFl2Vl9NTE5oSHo2R2Jqak1EeVp2N01iMThHSUJoQkIyRkdDN3JOVWhOMkt3WkJicENLenAwTG1Rb3VmUmpWc3Q?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Stock Moves 1.71%: What You Should Know - Yahoo Finance: Intel (INTC) Stock Moves 1.71%: What You Should Know Yahoo Finance...\n- State Street Corp Raises Stock Holdings in Intel Corporation $INTC - MarketBeat: State Street Corp Raises Stock Holdings in Intel Corporation $INTC MarketBeat...\n- Intel: The Smart Money Is Piling In (NASDAQ:INTC) - Seeking Alpha: Intel: The Smart Money Is Piling In (NASDAQ:INTC) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Stock Moves 1.71%: What You Should Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT0x4V1pVWWxJQ1k4Qi1tVUg2eFhwMk02cGczT3ZReEh2ZVdjbXNoTnJPVjZnMW1mUFhOT2hOcnprSWNMS3FXUDFXQTJsamZaZ3RMcENXQk1JTVBPb0UzRTdrY1hRZU9jSGJ0aTE5SDRBV2pVQnB2S1lMRU4wVnU4cGZfVHRqXzF5SWI1WV9DdnM4U1E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "State Street Corp Raises Stock Holdings in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmF2Q3pHWGpVejl4TXZsRUJJVGE1a0pwRWNfWHdzYk9xM2cxZHhPU09FeVphMmI0c3RsR1JBVEd5cVpaNW9ITkdIVm5wdFFHdXJ3UndOU0Q0cEg4ZnFUT2FqMmNMR3llYjZUR2VPRFZCYWhDUkpDbFRaaVdJckllZ2h1bmwwV0w0a1Uwbkg0N1E1UXgxNzhhd0V4dDRBTDVvVGpHTUxKblVlXzBNOHFGcU13MXdTdlpxMDFPQXBOU3liVnlm?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: The Smart Money Is Piling In (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUnVhSDZyR3NZWDJXdmRxNTBMWVNZcmVXdnpnemhSWU9ERExMcGYyalFlT3lwMFRjZDRzX3l3WFZITWRPRTliMnhLTVNTWE5mQzVaeVVldUZCSVkyTFRHMXdaN0o3WVIxLVNaNmZwYm9ucUhSRXE2SnJpUWRmYnEwVw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices rises 10% to set new high (AMD:NASDAQ) - Seeking Alpha: Advanced Micro Devices rises 10% to set new high (AMD:NASDAQ) Seeking Alpha...\n- What's Going On With AMD Stock Monday? - Benzinga: What's Going On With AMD Stock Monday? Benzinga...\n- Amd stock hits all-time high at 584.95 USD - Investing.com: Amd stock hits all-time high at 584.95 USD Investing.com...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices rises 10% to set new high (AMD:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR3dPajNEVmlOeTlQeGtFNUU0cElPcHN3STcxWE9abTYzb0lKVTdoUHJDNmwzYUR5bGdLMEoyREdkWWxmOTYwWW1veXB3XzlJd29YeTQtSW9KZTJWNEZNd2tGalVvckFoTWtmYUEweGQtZjZ2Ni1VQUdYWVRuVGRhNDNGNDN4QW83ZUhrY2RR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With AMD Stock Monday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdERuRDc1V0tJVFdtVlU4b1BoSDVacXdoUkNMbk9XN2M4ZHRjaXQyTk1ZQlh4LXdZUXg5YUhwNEFDWVRNUHBGWjBMV3VwLUdYa1lSb256MEpTVlRaTTBFcnNaRXRGMkRSZXI5eE9wMThBeElGRmhKUy1uWXk0MGlUUmlqdElKRWw5aC1fZmpIOU1vRzR5dEIw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Amd stock hits all-time high at 584.95 USD - Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1ZNWmhEQUpFY1lNV283U1FOTE9SNTBUMGhlTjRTem9HZWZnbXo2c0trSGcxUkNaeW9rcHNXN0oybDZhQ1o1STBSdmJiZE9oZHZjS0IzLTI0clF4b19YLWZOUThmMHNxR0l3M0Z2d01zVUd2MVZrN294dExnQ0hGUU03UzJhUXFjS21FY1RIam1Fajk1T2xjSWZiTXlNQQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Gabelli Global Growth Fund Added Micron Technology (MU) in Q2 - Yahoo Finance: Why Gabelli Global Growth Fund Added Micron Technology (MU) in Q2 Yahoo Finance...\n- Micron: Big Earnings, Big Money, But Maybe Big Disappointment (NASDAQ:MU) - Seeking Alpha: Micron: Big Earnings, Big Money, But Maybe Big Disappointment (NASDAQ:MU) Seeking Alpha...\n- What Is Going on With Micron Stock on Tuesday? - Benzinga: What Is Going on With Micron Stock on Tuesday? Benzinga...",
+        "sources": [
+          {
+            "title": "Why Gabelli Global Growth Fund Added Micron Technology (MU) in Q2 - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTA0cHJaNmJlUl9uZ1BYU1pNdGpWTkxONXkxdFhfTmpQWmJIWElMcm5mc2hEU3NpZmZoZVY5UzBJcFhoQkFUZDR1anN5OE54V3NRdkhud29pOV95VldDUDF4ejFnWjhaT21xMFpRMUJGY2QyeEVJN3p2YVZSeHNGa25ma1F1MmhDSjNTczc1d1V4QjJEVmJ2QkpRQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: Big Earnings, Big Money, But Maybe Big Disappointment (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY1h0NnBDUUt4c1dCbzVOVlowX1lXNmlVTWJESUFpcXlpZ2xkSHdRd0dGQzdTXzkyVG4xZnJtUXVwZldSWnhwOVpPMHpFSGNhWUd4MTFyYThlNEduWXhPbzVCeEY3WkFhSlEzR3VVNU5WVEFhVDhiT1dHVzJJSTdkRU94a3lDM09NVHg3SzlWUi1tX3VOUlNOZGU1bnljUm42?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going on With Micron Stock on Tuesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGcxSXBYQ3E2dTZuVlVzSE40R2VEem5OY0xxVzQ0M00xdkhFYm5kMW84SXdFV1dveUp5VExoLVd4WHlZQk8xWEZ3dUh2SGg4RmFSU25GV0pQLXd4dEFLVmlHZnAwZjl3TTRBMzRqYUt2anAzeFFWUFBCY2NXTGxhY3VWZ0I0cXREMVhxOGJwU3ZmdEhxaEdma0xrV3BKQ1ZZVmc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-22": {
     "date": "2026-09-22",
     "lastUpdated": "12:39 AM KST",
