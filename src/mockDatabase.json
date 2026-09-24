@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-24": {
+    "date": "2026-09-24",
+    "lastUpdated": "12:18 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Shares Up Over 2% After Key Trading Signal - Benzinga: Lumentum Shares Up Over 2% After Key Trading Signal Benzinga...\n- Under a trading plan, Lumentum (LITE) executive Wupen Yuen sold shares on three days. - Stock Titan: Under a trading plan, Lumentum (LITE) executive Wupen Yuen sold shares on three days. Stock Titan...\n- Lumentum Holdings (LITE) Insider Yuen Wupen Sells 1,500 Shares a - GuruFocus: Lumentum Holdings (LITE) Insider Yuen Wupen Sells 1,500 Shares a GuruFocus...",
+        "sources": [
+          {
+            "title": "Lumentum Shares Up Over 2% After Key Trading Signal - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXAxQ0VTV1RhOXVka2w1WEI1eER5akRmTTl0M3h3RURMSUdZaWZQc01kV1FkOGxNVTVfTFVoaERVY1d5bUJCQ2RfbVRfWUU5XzhEckVROG5OcEg2QTcxQ1lOU0wzZ3RyZ2l4NWlsVlE4bklwcXVPYTVTSTV4S2dpT2ZxSkZEMm1PNVNiZURCXzJQSDJocEdjX3lqcEN4SGpQcEZaTXJkaXFXdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Under a trading plan, Lumentum (LITE) executive Wupen Yuen sold shares on three days. - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaE5RUnd0OUJLRll0OVp0U09FN2FmX3VkcnZZaERYN2VSd04yeE1hSDljTkJ3Q1gxdlRrSjc5MXpCU21mN0trSjJMN3Vva0FjdWY4a2hyOWNRRkJjVV81RFZVb3BOZXcwM3FTNnVaVmQzXzNyV2d4NmJaZk1adU9KRzczRDhhRVdYV0FWUGk3ZEMxd21KU3cySVk2cWozOVl4Tk5wQTB1MDBhM3djSjBqa080d042Zw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings (LITE) Insider Yuen Wupen Sells 1,500 Shares a - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc2tBSGtFS0h5MWF1UFhrbDFUZWdqQ001UzNkMV83NzZiNFZxUE0ydGRkanZEblpFbGVENk9OYi04LXNjRmJnRnF3RWE2dDV3VVNWZUg0bTk4aDlmOWZoLXpVY1VBS1pSOU5tRE1PWi1qRVlTUkNZMXFHeU4tUzk3ck5mYXRNU3p3dEQxRURlRl9qQ3kySXVnYW9lRndsbWxIbE1tSFJnVGJlVUZ3Rldmdk40UUVFOUc0MC1LNzFsUERySnQ4UjVKeGxJQ1FsZw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here is Why Intel (INTC) is a Bad Investment at Today’s Price - Yahoo Finance: Here is Why Intel (INTC) is a Bad Investment at Today’s Price Yahoo Finance...\n- Intel Is Storming Back Into The AI Conversation - Reiterate Buy (NASDAQ:INTC) - Seeking Alpha: Intel Is Storming Back Into The AI Conversation - Reiterate Buy (NASDAQ:INTC) Seeking Alpha...\n- Why Is Intel Stock Falling on Wednesday? - Benzinga: Why Is Intel Stock Falling on Wednesday? Benzinga...",
+        "sources": [
+          {
+            "title": "Here is Why Intel (INTC) is a Bad Investment at Today’s Price - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2VUaTRjMm9Rd1dwLW9KdWowTUFBeDVrM2gxMEtTRTRZajlkU2o0dTdGMHlDQmVHbUdfcnNrSENrc0NhaC1FaTFyNDRhWkhjalN3QkplSk1mX0ctM2Nub0VkTEZSWG5VTU9PN1RFM1p3cnhuM1FiZ1dkeTVERks3YzhqTDNfV0ZvZU1wTFktUDhPUXRHZnliMjFn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Is Storming Back Into The AI Conversation - Reiterate Buy (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTk92WkVTUmpDS3pxUlptX250bnlrLU5ZOGFabmt1R2szVlczNkI4YlpnbnhOX1hPRXoxRmQtNy1SdHdSMk9vU25nU3hzdE5udldMN0JHMmZnc282WTZHQjlzSXpkYTVEYWZwNThvMHFiTGl1bXEyMko0NExiNXBqcEJ3ODBvTmh0RktxVjBzSHVISWJYNzh6YmZjUE1MbnlfLWprcg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is Intel Stock Falling on Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY1Q3OURtLXpvTHkzNVZnUmJBRXdUN0pJNGw3U3JRajFJdF8wbU1xa3dzejg0M1cxYWJYVzFIZ0kxbHkxbmFJNTlPWndFV1I3dkgxMEJub1g0ZkdCdTZ5dE5Hc3VrTHFpU0NmTUVLUTJRWkl0LUdmUExBLXVjNjJxUHp2ZEpYME5rMUI3dWxIWFRyV0luWFhaYm5UR3lfRkVWVEE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Stock Moves 1.34%: What You Should Know - Yahoo Finance: Advanced Micro Devices (AMD) Stock Moves 1.34%: What You Should Know Yahoo Finance...\n- Advanced Micro Devices rises 10% to set new high (AMD:NASDAQ) - Seeking Alpha: Advanced Micro Devices rises 10% to set new high (AMD:NASDAQ) Seeking Alpha...\n- Amd stock hits all-time high at 584.95 USD - Investing.com: Amd stock hits all-time high at 584.95 USD Investing.com...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Stock Moves 1.34%: What You Should Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGh4VGxCNHFQTTJfekRTS1dCMWxoRk1yaS1ZYnBMdEJ2NV9Va2VKZGRvZC1TNWM2QjFQejNDcFp3V2ZFZGk2UXQwSVI2YjJ4VmpWRWhocmt1S0NUc21vSlRqTFd6Znp5MDhiQlBtQnRYamo5Vkt4TEQ2QjF1WFNjRWNJcFdMdGY5MHlqY3lvWEc4RFRUeml5MWNYUkpjdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices rises 10% to set new high (AMD:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR3dPajNEVmlOeTlQeGtFNUU0cElPcHN3STcxWE9abTYzb0lKVTdoUHJDNmwzYUR5bGdLMEoyREdkWWxmOTYwWW1veXB3XzlJd29YeTQtSW9KZTJWNEZNd2tGalVvckFoTWtmYUEweGQtZjZ2Ni1VQUdYWVRuVGRhNDNGNDN4QW83ZUhrY2RR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Amd stock hits all-time high at 584.95 USD - Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1ZNWmhEQUpFY1lNV283U1FOTE9SNTBUMGhlTjRTem9HZWZnbXo2c0trSGcxUkNaeW9rcHNXN0oybDZhQ1o1STBSdmJiZE9oZHZjS0IzLTI0clF4b19YLWZOUThmMHNxR0l3M0Z2d01zVUd2MVZrN294dExnQ0hGUU03UzJhUXFjS21FY1RIam1Fajk1T2xjSWZiTXlNQQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Jim Cramer Explains Why He Has a “Giant Position” in Micron (MU) for the Charitable Trust - Yahoo Finance: Jim Cramer Explains Why He Has a “Giant Position” in Micron (MU) for the Charitable Trust Yahoo Finance...\n- Micron Faces Short Pressure Ahead Earnings, Analysts Reaffirm Buy Consensus - Benzinga: Micron Faces Short Pressure Ahead Earnings, Analysts Reaffirm Buy Consensus Benzinga...\n- Up 275% This Year, Micron (MU) Is Still a No-Brainer Buy Before September 30 - 24/7 Wall St.: Up 275% This Year, Micron (MU) Is Still a No-Brainer Buy Before September 30 24/7 Wall St....",
+        "sources": [
+          {
+            "title": "Jim Cramer Explains Why He Has a “Giant Position” in Micron (MU) for the Charitable Trust - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUlIVEN3NnFWR19KTnltRWRYdGh4X09QcGZOTnpVMmcydUhZei1FVnJoTHV5bjU2bTlFTVozQmJZNFFnWkFjQkx5MVNwSGtENTZpTFNZQTE1azBlWlRrdVk2VWhRYmNscjVIUzcwcWZTU3N0RHJTSXJEUGZ6TXZWYThfa3RkUG8zODBYV193dHRrelBPamlhTEtB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Faces Short Pressure Ahead Earnings, Analysts Reaffirm Buy Consensus - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXhXaGZxZHktNzlab1p1NTB6bXNjRksybm1TVjV2TlNScmNQM2ZNVm8xT2xqVnotMDZMelZ3WlM2NEpMQjE2aUR0QWJ1OUpnTEw0OWMzaWYtZjg0ZVl6Z2JCckhzN05ia2Q0ODdXZGJMNUE3eHVOalNXeU5yVUNhbDdxaEVoNFFwSmkwcEZGNDJjQlBxRlgzdTFWYTZrdFM0UWp0R0F2TnFEVndXM1JsdmdvYzhpLWVtUUZHZE11OWs0d1RrQVE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Up 275% This Year, Micron (MU) Is Still a No-Brainer Buy Before September 30 - 24/7 Wall St.",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNenVicjl2RUx0S05MeXhwYS1YX25CdmlfM2ttV3d4dnkxU3lzR0xJN3ZHRVpHMFdOSnMyYkZnQjdRLWRkaDNDMW5ReERiQzNGWEVid0wzanVrRW9UZ1NwQWpZdFI4VjdLVWtMdkxhVDBFU1NxMnZlQ2NhS2VqcmhWeU83SHdNbGJRX0U3NnBBSXpaTEZRaWNjcXVPanFoV083cU1pV2RXaWtGaTd3d1ZNY2ZXNjF0MUE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-23": {
     "date": "2026-09-23",
     "lastUpdated": "12:10 AM KST",
