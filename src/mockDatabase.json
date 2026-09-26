@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-26": {
+    "date": "2026-09-26",
+    "lastUpdated": "12:26 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum’s $40 EPS Bet Changes Everything (NASDAQ:LITE) - Seeking Alpha: Lumentum’s $40 EPS Bet Changes Everything (NASDAQ:LITE) Seeking Alpha...\n- A 1,500-share August sale precedes a planned 500-share sale by Lumentum (NASDAQ: LITE) officer Wupen Yuen. - Stock Titan: A 1,500-share August sale precedes a planned 500-share sale by Lumentum (NASDAQ: LITE) officer Wupen Yuen. Stock Titan...\n- Lumentum (NASDAQ:LITE) Shares Up 1.4% - Still a Buy? - MarketBeat: Lumentum (NASDAQ:LITE) Shares Up 1.4% - Still a Buy? MarketBeat...",
+        "sources": [
+          {
+            "title": "Lumentum’s $40 EPS Bet Changes Everything (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3BibzZNZkVPaWpPSVZ1Zml6djZUUzFiQVZVNWtlNHgtTWlZc2YxaE9mV2REOXJjaGhwei0tT1NTYmNXc2xnSVU1aHB5ZEpqRFMtQTlxWHdmUWU5eXlZbjJWNUsxellyYkJRR19EVUJneDJOdGxNRndiaDA0MWlzUWFDMUFJUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A 1,500-share August sale precedes a planned 500-share sale by Lumentum (NASDAQ: LITE) officer Wupen Yuen. - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHRuZkxQTDdzNlMzZ1B1RUNwV1czNlRqWEZ2bWRmNlFBZHF2blVMazZ6MGVQdGFJQnhSY0NNOVVXUTRERzFvQnRXb0sxTkttejhKWGcwbVN4R3p2UXB6WEVIaFJPbWN4cnE4WjB3QUt1ZUlsYjlUOHlTWm1OMHVJbUZHaGNxWWNsYUNUdzJjNG1iOFNxNzJsMEpqd0NBLUU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Shares Up 1.4% - Still a Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVh2am5CSVZYcGk3ZFBDNEtvdnVGTE1mNC00TEFLNWZsVXZvNnlnUEE4REdxR21ZOHVqUG5LRXk4RVAtSzY2bVRpZmFmem9jdWlLOUlmRl9xODdaX0VsVDdYcHhLQ0dURl9BOEVVcGlPYTM0X2VINGEzREV2c2lOSjBMWUdsN3NiSm9aU2hPcHJsRjZ1Vl9BbUw0V2UtX3N6Ql8xMlZMemI?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation (INTC) Is a Trending Stock: Facts to Know Before Betting on It - finance.yahoo.com: Intel Corporation (INTC) Is a Trending Stock: Facts to Know Before Betting on It finance.yahoo.com...\n- Intel (NASDAQ:INTC) Stock Falls 3.4% - Here's Why - MarketBeat: Intel (NASDAQ:INTC) Stock Falls 3.4% - Here's Why MarketBeat...\n- Intel Corp Stock (INTC) Closed Down by 3.45% on Sep 25: A Full Analysis - TradingKey: Intel Corp Stock (INTC) Closed Down by 3.45% on Sep 25: A Full Analysis TradingKey...",
+        "sources": [
+          {
+            "title": "Intel Corporation (INTC) Is a Trending Stock: Facts to Know Before Betting on It - finance.yahoo.com",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbU9QSWNlb0xqdmloeGsydXNQN2JOZ2RfbUo0ME9sby02UnhCVHZsWldvZ3BUYUhaMkdQR0hsaFhfUzFMUjVaZjgtRW9HOUg2NUlMZ0hvS2k4cXh4dWhoTV9fQkZ0ZUFNQi12cmozcFR1aEd6ZFVVWmdITTJxem05dWJJbGVrdXhVSnBHeGpEX2FueW9CYWpraHUxeUl1WUFyT1NONw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Falls 3.4% - Here's Why - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQajdwcE1NSlZ1S21YZkhYTVM3b2tTZWpsUV9xSElkc3pPYmVGUG9hanN4TUc0ZXA3QXhlUWNrR2NfcDFZbURvLXZ6N0puQk1FajJzanlQellXQ0p2dWxLSUpSMm84LUJnQk9PNzdzRHRkUW9DZzVCRGpmN3lOaEJvdTV4VTdyb0NDZDcxWHI1Vi16UEJjMFc1Mk4xbFJnNlNlN2t5Mg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Closed Down by 3.45% on Sep 25: A Full Analysis - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQXzZCUjdzbk5oSXc2b21oUTA5SEdrNm1YTDB5TUFmYzV0Tkd2djFTWGV0R2xkVVhJMkdtcnV5LXMzTkRPZWJsRWdLVFdpU29UR19QbTNYQTA5Zlh0d2sxWlEzVWpJUHNmUGpUbUhCZ25FY2hVSi1DSGJObVo0MjJqZ1V4SmhrdnZHeWow?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Stock Moves 1.34%: What You Should Know - finance.yahoo.com: Advanced Micro Devices (AMD) Stock Moves 1.34%: What You Should Know finance.yahoo.com...\n- AMD Stock Hits 52-Week High - Here's Why - Advanced Micro Devices (NASDAQ:AMD) - Benzinga: AMD Stock Hits 52-Week High - Here's Why - Advanced Micro Devices (NASDAQ:AMD) Benzinga...\n- Bank of America Issues Positive Forecast for Advanced Micro Devices (NASDAQ:AMD) Stock Price - MarketBeat: Bank of America Issues Positive Forecast for Advanced Micro Devices (NASDAQ:AMD) Stock Price MarketBeat...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Stock Moves 1.34%: What You Should Know - finance.yahoo.com",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGh4VGxCNHFQTTJfekRTS1dCMWxoRk1yaS1ZYnBMdEJ2NV9Va2VKZGRvZC1TNWM2QjFQejNDcFp3V2ZFZGk2UXQwSVI2YjJ4VmpWRWhocmt1S0NUc21vSlRqTFd6Znp5MDhiQlBtQnRYamo5Vkt4TEQ2QjF1WFNjRWNJcFdMdGY5MHlqY3lvWEc4RFRUeml5MWNYUkpjdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Hits 52-Week High - Here's Why - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXBybGxxcktKMDFUeUlWZ1RqeTFnTDY1ZVBhRVRWcmZwMWMyeUtRZnhwLTVqMHhfd1gwVVNHQUVQTjVkY2U3NDJSV3VvOXhwSkNfemV1RktPWnZMTlJQRkw0SVZIOHUwVE9rWXVaY3dmakJ3bFlBcjNZZ253aFYyVFJ5NlRYOEszVnUyVDdHeGVTUmtMV25DeTZMTndSdUdPMEJWUzBwbFVQRVpoMWFIbG5DalA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Bank of America Issues Positive Forecast for Advanced Micro Devices (NASDAQ:AMD) Stock Price - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWWNLa00wTGhrUG9COEh6OU5TTG9fQnIzYUVUckFDRWh4OG9pRWJ4ckJFNE9GbWtyX2JjNC1hd3RIR3JPWlJaQWw0eXpqYS1ER21KNG45ZTlLZnpjLU9sLW5ZM1FOMUpZYXlrd1ZiekFtaTR4VDdwengybHNsMUsxSkxZUVl5dUkxQlQ4WXRmMmlzWjhFMlMzVjlMeHVlYVdzNkdNRnVtYUNuZUN0LXFoeDNpMnY3dzZISkRWekRKUWlOa0JYdkVROVFvbHJMU2FsWUVIbWdlTnFvVllycTVPaWVNNUw5T2s?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Likely to Beat Q4 Earnings Estimates: How to Play MU Stock? - The Globe and Mail: Micron Likely to Beat Q4 Earnings Estimates: How to Play MU Stock? The Globe and Mail...\n- Micron Earnings: 80% Odds Of Beating Every Estimate - Micron Technology (NASDAQ:MU) - Benzinga: Micron Earnings: 80% Odds Of Beating Every Estimate - Micron Technology (NASDAQ:MU) Benzinga...\n- Micron (MU) Stock Looks Cheap. But Is AI Growth Already Priced In? - finance.yahoo.com: Micron (MU) Stock Looks Cheap. But Is AI Growth Already Priced In? finance.yahoo.com...",
+        "sources": [
+          {
+            "title": "Micron Likely to Beat Q4 Earnings Estimates: How to Play MU Stock? - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYi1BaFRiMmxkdnAzWHEyZnROUVpWRUNMMDR5c0NwQWxFLXVSMjlRWW1tdmlSeHhYSmZ4dU9TM01FWEo2dGc0YWNLbFFVT0MxODV4dEFWRmNVVC05akhBXzlBVjRMdXdtRzcwV2hjbHV0UmJ4QURkb3hkdUFLYmlYTm85VEkzVEhqZGZXSWtLRVVMaFRFTnJMYVkwNkY3bEJQNm54WFVBZ3ZJeFppRUJWdlM2eUdCWW9ZVU0wcTlYWlRUSUNjMnJ3aDd3M2ZMajNqVTB2VVVxb005MTBGZzRNSQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Earnings: 80% Odds Of Beating Every Estimate - Micron Technology (NASDAQ:MU) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWhMS0tLQWhzR0t6LXY3RENrWWgxMlg0UlBsRWVUSk0yeWFoX1U1S3hWU1VrX0xzTmE5QzhHQ3JyeWNtWjBKSmt2X085cmZDcmRuanNFZ1hZSHVueFBMMTF2LWRycW10OHZCclk1WGZzM0FjS09HRGItQUdnVHdSVXk1enBsckltR2VoY25kNmdqdVlRN014UmdueFJZNFpPV21rZ1l3blVHTnY1?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron (MU) Stock Looks Cheap. But Is AI Growth Already Priced In? - finance.yahoo.com",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOekkyN3hyX3p1TXRpVnRjU3dtTGlhb3RTY0RJeW5lSFF3Q3RESXN5UUxISE81Wl83RHdBYXgxM0JMTXFLSTVzNGxtYUFQMzB4Z0NwTHFQVHdkMXJTcXR3MjJtMTlORUx1cEhIM2l6OGxJd1N6YVE1M0ZhOTNGeXhGY3ZWdUVXSkhsX0dhbUw2aERuSWVGTU1N?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-25": {
     "date": "2026-09-25",
     "lastUpdated": "12:21 AM KST",
