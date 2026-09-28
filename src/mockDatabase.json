@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-28": {
+    "date": "2026-09-28",
+    "lastUpdated": "12:25 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 941.65,
+        "changePercent": 1.36,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum’s $40 EPS Bet Changes Everything (NASDAQ:LITE) - Seeking Alpha: Lumentum’s $40 EPS Bet Changes Everything (NASDAQ:LITE) Seeking Alpha...\n- Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart? - Yahoo Finance: Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart? Yahoo Finance...\n- Two share sales by Lumentum (LITE) executive Wupen Yuen followed a trading plan. - Stock Titan: Two share sales by Lumentum (LITE) executive Wupen Yuen followed a trading plan. Stock Titan...",
+        "sources": [
+          {
+            "title": "Lumentum’s $40 EPS Bet Changes Everything (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3BibzZNZkVPaWpPSVZ1Zml6djZUUzFiQVZVNWtlNHgtTWlZc2YxaE9mV2REOXJjaGhwei0tT1NTYmNXc2xnSVU1aHB5ZEpqRFMtQTlxWHdmUWU5eXlZbjJWNUsxellyYkJRR19EVUJneDJOdGxNRndiaDA0MWlzUWFDMUFJUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQTRsU3JCaG13U1JIUlpTbmdCWWNOQXNyNER0MDVvTmFDRkZiSy11dGVTZFdtQndmOFZrT3BqNktVUmY0aFdxUFlpVmw3Z2Etd0Z1d3VScXR1Y3JlZTBHd21WMFRzMkxPa0ZjanVzVFNBcXBWOE1VWDNLVlhQSGREandNX0ljbklhNVM1ejB6d2d0aUZBeUhqMkVlX0I?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Two share sales by Lumentum (LITE) executive Wupen Yuen followed a trading plan. - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZld0MDROckQ2d3BtZEFpYkE1azdsSDJRb2M5Y3BZOGxOckFCZ1pZS3E1VU5Pc09nVDd5Zkl4cHNBd0VqN05SWW5EeFk5aFIzdElnWmdyb1NMRDFvZGdWaW9ZcVVNdWc2Z05vblR2b3Bxdy1sRU9DNjYxRjMxM3Y5bzEzRUp5QlQ2QTF0N0pmVFJ3dTM5QlFKd0gtZHhJNFN5WEVKWUxMMmxFNkJldW81bTBBLUxzdw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 123.0,
+        "changePercent": -3.45,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why is Intel Corporation (INTC) up over 33%? Is the Rally Sustainable? - Yahoo Finance: Why is Intel Corporation (INTC) up over 33%? Is the Rally Sustainable? Yahoo Finance...\n- Intel Price Forecast: Nvidia Picked Xeon 6, Invested $5B, Yet Analysts Still Trail INTC - TradingKey: Intel Price Forecast: Nvidia Picked Xeon 6, Invested $5B, Yet Analysts Still Trail INTC TradingKey...\n- Why is Intel Corporation (INTC) up over 33%? Is the Rally Sustainable? - Currently.com: Why is Intel Corporation (INTC) up over 33%? Is the Rally Sustainable? Currently.com...",
+        "sources": [
+          {
+            "title": "Why is Intel Corporation (INTC) up over 33%? Is the Rally Sustainable? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYk1oY21ZeWI0OXN5TWMya0JsNUJkaE0yYXZXcklVTTNLUUQ3OEs1VlYyZk9DRmxPem9HRHVmVThxU0NsWTBIYnlLODN4S2tUYTJqMDVpN2MtajJKT3QyQllKNXRTT1FhVy1hbm9ISmk3U1J5S1FfMmJja3VPVFFsaTBVRkJqYnlGVWw2a1hWVHVaUDZTX0RveThhYVg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Price Forecast: Nvidia Picked Xeon 6, Invested $5B, Yet Analysts Still Trail INTC - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUTJ0M002eEJBWW5ocUl6ai1nTkJ1WjFMMktJRWtzekFRcktQd1d1MTFOd1RwbVFQWk9hU25UUC16RzBnbXBXdWZwcE5pS2ROeVN1YXhFZlNjVVctMWg4SWI1Y2FJazZTOTg2OVd0OWpmMGFKczk0ejdZX090Mkg2TU1Tc2Z4b2EwaUJ5MkxITm1NLWxic2JFdDVJRGZjdTBwbVNETDFURk1jMHBQN0ZQV3BhYVcyT2JDYWR2S1hLMERJNWc1bmVwODBxcUN1YUdxMlNQemdJbktvdzQxV0pmZXVIX1Zfam5N?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why is Intel Corporation (INTC) up over 33%? Is the Rally Sustainable? - Currently.com",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVVVMTXBhSkhVMVlZYk5uWVgwMElPMnItUE9QMTNmUVlnWTFzeC16SGUwTmtVTEE4ZmR1MWtHOWdkcndpaXNoaWF3eC10b1RBbnVYTDJObjVEYzVFUm9EQUEtQzlfQi1sMUZKWGVBOUpUaGs4dHF2NEU4X0Yxbld2MGVmVHVkaVZYNVE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 630.63,
+        "changePercent": 0.22,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance: Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance...\n- AMD Stock Hits 52-Week High - Here's Why - Advanced Micro Devices (NASDAQ:AMD) - Benzinga: AMD Stock Hits 52-Week High - Here's Why - Advanced Micro Devices (NASDAQ:AMD) Benzinga...\n- Bank of America Issues Positive Forecast for Advanced Micro Devices (NASDAQ:AMD) Stock Price - MarketBeat: Bank of America Issues Positive Forecast for Advanced Micro Devices (NASDAQ:AMD) Stock Price MarketBeat...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRzRRNUFOWWpIN3lNUkE1VkphTU84N1BSSTcwb0hrdmNNS3ZuTXFXT1VDN3VTeU94aWNmRGwzSzVrY1Fjb2VkdXlwTjNGMEdHeVFHcUVCM0xiczhIUW1GaHpGdjNLcTB4OG1kZkFqY3ZGdlhYZWF4NzVNVkpQRHJMRWZIUTJBeThqSDVRelJPc0VjazlNR2txaDVkNA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Hits 52-Week High - Here's Why - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXBybGxxcktKMDFUeUlWZ1RqeTFnTDY1ZVBhRVRWcmZwMWMyeUtRZnhwLTVqMHhfd1gwVVNHQUVQTjVkY2U3NDJSV3VvOXhwSkNfemV1RktPWnZMTlJQRkw0SVZIOHUwVE9rWXVaY3dmakJ3bFlBcjNZZ253aFYyVFJ5NlRYOEszVnUyVDdHeGVTUmtMV25DeTZMTndSdUdPMEJWUzBwbFVQRVpoMWFIbG5DalA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Bank of America Issues Positive Forecast for Advanced Micro Devices (NASDAQ:AMD) Stock Price - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWWNLa00wTGhrUG9COEh6OU5TTG9fQnIzYUVUckFDRWh4OG9pRWJ4ckJFNE9GbWtyX2JjNC1hd3RIR3JPWlJaQWw0eXpqYS1ER21KNG45ZTlLZnpjLU9sLW5ZM1FOMUpZYXlrd1ZiekFtaTR4VDdwengybHNsMUsxSkxZUVl5dUkxQlQ4WXRmMmlzWjhFMlMzVjlMeHVlYVdzNkdNRnVtYUNuZUN0LXFoeDNpMnY3dzZISkRWekRKUWlOa0JYdkVROVFvbHJMU2FsWUVIbWdlTnFvVllycTVPaWVNNUw5T2s?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1082.28,
+        "changePercent": 0.16,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What Lies Ahead for Micron (MU) in the Upcoming Fourth Quarter Report? - Yahoo Finance: What Lies Ahead for Micron (MU) in the Upcoming Fourth Quarter Report? Yahoo Finance...\n- Earnings Week Ahead: MU, NKE, CCL, and more (NASDAQ:MU) - Seeking Alpha: Earnings Week Ahead: MU, NKE, CCL, and more (NASDAQ:MU) Seeking Alpha...\n- Micron Likely to Beat Q4 Earnings Estimates: How to Play MU Stock? - The Globe and Mail: Micron Likely to Beat Q4 Earnings Estimates: How to Play MU Stock? The Globe and Mail...",
+        "sources": [
+          {
+            "title": "What Lies Ahead for Micron (MU) in the Upcoming Fourth Quarter Report? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnZHaHVfMWp4SHZOMmg3bzZKMGU3RnNzV3U0TkxWUGFXcnFaaFc0ellYZDRlaklxT3Q1aVpjT2V4MzVOVVUzQVRMVGpldU5UcGp5ZGI2U3hodnVWcDk3bUowQ3M3SmQxMW81UlFWd1V1S2NoZnJHcF9xeVJ5UFdUUFdtXzl4OHpLMmI5NEZJVkpic3FPNUJuN0xn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Earnings Week Ahead: MU, NKE, CCL, and more (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeExDaXN2MmJ6VnRjVFNOR3pHM2Q2SGxCOEhneTdqc3lGc2k4QU5NZnh4cEZxMUFSU0NmVjFHTTBjV0Vjbkp0RDQ3M3VYQkpUaUFuSnFUNV9kTmRKUW14SnEwRFZlVGQzVGhNanNlME5XQXpoUk8wVWRVdF8wUmJXLTllSQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Likely to Beat Q4 Earnings Estimates: How to Play MU Stock? - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYi1BaFRiMmxkdnAzWHEyZnROUVpWRUNMMDR5c0NwQWxFLXVSMjlRWW1tdmlSeHhYSmZ4dU9TM01FWEo2dGc0YWNLbFFVT0MxODV4dEFWRmNVVC05akhBXzlBVjRMdXdtRzcwV2hjbHV0UmJ4QURkb3hkdUFLYmlYTm85VEkzVEhqZGZXSWtLRVVMaFRFTnJMYVkwNkY3bEJQNm54WFVBZ3ZJeFppRUJWdlM2eUdCWW9ZVU0wcTlYWlRUSUNjMnJ3aDd3M2ZMajNqVTB2VVVxb005MTBGZzRNSQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-27": {
     "date": "2026-09-27",
     "lastUpdated": "12:21 AM KST",
