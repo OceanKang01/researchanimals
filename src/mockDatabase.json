@@ -21,6 +21,108 @@
       "earningsDate": "2026-09-30 AMC (마감 후)"
     }
   ],
+  "2026-09-29": {
+    "date": "2026-09-29",
+    "lastUpdated": "01:38 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 921.32,
+        "changePercent": -2.16,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) stock price, news, quote and history - Yahoo Finance UK: Lumentum Holdings Inc. (LITE) stock price, news, quote and history Yahoo Finance UK...\n- Lumentum (NASDAQ:LITE) Stock Price Down 2.2% on Insider Selling - marketbeat.com: Lumentum (NASDAQ:LITE) Stock Price Down 2.2% on Insider Selling marketbeat.com...\n- Lumentum Holdings Inc Stock (LITE) Moved Down by 5.26% on Sep 28: Key Drivers Unveiled - TradingKey: Lumentum Holdings Inc Stock (LITE) Moved Down by 5.26% on Sep 28: Key Drivers Unveiled TradingKey...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) stock price, news, quote and history - Yahoo Finance UK",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95bHdrbUUyN2c0bExGNEs3UzhlZVA2RGpvZG15VDloQlJwVEl4Q1lBLWowSHBBV3RXVlVzZ0t6SHRnb1pHdzdwUXhSX0EzaHZTZlE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Stock Price Down 2.2% on Insider Selling - marketbeat.com",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlNiY3dyUFl5X0RQVlpkOGdFdklmckdWN0M4SktOYWpJOWM3NnEtMG5iMGhERWRnOWN0cm5kUHJkTzIwX2RaZWRHU1ZxSWVPZGpwbHBaU1hTNk56SGFSM25PU0d0azJMQnpYNWxmZm9tQXlXZ09XRmlYTFZ0b3JXSWdnbDJXYmZGd3JiQ0JERGRiTFp2THlpNnhGUmJkdHhXVXFxYng5OThEUVFwNldaQVVnNFMwWl8xX25v?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Moved Down by 5.26% on Sep 28: Key Drivers Unveiled - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd19pTW9CbW1uSmNHajd3dEc5dGVPajNmWENKSlgxekJNLTdneExrOExaOEx5bFdWN1JhUUgzSnlFY0hzc0g5SkFnQk5NQk1rSlFDcWJfRWJQbjR2QWdCUll1dnlWWFhBUzNIUEVzM3d1Nkw2M1hDOXotamdiN0RjbmgtdURodzBQdTZv?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 116.03,
+        "changePercent": -5.67,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here's Why Intel (INTC) Fell More Than Broader Market - Yahoo Finance: Here's Why Intel (INTC) Fell More Than Broader Market Yahoo Finance...\n- INTC Stock Slides After Rally As Apple Cuts Legacy Ties - timothysykes.com: INTC Stock Slides After Rally As Apple Cuts Legacy Ties timothysykes.com...\n- Intel stock falls as chip-sector sentiment weakens and investors lock in gains - Quiver Quantitative: Intel stock falls as chip-sector sentiment weakens and investors lock in gains Quiver Quantitative...",
+        "sources": [
+          {
+            "title": "Here's Why Intel (INTC) Fell More Than Broader Market - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGZ5UHQtZXBJajE5TGM3S2doNnVMNXpSLVpRaXp1d1RqS0pYLTcwT1AyY2pucXEzNEFSSDhrYVgwRFBEb2R4UklseVZMSWJlcjBYcnowQTB0MWtYQllRUFJSWEpBZXZJcTZqMUNSZm5jb1dIc2pTNENEcVp5czV1NWxlX2FFbHB5VkVkVXdGUUgwRXdz?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Slides After Rally As Apple Cuts Legacy Ties - timothysykes.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51MGN2UzF1dDkxeXRneHB5eXBab1NDaWxvbDFhbkVwQk1sMEI5SjZrT1l0TmVKeU5mdzhBVjZvQ194UTRqT1hjS2FsZ0tCTk5FbTl4TjM1MV9EdGVoVURQU0NKYjdFOXdrdUNOTG9FQUNoamJJUU9iaWlkY01odw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel stock falls as chip-sector sentiment weakens and investors lock in gains - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSERteld6MGRfUHBZdkhtS1lSZHgxWGRNQ28wUlUzcm5iTHRQYW5WTWIzM29HZ0xSd2ZmOWNOZW01MG9RZVBXQ2hBLVlqOTA1Z2JKcGNyRnNxeE5SUzl4UkpBblNrVmkxamNOX09NZHZxUXRLX1hHZ1pMZFh2UHdsZ25mR1NqTEdCekYyUVpMUWplbzZycHNnbjhMbngzS1U1eGpxdlh4Q1NPamxzMkpEOA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 607.87,
+        "changePercent": -3.61,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What's Going On With AMD Stock Monday? - Benzinga: What's Going On With AMD Stock Monday? Benzinga...\n- Advanced Micro Devices (NASDAQ:AMD) Shares Down 3.6% - What's Next? - marketbeat.com: Advanced Micro Devices (NASDAQ:AMD) Shares Down 3.6% - What's Next? marketbeat.com...\n- Advanced Micro Devices (AMD) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo! Finance Canada: Advanced Micro Devices (AMD) Suffers a Larger Drop Than the General Market: Key Insights Yahoo! Finance Canada...",
+        "sources": [
+          {
+            "title": "What's Going On With AMD Stock Monday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbHdndlhQalE3cHVnRDFnYlBoOVFyRUpiNGw3X21oLWMtMmlmZU5hMjR0Vjl4VG8xeGxKRkk3eS1heGlndTB3VTVpSUFTMGVRQ1JIMzlWUGV0RFRvUkVHSVk0TlNUU1F3d3JnVjRlVjdJWkJpU2VYd3NwTTF4QTdTbnEtNnRIc2Itb2NvRXJVbld4RVZxM05z?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Shares Down 3.6% - What's Next? - marketbeat.com",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQzhodDRHQ2ZLRjNhVnh4ZThzTl82V3dvSDBsZE1GOUhhUFRsVkdvOHdZLVlBbEY4Zm9DUGJ6V291TzB4TWlpN3dGaGZvcE1uOHhkVW1QTHNJQWtGLTYzUkRPMy14WXN6UERPNHN1MHNvQW43Vk1fbDdXcEtWYWZ0VmRDZ3dkMFQzRVllRUFuZWY4T3pMdFJsazIzMjZZeEFKeUpsVTNwRzVxMDRlSEFjcXdxamNZTWVGSjIw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUHF2cGpOdTZDc2FpWDZTckpycWd4aVFBc3JsR1RxR3p6VHE1ZnpjSThUbWZWcmF2VjFqQnJnQVdDck1DalU1cXBldkgyVlB3Z3FNQzlhUTMxcTNWWjBXb2lYZUJuc1M4WTh2OUlxUnp4TDRXaHlWcnNxNC1KWWRWUWU4VzN4N25BeFlR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1053.98,
+        "changePercent": -2.61,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Earnings: What to Expect as AI Demand Drives Growth - Yahoo Finance: Micron Earnings: What to Expect as AI Demand Drives Growth Yahoo Finance...\n- Micron's Stock Faces Another Post-Earnings Plunge (NASDAQ:MU) - Seeking Alpha: Micron's Stock Faces Another Post-Earnings Plunge (NASDAQ:MU) Seeking Alpha...\n- What's Going On With Micron Technology Stock Monday? - Micron Technology (NASDAQ:MU) - Benzinga: What's Going On With Micron Technology Stock Monday? - Micron Technology (NASDAQ:MU) Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Earnings: What to Expect as AI Demand Drives Growth - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMXBSb0FwT2RIOEE3eHlkM1Q4OUFsaFM4cEYtZklBN3pMd2ttX18tUjJZWXAzcnI1ZEJjMFBwYVdHTGljd2s0bFdJTko3MjdwamtOQzFzZVM2WEdGYl9GdmlOQXJtNjFuSXpmYURuZ1l5YllUeWM1eE1NZUpiR2VjLW9VdVZVZzRjSVFoOHhrUXEyYXdDWmRzY0RyMlo5dw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron's Stock Faces Another Post-Earnings Plunge (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONG9jZzFWQndoOGl3OG5RMGhheE91MHN4UVJQZ0haM3g0QmNTNURGN1VlUzZJX0NTWDRlWDJ0SzNtNk1STGw2RXd2dWQ5RW9hampDSXpTdzVzTXg2TFd0SjBXcjVscV9zcmY2c29yMU1MSUc2M1N4MkNBVVRlRXo1X19iZUFRU1lUMEp1dnZZODVmUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With Micron Technology Stock Monday? - Micron Technology (NASDAQ:MU) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNmMyYmNMWk94VHlaWVJENnloMkw2Q1ZXUW5uSFp6MGMwakYwdFR6T3R5OXJZNlpnZHJEdE1hdzVlQ2pyQkMybmFnQVAxaXFNcGtqWWpFRFFRRGszSHVEbVU2LW5mY0tzLXNXb1MxU1JIVlN3WElaNUc5TmdNX0VlZVVmQmpfWWthUlhJWGpzR1JRb0lqWGxjc0haSWNiN2o0VUIzR01LbTVhZ1RVMGNMZVNEMThSZUFMZkp4NGhxVF90MmFSb3BBM3JpZTMzT1pRQXI3emcxSWVOdkdR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-09-28": {
     "date": "2026-09-28",
     "lastUpdated": "12:25 AM KST",
