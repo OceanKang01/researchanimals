@@ -18,9 +18,111 @@
     {
       "ticker": "MU",
       "name": "Micron Technology, Inc.",
-      "earningsDate": "2026-09-30 AMC (마감 후)"
+      "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-02": {
+    "date": "2026-10-02",
+    "lastUpdated": "01:26 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc (LITE) Stock Up 7.7% but GF Value Says Ove - GuruFocus: Lumentum Holdings Inc (LITE) Stock Up 7.7% but GF Value Says Ove GuruFocus...\n- Lumentum Holdings Inc Stock (LITE) Moved Up by 7.76% on Oct 1: Facts Behind the Movement - TradingKey: Lumentum Holdings Inc Stock (LITE) Moved Up by 7.76% on Oct 1: Facts Behind the Movement TradingKey...\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo! Finance Canada: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo! Finance Canada...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Up 7.7% but GF Value Says Ove - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnBGZVl0N0t5a2hBaE9fRFN1SlNudzFnclpCNVhmTWlMbmFnbnJ6eENtay0tdm9HSW1kWF9HaDFrTWM0Q3RXTzd5Yy13blAwQTdac0xsTXR6aXg3MnJNdWREa3l3eTdfMzlYb0Qxdm1YbUxOUndxSWNGVlpleUJUMzRRcGZqaFBpb2d2aXFoTEUtbkVKVVRuTkltdDNnNEtQUjlRZG9iNkgxMWRJZmQxZlRSQk96N1ViQ3pUVFB3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Moved Up by 7.76% on Oct 1: Facts Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUzZRRXZHNXdHM3UtTUY2X3ZfMzV1bzRlTzBmLWM3U29ycXd2VnFsNEZyX1pFZEJET2hzWHdqeG04TWlRNmtGZU5Oa2EwWVZGWjc0NS1nSFF3UExFUzByNkJ3S093TG1mWVlkLW03NzVqWTgxNEpXRkN0cHFtRG5BME1wd01rYm9rUHNB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSGtkUmV5NGlLZVJfdXl3eWp2M0N1cGdpSmRuSlZoM2NhR0hNYnV0ejZteS0zXzRYa2RHYlAxLURweTdJc2l4bElJc1RrUlV0ektyRUV5cWNsSllRQ3RKRng0VVVuZjZHVU00Ymd0cnh6cEVKS3dtZFNrOEp3M1RYTU92MEh3dEhWcWZocVE3UW9BYjQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Shared Its Factory Bill. Did It Give Up Too Much Flexibility? - Yahoo Finance: Intel (INTC) Shared Its Factory Bill. Did It Give Up Too Much Flexibility? Yahoo Finance...\n- TSMC Vs. Intel: Goliath Is Defeating David (NASDAQ:INTC) - Seeking Alpha: TSMC Vs. Intel: Goliath Is Defeating David (NASDAQ:INTC) Seeking Alpha...\n- Intel Corporation $INTC Stock Sold by Greenwich Wealth Management LLC - MarketBeat: Intel Corporation $INTC Stock Sold by Greenwich Wealth Management LLC MarketBeat...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Shared Its Factory Bill. Did It Give Up Too Much Flexibility? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ21ZNEFCeGczTUFsODMtR0tGWU8zMUY5TkJ4bHk2bGx6MXFqQktySUdPckpod3NkUGdPSGQ2VFVVc0R0NlV2bHBGRGZrUXBjYzJ3cTNDdGs0LV9saDVwemg2enpHdXIwcVZsMFY3Y2RfN0RNWHlLMmpOeHEyaEpiekt6VWN6ZU1jMGh3NXNPdzFZXy1LSWc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "TSMC Vs. Intel: Goliath Is Defeating David (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTVUwMERLWmNodDJyZjNicWMtaUFNNXdhZmVWSVFSNVROUHhPS1FEOGNCM0RmTGxIOUVBX0p0cE16bnR0aGg3Y29MVk9qSWdVNndjS3NkSG0wWVNESG9wU1Jzak1MdjZzZ2ZYbGFJRGozVVlGME55cGIwTHcwb2x2UGhZVDlkdTVj?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation $INTC Stock Sold by Greenwich Wealth Management LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYjBfRlNEY29XTTVQV1NrX3VmUGp1alZWQXBlcHhRRWxlN0RweHc5c09yRzhpdmlVNi1tVFB0QW81ZnpVQ1dmOHM5MG0tWEhpZHlrYVF3dkRXRW9KeVI0dXo3QXpfRFdOQlRjR2d3Y3dUOHdDRm94NXN3eHp0X2VqRW5wM3gzMmxFYXFGYjNkRFFnTTZCTHhmUTVyMVFVLWdPTmt3bmc3dmF4ejJzRUoxRi0wb1lwTFI4QTNqS0tJMDloVHpJcTB2dg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD: Path To $1,000 (Rating Upgrade) (NASDAQ:AMD) - Seeking Alpha: AMD: Path To $1,000 (Rating Upgrade) (NASDAQ:AMD) Seeking Alpha...\n- What's Going On With AMD Stock Thursday? - Benzinga: What's Going On With AMD Stock Thursday? Benzinga...\n- Advanced Micro Devices (NASDAQ:AMD) Stock Keeps Buy Rating at Rosenblatt Securities - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Stock Keeps Buy Rating at Rosenblatt Securities MarketBeat...",
+        "sources": [
+          {
+            "title": "AMD: Path To $1,000 (Rating Upgrade) (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pNWlzc203VE5ON0gyMnYtVzdCbGg1RzBxc3Q3SDVka3dNSFItdjR6cnRMQU5RS29fOUdsLVRhMlJ5czdDS0I4UnBjSzZLVHhzTnpBNjZjVU11YmRueDZRS3dGNHN3MWltNFJNQU1KaUYtbUVZd0lOQWViQUc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With AMD Stock Thursday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQXhpaFFtY2hsODZ3anktVk41Qy1xcURpRmFIQ2VfZmxTMWIzVk5tallIOEU1MmlFemlva3REd1RDUWxSNTJnOG81aTlZNUFOc3RJQW5RZThvaVUwSnJiMlhZb2pFdTVZeDFLNkJPMWFZdUg5MVpxM0ZhU05mWGNkdjcxb2dEY1pGOFlOLWhGT3lkU2ZCZHhhUUJR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Keeps Buy Rating at Rosenblatt Securities - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdC1YNks5LXV2VnBvYjBsOGNCX0ZKM01pZGdrQ0JHVnJMNjRyTlFHbEJ0REowOWpqa0ZkV1AtWWkxR3pzVGZQWG5EbFRDbDdfdGpya21zYUxxcTJ5U05lSnBlMDZqWEFDbTY3Y2xHbzRoMFBtUTA3Ykh2T20tX2x1WjVFa25kNXJyX1pxY2dxOHl4UlBkb3Y2cEdMVDBHTmJ1WnFMd2lRcnVEQzZkNXdaQWp6amVQcWVNMkRTMFBqekNHTkctNDI3UXBWREhoVFRuYnZvclJKQVl5WFE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron: What We Think of the Stock After Earnings - Morningstar: Micron: What We Think of the Stock After Earnings Morningstar...\n- Micron at 6.6x Earnings: Bargain or Bubble Warning? - TIKR.com: Micron at 6.6x Earnings: Bargain or Bubble Warning? TIKR.com...\n- Micron Isn't Stepping Off The Gas (NASDAQ:MU) - Seeking Alpha: Micron Isn't Stepping Off The Gas (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron: What We Think of the Stock After Earnings - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOGJ4MzhXOGNFZVZuelpPOUFINlJnc0ZXa3hyeVNRckFYTWpUdUcwd01tZ1FsT21uanAzOENQVERYOFd0UVFZSmRnc0lueDl4bERYZmE3YjZNU2tFTWV5ZTBWeEdJMFh2V0VqaWFmaXg3TGhRVjdfaG5XWGplZlhrSWVORVhkSU5aYXRDSDV3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron at 6.6x Earnings: Bargain or Bubble Warning? - TIKR.com",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOai1KNmFjczNVVGZpckIyU0oySVJ3S2o5Rk5uckVxR0FmaktiNmNGZWJPNkJSRllKYzZIazNwaU1WTFkyc0hRUmt3Rm1lSERnRUxqWEVWTWhiRU1jYW5UUVpnaExzQmYwc0lfZkNGaHhUUWxfTkY4ay1NTmxEYm5aNA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Isn't Stepping Off The Gas (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92bU5jblYtdE5PaWY5UFFWaTg3Qi1rS3FKVVlmX1k5d3JTSEh2VGk1dkp2cm5RanhGc2w3X29TbnR2YXJCNXBfQ0ZRZjJpVVdpRmo2dV9ab3pwTVhwRjJLNXVBNVlvUkJYN0ZfYkliejh5R2RScFFPYmdmM3VwUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-01": {
     "date": "2026-10-01",
     "lastUpdated": "01:09 AM KST",
