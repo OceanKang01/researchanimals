@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-03": {
+    "date": "2026-10-03",
+    "lastUpdated": "12:59 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Polaris Financial Partners Acquires 1,470 Shares of Lumentum Holdings Inc. $LITE - marketbeat.com: Polaris Financial Partners Acquires 1,470 Shares of Lumentum Holdings Inc. $LITE marketbeat.com...\n- A CFO sells shares at $1,048.50 apiece under a trading plan at Lumentum (LITE). - Stock Titan: A CFO sells shares at $1,048.50 apiece under a trading plan at Lumentum (LITE). Stock Titan...\n- Nasdaq Gains Over 1% as Lumentum Holdings (LITE) Surges 15.27% A - GuruFocus: Nasdaq Gains Over 1% as Lumentum Holdings (LITE) Surges 15.27% A GuruFocus...",
+        "sources": [
+          {
+            "title": "Polaris Financial Partners Acquires 1,470 Shares of Lumentum Holdings Inc. $LITE - marketbeat.com",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY3lGUDJwOWdMTHpjZEpDRlliRUdBQlhnTVFJa3lid3hvdmJyMThhZGNhclJUN1RQZG51VGc5bmlrTWhzSFVyT3BFXy0zZ3lsS2JNUnUyR0REeEN4cWt2d0VOVWdoVm95OWszQkJKSkM0OWhuSGJ5S1l3WVVPMjN5azQtT19iNDJkMUY0MFlDNVU4Y2ZENXFSQi1zNHFzS09pam56MkdKQi1JUFM4Y1BhVlFqVGpseGY1VHh1VmdpTGI0RlZFTkdBN1BwdVd5OWlTck4xZg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A CFO sells shares at $1,048.50 apiece under a trading plan at Lumentum (LITE). - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajJqM0QyTmMxZFlzTGN1UHZMcHIwRHMwYUNYUlZROVJqWFd2OWVYdnFLYVZ3SEg2cF9BQllrS0c4SjdHQ2RDdFJiNEUzNzRLRUtIdER2ZnV5azQ3SzlUZjhBWmVkZWtEZ1Z6aThLWm9UcjZXQlZNQ1Exb2wtcy1XbTBWcWg4QjVzVXFiU1FMbGZ1UHFKRHJvM2NOT2dtajA0dFBVcFQ1aml6S2FXenZSRWVuVGVWdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Nasdaq Gains Over 1% as Lumentum Holdings (LITE) Surges 15.27% A - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1JJaVZNOXpIdVg2UmtqNUhxWExXZDJTYW9Vc284TktLdmc0d0l0U0hwVDZiRXRfN0R3SG84WFNycWdNVldCcjVuQURvaUFOZmJjWE5mczVfX2EzNGVReVF0NnNUSzY4X2pRMkxPY2tpaWdQT2F2Z0trYXUwbmFESFVZc2pyNlBHWnBUOEN5RTNqeUFBQnBKZ0xHTHAxYW1tazhjYkNXeHpNYWtmRF9QUnFyN1Y?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why is Intel Corporation (INTC) up over 33%? Is the Rally Sustainable? - Yahoo Finance: Why is Intel Corporation (INTC) up over 33%? Is the Rally Sustainable? Yahoo Finance...\n- Intel Stock Soars As AI Fever And Chip Rally Ignite INTC - StocksToTrade: Intel Stock Soars As AI Fever And Chip Rally Ignite INTC StocksToTrade...\n- Intel Stock Soars As AI And Macro Tailwinds Ignite Rally - timothysykes.com: Intel Stock Soars As AI And Macro Tailwinds Ignite Rally timothysykes.com...",
+        "sources": [
+          {
+            "title": "Why is Intel Corporation (INTC) up over 33%? Is the Rally Sustainable? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYk1oY21ZeWI0OXN5TWMya0JsNUJkaE0yYXZXcklVTTNLUUQ3OEs1VlYyZk9DRmxPem9HRHVmVThxU0NsWTBIYnlLODN4S2tUYTJqMDVpN2MtajJKT3QyQllKNXRTT1FhVy1hbm9ISmk3U1J5S1FfMmJja3VPVFFsaTBVRkJqYnlGVWw2a1hWVHVaUDZTX0RveThhYVg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock Soars As AI Fever And Chip Rally Ignite INTC - StocksToTrade",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhcVhBWDBLYjNjbGw1eW42aVctbTUzNkVFZ0lKR21XOXcyaGF4RlNYV3FNRkwzVm02NzUxT3p0YVJxWWVzUndqdGNPcFdXRDhLMW1BMzBwQkxVNVZqenF1NGkxYlRjVTNsNHFsREljMHNUN1hzd0hxUDV1RGE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock Soars As AI And Macro Tailwinds Ignite Rally - timothysykes.com",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQmtOcTRwdkZzWGxBOTVHdEJOZUZ0NGU0ZDZuSVFSSFJNTDQ0eWo0c1M0MnVjbV8yNGxUQ3JTc0ZGUnctak5LWUVOUF8tWVlySVRlN2h6dWE4QnpvXzVINkozN0VuT1hhWFpMS1lGb3NpNy16Wm1pZkpzMU9JNmhFbQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD: Path To $1,000 (Rating Upgrade) (NASDAQ:AMD) - Seeking Alpha: AMD: Path To $1,000 (Rating Upgrade) (NASDAQ:AMD) Seeking Alpha...\n- Advanced Micro Devices (NASDAQ:AMD) Shares Climb 3% - Still a Buy? - marketbeat.com: Advanced Micro Devices (NASDAQ:AMD) Shares Climb 3% - Still a Buy? marketbeat.com...\n- What's Going On With AMD Stock Thursday? - Benzinga: What's Going On With AMD Stock Thursday? Benzinga...",
+        "sources": [
+          {
+            "title": "AMD: Path To $1,000 (Rating Upgrade) (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pNWlzc203VE5ON0gyMnYtVzdCbGg1RzBxc3Q3SDVka3dNSFItdjR6cnRMQU5RS29fOUdsLVRhMlJ5czdDS0I4UnBjSzZLVHhzTnpBNjZjVU11YmRueDZRS3dGNHN3MWltNFJNQU1KaUYtbUVZd0lOQWViQUc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Shares Climb 3% - Still a Buy? - marketbeat.com",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLXVzUXMxTnBqZndpeWlZdjYyVlZDV3N2VG5lQ0UxY2w3U2t0LXU4UC1Ibm9wTTRGVi1zd184Wkk4Y0NVeHlwcEdCbTdTV3lqdEZIaF9RTGdSeVQ5RGRPbkplNnlmcjkwaUkxQy02ZEhBeXcta3RZdHdab0dUZkNoUnAwNEJyeTBlOUlqd2lmOEExeGRnVmpfeU1qdDJabG9hal9NUlVrYXhmRGpjTFYwdjV2NmhuYWw2X0hQOQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With AMD Stock Thursday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQXhpaFFtY2hsODZ3anktVk41Qy1xcURpRmFIQ2VfZmxTMWIzVk5tallIOEU1MmlFemlva3REd1RDUWxSNTJnOG81aTlZNUFOc3RJQW5RZThvaVUwSnJiMlhZb2pFdTVZeDFLNkJPMWFZdUg5MVpxM0ZhU05mWGNkdjcxb2dEY1pGOFlOLWhGT3lkU2ZCZHhhUUJR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron just sent a stark memory chip warning to tech stock investors - thestreet.com: Micron just sent a stark memory chip warning to tech stock investors thestreet.com...\n- Micron: What We Think of the Stock After Earnings - Morningstar: Micron: What We Think of the Stock After Earnings Morningstar...\n- Micron: It's Different This Time - Buy At 6x Earnings Before AI Agents Rerate It (MU) - Seeking Alpha: Micron: It's Different This Time - Buy At 6x Earnings Before AI Agents Rerate It (MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron just sent a stark memory chip warning to tech stock investors - thestreet.com",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2VPOHVaS2NtMVpFNVVUS1ZENV96emczczAzVGh2M3BzdGtPdXlRRVFyc0lvM2EyNUlvSm04bEFYWW55NVRPRm9zQk9uQUVvRVpNVDhtYzhoMlV3VTdtUmFBbUtWanhMVGhiTFBMQng3M2ZXM09NcHlHZEpBNnpzdEpMLVhVRFBTZkptQWlmV3B5RWJLT3RGUjJTeElEU0NSeDZENHpkX1lPSlBjTDFIVA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: What We Think of the Stock After Earnings - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOGJ4MzhXOGNFZVZuelpPOUFINlJnc0ZXa3hyeVNRckFYTWpUdUcwd01tZ1FsT21uanAzOENQVERYOFd0UVFZSmRnc0lueDl4bERYZmE3YjZNU2tFTWV5ZTBWeEdJMFh2V0VqaWFmaXg3TGhRVjdfaG5XWGplZlhrSWVORVhkSU5aYXRDSDV3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: It's Different This Time - Buy At 6x Earnings Before AI Agents Rerate It (MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1o2dXRnQWYxY1IxRFJLZWZaMDBwLXFCRXZmbURxcXF1dnVDa0U5Z1hCMjZMZndfRjV2dzNITGdpWUdHYUVYLWZnZk5meUpSUmFlWjZRUjlHWDNnSHl6SlJsMTlRNUFSLTJ2LWFkUWtsVzVWV0pUVF9lTkMzRDVqY1hGSXJCOFhxWGZJclN2TWVNYUlYWUJDZzJIdDZVdXJuVGNUVWRZblE5MWdKa18xM3lKMXlXR1ZB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-02": {
     "date": "2026-10-02",
     "lastUpdated": "01:26 AM KST",
