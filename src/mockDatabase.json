@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-06": {
+    "date": "2026-10-06",
+    "lastUpdated": "02:07 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 1091.67,
+        "changePercent": 0.58,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- A live audio webcast is set for Nov. 5, when Lumentum releases quarterly results. - Stock Titan: A live audio webcast is set for Nov. 5, when Lumentum releases quarterly results. Stock Titan...\n- LITE | Lumentum Holdings Inc. Stock Overview (Austria: Vienna) - Barron's: LITE | Lumentum Holdings Inc. Stock Overview (Austria: Vienna) Barron's...\n- Eastern Bank Boosts Stock Holdings in Lumentum Holdings Inc. $LITE - MarketBeat: Eastern Bank Boosts Stock Holdings in Lumentum Holdings Inc. $LITE MarketBeat...",
+        "sources": [
+          {
+            "title": "A live audio webcast is set for Nov. 5, when Lumentum releases quarterly results. - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2ZsSUhnR2Vra0pZbzRCSnFRYURLUTZjNldTTVRuY2I3NXc2SEd3NTBZLTNiai1EeUUyNlViR0JNZWhsMlZpQkFFdFRWNENrN1BTMWQxQ2N1TTU4VEpmaVhnNFdXeVl2S25WbjRDaUJZanZEVEg4R09NYVAzSzdGTnk2dFNkZ01tZnJqc1hwT1NlTlFjYWVWQUluTm5kd3ZNeGJVUnNmU19kZExHNV9TMnNiVURYQUVqelE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "LITE | Lumentum Holdings Inc. Stock Overview (Austria: Vienna) - Barron's",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hMjlIcU1KeW9idmF2Ri1nQVNmdFhKMEpTenppR1MxbWQzT0RvMlBqc2VjSFJJMjF5eGh3UGZPaDZOLUtubTlxLUdkdUNiSWR3ZFRIWHFzVG13MDZ1azVQRjljV1pHVHRtVWJ3T21GRQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Eastern Bank Boosts Stock Holdings in Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFJEaUwtb05ONW14ZjFjeGgyaDRqa1cyQzRLQmpXcExlZHpmdGpHMWpXaUUxdEdzWUEyUzdNZ2gxXzVLU2ZkbF9NWTRMYzhESmtuRUE1SjU0SnpLTlZVZzdKNDE1ZFQ5YlB6bzY1Sk0tQi1KUDVPR08tbnAwX2t0ZS04cG1GOWNMN1M3MTlHU1pWQksweHI3Z2ZibzhseGl5WlozVURPZmQzbW1pZTVMNllubHM4RUUxZjhtWGhFZVQ3UTQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 116.19,
+        "changePercent": -2.63,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Stock Sinks As Market Gains: What You Should Know - Yahoo! Finance Canada: Intel (INTC) Stock Sinks As Market Gains: What You Should Know Yahoo! Finance Canada...\n- Intel (NASDAQ:INTC) Shares Gap Down - Should You Sell? - MarketBeat: Intel (NASDAQ:INTC) Shares Gap Down - Should You Sell? MarketBeat...\n- Intel Stock Gives Back Rally As Traders Lock In Profits - StocksToTrade: Intel Stock Gives Back Rally As Traders Lock In Profits StocksToTrade...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Stock Sinks As Market Gains: What You Should Know - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmJUS0NlSC1fS2FLZ2FfTG8tdzRvdnl0bzVaZkxJejBLeU1abE84YVl1U2I4WF9SVEMyelQ4OXQ3SWdWUl9XYk10b043SGpoNGloTUJVa282RW96eTh0dnRjb3FoMVNpYVdrckZqQWFxeDdsVlF5RWxlMDl4cjNObjVuaDY?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Shares Gap Down - Should You Sell? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWtUMjRYQU12c2w0U2NmYzRkU1JGWUJHZGcxRXNUcmlNR3YwVnJ3Q3NINy1EQ0FXQ2R6ZDNFOUEzdHF5b2xoVnVCQ1g3czZnS3dtTU1tdXFicWdRUVRlU0Y4SG9tN0Q0R3pGYTUyLWJYM2sxWDE5cXo1V3JLMVRQekNOUTNES0pwMGdWeWVhVnVIR2FtajB6QlFScHl3YVBpM0gySEo4dGQ4UlFyX0E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock Gives Back Rally As Traders Lock In Profits - StocksToTrade",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Ib1dCSzBpTTNId0tpanpJeWFMR01sVnAwYlZLbmhqOURRTlhITWt5Z0R3LWZnV2c2clhaR1ZkWHlkdDFiTmJ3eXc1WUFuMG9hOEJSR0N2dG1IZEVwYlI0TmZEVkRTNTJkU1E5VllXcFEwM3FoZmRtMmtyRGE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 631.75,
+        "changePercent": -0.34,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Advanced Micro (AMD) Could Beat Earnings Estimates Again - Yahoo Finance: Why Advanced Micro (AMD) Could Beat Earnings Estimates Again Yahoo Finance...\n- Fund Update: 137,995 ADVANCED MICRO DEVICES (AMD) shares added to FERGUSON WELLMAN CAPITAL MANAGEMENT, INC portfolio - Quiver Quantitative: Fund Update: 137,995 ADVANCED MICRO DEVICES (AMD) shares added to FERGUSON WELLMAN CAPITAL MANAGEMENT, INC portfolio Quiver Quantitative...\n- Advanced Micro Devices Q3 Preview: AMD Stock Could Surge on ‘Beat-and-Raise’ Earnings, Analyst Says - Benzinga: Advanced Micro Devices Q3 Preview: AMD Stock Could Surge on ‘Beat-and-Raise’ Earnings, Analyst Says Benzinga...",
+        "sources": [
+          {
+            "title": "Why Advanced Micro (AMD) Could Beat Earnings Estimates Again - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUwyd3JsWmVmMWlWbld1MGljV0dLRUZBci12a29SMU5oZGFfajlMNG5ZOVNOMjBJcjdvZVJRQ1RxRllEaW1yR0RvUkxoa1VMMlZxQ3AyOUlqaWJXdk1HMHNfNGZ6Qm4tajdnQ3lrUlNfdkRUMnhuNWxCU3c5QzdHVnlHdnNnTzVuYllXTXVFYnFTTlVGU21yaA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Fund Update: 137,995 ADVANCED MICRO DEVICES (AMD) shares added to FERGUSON WELLMAN CAPITAL MANAGEMENT, INC portfolio - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcHV4ZmpsLVhHcEVjSWRNOU9JbWdQZHBpS1FPeUdtU0hZN0dFUGtzZkhvM2ZqOEUtdV9hbVlxdkdNbzIwaTlqTVItTGtDYUdCT3k5SkM4QjliR3hGTDhRYkVJejM5dkFoRXMyNHlfLXQ5WHdTdjYybThqZVNVUnNlU3AzM3dwNFZWTUhVcTFrN1UxdURLX1BQd3VsTld3NnN5SU1nUVRfbE5OcGdycmg2bWFxZGJPV29tVnRBYVdKRVc3Q0kyMVAzTnVtVVo5ellwcDgtbkpuZVZhRDVST3BEdlN1T3Mzc3dQS2RuYWpuSFU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Q3 Preview: AMD Stock Could Surge on ‘Beat-and-Raise’ Earnings, Analyst Says - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWVE3N0duQ2pLemhWeFhjT2ZkajZtRldUQV9DdzBsVkdtRFdaTjZ0WW9BSVFhZE44Z0pBVzNJNmI5TjJoRmt2ZGhEcWtpT2QwWXdFQ25JdkNPc3o1djE2WldxNlozYm5CZHBPOGVUakZVeVFMWkJWM193UmpyVkJYcUNFZndPZ0lGVjhNRWgzQUlQb2FZelZHZzA1NG0zbWFUUEY4NTVkZlV2Ym8wakxKaFlXMElKNnJEa0FpQU1mWDBERlFfMmYwN0R4bkVTZzA1c3Z2azVRcW52emRqYTdpa0hhMHVVVGZ6WmZTQ2VkdXotUG0yMTFJUU5MTXoteXNi?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1063.96,
+        "changePercent": -1.02,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU): AI Memory Boom Could Outlast Your Expectations - Yahoo Finance: Micron (MU): AI Memory Boom Could Outlast Your Expectations Yahoo Finance...\n- SA analyst upgrades/downgrades: MU, NOW, SNDK, ACN - Seeking Alpha: SA analyst upgrades/downgrades: MU, NOW, SNDK, ACN Seeking Alpha...\n- Micron Stock Forecast: MU Pullback Tests $1,000 as Memory Cycle Risks Rise - FXLeaders: Micron Stock Forecast: MU Pullback Tests $1,000 as Memory Cycle Risks Rise FXLeaders...",
+        "sources": [
+          {
+            "title": "Micron (MU): AI Memory Boom Could Outlast Your Expectations - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnVzNUtvQlVfaE85dkVkX2c3TEprbFdBUV9LSThDZVp6dnNOc0JNSlYtQ3dVZ24tdTVJMnFfWUtNc3gyVDh3bXloVGRsLWpkOWdyMTdhS3NPTDNrbjNZWXFpZnBTUnRVWUFPSW0wWDkzR0c1R3NlRkFzaC04eXVuYnYtNTNCQ216dUowclZMZXJTN3c?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "SA analyst upgrades/downgrades: MU, NOW, SNDK, ACN - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZEQtQTFkY3IwQkx3SVlJTE4xLW9qWWJBTkJjN1NteXlxYi1Rb010Y3VSN25HUndFX1gzV183cXFTczdsM1BmaC1CS2ZuV2dXbWt1b0lweWJKN2thT2JzT1VNM2s0VUxHOXpXMVJoMjR2dE14NHVmbklIZkJZOFQ1b3E3Wkh5WkxwNmlLbg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock Forecast: MU Pullback Tests $1,000 as Memory Cycle Risks Rise - FXLeaders",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYUhrR21ua2FqMkJiYlpFd1Nua0duS2FCRVBjZHVDY20ycFZFMG12RHV0N2lHWGtsVGozalZEUUFjY1FYM3VIYm1iVzhnblBCQU9ZLU9QM2l5XzRwWlRfZWZpREt0TlhOZ1N0VW9Ud2dBTzJpMzFReHlKLTlJZUlfSDBsVG85d3NDWnp0bHp3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-05": {
     "date": "2026-10-05",
     "lastUpdated": "12:35 AM KST",
