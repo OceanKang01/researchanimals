@@ -8,7 +8,7 @@
     {
       "ticker": "INTC",
       "name": "Intel Corporation",
-      "earningsDate": "2026-10-22 AMC (마감 후)"
+      "earningsDate": "2026-10-29 AMC (마감 후)"
     },
     {
       "ticker": "AMD",
@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-07": {
+    "date": "2026-10-07",
+    "lastUpdated": "01:17 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. ($LITE) CEO 2026 Pay Revealed - Quiver Quantitative: Lumentum Holdings Inc. ($LITE) CEO 2026 Pay Revealed Quiver Quantitative...\n- LITE Stock Price Prediction 2026-2027 | Lumentum Forecast - 24/7 Wall St.: LITE Stock Price Prediction 2026-2027 | Lumentum Forecast 24/7 Wall St....\n- Lumentum Holdings Inc (LITE) Shares Surge 3.8% -- What GF Score of 68 Tells Investors - GuruFocus: Lumentum Holdings Inc (LITE) Shares Surge 3.8% -- What GF Score of 68 Tells Investors GuruFocus...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. ($LITE) CEO 2026 Pay Revealed - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWNVNFVja3BIOHlIRDNJVEVITmhJTHBObmZ4a3ktbnJMdXF3VlFTcVNLamYtcDYyVmFHUUxaaHZlcDZyOE50bzFsajhRQ2djR2phRXpoeXVZYWxVelZCV0hTZUdFRGJGS0VIeXhMc3N5cnhwVmRWbjdrOWFmX1M4RkdrN3cxNHZlc2pabDRwRjJSeFI1Tnc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "LITE Stock Price Prediction 2026-2027 | Lumentum Forecast - 24/7 Wall St.",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVEUyeFk4YUt5emxBempkNFVIczVmSVhJcUtaT0pmdnhjUk5hczQyazNISkdadVlweWx5d2laZjFtRFJvWFNyZVhBX2FDbGw0NmZudmhUNnVMYjEtZDdodlRDZGE3cUV6R2ZXUHVzSnJ1S2tkemdGc096c0lvdmJvbFNLR0hNN3RUaTNDd0NYQ1JCZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Surge 3.8% -- What GF Score of 68 Tells Investors - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3B2MUZFQ0Jxc1ROR2RpSG02QkEzVnZ0Qm1fR0pQMVZHcHVWNHJfT2drWDRoVzk4MW1mS0p6QTY2WW9PMlhyN3psdHpTUE5ZcDVwTDZCUG5WbmdVUEJScVlmTDdJQUhrM2lRYkNtWklucGpmWlBNMEZPN3VlMXByTlgzLThweUVYMlF5UzZ6bTR0TkhWOVRXR3hoYzZqNGhXeGNIRVJqT2YwZXlhSDV3WkdZQVM4cUhJ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 112.5,
+        "changePercent": -3.18,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Stock Sinks As Market Gains: What You Should Know - Yahoo! Finance Canada: Intel (INTC) Stock Sinks As Market Gains: What You Should Know Yahoo! Finance Canada...\n- Intel to Report Third-Quarter 2026 Financial Results - Business Wire: Intel to Report Third-Quarter 2026 Financial Results Business Wire...\n- Intel Corp Stock (INTC) Closed Down by 3.19% on Oct 6: What Signal Does It Send? - TradingKey: Intel Corp Stock (INTC) Closed Down by 3.19% on Oct 6: What Signal Does It Send? TradingKey...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Stock Sinks As Market Gains: What You Should Know - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmJUS0NlSC1fS2FLZ2FfTG8tdzRvdnl0bzVaZkxJejBLeU1abE84YVl1U2I4WF9SVEMyelQ4OXQ3SWdWUl9XYk10b043SGpoNGloTUJVa282RW96eTh0dnRjb3FoMVNpYVdrckZqQWFxeDdsVlF5RWxlMDl4cjNObjVuaDY?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel to Report Third-Quarter 2026 Financial Results - Business Wire",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWXRtTDFNVF9LcldtaW9lU1ZDcXQ5eDZVNl9xdnUwZVJlVTdHaGFaYnRiVEU5cGZsSDdPaVVjUFVnY3lzNGJlS19vNjY2N1RkamZnWlBTWHlodmN5V21MTXF3NXp5amdzTndHMXpDQTFYMWQ5Z0ZkX203d0VWc2dkbGNhVUE4Rk5ScDhMNzZraWd1ZVRmd3dZVFRDOEpMNTduNnJaMlkwclZndC1vYXc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Closed Down by 3.19% on Oct 6: What Signal Does It Send? - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3dQNEZiNkdldFJGN2hndWhZUHc2cUQtVG1EWS1UR20wdTliX1hvM2w3SmU3V1BfQmZKMGdZVjBJZHJ3M0x5d1pZLW5JWnhRSTlUZHVvc0pNRDBQYzNnZEpva0RVWllhNDZkMEh4MUlTNHdPdURzdVJlR1B5NDR4X0xuOHZseldteTgw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 649.42,
+        "changePercent": 2.8,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Is Advanced Micro Devices (AMD) Still a Buy After Its 180% Plus Rally? - Yahoo Finance: Is Advanced Micro Devices (AMD) Still a Buy After Its 180% Plus Rally? Yahoo Finance...\n- Advanced Micro Devices vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026? - The Motley Fool: Advanced Micro Devices vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026? The Motley Fool...\n- Advanced Micro Devices (NASDAQ:AMD) Stock Price Up 2.8% After Analyst Upgrade - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Stock Price Up 2.8% After Analyst Upgrade MarketBeat...",
+        "sources": [
+          {
+            "title": "Is Advanced Micro Devices (AMD) Still a Buy After Its 180% Plus Rally? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXdaTFVOUm96ZWQ4czMwd0t4SFdybmE0eHNvNXVYZ282a3BBR3ItRHR4REZrYVJoeFl6c3VfOHdiSkFQOS02R2xrc0VaRWdCNC1IRjl6REtMaElGZzR2RE9STndEUFFvMlBkV184NThPRFVWcXhHTHB3Rk13QVlTbGdjZ3VhaUJyM2NOU19MNVdvdzBRTUs0cVJ0OVI?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeGQ3dUc4cEFtNVIxeDV6WVkwUG9TNlBMOGUyUjJPSmktMXdPLXlqZXVfWWNRSGRjWXVHM0hRb0ZZYzlzUXFyZmhEUEFRZ05GcjVhSnVablIxMlM5WEVkeHpWeWw1bWtmb1JtX1V2Z3RERTZKTHRCbHNOc3JvdzRWMTJTNzNGLUZwUF84ZFJwLXEzYndhR0VmN3hacnp5QUhWdmp0b0M4UjZ6N1ZLV2x2ZUxyUDdsNVR3QzdrdGhwZnZoOHNBc1h1WmR4V25CbkE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Price Up 2.8% After Analyst Upgrade - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFpDNmFPa2U1RFIzeUQxMzBWM042Vmx1WU5VQTZ6T1ZBTVNiN2t2V19KUVZfakVON2hmdi12dmJiSnRNVU5odjhMZjVFM01sUFVKWTJEOUZWemRIVmtCUnQzUDZpMVVYLXJwaU5BTUJWRldndjJORVFpNnZmb184V19EYUZPZzhTYXl0dnI1akZEYU1jUDR4WWRSZElLR3lRb0ZTdmRzQ19CbUY2eXBxX1BnemJnUlhPWlJCRVExWENSSy14dFdrcGtRcUlqZw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1045.56,
+        "changePercent": -1.73,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU): AI Memory Boom Could Outlast Your Expectations - Yahoo Finance: Micron (MU): AI Memory Boom Could Outlast Your Expectations Yahoo Finance...\n- Is Micron Stock Worth Holding After Its Solid Q4 Earnings Results? - The Globe and Mail: Is Micron Stock Worth Holding After Its Solid Q4 Earnings Results? The Globe and Mail...\n- Micron: The Market Still Doesn’t Get It (NASDAQ:MU) - Seeking Alpha: Micron: The Market Still Doesn’t Get It (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron (MU): AI Memory Boom Could Outlast Your Expectations - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnVzNUtvQlVfaE85dkVkX2c3TEprbFdBUV9LSThDZVp6dnNOc0JNSlYtQ3dVZ24tdTVJMnFfWUtNc3gyVDh3bXloVGRsLWpkOWdyMTdhS3NPTDNrbjNZWXFpZnBTUnRVWUFPSW0wWDkzR0c1R3NlRkFzaC04eXVuYnYtNTNCQ216dUowclZMZXJTN3c?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Micron Stock Worth Holding After Its Solid Q4 Earnings Results? - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaG5sVXh4VFFFRHJOTy1aSDRvZnFRQ1AyaFU0bWhkaWtYT2NPWjByQ3dIXzllX2dXTUxUUmsydDlsODdXRmZVOXN4LVhDSHhtSVZ3N3JCQ2pjLTVxdjAzdFZISm1OTG1zNE9mTjZBcXQwanEwM3hrdlE3d090cno3VDdLNDhWd2ZaZEVoZDE3WkNiRVNDSDFPYVpsaW5PNHQ2cTNJc2tUbWwyYjVMSk41b19vSVVpZi1PYmVyS2ExS0NHWGVGc1ZaQlJYX0VhdnNFaDJYXzBVWFVqZkxJb3NLTWVR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The Market Still Doesn’t Get It (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDJIcmNQZWJTRkFUWFR3V25rdldIZFd1TkFtUHFWemFPb1VZazc0T2lOcTVUM1BYampSM01nXzR4SkFMSlhpb0F1eUJoWmdQVUctV1dzbDRObTR0ejJqQklZVkNFOUxCcVdUMHdtZDJtYWtjeHktNFBJNWRpbXZiSEYxQUE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-06": {
     "date": "2026-10-06",
     "lastUpdated": "02:07 AM KST",
