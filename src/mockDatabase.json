@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-08": {
+    "date": "2026-10-08",
+    "lastUpdated": "01:38 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 1111.07,
+        "changePercent": -1.97,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo! Finance Canada: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo! Finance Canada...\n- Lumentum Holdings Inc. Company & People | LITE - Barron's: Lumentum Holdings Inc. Company & People | LITE Barron's...\n- Lumentum (NASDAQ:LITE) Shares Down 2% - Here's Why - MarketBeat: Lumentum (NASDAQ:LITE) Shares Down 2% - Here's Why MarketBeat...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFNyajE3TlFNQnhaM2ZDMVVFazlteXkwUW1CVW5pYVByOG9IVVFrd3h4b1FhVFJ3bl8xUkFJZDN0TUg5SlBMVnNSSEJLNnZoVnZpYWZzS005U1FJUEg4OEV1dWlCNTlPZ3AtN1JyZmd5UXFaQkJvdERBd2w4M0Z1eWFMelVCTWRLZkJLaDQ3QUNmMVk?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. Company & People | LITE - Barron's",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWkl2QnJUN0NqUFhKdHFKRmRwcVJXcmZpZWQwS0hZNlZWcGNuaWZ5Y1hWM3d0Z3dxVURraUgtVlZPeDVranFaMHEtVGM0em5TVW56RzFrWXhFYjduSTBlUWg5elBaUFRzWDE1QmJhWG5TQk9oNHFQVzEyaXRlYnhfMUw5eGs3Z0lPcy1UUE5QWVpPZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Shares Down 2% - Here's Why - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHE0OWZKMlBfSzVuWndkUkJkRkdXaXpIOXlLZHRZdHo5Nm5Peks3dGl2QVVVU0lsUFJnRGlTXzZlcktMSGtZNEtpbDk4UE9pMFQzY1RlN21NMHUxWmZTYnMyWnhJY3NXb2RBbnZHd25MYlNjUEkza19zVFUxWmpnZmRLODFlWWlCNG84T28xMktJaVdGOG9GZkVZSUFQRGZaTFRucm8yNA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 113.12,
+        "changePercent": 0.55,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation (INTC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance: Intel Corporation (INTC) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance...\n- Intel Stock Is Trending Today: What's Going On? - Benzinga: Intel Stock Is Trending Today: What's Going On? Benzinga...\n- Echo45 Advisors LLC Acquires New Position in Intel Corporation $INTC - MarketBeat: Echo45 Advisors LLC Acquires New Position in Intel Corporation $INTC MarketBeat...",
+        "sources": [
+          {
+            "title": "Intel Corporation (INTC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMkptREdIQjFVT250bzJ6QjJMS09OemdqSkMtRWdWTXFDQ1ZyWDdpclgwWlhkRE5CUV9WNVV1TjE3RWFqX001cXR3RUNHaE1YckZIbHNwaUZ3S1FtNDdlUEtNMUJPbnJMSzJJNDVfQXpOczRPRnROQndkeWVsckc0d2VvUzBleXJpYm96REE0RDdzYkcxMDdFZWdZUDNxVUJTZnFsNFZ6SW5UQ2M?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Stock Is Trending Today: What's Going On? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON0cxRllBcUdWR0l1LU9OZ0R1WVd6MnBuMUlwSHhpQ3VmbGNXMm1LZW9NV1hmbmRrYncyMWp1b0xkcVkxc19GaXVCSkJzRGZCNmRJYTBpS1Y2LVpIdGtJX3lPU29nRC04TTRvMnhZSzR0SS1uelRXai10a3MxUHRBRE5qSEo3azllcUc1dmMxS2N1YmFhUzJhSDhhc3FGeExkVHVTS1IxVlY?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Echo45 Advisors LLC Acquires New Position in Intel Corporation $INTC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVVZiUV9Ka3pNb25abms2a2xyS3NUQVVmMlJueXZuQkdNSmFEUmdYVFBGMVBvSUZFbUdzdmN1WGRMSnBhcnlPZ3BhMHdFb3hiekhLOGhEcENLeWlkdlVlRzZRWTNLVWtIRHRyam5LZXlHNUFvTktPSkdtR3VHTVdSdmplN0U4c2dBaWVQR0I1MkxSODVuQ3hLY0VEbF9TNld5a1BTeEVXMjJTNlpXRVdDMktGb1NKckRoOExjS0RmbkpVb25jQjRz?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 645.86,
+        "changePercent": -0.55,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Stock Sees Modest Fair Value Lift As AI Analysts Rework Targets - Yahoo Finance: Advanced Micro Devices (AMD) Stock Sees Modest Fair Value Lift As AI Analysts Rework Targets Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Stock Position Lifted by Cooper Financial Group - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock Position Lifted by Cooper Financial Group MarketBeat...\n- Advanced Micro Devices vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026? - The Motley Fool: Advanced Micro Devices vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026? The Motley Fool...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Stock Sees Modest Fair Value Lift As AI Analysts Rework Targets - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1RHb3hXUFA5ODJ4RHp4aVl2YlZVdTZ6RkFPQVVXd3prUEYxNmN0TWtoVHhBMVYxb2JhY1RZZTJkV3hVLWt1MjNvYkNVVkVPanRqQzNZUnBIWDdhVmlqenhtaHlNSm1ZSU1CMjhOa1RUZXZwMFBWY1kwZzZYTUpMQnFPcFI2NHRrMXY3Z0t6bHhOQndNbFdTSlNFYnE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock Position Lifted by Cooper Financial Group - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQVRaa1lHWmp3aHJmMnNHMUlWME10YnYtd3BBS1ZBRjkzbW5DM3FQbWgyYThfY3BsSUMwVDBWVjNDYWloNTNZX2xuLTgwUW1neGVzWGZoblRESm5VNjU4d1h6TlR3S1ZUMDdmLWQwa0dDbUtkT2FsR2M3UWhEUmFfZDlraXFTYkMyMDc3eG9nc0x3YzJJNEJvU3NXX3EzTmR0UUxNbldDTEV4b0FwcEhDcWtGLXR6VXNqS0JSaWIyb2I1bHFVNjNtV3BZQmd1ZHcxc3FLa2xB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeGQ3dUc4cEFtNVIxeDV6WVkwUG9TNlBMOGUyUjJPSmktMXdPLXlqZXVfWWNRSGRjWXVHM0hRb0ZZYzlzUXFyZmhEUEFRZ05GcjVhSnVablIxMlM5WEVkeHpWeWw1bWtmb1JtX1V2Z3RERTZKTHRCbHNOc3JvdzRWMTJTNzNGLUZwUF84ZFJwLXEzYndhR0VmN3hacnp5QUhWdmp0b0M4UjZ6N1ZLV2x2ZUxyUDdsNVR3QzdrdGhwZnZoOHNBc1h1WmR4V25CbkE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1088.0,
+        "changePercent": 4.06,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU): Pullback Driven by Debates Over AI Capex Sustainability - Yahoo Finance: Micron Technology (MU): Pullback Driven by Debates Over AI Capex Sustainability Yahoo Finance...\n- APLD, BULL, SMCI, MU, CAT: 5 Trending Stocks Today - Micron Technology (NASDAQ:MU) - Benzinga: APLD, BULL, SMCI, MU, CAT: 5 Trending Stocks Today - Micron Technology (NASDAQ:MU) Benzinga...\n- Micron target lifted to $3000 by DA Davidson on AI memory demand (MU:NASDAQ) - Seeking Alpha: Micron target lifted to $3000 by DA Davidson on AI memory demand (MU:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron Technology (MU): Pullback Driven by Debates Over AI Capex Sustainability - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLW9kb29VZjVMY0FXN0ZuM1FoaUFSRkNScHBCNXhERGQtQkM3NTZVZUkyTzRWNjRLeVg1RVNHT2tiVElZTjc3TWFES3cxVE4tcW5HZUpvVWhHT2U4QWNqYVM0UndvZ3JFX2hLVTdWMm81LTRfblh2cVphVk13aHZGR1BpVVZBX0IxVUJhVzNuUXA1c0RPQVBOeHZjTlZSaEdOXy1n?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "APLD, BULL, SMCI, MU, CAT: 5 Trending Stocks Today - Micron Technology (NASDAQ:MU) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeFZZOFNQdVE2VXpVSHZJRkxaOGNnVGdSUlFqd2RSdEZ4ajlIbnJOc2Y5ZDZibFQwd0d5ZFFRQXJaZnE4Q3dyNkotZ0xoeTZ1cVRRVThjYU9WZWoxLXZ5VjI0R3puLW9hR0dROTBSc3Nlc1dvNW15R1FQV2ZOQUQtMHpVX3ZSY0ZrN1o3QS1xVC11d3lTelJvYkFKSzNManBCZXhpWDhTdlV4c1RkT3FocmVSaE1peVNBckZJVDFIWE9sRUhIN3VibllLNmdrUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron target lifted to $3000 by DA Davidson on AI memory demand (MU:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0VLVllxLWNDcFg2QV9Xb1UyRTh1ajFIdEprZFVkSFNMUGoyS2NCZDNfUW1MVFlTTTQwVFhCeGZfOHJrdzZLbzRwUTNRNDJGeHJhcHlWVnl3SVJPOEM1Y25tSk1nbkp0WG9LZEdXTzhWQ3NldGxtZWRkV01NR3gzZ0FwTVJWY0ZUdGZpeGFSbTJ6WmhPQ2lSMzNDbEVGbkUzRWs4N3Zn?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-07": {
     "date": "2026-10-07",
     "lastUpdated": "01:17 AM KST",
