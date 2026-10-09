@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-09": {
+    "date": "2026-10-09",
+    "lastUpdated": "01:51 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 1048.6,
+        "changePercent": -5.62,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) Sees Soaring Demand for Optical De - GuruFocus: Lumentum Holdings Inc. (LITE) Sees Soaring Demand for Optical De GuruFocus...\n- 61,938 Shares in Lumentum Holdings Inc. $LITE Bought by Artemis Investment Management LLP - MarketBeat: 61,938 Shares in Lumentum Holdings Inc. $LITE Bought by Artemis Investment Management LLP MarketBeat...\n- Lumentum: Conquering Connectivity (NASDAQ:LITE) - Seeking Alpha: Lumentum: Conquering Connectivity (NASDAQ:LITE) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Sees Soaring Demand for Optical De - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmRnRVpYQ2RPcHVRWEZZSUY3VExoakNlalhaZ0J1RFFMVlpQX00wN2xKVUdOOHpxUURYNGJESlBiV2p3NXhldU5QSW9rbDZvaFB3QWFzUEc4UkFMQXNjY19JY3E4ZHAyN2E2UXVMOVREcEU3ZTBpMWdhS0w4S19wMkVmRFdKYllDMFhFYjVjT294dmwzVG5CeUY0eHpqdnRDYllhNzUtSE0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "61,938 Shares in Lumentum Holdings Inc. $LITE Bought by Artemis Investment Management LLP - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcS12cmFlLXliWUJIWk5RN21ybGxSSWctWlVndTdJaVpKX0YtQ3c4cXNYTjF4NmFJX1c5TzJ3Zld2c1UzRkVqdUI1SWlXMnlHR01pUHNsNy1fSG1ZNkNvNWdreDlYY0IwTnR0eHpEUTFQa1cwb3djbEw4LWRzdklxMzNZQm1wZmZwSWNxSFpkcWUtei1kci1EYVRSa2ZyWlZqa01uRTh6bWV1a21SWHZGV3JaakhpRGdJczVWUkxmWmR3NmszUTlUS0RnQjVoNlNfOW1EYWpZSnRVWDRQekhOdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: Conquering Connectivity (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PZWgxR002NzF2NVQ0MExYZFVvZTlmX0tTcFduVEl0eGJBbHlaRFJoVHphOG1CUnd2blY5MDNvcXY5VWJnaWlVOXcxbHByM3dZeHdKT194dUlQOUwwNDk1Ukd3dTVDZDR5RnZlbkJuU3dvbUsyWWFCeE1vTEtXQQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 107.08,
+        "changePercent": -5.34,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Stock Is Falling Thursday: What's Going On? - Benzinga: Intel Stock Is Falling Thursday: What's Going On? Benzinga...\n- Why Intel Corporation (INTC) Stock Is Down Today - Quiver Quantitative: Why Intel Corporation (INTC) Stock Is Down Today Quiver Quantitative...\n- Intel (INTC): Buy, Sell, or Hold Post Q2 Earnings? - Yahoo Finance: Intel (INTC): Buy, Sell, or Hold Post Q2 Earnings? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Intel Stock Is Falling Thursday: What's Going On? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0xSeUJMN1Z5WTVsa1dlQzBETmdtYVhnV1VkbXVxVjFNMVVCWXlkd25CaTJYRDhJUWRhUkJVMFc0WlhWQ2Q2VW1wSnRNbm9jQ3ZMcTBnbWJSamgwU05UY1AzbDM0U0xtRXQycnZ3TG03TEtTa1RNa1h2TUlVQzlzODFPbVRkZkpTTWhkRmU1a1RZMnNlTmRRMU9yQ1dVMDhmbU92QmQ3WHBoWTQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Intel Corporation (INTC) Stock Is Down Today - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdnJhZUhKYVJPajZ0R3htNGFhZE9nZXdDWVFYa2dIZHdLVndjdzFOWk01RFBBcmV6ZF91VXdLY2E5SndGSUY2ak5xemdDdTctRVFJeGtWV2dod0NIZ3luOVE3WFAta2FpY2NhLUtqZXNod2xJaFRPYWZmX1dwdXE5bnQyVHpjWm9vRENIZm13?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (INTC): Buy, Sell, or Hold Post Q2 Earnings? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOW1GcURpVGgtT2VreWxPV0hERHcyMEFfTnl2VEVHQVdlUXBSU3plNFI2Y1p1X0IwN3UwaE5JVkl2VkNzSGNQWDZ0R2k0Xzc1UDVLLUZDVWZXUFRXN3RTUXExd0ppaHpHZXhvRHMyVFZYekZWUnY0NFAyLVZFU2xCQlNuR1BiVWp2SUJTZmFpSjVpZ1E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 620.68,
+        "changePercent": -3.9,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Stock Sees Modest Fair Value Lift As AI Analysts Rework Targets - Yahoo Finance: Advanced Micro Devices (AMD) Stock Sees Modest Fair Value Lift As AI Analysts Rework Targets Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Stock Bought by Hamilton Capital LLC - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock Bought by Hamilton Capital LLC MarketBeat...\n- Advanced Micro Devices Stock Hits Record High on PT Hike - Schaeffer's Investment Research: Advanced Micro Devices Stock Hits Record High on PT Hike Schaeffer's Investment Research...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Stock Sees Modest Fair Value Lift As AI Analysts Rework Targets - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1RHb3hXUFA5ODJ4RHp4aVl2YlZVdTZ6RkFPQVVXd3prUEYxNmN0TWtoVHhBMVYxb2JhY1RZZTJkV3hVLWt1MjNvYkNVVkVPanRqQzNZUnBIWDdhVmlqenhtaHlNSm1ZSU1CMjhOa1RUZXZwMFBWY1kwZzZYTUpMQnFPcFI2NHRrMXY3Z0t6bHhOQndNbFdTSlNFYnE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock Bought by Hamilton Capital LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQajhkeGpoWWhkSkxZRF8xZEZpNV9adktXcm85ZzVSV2tLSzBsU0ZWUjN2cm13eWFHeWZlcTd4RjVOb3A3V1ZtVEFWWHl2SjhoblliYWpTWHB0MGxVbWpNcWtHUHpsZ1k0R0pnYzM0V2wyTlNCT05tclJwVmNBY28tNXR2YzhNMXkzMkVVQlNOYkdyb002akVXaVNzSDRsamdZZFpDYWU3TVpscHlJWkdJRHJGUzJXcFlKTy1mb1ZUbzNSZk1adnQ0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Stock Hits Record High on PT Hike - Schaeffer's Investment Research",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNckQxMllrcDlFcmI2ZVJJSlRwQThEeW5kWjhDWTFzcnlVMTdyUkVQd2JESjE2YjJ5UVczbnVLZzh5amtUX1ZVS19sdVA0RWpYY0ZxS1E1dzdfM21GVVJMRDRhaGxUTHhpcnUyRUNNQ2xqMFFjUExIaTBibzJQSzVCWFplLUNCWFpOcUl5VkJPT0M2aDZGcTQtNjA3TGRJNXduNmlrTU5oQ0ZWVlJGbVpEQWZBbXRkdw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1035.84,
+        "changePercent": -4.79,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU) Is A Stock Jim Cramer Thinks Could Go From ~$1,000 To ~$2,000 Per Share - Yahoo Finance: Micron (MU) Is A Stock Jim Cramer Thinks Could Go From ~$1,000 To ~$2,000 Per Share Yahoo Finance...\n- Micron: The Party Is Coming To An End (NASDAQ:MU) - Seeking Alpha: Micron: The Party Is Coming To An End (NASDAQ:MU) Seeking Alpha...\n- What's Going On With Micron Technology Stock Thursday? - Benzinga: What's Going On With Micron Technology Stock Thursday? Benzinga...",
+        "sources": [
+          {
+            "title": "Micron (MU) Is A Stock Jim Cramer Thinks Could Go From ~$1,000 To ~$2,000 Per Share - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPemotNkpWNDdBSHN2bmVTakNpOVQycmNsY3hJTkl0ajVpVnJyVGFEQ09QZmZLX0dpbnh6b0JFV0IxdDdOcURjc0c1X3NQdzJtYXl4LVQxSi1hazMxeHhqTlo5MXZiekVFVlpXY0NNbGVmb3UtOG5QMDRTVGRqSlBUMnA1Nkx3VmF1MDEyeVZ2TUdvelVPZkE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The Party Is Coming To An End (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3dLWFNEMHdZbnFkRGR6OE5yV3Z3czJ3Q0p3VXFDdlR6djBqUXJtam5DcWhQa0hVWnZWZTFacTNNUzlDLVNoTUZNcElKbXpGNnJaYlZidHVfRGwtdFBPWHhzQnk2Q3NjQ1hHbk83QmdBc2h4LXY4RjEwdFQ1aHQ3dVRXdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With Micron Technology Stock Thursday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVDdXYjJacjlET3NtOHNDdmRhalJPd3NkYXhkemZ4RUdSc0psZ2hyc0NKczNRazlQRkxHN0tic0NUbDV1TEdITlJHYlZuc2JCV1Z0YmozMU93UmpCUmRTOXBfUk56Z2ZhMHRtSHVvSmFwY05SWnFORTlDZ2dIWnlLenV0amN1SEhnSjhfdzBsWDdiMmtlX2ZPNVNFZk1Bc0xpVXlibHBlR3RHYzg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-08": {
     "date": "2026-10-08",
     "lastUpdated": "01:38 AM KST",
