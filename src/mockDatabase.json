@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-10": {
+    "date": "2026-10-10",
+    "lastUpdated": "01:34 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 1103.35,
+        "changePercent": 5.22,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc (LITE) Shares Surge 5.2% -- What GF Score of 68 Tells Investors - GuruFocus: Lumentum Holdings Inc (LITE) Shares Surge 5.2% -- What GF Score of 68 Tells Investors GuruFocus...\n- Lumentum: At The Point Of A Potential Upside Breakout - Seeking Alpha: Lumentum: At The Point Of A Potential Upside Breakout Seeking Alpha...\n- Lumentum Holdings Inc Stock (LITE) Moved Up by 6.27% on Oct 9: Key Drivers Unveiled - TradingKey: Lumentum Holdings Inc Stock (LITE) Moved Up by 6.27% on Oct 9: Key Drivers Unveiled TradingKey...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc (LITE) Shares Surge 5.2% -- What GF Score of 68 Tells Investors - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ3dTN1JTN0dpM2oyY1hUVkotOU5yR21fTGV4MHdBUTRraExaUEwxSFE3dGNvdEx3TXBJWmtvZ0dvamZKWDREakd6V2F5ZjR6OS1kNEl5Y3d3NDg3alo1ZmlHY3lzdkNabFRtYVdFdndjUkEyZTQzOGdZeG14c2VkWmlxM20tN19fa0Rack94WlNOdzItZGwweVJXUHBYNE9TSGdzWWdoSkx1Q3BwRmE5c3hIcTJTUnlN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: At The Point Of A Potential Upside Breakout - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQklvd2wtOTNFZkFySjd2WHFPUnJQdnJadDlQMlhCbm5CWWdGaHhVZy1hVkowYldDZWlZdHdWUlRvUWVFLTJnMWNlNWl3cnhOdkpCcWJYTkhxQkh1dXBpaV9FVVFHbG9NOVZkd3VLM244MENvQTBvREtDTzBOeF9mTHFPVHFMOU53QnpjUg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Moved Up by 6.27% on Oct 9: Key Drivers Unveiled - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR1lNbEtlOHFwMmpRUi1INTc3OTlmQ0dCa1ZkdXB4YmtoU2FUdUpDZkttSkY4d3lnbXBuNVlSNFlJSUZLVkxSSF9NdWRBcVh6eGl6VzBKRXh3aUwzNHVndVk1SFBFczloYURWVjI2cjdNTjNndThfdjBPVTFWSU1wTFBVc1hPdDk4S3RB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 104.7,
+        "changePercent": -2.22,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Stock Is Falling Thursday: What's Going On? - Benzinga: Intel Stock Is Falling Thursday: What's Going On? Benzinga...\n- Why Intel Corporation (INTC) Stock Is Down Today - Quiver Quantitative: Why Intel Corporation (INTC) Stock Is Down Today Quiver Quantitative...\n- Intel Corporation (INTC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance: Intel Corporation (INTC) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Intel Stock Is Falling Thursday: What's Going On? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0xSeUJMN1Z5WTVsa1dlQzBETmdtYVhnV1VkbXVxVjFNMVVCWXlkd25CaTJYRDhJUWRhUkJVMFc0WlhWQ2Q2VW1wSnRNbm9jQ3ZMcTBnbWJSamgwU05UY1AzbDM0U0xtRXQycnZ3TG03TEtTa1RNa1h2TUlVQzlzODFPbVRkZkpTTWhkRmU1a1RZMnNlTmRRMU9yQ1dVMDhmbU92QmQ3WHBoWTQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Intel Corporation (INTC) Stock Is Down Today - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdnJhZUhKYVJPajZ0R3htNGFhZE9nZXdDWVFYa2dIZHdLVndjdzFOWk01RFBBcmV6ZF91VXdLY2E5SndGSUY2ak5xemdDdTctRVFJeGtWV2dod0NIZ3luOVE3WFAta2FpY2NhLUtqZXNod2xJaFRPYWZmX1dwdXE5bnQyVHpjWm9vRENIZm13?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation (INTC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMkptREdIQjFVT250bzJ6QjJMS09OemdqSkMtRWdWTXFDQ1ZyWDdpclgwWlhkRE5CUV9WNVV1TjE3RWFqX001cXR3RUNHaE1YckZIbHNwaUZ3S1FtNDdlUEtNMUJPbnJMSzJJNDVfQXpOczRPRnROQndkeWVsckc0d2VvUzBleXJpYm96REE0RDdzYkcxMDdFZWdZUDNxVUJTZnFsNFZ6SW5UQ2M?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 608.1,
+        "changePercent": -2.03,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Can Advanced Micro Devices’ (AMD) Helios Racks Justify its Forward P/E? - Yahoo Finance: Can Advanced Micro Devices’ (AMD) Helios Racks Justify its Forward P/E? Yahoo Finance...\n- Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 2% - What's Next? - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 2% - What's Next? MarketBeat...\n- AMD: The Market Is Not Ready For The Huge Margin Upside (NASDAQ:AMD) - Seeking Alpha: AMD: The Market Is Not Ready For The Huge Margin Upside (NASDAQ:AMD) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Can Advanced Micro Devices’ (AMD) Helios Racks Justify its Forward P/E? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeEhFNE0zOE9ZN0k3ZlBqdlZBaFc4c2xPQ3ptZTlfM25WVXNnXzJ6TVlaVnkyU25fekJSaHVTY2RzZFpWQ0JHeG9rSjc0enpqVG50UUt4SFNvMHZzX2tDMGxXZnFwQ1hLdU5CMzYzd1lCM3hiT3MtVktIdEprWjJLdVhSbFcySTdPdS1wU1o1WWlNN3Y3TUs1Mm1rOUpwM0U?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Price Down 2% - What's Next? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSTQzQjBBeDdzZkNXNXktOEI4eFF2NGExMVM3Z2ZXLWVHY0p0N29WZ2YxRDc1ZmthU01ta0dKaVc3cFNZcjBxZU1FNWpjVUdCc1lOZVRDa29DUjkyVXVqQ1FvSjV3ZUJtc1NxVGgxclZBeXpRNmJid3hlUW4weHhzMlhNV0haZ0w4dHREazZUdVdjODBGWm5rNmhzT0hYT2ZSOGduVWpuWXJIY3p2Z19MbEQwZUJ6VlFjc1ZpMVhQWnA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD: The Market Is Not Ready For The Huge Margin Upside (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXR5d1UtWEVBZUpWSEU2RFVINUhwQmR5aXdiQWFWeDZ5Mmh1dU9qa29ESWJZN1RnckpvZlVUTkdXM1BLbF84WWFqMk5INVkyajVtRVBTRTZ4T05nV0J3aXNkSkFfeW5lZDNOYVFxNFQ4VHZnRFhBWDJCTzR6NU9vaWdtNHN0TGZ1d1YtOWNIQU5CMnp5cDdPak5wUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1029.0,
+        "changePercent": -0.66,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU) Is A Stock Jim Cramer Thinks Could Go From ~$1,000 To ~$2,000 Per Share - Yahoo Finance: Micron (MU) Is A Stock Jim Cramer Thinks Could Go From ~$1,000 To ~$2,000 Per Share Yahoo Finance...\n- MU Stock Could Soar to $3,000 in 24 Months - Micron Technology (NASDAQ:MU) - Benzinga: MU Stock Could Soar to $3,000 in 24 Months - Micron Technology (NASDAQ:MU) Benzinga...\n- Micron: Even If Memory Prices Fall 15%, It May Still Be Undervalued (NASDAQ:MU) - Seeking Alpha: Micron: Even If Memory Prices Fall 15%, It May Still Be Undervalued (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron (MU) Is A Stock Jim Cramer Thinks Could Go From ~$1,000 To ~$2,000 Per Share - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPemotNkpWNDdBSHN2bmVTakNpOVQycmNsY3hJTkl0ajVpVnJyVGFEQ09QZmZLX0dpbnh6b0JFV0IxdDdOcURjc0c1X3NQdzJtYXl4LVQxSi1hazMxeHhqTlo5MXZiekVFVlpXY0NNbGVmb3UtOG5QMDRTVGRqSlBUMnA1Nkx3VmF1MDEyeVZ2TUdvelVPZkE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Stock Could Soar to $3,000 in 24 Months - Micron Technology (NASDAQ:MU) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPSXlhcnU4WW0weVQ4RXZsRWxwMXRKcGR0UnQwRFdLRGUzRDF3bm10TWY2ZFJNeXBWdHVId25jMElVSU5aZGd4aVRyZjVTWmJpZllKMUlIazZiQUJTWVZjTUpHOUk0U1BYdjhQZVYycXFwWmdrcF9RUG94aXluWlJPeHp4aFZyZW5pYkhwTE5NS1M0ZWlRS2g2SDVsWHR1SXV2QndSLWQxUFBhTmg3MU4ybW8xektHaEU1eXB2TUt5cWVRcmhSZm93dktnbTRyNUNzbnNFX3NPRE8zbnlKeHNYTnVsRzczWjhPVXRibjc5Rzl1anBXNXhlQUFEUTlVc1lxdWJENW00a0VmazFhUnpJSVNQUzYxZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: Even If Memory Prices Fall 15%, It May Still Be Undervalued (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcllQeDc5bllQenVDQ3FZUm5jTWVqbldwYUtJeGd1YU1Sc1BCaW1qSnBQeFMyV1picnJuZWUtU3RHbGNwZmlBbjM0WHRxTmtfTkRpR1BqejJKQklIR0ZiQldIZmFsOEpwakpjMVg0WDc4YjVVcXVXS0pXRTQxS04zSHFNRks1NDYwUGFKbEJReEN1aGp6eE9JQTVDc2Q1dHNYZXJqWnVXZXpFdEl1ZEFaVFhzVQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-09": {
     "date": "2026-10-09",
     "lastUpdated": "01:51 AM KST",
