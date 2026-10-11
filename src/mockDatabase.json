@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-11": {
+    "date": "2026-10-11",
+    "lastUpdated": "12:44 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 1103.35,
+        "changePercent": 5.22,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum: The CPO Winner Investors Are Overlooking (NASDAQ:LITE) - Seeking Alpha: Lumentum: The CPO Winner Investors Are Overlooking (NASDAQ:LITE) Seeking Alpha...\n- Lumentum Holdings Inc. $LITE Stock Holdings Increased by Wedmont Private Capital - MarketBeat: Lumentum Holdings Inc. $LITE Stock Holdings Increased by Wedmont Private Capital MarketBeat...\n- Lumentum Holdings Inc Stock (LITE) Moved Up by 6.27% on Oct 9: Key Drivers Unveiled - TradingKey: Lumentum Holdings Inc Stock (LITE) Moved Up by 6.27% on Oct 9: Key Drivers Unveiled TradingKey...",
+        "sources": [
+          {
+            "title": "Lumentum: The CPO Winner Investors Are Overlooking (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlBETUFDYWxzUzJxYW16ZzVWbnQ4X2tuX0pSNXdNTjE5ZkpGZDMwcE43VmJNQVdHY1k0X1hPMklNVm1BZ3dVMTJ1a05HZ0VBSjhWaGJpLVAzM1RDRHFnRENoUnVPS2I3YmducTRLSnJZZXhma3pjSjc1aGxXZlNoeHAtdW1xNmNlUnFvSG9wb0NJVDZ6?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. $LITE Stock Holdings Increased by Wedmont Private Capital - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQVEyeV9zWXpLYXhBaXBGblp3OW1USXVTMXhjY3lGQWxsUVJDMmljWWR0b2VaOXIxWWpvRTVuNXFjXzZzVDViLWc5M1VmNm40SzdIdGZ5QnJ2TWRNcGZtQVMtME5SQzVVVXlnb3YzQlc4eUg0WjJmTEpYOHJmcnNyOWx2TXVRT2ZkbEdnUVZCVy1JYzFsYlNZSjE3cEJ5NnNfakZDRHBtY08xR2R5enNGT2ExVFBSNTN5V1VxMkRtTnh4NUF1V3pXZEpjVTBDQTc1ekpHY3N3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Moved Up by 6.27% on Oct 9: Key Drivers Unveiled - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR1lNbEtlOHFwMmpRUi1INTc3OTlmQ0dCa1ZkdXB4YmtoU2FUdUpDZkttSkY4d3lnbXBuNVlSNFlJSUZLVkxSSF9NdWRBcVh6eGl6VzBKRXh3aUwzNHVndVk1SFBFczloYURWVjI2cjdNTjNndThfdjBPVTFWSU1wTFBVc1hPdDk4S3RB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 104.7,
+        "changePercent": -2.22,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Stock Is Falling Thursday: What's Going On? - Benzinga: Intel Stock Is Falling Thursday: What's Going On? Benzinga...\n- Why Intel Corporation (INTC) Stock Is Down Today - Quiver Quantitative: Why Intel Corporation (INTC) Stock Is Down Today Quiver Quantitative...\n- Intel Corporation (INTC) options chain - Yahoo Finance UK: Intel Corporation (INTC) options chain Yahoo Finance UK...",
+        "sources": [
+          {
+            "title": "Intel Stock Is Falling Thursday: What's Going On? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0xSeUJMN1Z5WTVsa1dlQzBETmdtYVhnV1VkbXVxVjFNMVVCWXlkd25CaTJYRDhJUWRhUkJVMFc0WlhWQ2Q2VW1wSnRNbm9jQ3ZMcTBnbWJSamgwU05UY1AzbDM0U0xtRXQycnZ3TG03TEtTa1RNa1h2TUlVQzlzODFPbVRkZkpTTWhkRmU1a1RZMnNlTmRRMU9yQ1dVMDhmbU92QmQ3WHBoWTQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Intel Corporation (INTC) Stock Is Down Today - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdnJhZUhKYVJPajZ0R3htNGFhZE9nZXdDWVFYa2dIZHdLVndjdzFOWk01RFBBcmV6ZF91VXdLY2E5SndGSUY2ak5xemdDdTctRVFJeGtWV2dod0NIZ3luOVE3WFAta2FpY2NhLUtqZXNod2xJaFRPYWZmX1dwdXE5bnQyVHpjWm9vRENIZm13?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation (INTC) options chain - Yahoo Finance UK",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEdjN3YxdEFOOFFfMkhFUGdGY0ZOVlFmTTdYM1BONzJQWXlSMFgyQlM2Y3J3dHRzLWVJSkwtVGV2c3UtYnk2Z2lmc1ZDbzZ1S1RsT0ttMmhLTGNMTzZGZEplS2NZanZXSzRXVmUtdGZCWk55NUI1eENwZ1ZCSlluRjRLeXJ3LTVCTTZiRWlGeUJhQQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 608.1,
+        "changePercent": -2.03,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool: Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026? The Motley Fool...\n- Is Advanced Micro Devices Inc. (AMD) Right to Bet $8.2 Billion on the Future of Physical AI? - Yahoo Finance: Is Advanced Micro Devices Inc. (AMD) Right to Bet $8.2 Billion on the Future of Physical AI? Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Stock Sold by Jacobs & Co. CA - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock Sold by Jacobs & Co. CA MarketBeat...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQlhFSEFFMzhvcmdYSW01OTl5UlVCOHRsNVpVakZHQVVHQzRINUFPa2xsWGkwYS1SRlBfN0lxeThxOHZSZC1qZHBkTFJFRTBRZ3laekpIalhreDJqOFJCRE9VUlhIUEJZT3VMcnk2RWsxZFRoSWxsMG1xTGFZMjd6R2k5amV4TTlCak1BY0taTWFCbU5qMUx3UVhNS0xEX0RNZ0pPNlhheWxvZWpfTVFpSkFRNkx4TU1YclhrbFc0eU1SeWpXd2NSQlBTOUJwUzg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Advanced Micro Devices Inc. (AMD) Right to Bet $8.2 Billion on the Future of Physical AI? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYXBCT3dqYXdVd3NjN1dNZDNSN1lfemlhRk5Rb25QLUM4d25IdExpVnB3Tko5QUpLb1QzRTdnakE3OHVzNnZiQ0JDT0JTY05YLVdYUnRSVTU4XzhhM21MVmRpbE9VTXk2RFhJVUdWNmlDVm9XS1BtVTAycEt2aUMzUXkyVVNFWVlEbWhwRTdkNWtVRTRBSm52ejJB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock Sold by Jacobs & Co. CA - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFotTUMxUElIOGg2b0hSN3ZSSzM4YzZGcl9Nd3kwOTFQTjZIWkZNTmlmVjlzdjdlRUd2MmM2dHFrN2NNUE1oUGNpSzNTNUZPTjYtbFYzNG15MnFzbWM3V2RlVTZyRk9nLWNabU92OTJ1SnpLTk1laWJVWW12SXhjSnBCVFA5MU03a1NXV0Z3dWlGTHNvSTkyaURval9wZUw4TXJlQ283NHBFT28xeVZFZ2RrZ1RYQXhiM0E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 1029.0,
+        "changePercent": -0.66,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU) Is A Stock Jim Cramer Thinks Could Go From ~$1,000 To ~$2,000 Per Share - Yahoo Finance: Micron (MU) Is A Stock Jim Cramer Thinks Could Go From ~$1,000 To ~$2,000 Per Share Yahoo Finance...\n- Why Micron Stock is Struggling Despite Revenue Growth and a Low Valuation - Benzinga: Why Micron Stock is Struggling Despite Revenue Growth and a Low Valuation Benzinga...\n- OpenAI reportedly told investors annualized revenue neared $50 billion, below roughly $70 billion in media reports. - Stock Titan: OpenAI reportedly told investors annualized revenue neared $50 billion, below roughly $70 billion in media reports. Stock Titan...",
+        "sources": [
+          {
+            "title": "Micron (MU) Is A Stock Jim Cramer Thinks Could Go From ~$1,000 To ~$2,000 Per Share - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPemotNkpWNDdBSHN2bmVTakNpOVQycmNsY3hJTkl0ajVpVnJyVGFEQ09QZmZLX0dpbnh6b0JFV0IxdDdOcURjc0c1X3NQdzJtYXl4LVQxSi1hazMxeHhqTlo5MXZiekVFVlpXY0NNbGVmb3UtOG5QMDRTVGRqSlBUMnA1Nkx3VmF1MDEyeVZ2TUdvelVPZkE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Micron Stock is Struggling Despite Revenue Growth and a Low Valuation - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZTlwc2ZkaXhOSkNHNUkzWldhSU1FazhEcG04MTAwVkJrOHVOYWt0VmFvUlJEeVVxeFFEMHFPbWx4X2RnN1BXeUtlTEY2UTdCd0I4ZVoxSkNHXzctSWVCUzY0SmR4WFQwSmhYSGI1R2d2bG10V3F0dHQ0Q3VZcFp0NVdqM2xKbzFqd2IwZEpfOHhiZzNEQmFvdFpmZS1EdnltbS1GUDY5dUNCMGRmVGRqSWhZUUZLcG1udzBlcWJGdkZoUFZ5Zmo2czd3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "OpenAI reportedly told investors annualized revenue neared $50 billion, below roughly $70 billion in media reports. - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkY1Z0owdXpvYmFsTTNReUhEa1h2SXpJTzZfTW1TWmY2enJVSFJVM2pIMHNFM3pNRWU0STVjbTdvcVhCRnk1ZjNnbGp3a0N2RGE5SF94cTdmSGZtUWRsdzNYOEpMNmdQcHF5bWZyTDRMdUJ3Vk1kSGlaRklIYXFqNmdEUEctLVFIVEN4a000Mlk0MGg2N3JiX2hCTS1tLWtGWVR4alN1SUlTcXhFVmdLTw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-10": {
     "date": "2026-10-10",
     "lastUpdated": "01:34 AM KST",
