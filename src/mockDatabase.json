@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-13": {
+    "date": "2026-10-13",
+    "lastUpdated": "02:54 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 995.41,
+        "changePercent": -9.78,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings drops 10% as volatile trading continues (LITE:NASDAQ) - Seeking Alpha: Lumentum Holdings drops 10% as volatile trading continues (LITE:NASDAQ) Seeking Alpha...\n- Lumentum Holdings Inc Stock (LITE) Moved Down by 9.71% on Oct 12: A Full Analysis - TradingKey: Lumentum Holdings Inc Stock (LITE) Moved Down by 9.71% on Oct 12: A Full Analysis TradingKey...\n- Lumentum (NASDAQ:LITE) Stock Price Down 9.8% - Should You Sell? - MarketBeat: Lumentum (NASDAQ:LITE) Stock Price Down 9.8% - Should You Sell? MarketBeat...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings drops 10% as volatile trading continues (LITE:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzItc2JpSm5JRWhzMkM3THVUVFRoSTh1QmNrZ3NHWXpyOW5XU1o3N280b1JuRFhEVjdZRWtlNFFhTW4zc0tCajFNUXdMNVo2d0NNa2NROGFQN0tiRTJoVmM5ZWFRelJaUGxQclZud2hKTUJ6Mk9ZZHBKSlNocEMyaWRjSi1fUGJaQUo3ekpUanN5OFlMM0RpX053?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Moved Down by 9.71% on Oct 12: A Full Analysis - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcl9QdC1nX0hBNVh5UFJDSWFBT19DX25KRWZyQU9NYXpDX0Z0Y00xdmR4MjBQaVZHYW5KdHpoM1FLSnZPS3BRbTZjLXQ1T3pnbDl6S0ZvVUYyQXBKRUNzc1V5Um12UEdyUjJScGVrNEZQRTZKMTBFUVc3cXItMDZGNENyU043bGVqOW1J?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Stock Price Down 9.8% - Should You Sell? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZjNBejM4WFo4MTJJZFVLblNhNXQtWkRUU0pHNWxRWFJQUVlQMkVNVUUycEFidjlWVFlvRUktV2IzMEc3amVmRUhOSzMyTVNtX3pzcFFON05HaExobU9yaDFsWjZva041UmVyY2ItRFRqSmloMzhFbkNhSFlRUkEyTkpCYVQyYkdJeXZTWngxUWMzeGRJUFE4N19Mb05NbzhMRlM2eDBSQVc4VW5PS18xLWlEdWVmQ0U?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 101.35,
+        "changePercent": -3.2,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Fixed Its Chip Business. Can the Foundry Earn the Premium? - Yahoo Finance: Intel (INTC) Fixed Its Chip Business. Can the Foundry Earn the Premium? Yahoo Finance...\n- Intel Corp Stock (INTC) Moved Down by 3.02% on Oct 12: Facts Behind the Movement - TradingKey: Intel Corp Stock (INTC) Moved Down by 3.02% on Oct 12: Facts Behind the Movement TradingKey...\n- Intel (NASDAQ:INTC) Stock Price Down 3.2% - What's Next? - MarketBeat: Intel (NASDAQ:INTC) Stock Price Down 3.2% - What's Next? MarketBeat...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Fixed Its Chip Business. Can the Foundry Earn the Premium? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTnFmajc2QmluTllXTDIyanp4VDZsbFJ3N2Fza3ozanRWd2lLM05nYUx3a3cwVm43LUJRbm9OS1ppWmp4V1VqMXAyeUZ4U0hrZ1ZsMjg1Q3dpV2tCMEE5LWFkYmdhWkZlMFlaRTQ5REJmNzJ4b252dC13LVlzU0lHVjNJbEpFWTRtMFpfdUVFM1dwMkp0bk54YmloTQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Moved Down by 3.02% on Oct 12: Facts Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYU1iWUZQR3hlZlVfVllsV0JVUHI3S3F0WVQzZlQySUs3RkxtWkdVWmVjTnEwc0hSRWJ6bUY5LWh0WVNmWnFKaVpfMnNUM3JqOTgtM3VqWmhaNEstUmhwT1JZN2IwblhtX2t4S05fenh6QzZJTXphX0p1TnM2V2tVdlVrSWJ3S3FEMENN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Price Down 3.2% - What's Next? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNek9NdUVIZldzbTdmd0JuanBsaW5JRE11YUhpLWpXUW1aaEJaM3hjVWplU2VWWFI1aXN6WUtnZGNlNlYwTE5JdW1zM3VoRFhiMHdOMHY0ZUEteW43OHdfc2NHV3A3UXAxOU96T05ZNmp2LWxSWDdpcnZ4WXNqX2QwNlNkUHFyVUF0OVdEbFFtTVk5TDRhS1kxbWdmczRCa1RfWU1LTUVBRTBBTkVN?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 594.24,
+        "changePercent": -2.28,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook - Yahoo Finance: Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Stock Sold by Jacobs & Co. CA - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock Sold by Jacobs & Co. CA MarketBeat...\n- Advanced Micro Devices (AMD) Found a Way to Challenge Intel’s Dominance - Yahoo Finance: Advanced Micro Devices (AMD) Found a Way to Challenge Intel’s Dominance Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV19sb0haMmNnSjNrVjdoNTFwYWp3bHA2U3J3Z0FkNzZyWHRYYmhnUHpUZ2xmNmxIYUxVMUxyNGNjeDJ5MzJmcVZhNnFmejJjZVhyVGJIUkNEUHhXZWZFYmltRDNjVGVpUGVBQm5sbHdGU2psRXFtckE0bXQ0bkdrOHlKeWdNS2ZDR1p6dmQ0N3VpMjFIbnJMTHdwRVUzQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock Sold by Jacobs & Co. CA - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFotTUMxUElIOGg2b0hSN3ZSSzM4YzZGcl9Nd3kwOTFQTjZIWkZNTmlmVjlzdjdlRUd2MmM2dHFrN2NNUE1oUGNpSzNTNUZPTjYtbFYzNG15MnFzbWM3V2RlVTZyRk9nLWNabU92OTJ1SnpLTk1laWJVWW12SXhjSnBCVFA5MU03a1NXV0Z3dWlGTHNvSTkyaURval9wZUw4TXJlQ283NHBFT28xeVZFZ2RrZ1RYQXhiM0E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD) Found a Way to Challenge Intel’s Dominance - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMDV2Q09Td2JLaU1WSS1iX3RNV3RSSEdTVnBzSWpJOUY4RVgwQ0dTN3FUOE9MdS05WlJsaDhRV2hlYlNnWXZmRlRMR3d5ZlNhYXoyVXVCQndmM0J2N3ZnZVB5d082aXlZRWFnTjl0SXA2UUVXdGFFWGlDWXlwbm5adGxHNS1BaURodnVqazV1ZHJBNE9VUmVTekQwb3JDUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 989.04,
+        "changePercent": -3.88,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- 3 Reasons We’re Fans of Micron (MU) - Yahoo Finance: 3 Reasons We’re Fans of Micron (MU) Yahoo Finance...\n- Micron: More For Longer (NASDAQ:MU) - Seeking Alpha: Micron: More For Longer (NASDAQ:MU) Seeking Alpha...\n- Micron, Cerebras Systems, SanDisk, Meta and SoundHound AI: Why These 5 Stocks Are on Investors' Radars Today - Benzinga: Micron, Cerebras Systems, SanDisk, Meta and SoundHound AI: Why These 5 Stocks Are on Investors' Radars Today Benzinga...",
+        "sources": [
+          {
+            "title": "3 Reasons We’re Fans of Micron (MU) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdVpWZndoejl5RVNSdGExcFY0ZnA3UVQzRWdMMVdyaVBDdmJrc184REcybGxvcDNQRWNQTG45akFteWlxOHMyekpMVF9ZUHl4YW9obWQ5OW05cVNMelZ2T1VFdjAxZFFvSnNkUWljbUk5Slh0VVE1WlA4MWNZWGxwSS1tSlFfQnFNb2E3VldoWDFDbUk?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: More For Longer (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92NFpIN3pteXZRSE13Wjg0NlhRMm1yMlpIQW9oVGZ1Tlh5R3VVZnRyNEYwYnVNd2JsbnBfb29yUXZFaGJrU3NIMVRXQlMwanNqYmdXUVF5Nk56NXFRMjVJbURRVWFKQ01sN3JqcThLOWQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron, Cerebras Systems, SanDisk, Meta and SoundHound AI: Why These 5 Stocks Are on Investors' Radars Today - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ1BPRnR1Ym1RTThOYldRbHAxQ1ljejFQRHhDdzU0dUt2eVE4NWdjazI5U0F6VEk4RWhhLW1mX0N4ekh3QjIzY3luSjBpWTBRMVBOeUliaUFnRWFLTDVCb2JzUmhEYWFEek5MSW5rUFBRa1JWMlg3cnJGSWt0UnhZWi1aa0laZ3o4VjNiSDV3NmZubG1uMHduXzBWSkFKeXBPUXBWdmVNQ0o3U2kwR19fX3VWRng2Z2ZsX0UwWmxLZzU1WUFqRmtVOENfdGlMUW5ZV25JZkhGNUNoQzREcEg0Ql84NjF2TG9RUTNhVkREempHZw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-12": {
     "date": "2026-10-12",
     "lastUpdated": "01:05 AM KST",
