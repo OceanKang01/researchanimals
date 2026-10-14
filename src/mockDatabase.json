@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-14": {
+    "date": "2026-10-14",
+    "lastUpdated": "12:59 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum: The Free Cash Flow Inflection I'm Betting On (NASDAQ:LITE) - Seeking Alpha: Lumentum: The Free Cash Flow Inflection I'm Betting On (NASDAQ:LITE) Seeking Alpha...\n- Why Lumentum Holdings (LITE) Stock Is Down Today | LITE Stock News - Quiver Quantitative: Why Lumentum Holdings (LITE) Stock Is Down Today | LITE Stock News Quiver Quantitative...\n- Lumentum Holdings Inc. $LITE Stock Holdings Increased by Wedmont Private Capital - MarketBeat: Lumentum Holdings Inc. $LITE Stock Holdings Increased by Wedmont Private Capital MarketBeat...",
+        "sources": [
+          {
+            "title": "Lumentum: The Free Cash Flow Inflection I'm Betting On (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU0lXdWVUMU1jNlI0MEd1VXZMS2V5R24xVklTaU5VRFQ4RnVnbjdES2RvUkNVT1gyOTZodU9rLVpJMXlhVjlPd0sxRk9OUG1XX2tSejRHMUhJV256Unk3eEZZMjB2NHpsRFVHa3Z0MFB0RmFBekpUZVRuaHA0Q0JRZnhxR1FpSDRJd1l6Rk1oV1gtUHpZb2FkWQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Lumentum Holdings (LITE) Stock Is Down Today | LITE Stock News - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXlfeEcxdE1uTEk1bTBscjA2dWM1UEx5Y3ZxNGNWRXJ3TXpxU1BzdDNXR0dReVJnamUtOXpTV2VGM2U3eHBUb0k1Ti1UME9yRGhzTnpkcXh1V1gxdS03RVFTREZnNXpGOUJuOGJtaHp0cVllaEx5OVlyUFRuM0JUWktpR0x1UnBB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. $LITE Stock Holdings Increased by Wedmont Private Capital - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQVEyeV9zWXpLYXhBaXBGblp3OW1USXVTMXhjY3lGQWxsUVJDMmljWWR0b2VaOXIxWWpvRTVuNXFjXzZzVDViLWc5M1VmNm40SzdIdGZ5QnJ2TWRNcGZtQVMtME5SQzVVVXlnb3YzQlc4eUg0WjJmTEpYOHJmcnNyOWx2TXVRT2ZkbEdnUVZCVy1JYzFsYlNZSjE3cEJ5NnNfakZDRHBtY08xR2R5enNGT2ExVFBSNTN5V1VxMkRtTnh4NUF1V3pXZEpjVTBDQTc1ekpHY3N3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Lost Its Competitive Moat: What Went Wrong? - Yahoo Finance: Intel (INTC) Lost Its Competitive Moat: What Went Wrong? Yahoo Finance...\n- Intel Corporation $INTC Shares Sold by Spartan Planning & Wealth Management - MarketBeat: Intel Corporation $INTC Shares Sold by Spartan Planning & Wealth Management MarketBeat...\n- Intel (INTC) Stock Could Be 31% Overvalued Following AI Capital Warning - Simply Wall Street: Intel (INTC) Stock Could Be 31% Overvalued Following AI Capital Warning Simply Wall Street...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Lost Its Competitive Moat: What Went Wrong? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnlrcXRRTjR2OUc5em5wLUtvcmxaN2U5SzBjVUozeUk0RW1nQ0J6ekhxVjAxbU1mRFFCUVozTS1Ba196STBLLXRSbkExV0w0ZV9Pa0hGNEdhWFBvcVR2ZVdQcEJhWTRjeVV1M1BxQVZSZHYzUzVWb0VISEo1dGZ3VEdHWTR3d0JDZFBZNmZaczRJTnpJRktZeElxeTlWQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation $INTC Shares Sold by Spartan Planning & Wealth Management - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR0NteGJfVzFzaG45MDUxR3NFZjlFeFF6M3E4LWZGZVVEdTVqQ2pHNnE5RmdLSVZwMFBDbHQwaGl4MHZzQmlvZ2M3NXVUZlA0azFMZ3B1RG5YZWRHQW44THhHcHFpdkphR3h5anAxZDk3WEM3eEtiUEtVcTlnTHd0anZNTFZid0xWRHZ6dGxReWg1bm1SMzB6aFlScGRHVHBaMmpSVExISnF3c1BtY180V3FyaWp2STR6Z2VvSk5QUjk1NFUtVEJKdE9DZWpUdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (INTC) Stock Could Be 31% Overvalued Following AI Capital Warning - Simply Wall Street",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeU9vSFZ0bUJlVDNmU2VLS3EtNVlrVDVlM0NZMG5FaTVGbzUtSXQtaXZFZ21DdGZRSWp3dldZR25fYUduZkdOaWtFNXM0NThTTGJwUEtaY0ZUSEpBRUhRR0ZmN3diZ1N5T2hhWTFmVndTdVJPa3NWY0VrbE96NEI4ZU9hS0M4bDJ1NnJLMUlQMVYtUmhRU19oVEdIVDZsdU03Nm9CX0xHZ2ZWYW1IcnZCeDQwb1Fyb0lmM2ZIeEU2SWR1dXhXNlZBUV9R0gHPAUFVX3lxTFBLYWRlM0JmLURMZ0wzTEdnVThBeWhUelVkdjRPM0w4cjJvLTg4clRVa0RmazlfQTFJai1XSS1GNTJVaDJfWjBjQV9hNVAxTjRzeTFkelE1QmdQMEJiamxRUjhON000akJTZVJfOUR6NDFQd0ROOWNaV1doNDFVLVdVS2xlUkJMWEJfV2ZuNVNBcXJoMVFxQzk2azJBTEdVSFcybnE1ZXJaUHdSekltRm1qSkhsYmwxeDlyNkhuQ0pLeHNGRWpxVHhWTUo1RXFUTQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook - Yahoo Finance: Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Stock Acquired by Courier Capital LLC - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock Acquired by Courier Capital LLC MarketBeat...\n- Advanced Micro Devices (AMD) Found a Way to Challenge Intel’s Dominance - Yahoo Finance: Advanced Micro Devices (AMD) Found a Way to Challenge Intel’s Dominance Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV19sb0haMmNnSjNrVjdoNTFwYWp3bHA2U3J3Z0FkNzZyWHRYYmhnUHpUZ2xmNmxIYUxVMUxyNGNjeDJ5MzJmcVZhNnFmejJjZVhyVGJIUkNEUHhXZWZFYmltRDNjVGVpUGVBQm5sbHdGU2psRXFtckE0bXQ0bkdrOHlKeWdNS2ZDR1p6dmQ0N3VpMjFIbnJMTHdwRVUzQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock Acquired by Courier Capital LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd195aUgzZzc3cW0wWFc4N0paMHdlNkZLN2xBSFo5MkRvRFFZRk04dU5QWDY2QnhaYWo4ZkFQbkl3SGVxX09tYnVEQ1RuRmJKZ1BGelE1Ty0xZ3dQWGsySnpIODN4eUI2eU5UT2llSUp1MUwxTnQyUFo4S0xPVmxlNU9kaEVqRkcwSmpqNlVLbVIzVzN0YkxlQ1p6WEswNnB1cE5aY1ZSUGtUcXJCSklUMU45Y1MzLXotZGJUY0N5LUdTcmdUaFlkeg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD) Found a Way to Challenge Intel’s Dominance - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMDV2Q09Td2JLaU1WSS1iX3RNV3RSSEdTVnBzSWpJOUY4RVgwQ0dTN3FUOE9MdS05WlJsaDhRV2hlYlNnWXZmRlRMR3d5ZlNhYXoyVXVCQndmM0J2N3ZnZVB5d082aXlZRWFnTjl0SXA2UUVXdGFFWGlDWXlwbm5adGxHNS1BaURodnVqazV1ZHJBNE9VUmVTekQwb3JDUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Micron Stock Dropped Again on Tuesday - Yahoo Finance: Why Micron Stock Dropped Again on Tuesday Yahoo Finance...\n- Micron Technology adds to recent weakness, slips another 4% (MU:NASDAQ) - Seeking Alpha: Micron Technology adds to recent weakness, slips another 4% (MU:NASDAQ) Seeking Alpha...\n- EXCLUSIVE: Micron Is Not Close to Peak Earnings, Jordi Visser Says. But He Prefers Optics and Crypto - Benzinga: EXCLUSIVE: Micron Is Not Close to Peak Earnings, Jordi Visser Says. But He Prefers Optics and Crypto Benzinga...",
+        "sources": [
+          {
+            "title": "Why Micron Stock Dropped Again on Tuesday - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUJibjRMU1RmZXRsd2xEVDl5WTRjbktnNjc4X0JRUzM2bGp5aE5HTi1Lb2NkN3RDc1YtajkyNDlabnlka0VuRksxY2taNHN2ekFacGdGOG12Q3dvbjB1WTF2c1pubFMySklYSXhvcm8xQno4V20zNFRiZ0xMODB0UVY1cm94MzRsUGVjU0t1TXFUOGdES3BLNnpkSQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology adds to recent weakness, slips another 4% (MU:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDh0ZEZzQl9JbDJablNMcDV2UGJsYTJIY1dPZTVKY1A3dzA4Q0pEOU92cV9QanBVRE9VTjZYTldKY0p1UTlJdjhRVGRYN08wZ3ZDWUV0cENLNm9HWlhuZ3FaaVJtMy04aWRYaElfZmpGZ0o4ck9HVWhMQ2I5dzdneVhBTnZ5OU9uNUczWmlxLXNLMVM1UmhBdm4tOA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "EXCLUSIVE: Micron Is Not Close to Peak Earnings, Jordi Visser Says. But He Prefers Optics and Crypto - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOURka2FMM1lwdzAtSjVDNEF0UGR4dVlyUEswUGNITGJ2S0xaM19URXN1bDJta3Z1aXpOZC1nNTdMLXpMU2NIbFhCMG5SZDk4RlEtRDF2QjhRdEg0WFlNTGcwc3JWSzVzb1lURVRzVkFIVS1zX0ZZQnFNalRld0pDeUJzbE0tcUFHQmw5dS0wSDE1QTJtZURaMkcwc0lheUdwN3NRaUg4S0ZUWmpzel9z?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-13": {
     "date": "2026-10-13",
     "lastUpdated": "02:54 AM KST",
