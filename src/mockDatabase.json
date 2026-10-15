@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-15": {
+    "date": "2026-10-15",
+    "lastUpdated": "12:21 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- The Long-Term Investment Case for Lumentum (LITE) - Yahoo Finance: The Long-Term Investment Case for Lumentum (LITE) Yahoo Finance...\n- Lumentum Holdings Inc. $LITE Stock: N10 Wealth LLC Boosts Holdings - MarketBeat: Lumentum Holdings Inc. $LITE Stock: N10 Wealth LLC Boosts Holdings MarketBeat...\n- Lumentum Holdings Drops 6.6% Amid Sector-Wide Selling - AlphaStreet: Lumentum Holdings Drops 6.6% Amid Sector-Wide Selling AlphaStreet...",
+        "sources": [
+          {
+            "title": "The Long-Term Investment Case for Lumentum (LITE) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnV4UUVmQWFPU05LNVFBYUZ6UkN3bG52dVR6VmVLd2dRWDctdXRnQXlSVXIyUm5ra2pqcTJpaW9ldTlWTjB2RFg2a0pxMUQ1eW5qQk5IdTZkTVVuYk5LTTllazl5S3RWVzY2TmlDbU93LXJwUWtLcmk2dVFObE41cDRRNDUxZlhUdld6aUI2em1rekh5TmJ4TlRzeUN2T2Ix?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. $LITE Stock: N10 Wealth LLC Boosts Holdings - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDlOdGdSUlNkd3Rhci1wOHd0dzJwc1BCN1VRQjAyUUo3QTBFRUpnVmxqUWRkQm55NHpFZWVPNDQ2eFJpT2oxcm5PYUtnZ1lsZi1tVXJFNk1TZEhJQUpva1ZyRGtlU2lEMXVBZzV0YVJxejhnbll2UjNxR0FtNTd1cmtVSkFLVGptajVTRTdpY1hTRTNzbElzeFN0NTdmVG5tOEtWMkNPRzUxN0R6bFRVNUN2cjVSTlp1S1RsZHRpdWowdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Drops 6.6% Amid Sector-Wide Selling - AlphaStreet",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzk5WUxKc0x6TWU5UDJfZzFVRVNHZHVNMG0zOXVkandnem9jajJROWItbWIzNXZxMFYwemc4eDZiRzdXMU8zYm1PdGdiODRZbWxDVDRfZ1BhY0JESUpQVTVsaVZYTlhPUFpzeXhJXzBJT0xvUWxwLXhMbk8xTDQwaDkydWY0YWh6SjRQd3kwRXA2QdIBkgFBVV95cUxQQzk5WUxKc0x6TWU5UDJfZzFVRVNHZHVNMG0zOXVkandnem9jajJROWItbWIzNXZxMFYwemc4eDZiRzdXMU8zYm1PdGdiODRZbWxDVDRfZ1BhY0JESUpQVTVsaVZYTlhPUFpzeXhJXzBJT0xvUWxwLXhMbk8xTDQwaDkydWY0YWh6SjRQd3kwRXA2QQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel’s Make-or-Break Moment Is Here. What Happens to INTC Stock Next? - Yahoo Finance: Intel’s Make-or-Break Moment Is Here. What Happens to INTC Stock Next? Yahoo Finance...\n- Intel Corporation $INTC Stock Sold by Western Financial Corp CA - MarketBeat: Intel Corporation $INTC Stock Sold by Western Financial Corp CA MarketBeat...\n- Is Intel’s Record Sales Growth Still Improving? - Trefis: Is Intel’s Record Sales Growth Still Improving? Trefis...",
+        "sources": [
+          {
+            "title": "Intel’s Make-or-Break Moment Is Here. What Happens to INTC Stock Next? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOFBUS3ZieVg2OFZINGkzMGxSN2lEZGVpS09TQkprazVRWGdrX3psZ3hxQVFad1c0Y0lTcDlJSm05X2thQmFKeEpRRDk0VnY4TXZERUF0Vm0yT3gtMEk4QkdoU1VJQThybEZ3elJUN2lOelY0SnpqY3NKN3NXLTFZc09kUGpDUUpWRzd4Nk02RHdnd0ZrRE1DYVhpRXc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation $INTC Stock Sold by Western Financial Corp CA - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUpRa0k5dlBiRzlvT0tlWHF5MHV1VUhkM1JTby05VXFON01MX0o1N0tGeFBORTVZQzF3Q1YwcThUNUt4S1ZBUHpBNXZZVHBKVVRRMjlMUkF4WDE2RHhPQVFBcjdlUW16M3Q0RVJlTURfb044WS0yVzVxMTFxRzB1TUZ2anNzR1VmV3FtSE9JRml2eUxEWDF6cEpBM25zRV8zdHV3bXFXc0pYQnlwUkhBNkNLcW5HbEY5TUk0S283WHA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Intel’s Record Sales Growth Still Improving? - Trefis",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZUI5T3JZajdEcDV5eVp6TnVKTW83M25KV3M3TWNnTWFkOTNDVVVFMWtEZllYd3BxVG00Y1lSRzJnM1FlZ0trRGF0TFAtamF6UGJPYU1KLTVJMnpTcDNtZnMwamY0QUN3QlctYklQWUlXTlNWX2piQ082ejNoczNVbURGWXpEMlI4Z2xSOTVsZGF5Z2VadEZ1QUdpdVY2bFAzUGQwalI1YUJzdw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook - Yahoo Finance: Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Stock Sold by Thurston Springer Miller Herd & Titak Inc. - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock Sold by Thurston Springer Miller Herd & Titak Inc. MarketBeat...\n- Advanced Micro Devices Stock Surges 183% YTD: Time to Hold or Exit? - The Globe and Mail: Advanced Micro Devices Stock Surges 183% YTD: Time to Hold or Exit? The Globe and Mail...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV19sb0haMmNnSjNrVjdoNTFwYWp3bHA2U3J3Z0FkNzZyWHRYYmhnUHpUZ2xmNmxIYUxVMUxyNGNjeDJ5MzJmcVZhNnFmejJjZVhyVGJIUkNEUHhXZWZFYmltRDNjVGVpUGVBQm5sbHdGU2psRXFtckE0bXQ0bkdrOHlKeWdNS2ZDR1p6dmQ0N3VpMjFIbnJMTHdwRVUzQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock Sold by Thurston Springer Miller Herd & Titak Inc. - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMEtQUmhPUkI1QWJiX2dhYlFXTFRwYmRBbkxCY2dLSXRqRUhpSkZsckJkd1dLY2wtMmdTWnFSTkpnejljT3FzMGc1di1hZnd1Ymtzb2Uwanh5aDcxNklZa29iTDdRTkVyTUo2YmFhRGl6N0tSUFFsQ1RaV0pZU1R0czVGS3hqdlVOVmZjWkZoM1BsYU1TN3lxbEJPU2hGY3ZsY0tDZXVjd3ZuMFdGR3FTUEdfb3ZmUGM4RWNpRUNMSnhEajluZ2JwX0tjaUNVX18xOTZSRjFTZ1lXTEhDLUE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Stock Surges 183% YTD: Time to Hold or Exit? - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjEtNzJhWVE3WTAxQmJpQVJ5RzJJVFR6bUZmbGt2UEpSeTFpXzZqRFJERENkQ29jX1BQcGdEbmhlZVE5OGZ6VlpjVE1DQXJ6NjRnZkZBeVJZd2d3Rloyc3hTaGt4UXBCREo3R083Mkd2TlVISDIyQTdJYnBiZGFzRFlfbXViVGZvMHNlb18tSF9xZlNlcm1yWjEwcFUtZEkxUmMzd29sdmotYzgyazVlZlBrM3hzb1pEeHB6eU1uLVM3dk8zLWVWb2w1MHhoTGpzWFZEQlFreldobTRSc0ttNEF3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Stock Gets Hammered Over China Fears — Jim Cramer Calls the Selloff 'Nonsense' - Benzinga: Micron Stock Gets Hammered Over China Fears — Jim Cramer Calls the Selloff 'Nonsense' Benzinga...\n- Why Micron Stock Dropped Again on Tuesday - Yahoo Finance: Why Micron Stock Dropped Again on Tuesday Yahoo Finance...\n- Micron Technology Inc Stock (MU) Moved Down by 3.31% on Oct 14: A Full Analysis - TradingKey: Micron Technology Inc Stock (MU) Moved Down by 3.31% on Oct 14: A Full Analysis TradingKey...",
+        "sources": [
+          {
+            "title": "Micron Stock Gets Hammered Over China Fears — Jim Cramer Calls the Selloff 'Nonsense' - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVm9qVjlySG1MbGd0eWdWeXdNOTFvQldRNnp0OU5FQ3FPYzhpMUlLS2RINVZ6T00zZVNwNTlxOWQtSnZWOGE1MHZQRE5iU3hpc0lXU3hLNEswTloxTWZCVFFlSnpQQmR5Rk5QOC1RU1Q5cTJURTU0c1hoUHpEM3RlZjJPb2libHU4bWFUMm1hTnNqa2c0MnM3aUhtU0t0ZmUxdnA1T0lKQkxHbFFEQXdzNGp0aWtPc3BrWmlyd3d1dFNjUDRkempKanpRQVJDQ0k?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Micron Stock Dropped Again on Tuesday - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUJibjRMU1RmZXRsd2xEVDl5WTRjbktnNjc4X0JRUzM2bGp5aE5HTi1Lb2NkN3RDc1YtajkyNDlabnlka0VuRksxY2taNHN2ekFacGdGOG12Q3dvbjB1WTF2c1pubFMySklYSXhvcm8xQno4V20zNFRiZ0xMODB0UVY1cm94MzRsUGVjU0t1TXFUOGdES3BLNnpkSQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc Stock (MU) Moved Down by 3.31% on Oct 14: A Full Analysis - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1paQ3BKYVMyNDc1b25jN2xYZm9Wb2hwczZRZFdVNUZWRFhydzBDc0dqSkNHQVdVUFVQTkZDU1ZhUGt5SjNBTllMRUN2NEtFT25nc3RXZVZ3aWNjaHpfaXRxRUMtT1NqMmpUNW54dFlwckpEVThkT2xMMmFLd3lldWd2WGJrcjdQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-14": {
     "date": "2026-10-14",
     "lastUpdated": "12:59 AM KST",
