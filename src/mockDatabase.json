@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-19": {
+    "date": "2026-10-19",
+    "lastUpdated": "12:00 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 824.13,
+        "changePercent": -5.22,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo! Finance Canada: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo! Finance Canada...\n- Lumentum Holdings Inc. $LITE Stock: Curated Wealth Partners LLC Cuts Holdings - MarketBeat: Lumentum Holdings Inc. $LITE Stock: Curated Wealth Partners LLC Cuts Holdings MarketBeat...\n- $100 Invested In Lumentum Holdings 10 Years Ago Would Be Worth This Much Today - Benzinga: $100 Invested In Lumentum Holdings 10 Years Ago Would Be Worth This Much Today Benzinga...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX0tIc3M1TFZtcjY1QVFBR0ZQZzRqMlpCbEZSUnBiX2NmNk85ZmpRamctLUtZY3hTNTAxVG8yU2xaaUZvMVVRckFtd09MZjVBaVY0blFRUWc0cEx6THJ6cmFwWjluZ2t5dmN5X1NLSWpSc0haV2F3djBrMDRFeXZsaFBnbkNkcWlpX2dvelB3b29LMkE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. $LITE Stock: Curated Wealth Partners LLC Cuts Holdings - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXdTODZZcHo5Q1FYLWhxVVl0WXJBNHRkNmNodmlIOExzNnJIZzBxbklmektmT3laQ3ZRWkhkX2RvdU1ZNE9nY0hqZk5XZ05CVWFaZ2loTGJMZmtRSXp3MTFMTTZJbzBrYi1LY21VS0o2Zm8wTGhwOUtjWUtObmJxNHNQRE5iMENVT0JzSUdGUXdpeUhqZGJDQ3dZRXFxTHMwVGxFNEpXWUFpdHJiUXlSTUp0a0hnaXozdGpFampVZEhqbEZfX0NFWUhlWHR4VnhL?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "$100 Invested In Lumentum Holdings 10 Years Ago Would Be Worth This Much Today - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXMzbUgwRjhWVmtFU09oakN4dk9OaXp2cV9lZFo5Yk42aExQeEtHd2I0QkRiNzI0U0c0d1hqVThaek1mY2RmZDY5NXZHN0VXVjAtQmpITkJBcXhrUjVDMTFLcHVWZmxpcC0xVFpoZ1FHM0VEYk1sa0VNcko1bEZtMHZ0QVpEdVIwdlpFQnRhRUxtMkxQUzBNeW5yM2ZJVHQwalNkbHVOaXhnTVJyRVFtZDFYeWw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 89.85,
+        "changePercent": -5.79,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Lost Its Competitive Moat: What Went Wrong? - Yahoo Finance: Intel (INTC) Lost Its Competitive Moat: What Went Wrong? Yahoo Finance...\n- Intel Corporation $INTC Holdings Trimmed by SteelPeak Wealth LLC - MarketBeat: Intel Corporation $INTC Holdings Trimmed by SteelPeak Wealth LLC MarketBeat...\n- Intel Shares Rise Over 3% After Key Trading Signal - Benzinga: Intel Shares Rise Over 3% After Key Trading Signal Benzinga...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Lost Its Competitive Moat: What Went Wrong? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnlrcXRRTjR2OUc5em5wLUtvcmxaN2U5SzBjVUozeUk0RW1nQ0J6ekhxVjAxbU1mRFFCUVozTS1Ba196STBLLXRSbkExV0w0ZV9Pa0hGNEdhWFBvcVR2ZVdQcEJhWTRjeVV1M1BxQVZSZHYzUzVWb0VISEo1dGZ3VEdHWTR3d0JDZFBZNmZaczRJTnpJRktZeElxeTlWQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation $INTC Holdings Trimmed by SteelPeak Wealth LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVB2U0hHTHd4SVA1bmxTeXVid2d5UkNsNkxYZzNzT2RVdDN0UUdXWmNUdURud3E2S3cwVUIzWVhtM2lacnR5Q0FydTVuZFZ3c21wYk11S0RhVDJmWnFvZllKVk1kQnZOZFEyWWxRTC02NjVYNVlfdnp6b2ZzazdEb1dfT3JOMnk2eTZ1b3c1dmRPWEIwSmdJa1RscmtwSzFsTG0tem5acHZFT25hSE85LU1JRTFXbW84V3d4d2djWlVVZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Shares Rise Over 3% After Key Trading Signal - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0pZUFBZM2VsV1kyNHA5OXBhbTRoY3dMZGdfeWpXM0RzRVljN2RfcXhXenF0RmJyUFhCZEJOZ085OURXaE12MG5vNkVpWllVbnpkZ3VGUlVaVGQ2YWgyN0xULVpoN3E1WmQ1ZDY1c2JnRXZiemtDVW9WcDRsS0d4NTd5ZnJmMlp5ZWo1STJXWnFFMThjU1FKTkx1d05QQkVoa3FMNHBiaExhcnM?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 528.75,
+        "changePercent": -5.95,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What to Expect From Advanced Micro Devices’ Q3 2026 Earnings Report - Barchart.com: What to Expect From Advanced Micro Devices’ Q3 2026 Earnings Report Barchart.com...\n- Advanced Micro Devices, Inc. $AMD Stock: Franchise GP Ltd Reduces Stake - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock: Franchise GP Ltd Reduces Stake MarketBeat...\n- Why Is Advanced Micro Devices (AMD) Gaining Ground In AI Infrastructure? - Yahoo Finance: Why Is Advanced Micro Devices (AMD) Gaining Ground In AI Infrastructure? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "What to Expect From Advanced Micro Devices’ Q3 2026 Earnings Report - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZW14RzdiVVdZRk1UcFNCVWZyRER4aTBCN0JhaFZxbDNDMl96SEFlYmZFdFJVMTk0OFVjd2MzenUyRXZYSVVUbkVjWlBJTUttUzJmRjY0ZzRyVGdIZDdaUnpHRVBsVEZld2pjQ2ZpX2dSckxpWWROVWt5NU5kejYxTzhWWExMVG1FaFRRYVB3cmpYSmhlQ1FfYUU3WWhxc2tBeG9kWXpyaGstQjE1X3NR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock: Franchise GP Ltd Reduces Stake - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRVZCMkNOeVRCelU1cVZpeC1IS3IxYkFtUVA5QzdzaUphRGp2QWpUV1lqemZYbjlsMnpnUFZXcGtnQi1oT1FqenpHZVJMa2F2WUJ5N0c3bmQxX0FKc0RXSGJ4dXN6c3p3Ti1DZkFHTUxZNFRrOHVFdWpMRFgtcWtWZzRJcXg1LVZYeTJ0OXhIODBtcHlSZWxRM3JOeTh1b0xOODU2TV9ObkFua0RkS1c5c2Y2N2tYSU85MWdPNTY0dHQ5bVB0dVhR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is Advanced Micro Devices (AMD) Gaining Ground In AI Infrastructure? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDFNWFI4R2wzZ2VnVUVGc0ZYVkxMRlM3MkdLeWhzUkZCdWZvWDY0Z3VuSkt3cTExb190N3J3SXhidFVxa095cEtJbkNnaU5JX0J5YU84eEZxcWRGalVJczE5LXp3WmtUVFJvRTdVclhCby1PMUpSbGlpYV9RRHdqald1aGVwVkpnZkw4NzRxZjJzeHBrbmpKR0Fn?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 878.84,
+        "changePercent": -5.63,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Does Micron (MU) Have an Economic Moat at All? - Yahoo Finance: Does Micron (MU) Have an Economic Moat at All? Yahoo Finance...\n- Micron Just Broke Support, So Buy MUU Into Strength (NASDAQ:MU) - Seeking Alpha: Micron Just Broke Support, So Buy MUU Into Strength (NASDAQ:MU) Seeking Alpha...\n- Micron Stock Slides Again Thursday: What's Going On? - Benzinga: Micron Stock Slides Again Thursday: What's Going On? Benzinga...",
+        "sources": [
+          {
+            "title": "Does Micron (MU) Have an Economic Moat at All? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYzhpUE8zamc4RTdManhQM2lPaEs4R0UzY2QyUU9nazRla0xyUXFVTUI3LTRDdkdsWDFPbXRIUmdQVTFsanBqNkM4MGRyT1BNUkY0OEtSZHF0OXNvT2k5OWJ1bzhLa3lka3p0OWEtRU5NbmtVcWVqeEt4Ui1OdGp0UmVRU0RiTC16TXRqSHB4Y2t3RmdYaXFlRw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Just Broke Support, So Buy MUU Into Strength (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREVEM3ZIUVhnRU8waTduc05RTS00SnBNYkpmdWtVVmhqUGNlOVdNUFRtMXRISjhwajAyYVBGNlEwZDRMcUpMbFBEQ2VTTWtvZXY2Q29VMW05T21uNHd6dTZPQW80UmdRcjVTY2lsd2Q0b3o1Mm5FQVdaVUFwSW1KTloyWV81WjliTENSNXhKc0ZOeHlOWGc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock Slides Again Thursday: What's Going On? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLTBwVElTQmVQVXJ0eHFJY25fVWxTb2FIanl4a09LLWNFZ0Q5Q0ljZS1LN0VPUVBoRmMzd3o5bWFvOFpnNkl5WmlkenVHclR1a01zVHNzd2I4M0xiY2pWM2xOTEZaTkNQVkRYZmo2dkVvLTdEMU5nT0pnbGFwWUFIMkpIRmJ6UUF4b3VTS09nT3VXQUZmOXMtZ29wMGw4U0NQS21sSA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-17": {
     "date": "2026-10-17",
     "lastUpdated": "11:52 PM KST",
