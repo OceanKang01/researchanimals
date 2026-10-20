@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-20": {
+    "date": "2026-10-20",
+    "lastUpdated": "12:58 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum (LITE) Can’t Meet Demand. Can Its Valuation Hold Up? - Yahoo Finance: Lumentum (LITE) Can’t Meet Demand. Can Its Valuation Hold Up? Yahoo Finance...\n- Jackson Square Capital LLC Sells 5,687 Shares of Lumentum Holdings Inc. $LITE - MarketBeat: Jackson Square Capital LLC Sells 5,687 Shares of Lumentum Holdings Inc. $LITE MarketBeat...\n- Could Lumentum (NASDAQ:LITE) Sustain Its AI Momentum? - Kalkine Media: Could Lumentum (NASDAQ:LITE) Sustain Its AI Momentum? Kalkine Media...",
+        "sources": [
+          {
+            "title": "Lumentum (LITE) Can’t Meet Demand. Can Its Valuation Hold Up? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN21VUWpTV3RQRk9yR1hGRjRER1V0RjRESk43dUMwVkMtTW1nbWtEd1h5OWR4ZEFBX2FEekdhYldqbVlBU3hMV1RKSG9ZTl9GaE15V2tCZHlNZzhKY0tYWTB0WmRmOUxmYm1YdVA1T0M5RTlGa2dBdzZTalJnQXdBeFZid0J2dFNjajA0SkV6R3pGUzVGTnU0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Jackson Square Capital LLC Sells 5,687 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZlNiQUpkeEVacG84Rzc2WnRVLXVjOGU1NzloeW9sR1RLYmN1OUxlNU9rSEhFaG9iRDRPV2lVd3plZS0xYlBUdFRGdUFmeDJ0cUtUeHFwdk80NVNRcmY0NDduWTUtMDBzUXRZZWxZNWlocHVzcXI4X0Y3WGhRQ3hxNDJya19fc29HT3UwMGptRUVlMm45eVpiLVMzaVBLbFdQWFdJWjBVSTVKQmxlTkREWkpBUmgtRW1Ec1VMaHpUeDE0YVh2MXEySHp1U0s0Q0JZ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Could Lumentum (NASDAQ:LITE) Sustain Its AI Momentum? - Kalkine Media",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNXR1MXZFdmpmWlNzTXpKYlU2Z1BhSTNOa1V5NFdPZE45eGVaYjFLVnBGZWJ1UUU5emxxQlgyR2FfV2JmX3B2WEJmeUlLYUFmMW0zZ1pSZkpSQThPVlR5U2wxQ3BqLUZDam1ZVnBsM2RYTlpYaHZNd2VIbURKRmgtOUczT1I3ZmZVeVd1QndRZTN2NHV3ZGhkNkNtVQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Intel (INTC) Stock Is Up Today - Yahoo Finance: Why Intel (INTC) Stock Is Up Today Yahoo Finance...\n- Intel Corporation $INTC Shares Sold by BDF Gestion - MarketBeat: Intel Corporation $INTC Shares Sold by BDF Gestion MarketBeat...\n- Intel Corp Stock (INTC) Opened Up by 5.66% on Oct 19: A Full Analysis - TradingKey: Intel Corp Stock (INTC) Opened Up by 5.66% on Oct 19: A Full Analysis TradingKey...",
+        "sources": [
+          {
+            "title": "Why Intel (INTC) Stock Is Up Today - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZV96ZEZnMnNTUkNUb0puR2wxaTdHYlo0bUtxWVdoNmJuRGZvRnlnU3dHdzY3SVNyRlV4azdMTVZyV3NPc3paMF9mcmU5OHlCREVubWV6REUzRUh1eklGTTVOUFg0MnlhU2s5WDFVUTJRS3h0VHRyVUVwRFhtdVFGT0w4bTFNcmpDaGNEREJ2djROQmFSY1E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation $INTC Shares Sold by BDF Gestion - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNWhNbEtNWFJjR0FyM0FVMS0tS2pWaVk2cWg2ZV9iVjBkdmFZN084d09SSEhfUXZNQ2hNQVBiS0pnUGc1YURqand3cTJjeXZaWWJKUE1qWVpLd2RJa2xuRnlTQnhsMzM3T1ZmMGJEdElCMzlyZEVuNkM2MVJxVHU1dUJ3S0tNeEUzalNBQ3NyRFR4M1lGbzlRVktYX0JYVndTQW0xalAtamlRQXFHTUxn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Opened Up by 5.66% on Oct 19: A Full Analysis - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanlrek91ZjBHZVdUTG1zRDhFV09WY0pMS01QNjRYcnZsLUplSmRNMUlsRzgzUzc2LXZGZHJtaDRDekhDdXBubjBQWFU3NTAxZ3ZSS012SmN2U1M0NDdRN1hQU0ZIemphUzJZZk0wNDVkTUlXSTJVdlc4TW05TU1WQ0xpeG1GSXd0cG9n?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What to Expect From Advanced Micro Devices’ Q3 2026 Earnings Report - Barchart.com: What to Expect From Advanced Micro Devices’ Q3 2026 Earnings Report Barchart.com...\n- Advanced Micro Devices, Inc. $AMD Stock: Generali Investments Management Co LLC Grows Stake - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock: Generali Investments Management Co LLC Grows Stake MarketBeat...\n- Advanced Micro Devices, Inc. Q2 earnings spark rally: Can AMD sustain upward momentum? - Traders Union: Advanced Micro Devices, Inc. Q2 earnings spark rally: Can AMD sustain upward momentum? Traders Union...",
+        "sources": [
+          {
+            "title": "What to Expect From Advanced Micro Devices’ Q3 2026 Earnings Report - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZW14RzdiVVdZRk1UcFNCVWZyRER4aTBCN0JhaFZxbDNDMl96SEFlYmZFdFJVMTk0OFVjd2MzenUyRXZYSVVUbkVjWlBJTUttUzJmRjY0ZzRyVGdIZDdaUnpHRVBsVEZld2pjQ2ZpX2dSckxpWWROVWt5NU5kejYxTzhWWExMVG1FaFRRYVB3cmpYSmhlQ1FfYUU3WWhxc2tBeG9kWXpyaGstQjE1X3NR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock: Generali Investments Management Co LLC Grows Stake - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV3lOVlRDU1hwVmRBSjR0dlBfNjdRUDgwSVZLSW8zS3hnbmN0SGE3OGtnVXZlVzk0VkpRREkyQ0h6SkM1RmJqVXNzOWZManl5c2N4UWFNdk1jVWNKRWU2UjZTUHZPVDF1dS1yM2oxX3JhWHY4NkpWclB0ZW9adE1SUktBdGljcktHZTVEZVkxRGZsTnQxSkVVRm5CRkFFNjJkTngwSUFjdi1EdDVpRXcxbW52VlVRRHdRcjN5NHAtZ2U1VWRLai14cTg2STVwNi1waEVsd2x4RDM0M2ZpTDJ1ZHpn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. Q2 earnings spark rally: Can AMD sustain upward momentum? - Traders Union",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0t0cS1YRzYwem5lM05GakFrQmlVN1dQUGJQNnY2YWdNR1J5eUh1TnN1aHRJRGktOHF6M0NTYUxZRmNfX0gybkYxOGhBcGd1dzQ5RnFEZmJUelRWVWtfRFJ4THhHVGxxQXI3TFNDcDEtOVJxa2ppM2ctVkVmcUZoazR1QTl1QUdw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU) Looks Cheap at 5 Times Forward Earnings. Can Its Profit Boom Last? - Yahoo Finance: Micron (MU) Looks Cheap at 5 Times Forward Earnings. Can Its Profit Boom Last? Yahoo Finance...\n- Future AI infrastructure will need more memory capacity and faster data access. Micron will discuss its roadmap. - Stock Titan: Future AI infrastructure will need more memory capacity and faster data access. Micron will discuss its roadmap. Stock Titan...\n- Broadcom Vs. Micron: Which Semiconductor Stock Wins the AI Sell-Off? - Benzinga: Broadcom Vs. Micron: Which Semiconductor Stock Wins the AI Sell-Off? Benzinga...",
+        "sources": [
+          {
+            "title": "Micron (MU) Looks Cheap at 5 Times Forward Earnings. Can Its Profit Boom Last? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2J6amZINXBXY3JoZ3dnZWRpS3VkSkFSU3p5TzQzSWJPUzZkWVFpZ2Rwbll6WDlOVTRtRWp3Sl9UYmcwcnZtQ0FvSXE1RGdiazZKby1RZXItbnkwUldIYkpuaUZ3UTZqWEtWQjRpRDF2UThxa1hmR0liUTFGUjE2OURTRVVyX3RGQTdQVGZOTWM3UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Future AI infrastructure will need more memory capacity and faster data access. Micron will discuss its roadmap. - Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUdDaF8yN2pBbXlVbTc0SGtJbl9wY2ZaZnhEM25CZjdtRXM1ZUtlckJOT21Id3BvVUFJQWJqNGRWUDNydHEzVF9fZ0JpSS03S1VmQm9TUUNXYkdSVGgtSDh0dVZaVnMtOTIteXIwMkl3a3R3Y01LYVpocDFyWFRpRVlwdGlNbU9vWEZoSm5UeFdNNGJuaGhhRQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Broadcom Vs. Micron: Which Semiconductor Stock Wins the AI Sell-Off? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenRYb0ZkS0VsT0RPOU1XaHpxRE15Mk5kbVIwVXFTN2lQVFY2Z3p4c2pfdnJNd21xZlVTRmV0aFp3dUJhaF83c0tadHI5VVZuSGRrclpNcm44NDFUTms5ZkEwMFZIaGhmZkNxSWZUVk9Vc0xfODFKdGh6MWtSb2RaSm5kNFB0bE1u?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-19": {
     "date": "2026-10-19",
     "lastUpdated": "12:00 AM KST",
