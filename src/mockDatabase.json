@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-22": {
+    "date": "2026-10-22",
+    "lastUpdated": "12:30 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo Finance...\n- Lumentum Holdings Inc (LITE) Stock Up 3.4% but GF Value Says Ove - GuruFocus: Lumentum Holdings Inc (LITE) Stock Up 3.4% but GF Value Says Ove GuruFocus...\n- Lumentum (NASDAQ:LITE) Stock Jumps 3.4% - Should You Buy? - MarketBeat: Lumentum (NASDAQ:LITE) Stock Jumps 3.4% - Should You Buy? MarketBeat...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWJyVmFiN2x4WE0zQUxMS0RNQkIwSXpaWXFDaVQ4VHRneTNiWDVDWDJSUXBxaVlreWpNZ3phN2UzUm1HTlRJTUhXcVFQSjhSN290b1NXMDdhN3Nsa1d3TmNua0hqdmhIRHBhcjlJMGhidWZDTWhOdXdQRVhxY1BMTU5XYjYwU2xHMTBhaUlnaw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Up 3.4% but GF Value Says Ove - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9MZnJKUG9PaUtXZ3d5cmtMX1VETkdKUkVXR2ZTMjlueVhVc2hkMXdpdWtmQTJlWDFMNzVCU3lWMWdOeTV3cWFyTWZ4R1hfWkRTaUtGaWRmNWRXRWNhNFZEQ0hkTVN3ZlpydlN1cjc3QkZleUdxblhGazhUTGhLeHZVZWl6SU1jaGJpS1JCUEpqRDhLN2M5Q2hpZnhHc044c092UEFSZ0E2RGJRR1J5cURLa0FpRjZ2amhCZUZR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum (NASDAQ:LITE) Stock Jumps 3.4% - Should You Buy? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTno5YTRsbmN1THVCbENqanBwajM4RENXakVEMEI1YVdrYzJ3Qnhwc2xCUFFsMmtpcllQMzBhakx6VXhDc0lsS3VWdjl0aWZfaFJXU2VYYkJfMUFmMjdBMW9QT3ZpUFplaDlEQVBYcmVuX0I2T0pDRGlWcEx2b3dQWE02VHpkN2JZSEdjMlMyc3N4VjAwVDVCbUduYlRxb1VYTnowSVRUZ1JYbzBuUFFN?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (NASDAQ:INTC) Stock Jumps 1.4% - What's Next? - MarketBeat: Intel (NASDAQ:INTC) Stock Jumps 1.4% - What's Next? MarketBeat...\n- Why Intel stock just got a big upgrade - Yahoo Finance: Why Intel stock just got a big upgrade Yahoo Finance...\n- Intel: If You Want Value Instead Of Glamour, Take This Name Over Nvidia (INTC) - Seeking Alpha: Intel: If You Want Value Instead Of Glamour, Take This Name Over Nvidia (INTC) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Jumps 1.4% - What's Next? - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTVIS2swQUt1cVVaR2dwOE1pbGFxS1ltZzVKSE5NNGlhNHM2ZEpad3h6azdZaC1jajN3aVZNTk5QTkJOOEFTRHB5cllieFZLMWYweTVmbTJ1aWlZRE45dDhIdmxxc2pUaS0tUkhhNk1Zc2NGZ2hYVHVnakV2Ni05UTQ3Uk5DbEZ0aVVDNDNuaHNVS2ItOTJTN1c0aDdadnI5Z1pBUDhn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Intel stock just got a big upgrade - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY2ZkTGZwT05CX1hiV1RtQXA3Tlk0bXF2dlk1X2s0Zmh1THBEem1LOHJobDRwZ3F1TEl1NFJ2aVZGVTV5UmIxS1ZGN3ZmQUFRSVktSHdpQ3FvODFQcGJNR1pZaTRtRlptX2RsMWwxN3RxT202RzJRdWJ3Z1Z6aVN3QUxGeVZ2ME5LLTFpVkNXQ3JJZHpxZlgyalNCZlgydE5Ucl9Uaw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: If You Want Value Instead Of Glamour, Take This Name Over Nvidia (INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQclNLanBXMGk4dm9aV1ZYWWpCRktBQktRZ2dFclN4RmhHU19QSkFCSlpZU0dlclNZR01taUJpdjJyMnJfZHZ4SmZ4YS1PbmVxSFpRTVZFdVB3dktXazhYd2hnbUJZOHhfalM3cVd0VkZzZEFFaC1SMkRzbXhJZnp4VWtJYmNneFkzU0Y4UzlnUjFER005dnlsbW9hbEVkZDM4LTJpY2R2aGxUTDlXRU1r?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings - Yahoo Finance: AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings Yahoo Finance...\n- AMD vs. Nvidia. 1 Metric Proves Which Is the Best Stock. - The Motley Fool: AMD vs. Nvidia. 1 Metric Proves Which Is the Best Stock. The Motley Fool...\n- AMD: The Helios Ramp Is Priced But The Margin Path Is Not (NASDAQ:AMD) - Seeking Alpha: AMD: The Helios Ramp Is Priced But The Margin Path Is Not (NASDAQ:AMD) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVlhVmwtMzY3VXU0T0Y4c0M1MUNpeE9pZE1GaWhBd0pSTTBoWEdJOXJSNVlOMDZRQk9aQ0N5R05VMFlHbUsyUUJfM003Z3d3R0JtTXYtM3ZPZGgwWTVjcTRYQ2QyMDNnZExhNWlHTTlkVV9rQWpnUTgyQ2tCZS0yTEtHbVlHRlE3QTZfM3N3a2V4enZIMlY3NHVn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD vs. Nvidia. 1 Metric Proves Which Is the Best Stock. - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY3VvNnRBVE9DUmxCVGpzdWJDX1ZkVmVHRnI2LWlIeUgyVlphdEhDRDdjYVdkbGxsSnU2WW9ubHR1eFdtM2lVTTdNeGVfTGdHdGlQeWJXTkpreVQ3YmhGemFiTVJ4TnVFZDB3dGc2SmdnUG5DY1RkT1dQV3F3V1hlQ2IxZHJmWFVXUVNnTi1maE9JM2hh?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD: The Helios Ramp Is Priced But The Margin Path Is Not (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdXdPWnRfZFpjX0VaM2FjWkZFcGQ0bkhfdnNWZHJrNTRMUUMxeDNtYWVmUkI4UWdrSldDVU5ROU41N3JNSXp4ZmZCaUYxNDZSdXB5cTRyU2FUZ3h4T0VhNDd4X0IyZkQ5WEpyM0lBTUZtdUZzaE5yTUx2Rk5Ra1Q4bVlFdW1telRnbTNoUG5fanBwbWNMWUJBWU5zTUtodw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU) Looks Cheap at 5 Times Forward Earnings. Can Its Profit Boom Last? - Yahoo Finance: Micron (MU) Looks Cheap at 5 Times Forward Earnings. Can Its Profit Boom Last? Yahoo Finance...\n- Micron faces strike from one Taiwan union after deal with another - Reuters: Micron faces strike from one Taiwan union after deal with another Reuters...\n- Micron: The Story Is Now Worth It (Rating Upgrade) - Seeking Alpha: Micron: The Story Is Now Worth It (Rating Upgrade) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron (MU) Looks Cheap at 5 Times Forward Earnings. Can Its Profit Boom Last? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2J6amZINXBXY3JoZ3dnZWRpS3VkSkFSU3p5TzQzSWJPUzZkWVFpZ2Rwbll6WDlOVTRtRWp3Sl9UYmcwcnZtQ0FvSXE1RGdiazZKby1RZXItbnkwUldIYkpuaUZ3UTZqWEtWQjRpRDF2UThxa1hmR0liUTFGUjE2OURTRVVyX3RGQTdQVGZOTWM3UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron faces strike from one Taiwan union after deal with another - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV193bUJ6bXZZcHp1Q0tId1ZUdU90Um9BR09QOU0wZ0pxNmJtVFhSbVhBMi1hdXY5ajVReHFJSVVseXY2V2Z4N3hEcTEzenJJSVAwRnNCWXVnV1NudWdqalpwenc5eDhBSTVVaUZYZ1kxaTlpcEh4NWRSSkdrMUVZeDhlQTZXU2RFQ3oyZDVwU0tsbFFRRzRIMGpiODVjM0otVUJlVEZRSmV5UGtpYXJBY3B1aw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The Story Is Now Worth It (Rating Upgrade) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kRHpkNHFlYWdaMlYxTk9fS0lfRG1WM2hHdkUxNG04QXFDSHVrT3B0YjI3c0t6c255OC1aUzVTU01xVlFQaC1YbGszM0tRNU5aeXh4M2twS1pzMllLNFBDSUxMVU1YdWZ2dk5OVUZnOXlvaEo0WjhsUVJ1MVVOdw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-21": {
     "date": "2026-10-21",
     "lastUpdated": "12:27 AM KST",
