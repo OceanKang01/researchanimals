@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-23": {
+    "date": "2026-10-23",
+    "lastUpdated": "12:28 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Brown Advisory Sees AI Infrastructure Opportunity in Lumentum Holdings Inc. (LITE) - Yahoo Finance: Brown Advisory Sees AI Infrastructure Opportunity in Lumentum Holdings Inc. (LITE) Yahoo Finance...\n- Lumentum tumbles 12% amid tech selloff (LITE:NASDAQ) - Seeking Alpha: Lumentum tumbles 12% amid tech selloff (LITE:NASDAQ) Seeking Alpha...\n- Lumentum Holdings Drops 9.6% Amid Sector-Wide Selling - AlphaStreet: Lumentum Holdings Drops 9.6% Amid Sector-Wide Selling AlphaStreet...",
+        "sources": [
+          {
+            "title": "Brown Advisory Sees AI Infrastructure Opportunity in Lumentum Holdings Inc. (LITE) - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNblJTZHZZZ2ZRbEh6b0hLREZlYzJiT0pNTXdnbnZfMGtyYndxd2JtNF9fY1BqV0tuZlJ6SDMxcXBrSDBIT3dtWVppOGVIX1pPN1Rza2JfNlRaS1NwQjlpdi05am41X3ZDeGtHRFkwbTc3SUR1T3VQZWozbW9OZTlJcFZWZlpaZUdtZ3dLUGViUHZ0RkNpTmtPOS01djVmZDlwelBv?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum tumbles 12% amid tech selloff (LITE:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNnNLMUNiYmdGQ3J4eUFndVJYRFlzZzZKelRMTHFjRmZzdF94SjJWek1oc1BkTjJ4MTNHZDFDdXplNWFGQmZjYjZUcU5RZDdhcTBnb1FLRGFqZldnMkd2NnhPcWJhOEVRMHJPb2szdUp5MFdDMjZxbWxFaDlUeFdQbDRwd3FjMnVCUFJR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Drops 9.6% Amid Sector-Wide Selling - AlphaStreet",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWS1GWkJ1OVpqUk1YVGhpVENJOVdXX2gwS05YUmpsbXR1VlU4OVBTTEJaX3Fkdm1MM2RlN1c0ZHhLVjVoQ3lWSDNJcjVpSTR6VWFXWEM1MFNzT2ZXd0ctUVNzX3pLNXA2VFdKbkdVVmZ1RWlzVVFFWG5nSGZzWmFTdlN3dlFYeEF3elHSAY8BQVVfeXFMTS11NFZYRUlWdGVWcFdibkFVcHctZlZhZ1F4M09NTEtOWXp3YnRORl9TVXBGb0FPVXN1TklPNXZNUXc2LU9ET29NSzVEd0ZYSjRkRUo4MkRESGlqXzZ3NFluaTZySEdaTEt5QjFnaVkweVVnNzZERHAxUGlrY0lrWFB6dkNJQ2lvanJINnhZVkk?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel’s (INTC) Turnaround Faces Its Test: A Jim Cramer and Billionaire Ken Fisher Pick - Yahoo Finance: Intel’s (INTC) Turnaround Faces Its Test: A Jim Cramer and Billionaire Ken Fisher Pick Yahoo Finance...\n- INTC Stock Alert: What to Know as Intel Hits Construction Milestone at Ohio Fab - Barchart.com: INTC Stock Alert: What to Know as Intel Hits Construction Milestone at Ohio Fab Barchart.com...\n- Intel Corp (INTC) Shares Fall 8.1% -- GF Value Says Still Overvalued - GuruFocus: Intel Corp (INTC) Shares Fall 8.1% -- GF Value Says Still Overvalued GuruFocus...",
+        "sources": [
+          {
+            "title": "Intel’s (INTC) Turnaround Faces Its Test: A Jim Cramer and Billionaire Ken Fisher Pick - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXpfNUJtcmk0ZUtDVjZYWl9EYmFPVEtzV3lwM1UtQjdFZGFtcGc3NzltTVZoc3RPWENBZFkza0ZiS3dIN0dQMzVvdjVWZnJkbzY3ZlNqd3BQd0pXV194T3NIN1BHblJyaXctZUdLZ2ppZ3ZfZXJwSnFWWndzMjFwMFZwRnhSb2lwc00xT0M1S1M5dzEyWUo3dDJjdGhxdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Alert: What to Know as Intel Hits Construction Milestone at Ohio Fab - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTUh0UkZVaHZ1UXY5M3lVOV84ZVdxQkxHSERIbzJma0NDVWpTV3BEZnZHZWFvYUNuWVExZ2FJWEVmRlZNTHJ3UHItZ043eXhnYVFxSWFEb2Z3OWloOWJQaUU2aXdXc0tINlp3QjZJcjczNWhyWFRZNlJuWDdIbXA0V0wtNXZNb0VmaEZBWXFHR3o1bXdGUmJGUFZuaWg1MzNrdTNXcjBDdHpSeklueC10ZFlRNEdtMkR0VnJxcDV1WQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp (INTC) Shares Fall 8.1% -- GF Value Says Still Overvalued - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXdCamxUS01sVlpaaWE3Y0RBcy1xNXhuak52Z1VZckZ0Q0VNTTllODVuUzc3VjVSRjNSWEV0MUZfRjRUTWxJSUZwcGZ1aUtabDRIbnJCN0QyNzMwc1Flb3NUWmF6R1BJeU5DM2pZVFpjZkVQeFBFa19pWWVPWlM0V2drTUd1bmV2UUpEZDlKRjV2cnhDSVV3dU14N3pjeWF4aGc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7% - Yahoo Finance: Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7% Yahoo Finance...\n- Where Will AMD Be in 2028? - The Motley Fool: Where Will AMD Be in 2028? The Motley Fool...\n- Why Are Nvidia, AMD and Micron Stocks Crashing Today? AI Spending Fears Hit Chips - Stocks Down Under: Why Are Nvidia, AMD and Micron Stocks Crashing Today? AI Spending Fears Hit Chips Stocks Down Under...",
+        "sources": [
+          {
+            "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7% - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbjE3M1E5SV9QdGI0djdaX000RGV5MTRzLWlJZ1BLeEZ4X2dwWXlwVWVmblhIVEhiMXU0U2JHOHMzV2pHM3JnZ0RfWDRsS2dzVHQ0SG5KczFUVFd4ZUZFQmRjZUpPRS01RWVRdnFwTGFYcG51NkVyN0JFTFZBaGhwLTVrTXVMUVd5SmxSajRacF9vMzhuZWRn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Where Will AMD Be in 2028? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KYzRQVU53dDJFM3hoczF3MkdRNUducFZBLUk3Yk1jeTlGcFZ0Qmpzby10WXlDMDNJM0xLdjJFdzdNdmRGdkFocjl5RWJwY2JjSFA3OEQ4b1piR3lZTGNabmFmUEwzMzVEQzdXanE4X3R1XzlMSDVF?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Are Nvidia, AMD and Micron Stocks Crashing Today? AI Spending Fears Hit Chips - Stocks Down Under",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zc25iZ1RZenM5U3N2QkJMQ2Q1UVBscjFreDQ5cDZ1LW1EUGdiNVFHU2JIeEJmajJfaThMN3RqNExGNWRnVFlqblEtb0o2OFMwaF9FZmJicloxemtoZzJRNFhtOXhmMXI4YWxtd2ZEcklyRDZOVWNyZ1RMTXhxWTg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Micron Stock Dropped on Thursday - Yahoo Finance: Why Micron Stock Dropped on Thursday Yahoo Finance...\n- Micron Technology Inc (MU) Shares Fall 6.3% -- GF Value Says Still Overvalued - GuruFocus: Micron Technology Inc (MU) Shares Fall 6.3% -- GF Value Says Still Overvalued GuruFocus...\n- What's Going On With Micron Technology Stock Thursday? - Benzinga: What's Going On With Micron Technology Stock Thursday? Benzinga...",
+        "sources": [
+          {
+            "title": "Why Micron Stock Dropped on Thursday - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNUJTTHZMRXZtaXhGU3pzdjhvek43SkFTb3VGVjhfMVhpV3ZXdDdkZTZ0LUFnUWRXQXRlYTNEb1RNSlc2R2ozNmw5ZkZoWGt4bkNwSldmTlg5R0NHVl9faWlPTkFCYklrTDh4WHpPQnRJOHlCQkNXczN1R2Z2ejNLRmstTWVZbWlTbU10RHlwelcwZW9RNUxmUDZ3cFJCNEE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc (MU) Shares Fall 6.3% -- GF Value Says Still Overvalued - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGNyby1GSXpCbnFfaEc3bXdtbWlsS3FfRWxwTWtXaGNCaUFLSXFBSjIxRTV4RjNualFzZEYzS3drejRuUjVmWkJrYWpxWWQ0bm1aZXNsWnAzRno2RElwMjdZTGloSVQ1Mk55MmE4SmdPcHZVSnBmQ1VTWUR6bUhhV1NGZUJ4QmM4SzVXSE42QmpMUV9DdU1iRFAyYlFhUVN6ZjhRSFpRZDJ4Y3B2NlE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With Micron Technology Stock Thursday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFktTjk3ZVlRVU5DS21wbEtnOVpvbVBrT0h1a28zZmY2Uk9TSHZYdG40UFA1WG5RVWwyN2RmNGhwMmtXNTBMNjdMVGJIRW0yZ1JnTjVMZWZoQ2pDRmJUN3lORmQ1OTZtcVFUNjRFMDg4eU5vTWY2QnZPOWVUM0lvc21jUjFmR0Y0OFhMdHZ5NjdJTUdVTG1za094eXJ3VjNHVEw1MWp0bW5BMlE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-22": {
     "date": "2026-10-22",
     "lastUpdated": "12:30 AM KST",
