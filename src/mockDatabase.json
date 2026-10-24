@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-24": {
+    "date": "2026-10-24",
+    "lastUpdated": "12:23 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Total current liabilities of Lumentum Holdings Inc. – NASDAQ:LITE - TradingView: Total current liabilities of Lumentum Holdings Inc. – NASDAQ:LITE TradingView...\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo Finance...\n- Lumentum Holdings Inc (LITE) Stock Up 3.4% but GF Value Says Ove - GuruFocus: Lumentum Holdings Inc (LITE) Stock Up 3.4% but GF Value Says Ove GuruFocus...",
+        "sources": [
+          {
+            "title": "Total current liabilities of Lumentum Holdings Inc. – NASDAQ:LITE - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUk96QWROMXYtWVpYeWpvNENuRWd6Z2cyTF9ObWFyUExxWFhSc09jRU5pVGJteDBBdy1SM1l3Y1kzb0tfd1FYZFhfUHpxSlVZbG5vNzNLNVRfR2xCMVdOa0tzTl8tZGRRVEJ2bDdEeldjV29fX2xFanNDY1hPQldnQm1PZXdUdEQtZ1kyd1pSSFk5M0xxQnZGTU1peEE3M21z?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWJyVmFiN2x4WE0zQUxMS0RNQkIwSXpaWXFDaVQ4VHRneTNiWDVDWDJSUXBxaVlreWpNZ3phN2UzUm1HTlRJTUhXcVFQSjhSN290b1NXMDdhN3Nsa1d3TmNua0hqdmhIRHBhcjlJMGhidWZDTWhOdXdQRVhxY1BMTU5XYjYwU2xHMTBhaUlnaw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Up 3.4% but GF Value Says Ove - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9MZnJKUG9PaUtXZ3d5cmtMX1VETkdKUkVXR2ZTMjlueVhVc2hkMXdpdWtmQTJlWDFMNzVCU3lWMWdOeTV3cWFyTWZ4R1hfWkRTaUtGaWRmNWRXRWNhNFZEQ0hkTVN3ZlpydlN1cjc3QkZleUdxblhGazhUTGhLeHZVZWl6SU1jaGJpS1JCUEpqRDhLN2M5Q2hpZnhHc044c092UEFSZ0E2RGJRR1J5cURLa0FpRjZ2amhCZUZR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel (INTC) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance: Intel (INTC) Earnings Expected to Grow: What to Know Ahead of Next Week's Release Yahoo Finance...\n- Intel in spotlight as Wedbush says tool installation at Az. fab should aid revenue growth (INTC:NASDAQ) - Seeking Alpha: Intel in spotlight as Wedbush says tool installation at Az. fab should aid revenue growth (INTC:NASDAQ) Seeking Alpha...\n- Intel Corporation Shs Cert.Deposito Arg.Repr. 0.2 Shs Estimates – BCBA:INTC - TradingView: Intel Corporation Shs Cert.Deposito Arg.Repr. 0.2 Shs Estimates – BCBA:INTC TradingView...",
+        "sources": [
+          {
+            "title": "Intel (INTC) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWG5naFNsdDNYTnVYdHRBSEhfbFdiZlRLWWpUWTJ5eVVVQmlXQUF3YjBaZWtlM0NoUzV1aHZuMVJKVVl6Q0dQXzFJbUwtbVd2WHhPZkpQMUVZbmxIQ2ZGcnJLalZJd1B4YUNpZXo0UXAxc1VGdVpTTFQ1THV1M3hhaE0ycDhwTHpQSnZNeF91MzVIOXd2dG52Nlo2cWtzS0k?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel in spotlight as Wedbush says tool installation at Az. fab should aid revenue growth (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW1iSTdjbTV6a2gxVVNqNjdVN0ZaNmlBSWRaSkVPdm83VlVGdXZXVHpfV1J3RmhtUE5maVRaV0NRWEs4cE1Wc2g2bGhXdV94QWJxakhGa2VIdEh2X1J0ZkxhYmFaMkdFMWNlSV8teTRxOVNnZmZDdHItcEZJRVRZdE9mSFBhamhmd3hsYUhfSWo4QlhCOG1pZjV5S3FySjIxM0VWdjktVkwyS01UZEMzWnc3UG1HcWZwZXRLZmVRWl9sLXZH?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation Shs Cert.Deposito Arg.Repr. 0.2 Shs Estimates – BCBA:INTC - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41MjhJcVhPOFBWeVg0NUswTDFubmlwcEdQZDdEZzVEZWNlbjlZYUFxNkE3eUFhaUNTVHZ3X2VjVk5yNHpwNDRmWmE5MFRCcDM0d1pqN3BGQVFlekNQUWJSR1o1TXJ0X1VjZGo0cHl5SHNlbGJWWkE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices, Inc. $AMD Stock Acquired by LifeWealth Investments LLC - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock Acquired by LifeWealth Investments LLC MarketBeat...\n- AMD Stock Drops 7% in Chip Sell-Off - Here's Why - Benzinga: AMD Stock Drops 7% in Chip Sell-Off - Here's Why Benzinga...\n- Advanced Micro Devices (AMD) Lands New AI Infrastructure Builds In Europe And India - Yahoo Finance: Advanced Micro Devices (AMD) Lands New AI Infrastructure Builds In Europe And India Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock Acquired by LifeWealth Investments LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcjRTWkl2bGdVLW1TMmx6SFBMdTJJQU1WcnhTU3VDVC1Cd1o5RFpPOTJFWU5xYWRQbmdmSERVN1kzSm5tRk8xY3ZQcHNENTNVSXpZeVJ6ZXI3WHlfamI0MWN2cHRuTkZnVUI4aFVCc2QyOWk0djB3R2stenZCWE1DdlAweWY2eHVYVDMtQWhOb2JFMV9zSWU0WnByWTJHQWVyVU1Bei1mSXBiQVRSd1A4bmtWQ2s0Zk1yR1JnTThvYl9FcU9pZ3E0US1fdkdKcU55N2c?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Drops 7% in Chip Sell-Off - Here's Why - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3VPRURJWHYtb2thbFlGa283LUhseWRJcnNOaVdnNHdFU183c24wTS1jdThnREZBNjJCRGRkbThObWRxc0V3ZHIyVlUyQWdyZ0FGLXdvSHdBT200cklRWDFKTnJtUFotYjEzemRaSlZnN2ZCeVlfSDZETURlUVNvYUdnZzdrWjgzdjFBeG5YOHZNTEF5SmxiaW5kLWVpTF9abllkZU9fRmY?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD) Lands New AI Infrastructure Builds In Europe And India - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGdLYzBDX1dqOHo0RTJNRU1BLXhpMUNsaVpjVUlMbWdKOEdSV2dSRTFBU2x6QUdmNlRES3ZqWEtTV3c0OTFoR2ZyalZLUW12b0tHTm1LblZZbWRPdjJqcmJ1VWxJeU1BQjRjZ1FpYWlyQ2dvMVltQl9Wb3lPb01vRGdaRWxYM19JckkxcXZXTE9jQ3hXRUFSMFloN1k?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron (MU) is an Incredible Growth Stock: 3 Reasons Why - Yahoo Finance: Micron (MU) is an Incredible Growth Stock: 3 Reasons Why Yahoo Finance...\n- Micron's Next AI Memory Breakthrough Has a Cooling Problem - Benzinga: Micron's Next AI Memory Breakthrough Has a Cooling Problem Benzinga...\n- Micron Technology Inc Stock (MU) Moved Up by 3.19% on Oct 23: What Investors Need To Know - TradingKey: Micron Technology Inc Stock (MU) Moved Up by 3.19% on Oct 23: What Investors Need To Know TradingKey...",
+        "sources": [
+          {
+            "title": "Micron (MU) is an Incredible Growth Stock: 3 Reasons Why - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVhXbU1jei01bzFkekM5SFZqOXNhVTJnczFONExnSmdyNExGUmFsejRFZ3FZNC1Nb0pkWkRxQkdJcjMySzIyMmoxaUxqek9PZm00VkladHhwOWFMN29ZaGR0Z2xhTWJuVnoyTk16V3BWb1NPMnpaR3lBNFZCeWVQdUwxTU05M0NHWDByTmNRSnFkUmN3SEI2bWpRS2padDg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron's Next AI Memory Breakthrough Has a Cooling Problem - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1VoNmgyRjB0MWdNMkY5UWd1dEpGbVAyc2tFMXUyTm9YMjNaSU9iYVhVZnlBaDV2N2xYSkhjVXBCc04zNXZpSUhXb3FPcFg2dG5LbVViZFpvaGMxTnA3VHN4WFpENlFKbWJCMGdVTTFIU3FFTWpGSkNiZnVsck9UVDc3UndWZ0xrYnhmRjlPMWczY3ZicXVuNlRXWkxwdw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc Stock (MU) Moved Up by 3.19% on Oct 23: What Investors Need To Know - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYUVMYkRNT2FqTGpfYTZwbVpqOFJSWjNMZ1dxbUxSYnRXdl82a0tzd2FXVkI0X2x4NXhGN2JvN0FwdGZwVk1PU3l3MlZMdmo2eDBXMUd5Wmp1WXNVMzB0VmZFWnNtTkN6bndpckhvdkNnV3FwbVZWN3JpcW8yRFlnTFpGZnBVWmZQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-23": {
     "date": "2026-10-23",
     "lastUpdated": "12:28 AM KST",
