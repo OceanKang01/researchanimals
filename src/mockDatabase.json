@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-27": {
+    "date": "2026-10-27",
+    "lastUpdated": "01:18 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) Stock Price, News, Quote & History - Yahoo! Finance Canada: Lumentum Holdings Inc. (LITE) Stock Price, News, Quote & History Yahoo! Finance Canada...\n- Lumentum rises 8% on StoneX buy initiation, AI optimism (LITE:NASDAQ) - Seeking Alpha: Lumentum rises 8% on StoneX buy initiation, AI optimism (LITE:NASDAQ) Seeking Alpha...\n- Lumentum Holdings Inc Stock (LITE) Closed Up by 8.19% on Oct 26: Facts Behind the Movement - TradingKey: Lumentum Holdings Inc Stock (LITE) Closed Up by 8.19% on Oct 26: Facts Behind the Movement TradingKey...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zMG1wX2dRdnd4cjgwU2R3dklRZUh6UnlUa2tXMlhIWWZIQ3lMWVdvVlNta3pETFFpbkNfczN0cnJWaWtqS0JwaDhzZkE4RnBNMXc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum rises 8% on StoneX buy initiation, AI optimism (LITE:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGlvd1JDT2RlR3hYSDVZWDJKZWpGNTRTb0VaODB3TS1Xd0ZHd1Z1VkRBcXBkWkgyR1hWVlZ3bnJTWFg1ZzFaaF9YdWFoenp4a3pOU3Fmc2VIM2FYeTRmbk1kdExoR0I3XzFMT2JDcFVZU09qOVZaUl84SVZxa2NUTDZVRHVmcEcycUZIOGprNVZkcWlvNjRCOUUtR1JaX25w?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Closed Up by 8.19% on Oct 26: Facts Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUE1UU3h2ME1lTmFEOUNOQlBsYi1KMFBLN2FFVXgwRWxBU0E5ZDZmQkQ2QU5MeVQ2VklidC1Bb3N1a2J3Tm5iejZzTDNPRDFSR01xcE9zVjFvUWNucGhwWmZpanhGdVRNMzhTcVFLbjU2YVRyQnBfcUZuNXFlVzA2V2dCU1ZwcjlkQWtF?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- INTC Stock Before Q3 Earnings: Is It a Smart Buy or Risky Move? - Yahoo Finance: INTC Stock Before Q3 Earnings: Is It a Smart Buy or Risky Move? Yahoo Finance...\n- Intel: Agentic AI Is Making CPUs A New Bottleneck (NASDAQ:INTC) - Seeking Alpha: Intel: Agentic AI Is Making CPUs A New Bottleneck (NASDAQ:INTC) Seeking Alpha...\n- Intel (NASDAQ:INTC) Stock Surges 5% as Wall Street Upgrade Sets US$125 Price Target - Stocks Down Under: Intel (NASDAQ:INTC) Stock Surges 5% as Wall Street Upgrade Sets US$125 Price Target Stocks Down Under...",
+        "sources": [
+          {
+            "title": "INTC Stock Before Q3 Earnings: Is It a Smart Buy or Risky Move? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjhIdG5nc2VYcHZoSzhGdlNoQ25xdkZxRjktS3Z6c091cUhQd1E0QVFXNlo5ZDBzc1BGYVpZQ2dNTGNqTzBnemhoMFM3QzlGcmR4U1RhLXVmSHFjMHpSUFN2WjJRSHJURWxTOHRJd20wTFJSZGIxQXAwSVZNbmExUDc5TEVZMFMzai1Nd29zR3JKTzR5dUlMMQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: Agentic AI Is Making CPUs A New Bottleneck (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPckJrNDZtMnl3ZmFVTnp2UUEwSG5YNGVkWFhRQncxazBYWlF2S0ZLQmVqQ0lvZC1sNHktTTk2SldMT2xqZ3hITFUxa0x0b01hblN1WWc0XzlJOUkwRHItelozdGNDbm1ReXJhX3dCMDZBdGpmMkdrck0zT0tHS1RLRXdGY1pFalR1V2FuM1BTVQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Surges 5% as Wall Street Upgrade Sets US$125 Price Target - Stocks Down Under",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjNDN4SFhxV2MyZkpSdlpOZ21lRUM2UjkxRjdtQ3FKbXUyU3pZLXVORExVRDVoX0xFNmwwRHpPNktvZzVqcG1MNVZuMjRXRUdFQmFHX1E1YWJrNENVdHA2LXd6X1o1aXVqVHBqb0RSbDJIVkFaeXl2ag?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Rises Higher Than Market: Key Facts - Yahoo Finance: Advanced Micro Devices (AMD) Rises Higher Than Market: Key Facts Yahoo Finance...\n- Advanced Micro Devices Inc Stock (AMD) Moved Up by 3.03% on Oct 26: Drivers Behind the Movement - TradingKey: Advanced Micro Devices Inc Stock (AMD) Moved Up by 3.03% on Oct 26: Drivers Behind the Movement TradingKey...\n- AMD Q3 Preview: The Market Is Watching OpenAI, I'm Watching EPYC (NASDAQ:AMD) - Seeking Alpha: AMD Q3 Preview: The Market Is Watching OpenAI, I'm Watching EPYC (NASDAQ:AMD) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Rises Higher Than Market: Key Facts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZzYtRE1JWERFWUdyTHdsRzdScUtHN3ZQRHlyZ3B2WW5qU3plWk9JWXc5Um9FZlJvOU03MkhKSFBnV2pCUTNqZjBvaVQ4eXJkamNnd01VNFp3MFZRY1M3R1VSNmlLNVNBa1pNclozc0FtU190NnV1U1ZpNlNGbWlVc3VXSkJNbGEzMTAtaEdtX1R5NWZOUjFFUmgtaDU2dw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc Stock (AMD) Moved Up by 3.03% on Oct 26: Drivers Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSGpYQ29SQVJscUNkYWRMdjRnN2ZGUnBfYTFaRENTbUJuMDZOaTlFbHJMVl9MRkd6MzBtcTQ1R1dXbFU5ZXpnMVVmbGZhQ000aE56Uk9OT1FZb1VFZ3lqOElaU0pOVUhVeDU3S3NHVC1qMHhqMENyemxsT0RpNDcxZHdiTnVvbE5hNmc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Q3 Preview: The Market Is Watching OpenAI, I'm Watching EPYC (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY3IzX3Q4eEEzdVBuN0p2WEpQYmtOQ0hYV2VXV0hFejZnRUlLT1c5bnMwbmtiYXRxT1dGZUUwajFIMVNxR2o4UDlaeFJVVFZ0aEJiOXVQMGthWjhMR2pZQWJ4M3RhZTBKV0JjYmViX3RCWVJaMnh3YjhYcy0xaXd5S2w2QmttNzBNczhQYlR4ZU1UVmZDQ01WR3F3SHlnOWdYZGxQYg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- After Two Spectacular Micron Buy Ratings, I’m Calling It Quits (Downgrade To Sell) (MU) - Seeking Alpha: After Two Spectacular Micron Buy Ratings, I’m Calling It Quits (Downgrade To Sell) (MU) Seeking Alpha...\n- $100 Invested In Micron Technology 10 Years Ago Would Be Worth This Much Today - Benzinga: $100 Invested In Micron Technology 10 Years Ago Would Be Worth This Much Today Benzinga...\n- Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know - Yahoo Finance: Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know Yahoo Finance...",
+        "sources": [
+          {
+            "title": "After Two Spectacular Micron Buy Ratings, I’m Calling It Quits (Downgrade To Sell) (MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSnRNMG1HUzBaZFhtVjE1LU5pMVZ2RExucVN1OWlCX2tmU3I5YW00TDBtSG9jR0E4bG40QzNzV1liM2w0R1JjR3kxZC1fLUNhUmNRSzhYeGlkTTYyU09tVGJnUDd6MVp2TW12Sk40ZHdXUWxNSXJoblZQQkN3UEJHWDVyaFpOV2dnR09JWGxDWGRLdkl3ejV5LWlZWFVmLTVEdkM1RjJqMC1SSzBkUlljUVluTE43eUNpU0l0Xw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "$100 Invested In Micron Technology 10 Years Ago Would Be Worth This Much Today - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWRXUUlUVU9Pd0R0em1tMWpsQUQ1djB2TWxhOWhTWlp2U19yUlRhb040SlJESlBtY1lPc20wTHdXQjc3TDZKSy1XMnhoMW1FZHZEMDJwQmd5cFhzandacVBrd1lWOEZqUVl6NHR2eFN6OE1UbU1XWmhwdi1KUGJiaERLSGs0eDdIVnhFQ0NXYWJBNm9Ia29TdlhyYW1LM1hmRDZNZWs3Q19qbngyT3hKRjJuNGE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQajkybmNzZ3ZoWFlBRkVmdHBON0ZXUzZ6d2l2bkJ0REU3S01TS0F3MDNLaERyRWhwTmtCTkV2ampCOUtFdlJySlRsWndic3J5NFFuZDJKdTRuYnhWYUxWLUZxeVoxNGYtRTUyS0FKV2FoNEx2LUwtazI2MWNXWEtuSnhZM185S2h3YVBUQ29jZVlwSUZ5MmlkTg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-25": {
     "date": "2026-10-25",
     "lastUpdated": "11:57 PM KST",
