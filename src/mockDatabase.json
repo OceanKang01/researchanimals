@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-28": {
+    "date": "2026-10-28",
+    "lastUpdated": "01:02 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) Stock Price, News, Quote & History - Yahoo! Finance Canada: Lumentum Holdings Inc. (LITE) Stock Price, News, Quote & History Yahoo! Finance Canada...\n- Lumentum Holdings Inc Stock (LITE) Closed Up by 5.88% on Oct 27: Facts Behind the Movement - TradingKey: Lumentum Holdings Inc Stock (LITE) Closed Up by 5.88% on Oct 27: Facts Behind the Movement TradingKey...\n- Is Lumentum Holdings Inc (LITE) Overvalued After 5.9% Rally? GF - GuruFocus: Is Lumentum Holdings Inc (LITE) Overvalued After 5.9% Rally? GF GuruFocus...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zMG1wX2dRdnd4cjgwU2R3dklRZUh6UnlUa2tXMlhIWWZIQ3lMWVdvVlNta3pETFFpbkNfczN0cnJWaWtqS0JwaDhzZkE4RnBNMXc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc Stock (LITE) Closed Up by 5.88% on Oct 27: Facts Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZThldHNibVVUdEh5c1JZYlNBYmxTMnNYV0w3bldJVktWV09pNkhmS2VFVER6RUhGZTc3YldZMmVSdlpBT2VvQmloYzBPUUtMRXh2ZlpTNjY4SE9hc0ZZRkJGM3ZCTXgyTUJsX1FuVHF4U21lWlA5eXN2ZVpyZS1yV3BIUzBMZUhRSzdN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is Lumentum Holdings Inc (LITE) Overvalued After 5.9% Rally? GF - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjU4ZVEyVGRWSElCbVZuVmpsWVNKS01hOHQtVnhNUWhjQVpLM3BDTk5NQ0oydklNY1JUdm9hRzBEQ0Q4RTVZX25PS0lZcFIzNnFOOGhZQ2huTWczVUVPTkx0R0dsLUIzczJFNk1MMzktWTdfX0JxYjY3alVEQkZGTXpQWUdRMzZNZUtuLTNDZGRIS2tGQ3c1OV9iRHBoQmdOM250YmQwYzhmN1FWVm15NnE4dlc3XzNua2pn?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- INTC Stock Before Q3 Earnings: Is It a Smart Buy or Risky Move? - Yahoo Finance: INTC Stock Before Q3 Earnings: Is It a Smart Buy or Risky Move? Yahoo Finance...\n- Intel Corp Stock (INTC) Opened Up by 3.21% on Oct 27: Drivers Behind the Movement - TradingKey: Intel Corp Stock (INTC) Opened Up by 3.21% on Oct 27: Drivers Behind the Movement TradingKey...\n- INTC Stock Rebounds Toward $100 as Analyst Upgrades Lift Sentiment Ahead of Intel Corporation Report Third-Quarter Earnings on October 29 - FXLeaders: INTC Stock Rebounds Toward $100 as Analyst Upgrades Lift Sentiment Ahead of Intel Corporation Report Third-Quarter Earnings on October 29 FXLeaders...",
+        "sources": [
+          {
+            "title": "INTC Stock Before Q3 Earnings: Is It a Smart Buy or Risky Move? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjhIdG5nc2VYcHZoSzhGdlNoQ25xdkZxRjktS3Z6c091cUhQd1E0QVFXNlo5ZDBzc1BGYVpZQ2dNTGNqTzBnemhoMFM3QzlGcmR4U1RhLXVmSHFjMHpSUFN2WjJRSHJURWxTOHRJd20wTFJSZGIxQXAwSVZNbmExUDc5TEVZMFMzai1Nd29zR3JKTzR5dUlMMQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Opened Up by 3.21% on Oct 27: Drivers Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFQwQXRTaWJjUE9meDExbWtJaUt6T2pZWlVSbkhoTGM2UE1tdUExWHJtTjlKaC1VOHdsSnpTSlp0cWpqd2NHQU9fTzY2WHZpMFZFMFdRWWtDZXpWR1BTanRJNDJsUmdhckFIQ0IzdG9WZXl1aTVWWHk5a0w5YzdXVldUNUtad3lQaDJv?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Rebounds Toward $100 as Analyst Upgrades Lift Sentiment Ahead of Intel Corporation Report Third-Quarter Earnings on October 29 - FXLeaders",
+            "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWVhkVGUwamxFY2NoaGR0VWhmMWdaMDFqeVc5cm1vblJWZmRMRkdORExVSHVKTmRldEg3TDRjSlN1eTVzbC1wbUZxTFpkNGZMMkotLURLeFpNakNLdGx5Y1BEaG9DdE9uQnNGYURWX3U3NXVkU1RZZXVyR2VSTU5FQ0Z2V0xJa3BvTllqcWNQZWp0RFlnMzlCcUNnOXFTOWVYc2M3SS1raXN2c01raGlGR0dDR2NDNm0wQkkxRFFSZUQ2ZUI2SlN1b3RHV2wxNHhfajZKTU53b1h1RDc1RGZVUE9hUVpvRHJHaGc5NDNuYUxDQy1raUQ1M3l2ZllsbllIMW1WWHhIRDFfS3c?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Earnings Expected to Grow: Should You Buy? - Yahoo Finance: Advanced Micro Devices (AMD) Earnings Expected to Grow: Should You Buy? Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Stock Bought by Maxi Investments CY Ltd - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock Bought by Maxi Investments CY Ltd MarketBeat...\n- Advanced Micro Devices (AMD) Rises Higher Than Market: Key Facts - Yahoo Finance: Advanced Micro Devices (AMD) Rises Higher Than Market: Key Facts Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNekRsZGVrS3pGUDBHdmNrOS1KREpLcUlEdmpDOElCcVk1RDB4WU5kdnM5ZTRLMzRsMU1MSm5tazAydTVPNWZ3aU0xa3F1RWV1M1VCYmpPeWEtSXpXTER5Smh4TGpGS3ZzSXhYU3FhMmgxUzVqazVLVlpKbmEyUE44ZmMzUUNHT3kxZHEwWUJJT1Y0Z3F6bW5vSmF5ajE4cTJBUXc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock Bought by Maxi Investments CY Ltd - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcG5nbjA2dWNLMU8yUHM1b2lESXVtV2N3Z2dEVHV5UnVJX1pzYm5FOWttWHExVUxZNDAzNkwyYmwwN01OWDFZUlNtVE5TNVltNzNOT3BUTnlyMURLWEZkTDZwSmUwUUVvdUg5RTZqYm50TFBRbFVra1lxQUJSMUtxLUlvZHE0UHgzOVBoakt3QUhUWk9MTUZWS0VWcGs1X285b2llQkJnYVE1WEZWLTdoU0JUNW5wdWpIbEpXcDNpWmk5QWpNZHhabTBSOA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (AMD) Rises Higher Than Market: Key Facts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZzYtRE1JWERFWUdyTHdsRzdScUtHN3ZQRHlyZ3B2WW5qU3plWk9JWXc5Um9FZlJvOU03MkhKSFBnV2pCUTNqZjBvaVQ4eXJkamNnd01VNFp3MFZRY1M3R1VSNmlLNVNBa1pNclozc0FtU190NnV1U1ZpNlNGbWlVc3VXSkJNbGEzMTAtaEdtX1R5NWZOUjFFUmgtaDU2dw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Investors Heavily Search Micron Technology, Inc. (MU): Here is What You Need to Know - Yahoo Finance: Investors Heavily Search Micron Technology, Inc. (MU): Here is What You Need to Know Yahoo Finance...\n- SA analyst upgrades/downgrades: GOOG, MSFT, NBIS, MU - Seeking Alpha: SA analyst upgrades/downgrades: GOOG, MSFT, NBIS, MU Seeking Alpha...\n- Micron Technology Inc Stock (MU) Moved Up by 3.04% on Oct 27: A Full Analysis - TradingKey: Micron Technology Inc Stock (MU) Moved Up by 3.04% on Oct 27: A Full Analysis TradingKey...",
+        "sources": [
+          {
+            "title": "Investors Heavily Search Micron Technology, Inc. (MU): Here is What You Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVzAtSnk5eGI3c2ZYTm50ODJ2bTZaWmkwZHpZaUk0M0NETEgyLWZFeHFpSVo1dXNXUW1CVGRqam05MlctNEYwcTFrcENzU1g0dUNqbjR5cl82UVhNNi1jODZQbGhNalNucjJuQ1FzeVlwN3BpcDVYMnB2ZEtMZVpBeWhrQkFzei1CdXY3anJteVgxd0ViYWF2UU1TYVdxd050TzlYN3JUV1MzbEE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "SA analyst upgrades/downgrades: GOOG, MSFT, NBIS, MU - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMDhIM08yQmdNbkJDS2lzak9KeTdRMkpndnZjNmNvZE9EaE1sNGNoaDhqTGNWT21VVVhLRTZfbGxkdmQ3Y05RMW83Ml80YXVqYmtXR2VXTkZsWXg5eVB0a2QtLUFERTNoVUtwc1BJTjBNT2p1Y1JJbFlKdzRSVWt4MWFYS1ZOYW1WRUprQ2h3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc Stock (MU) Moved Up by 3.04% on Oct 27: A Full Analysis - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXJCN200RWo1WUZCQ2VKeGRzai01Uzlpb1hqVjlUTHE5b3MtRXNzV3ZCeHpqZ0VlSFpLY1E3eWdqRFY1TUxhX2hXOGp2NTZyNWZNRkItVkFtUEdUN3FoYWpISENOUlprRjBaZWQyLTh4SXBfN1o4cFZ5ZG5xZHpFUlhYb2YxVEts?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-27": {
     "date": "2026-10-27",
     "lastUpdated": "01:18 AM KST",
