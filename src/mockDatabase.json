@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-30": {
+    "date": "2026-10-30",
+    "lastUpdated": "01:44 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 919.53,
+        "changePercent": 0.61,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo Finance...\n- Marvell Technology in advanced talks to buy optics maker Lumentum, source says - Reuters: Marvell Technology in advanced talks to buy optics maker Lumentum, source says Reuters...\n- Lumentum Stock Lights Up Thursday: What's Going On? - TradingView: Lumentum Stock Lights Up Thursday: What's Going On? TradingView...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZEQyTEc1d2psMWllaVowR084bXgtdk4xV2lRUDhoTnV4MnVCdFBJaHBuTmdEZ0xzRWtBdWdsN1FMNnNCZjc1b3ZWV2JjMkI1VFJEUmdlUF9yQV9qb1lycHJ4dWJRVFMwU3NzbmxrUGtCa05yOXk5TUpPeHh0LXNhZUpTUE1Zd1Npd2tiSXdkSQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Marvell Technology in advanced talks to buy optics maker Lumentum, source says - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2xWTFdaYmFQNV9rVnZVcmltcTJqWGoyUVBzUlVPcDJaZm4xLXVCMmt4Szk2YnF1VjVXUEdjV0xDbGxRdjc2WjBzQjVnTnU0SWpSWkJmdlg0WS15eGNhc09ZNWpHUVc2Znk0aE9haUpPVlZOeUdqNl9CSzdHaUtITm1BTWh1d0tKTWtCYWM1M183ekZkSGptb3B4MUthVzhiM1hUOEhR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Stock Lights Up Thursday: What's Going On? - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDBGTWUwQnVpWEtQTVg1cklaZmYxSXRZSlhFZVc3al94ZFZBcjN6YmZBbUpIZ0RyVDBiV0ZzZmpza2RsdUFSMHQ2Ym00dl9LalNWQzFCTWZ4V01lbUtBdjJqdkJXaEZCM0IybjhsVTVlMW82cHE0MF8zdkxvZG5IclNwT1RHSkdkTU4xWEJXQmFHa01ySEFITlB3Q2pUN0QtcDVFQndzeTYyNW0x?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 92.07,
+        "changePercent": -3.62,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- INTC Stock Tumbles After-Hours After Q3 PC Slump And Supply Bottlenecks Cloud Fourth-Quarter Guidance - Yahoo Finance: INTC Stock Tumbles After-Hours After Q3 PC Slump And Supply Bottlenecks Cloud Fourth-Quarter Guidance Yahoo Finance...\n- Intel Plunges After PC Slump and Supply Snags Hurt Outlook - Bloomberg.com: Intel Plunges After PC Slump and Supply Snags Hurt Outlook Bloomberg.com...\n- Intel crashes as Q3 results, guidance miss Wall Street's forecasts (INTC:NASDAQ) - Seeking Alpha: Intel crashes as Q3 results, guidance miss Wall Street's forecasts (INTC:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "INTC Stock Tumbles After-Hours After Q3 PC Slump And Supply Bottlenecks Cloud Fourth-Quarter Guidance - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM0lNaFQ2YjJlZVllTXhBUklSeWdOZlNXTjZKVWFuUk1fQ0Fvdm5QbjlUMmRJdmZIT3RSazIzeGZvLWp0ZUdGNFlteXJibFhINko2YTNCYXhVWWZEcGRSelpvMDVXYUNmNWtqeUk0N0hXUDZVd085SEIxUEhHVHhjT21saS1uVllUWDNtZEllX3VYck9qT0M4?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Plunges After PC Slump and Supply Snags Hurt Outlook - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaURpSDFJSVlDdjY1d0wtcmQxOVpjYmowVTBSaEZCelVCWGNoVGI2VVR2UWNVcVZDVHVyUjFIMWdvQ0FfQ1dDdkpXWmdKUXRuNG9wVnlJRjNPTzFvcTB1TFV0QjdIVHhUZEZhOHFrdGJfSGNHbF9La09hYVhrempMWm5mTHZWMlJKUElqXzNYbjJKa3ZpZ0dZTE5Kb3JHb212eEtyNUQzNkltOUhnTlVNNWlR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel crashes as Q3 results, guidance miss Wall Street's forecasts (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcTFGVkw4QnBJcHZYcG1aOE5jNDBRRklUeWdCTkZ1c2g2bUJ0NWs5MlpCZUJmeWp6MkNUS3EwNXNzY2plOVpaVkZVaHJzOGZrS1hZZzM2dnFFc19PZFpmZHRTUnJlOHlxWjJtWDc0Uk9IUV85YzNCUW5Ddk9Ja2dDNjJUVlZXa2g4ZGZGYkw4MVZqNnVRQmRudVBoUmFpQmJ0cVdN?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 566.42,
+        "changePercent": -2.08,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices (AMD) Rises Higher Than Market: Key Facts - Yahoo Finance: Advanced Micro Devices (AMD) Rises Higher Than Market: Key Facts Yahoo Finance...\n- Advanced Micro Devices Inc (AMD) Shares Surge 5.5% -- What GF Sc - GuruFocus: Advanced Micro Devices Inc (AMD) Shares Surge 5.5% -- What GF Sc GuruFocus...\n- Advanced Micro Devices, Inc. (AMD.F) Seasonal returns chart - Yahoo Finance UK: Advanced Micro Devices, Inc. (AMD.F) Seasonal returns chart Yahoo Finance UK...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices (AMD) Rises Higher Than Market: Key Facts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZzYtRE1JWERFWUdyTHdsRzdScUtHN3ZQRHlyZ3B2WW5qU3plWk9JWXc5Um9FZlJvOU03MkhKSFBnV2pCUTNqZjBvaVQ4eXJkamNnd01VNFp3MFZRY1M3R1VSNmlLNVNBa1pNclozc0FtU190NnV1U1ZpNlNGbWlVc3VXSkJNbGEzMTAtaEdtX1R5NWZOUjFFUmgtaDU2dw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc (AMD) Shares Surge 5.5% -- What GF Sc - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd29MNjIzX0M4T3ZFU0sxU3RubDZkb3MzNzZrUG9Tak03cjNzV2lVNTdRQ1JRX1hyY25IQmkybmh0VXB0MmhpQkVqUW8xaWx4d0I1Sm9vNGd0dHc5VDJKWjc5Q2wwYTBsdnkwdlRUdnZuaUdVVGtxeWFKRGwyUDhMMmFxc21MT05LbWE4M09tRWIxdFFuZGtoOVZVOXhGSXRRVXNYaE9TbmYteWhqanU0ckNOc2NVSEpTRkhuOXhR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD.F) Seasonal returns chart - Yahoo Finance UK",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KSktrT2x3Y01CTEp5M0ptUlh0Zk10MHZ5NmIwWVV0SmtDUXdlQUpyV0QyZXhWRE9SSDJEQl9naWFUTWdJU0ViNUNKUUlnUnJxUVhLaVR5M0xOTHlINFp0N1dMUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 934.27,
+        "changePercent": -4.98,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here's Why Micron (MU) Fell More Than Broader Market - Yahoo Finance: Here's Why Micron (MU) Fell More Than Broader Market Yahoo Finance...\n- Micron: The 5x P/E Isn't As Cheap As It Looks, But The Upside Remains (NASDAQ:MU) - Seeking Alpha: Micron: The 5x P/E Isn't As Cheap As It Looks, But The Upside Remains (NASDAQ:MU) Seeking Alpha...\n- Why Is Micron Stock Falling on Thursday? - Micron Technology (NASDAQ:MU) - Benzinga: Why Is Micron Stock Falling on Thursday? - Micron Technology (NASDAQ:MU) Benzinga...",
+        "sources": [
+          {
+            "title": "Here's Why Micron (MU) Fell More Than Broader Market - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM1BFc09DcGY0QXFlMnQ5X0ZZSllHTnJDUlNlVFhwTFc4N2VSUnJqcE9jVEJ2d1E3SjFXckRRYUhkejQzQ09sNXllMnd6LUl6OFMySVB5VVVxNjVCOGRGVVBka1ZJNEM0UjZvanBBbFBIMjRKQUtKaVlpQmV6Vzg1V0hOaVRMYWpRanI2dzRMWkM0eWc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The 5x P/E Isn't As Cheap As It Looks, But The Upside Remains (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGF3OHJRX3U0eDc4eWRRRVRTbnhncjVUV0dtQXhSUmcxRFRpckEwa0JhdGtvZ0ZGaHVEdVdtRURJSzZTdlFrTG4yNnIxUE9QV1l2d1FoQXVlbDF6QUVENmxtalVtR0VfZGo1RFRGenpjTk5iaTFDMEZTNEdXWm1wZDdTNGpRNVduMFFsZDYwU25WWEVFb3JUajA4d0NMM1lPU2ZGdWpiM2hpZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is Micron Stock Falling on Thursday? - Micron Technology (NASDAQ:MU) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdUZDRV81aENnRmpoMFo1cVU0UkZPc21pZEwyM2hpTWlQZlZFWGNMWEl0ZkVkNzBNdXVIUjhfMkNJV1ltOHVsQ0lYNFFTcHlLbFlTMXJIR0FtT3doNGdxUDBTMEEzV080R0RoOWsyYTRBMmNVNWYxdVFrRDdfUWdUY1FZTnB6R3RkNlVldXZEcTlRQk5hQzJQTlNOZmtMV091YmpRYw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-29": {
     "date": "2026-10-29",
     "lastUpdated": "01:38 AM KST",
