@@ -8,7 +8,7 @@
     {
       "ticker": "INTC",
       "name": "Intel Corporation",
-      "earningsDate": "2026-10-29 AMC (마감 후)"
+      "earningsDate": "2027-01-28 AMC (마감 후)"
     },
     {
       "ticker": "AMD",
@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-10-31": {
+    "date": "2026-10-31",
+    "lastUpdated": "01:27 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 840.7,
+        "changePercent": -8.57,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc (LITE) Stock Down 8.6% but Still Overvalued -- GF Score: 70/100 - GuruFocus: Lumentum Holdings Inc (LITE) Stock Down 8.6% but Still Overvalued -- GF Score: 70/100 GuruFocus...\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo! Finance Canada: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo! Finance Canada...\n- Marvell Technology in advanced talks to buy optics maker Lumentum, source says - Reuters: Marvell Technology in advanced talks to buy optics maker Lumentum, source says Reuters...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc (LITE) Stock Down 8.6% but Still Overvalued -- GF Score: 70/100 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTW9PUUJFbEVObVlLeGRxd01UYmNaTkRyZVJzMFhiOFFFMmJvZWhzbHZlRGs0c0VlaXdObEUxWlNUS0VybnJDUVA0czlEeWYwSHRFZ1MwbmpVU05LX2RkS05kamZqOThDNEZtYV92blgycnFfekUxZm1jbnVqb2NBYTlXQ0w3bGRZRGg2NWw2U0JMMkIydkJmZWE1dDZBMTltVzJHWklQZ0EyOGtxRHVJYjM4QlBnQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREJFb0xXQ2c2WUR0c0M2SFkwejZMNVhlTnp6NFdLTWZ3cjAyU1AzRGp6R0trV3VzakZwTkoxYzhUNEU5SFdXVkdkc1ZYazFNOTU4bzNNTmpZRWRqemNZOHltTDNhUjFuQVVzTmZacjVqUjc4RUNwQzFRMkRlQlRuQm9KcC05b3dmNjBBUVBhZ0ZfUFpZ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Marvell Technology in advanced talks to buy optics maker Lumentum, source says - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2xWTFdaYmFQNV9rVnZVcmltcTJqWGoyUVBzUlVPcDJaZm4xLXVCMmt4Szk2YnF1VjVXUEdjV0xDbGxRdjc2WjBzQjVnTnU0SWpSWkJmdlg0WS15eGNhc09ZNWpHUVc2Znk0aE9haUpPVlZOeUdqNl9CSzdHaUtITm1BTWh1d0tKTWtCYWM1M183ekZkSGptb3B4MUthVzhiM1hUOEhR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 65.76,
+        "changePercent": -28.58,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- SA Asks: Is Intel's stock a buy, hold, or sell after the monster sell-off? (INTC:NASDAQ) - Seeking Alpha: SA Asks: Is Intel's stock a buy, hold, or sell after the monster sell-off? (INTC:NASDAQ) Seeking Alpha...\n- Intel (NASDAQ:INTC) Stock Crashes 17% After Earnings as Weak Q4 Outlook Sparks Selloff - Stocks Down Under: Intel (NASDAQ:INTC) Stock Crashes 17% After Earnings as Weak Q4 Outlook Sparks Selloff Stocks Down Under...\n- Intel Corporation (INTC) stock price, news, quote and history - Yahoo Finance Singapore: Intel Corporation (INTC) stock price, news, quote and history Yahoo Finance Singapore...",
+        "sources": [
+          {
+            "title": "SA Asks: Is Intel's stock a buy, hold, or sell after the monster sell-off? (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkRYRHZDbVRSejZlTHFvSVN4akNFUVJWWkhtdTM5NWtrVkQzRWdHWUtMZGlrZk1fUzZvRzllV1NWcE9tRFk2Yy1NNDdwZnJpM2pfdkdfZGJGTmVoQ1l2Tmo5S05yMjR4S2UxYWNYTHZVWE5QMU9XU2RJY205dHJKWlQ5UmhnSXhjbzJkMEt6cjB5UEpfc054VjJNVHFNdjN2cDRFSVVQQXFHOHc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Crashes 17% After Earnings as Weak Q4 Outlook Sparks Selloff - Stocks Down Under",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44a2lOdGYwLXRJRVJPYml0Vi1OaENVZWt1RVNQY3Z6b3hySVRRa0lBN1VHUWJUNG9IU3JSWHZmcC1ablY1TzFKY09Ib0hMOUNNRWxWd1hDaFN5RjB6Ul9raTdwdk1JcFdnbG83R1ZVR3lJUkV0QkJF?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation (INTC) stock price, news, quote and history - Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95MGptU21XWDZrTzRVekxEZzEtVkFPeGQyNEQtWWt2cG8wV1VJa2hUY0RzTE1lN3lmYk5tTzd6eVFibUw5R050OUZYYzNicVE3Z0E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 504.8,
+        "changePercent": -10.88,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD Has Ripped 170% This Year: Is It Too Late to Buy? - Yahoo Finance: AMD Has Ripped 170% This Year: Is It Too Late to Buy? Yahoo Finance...\n- Advanced Micro Devices Stock Outlook: Is Wall Street Bullish or Bearish? - Barchart.com: Advanced Micro Devices Stock Outlook: Is Wall Street Bullish or Bearish? Barchart.com...\n- AMD’s stock slides after Intel earnings reveal two big issues - MarketWatch: AMD’s stock slides after Intel earnings reveal two big issues MarketWatch...",
+        "sources": [
+          {
+            "title": "AMD Has Ripped 170% This Year: Is It Too Late to Buy? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQnNwWkxWaE01dWV3aW1yRnFpczlwb05JOWVIREZ1dGI0cUNEV0dqdlBJcUJjUlJtcWdSQUhaazk0M2FUaFF0NkJ2aU44QW43SUNpdG9vLWlPbFRsS25xMEtEY2tLVHdCN3VBSzdKajZTQk8za0VoYjBVd1M0UXVZZjhXVHFQVUFadUZVVTJtN0I?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Stock Outlook: Is Wall Street Bullish or Bearish? - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZGVFWlZoYURKZkxCVzRMS3lFV09WTGtRZnJ4aXJTdzFIX1Z6RjlHcEZhazN4UXJDN0NmMTlKbmpNZzJqSGVuLU84LThsVlVNdmpoVHpwaTJwQ0VyU3F0dVl4OEpILUljRHI3Wk1zMW1nWFpTYzdrSF9CVFAxcXhuYUI3MUxYTEE3VGpRLVpMcUl1elFSSzEtZml5Q3VmZWhWQU9WalhiaFNSUWVOVjk0QXNtbjM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD’s stock slides after Intel earnings reveal two big issues - MarketWatch",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSG1ER3NBSmVWMHJlelZ0akVNa1FTVDFlM1J3b2ZMOWZXanV1cVdDblB6dDlHRmJYZDRVZ2JKWTRfRDIyTkZaNENTZVQ2MGFJUjk2X0ZfU2ZTVjZEcm02VlJZXzQyYmlVdHY2Mm5BaEVvUmN0Tm1rQUF2NWlIQTdLMFpWNVl3QUNvX05MRlg0cmw5d1JQWjAxeUtDeHpVandzY2tDZGxn?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 884.74,
+        "changePercent": -5.3,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Stock: Why I'm Buying, Not Panicking (NASDAQ:MU) - Seeking Alpha: Micron Stock: Why I'm Buying, Not Panicking (NASDAQ:MU) Seeking Alpha...\n- Here's Why Micron (MU) Fell More Than Broader Market - Yahoo Finance: Here's Why Micron (MU) Fell More Than Broader Market Yahoo Finance...\n- Micron Technology Inc (MU) Shares Fall 5.3% -- GF Value Says Sti - GuruFocus: Micron Technology Inc (MU) Shares Fall 5.3% -- GF Value Says Sti GuruFocus...",
+        "sources": [
+          {
+            "title": "Micron Stock: Why I'm Buying, Not Panicking (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMk1nQ0FUSXQtejZyZ2tjX2N3S19ManMxSG02bU5tVGowb3BzejFBUllTaVlqMUR6M1A0a3dpUldiRVBRWktfbnR4LVhjOXhldVBDSm1GWlNrU0ZNWnFrNDRtSjUyZHVHa2RBU1dpVFFJcFZTbTQ4UFdWVTVFaTR4dU1WaUJweEs1?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Here's Why Micron (MU) Fell More Than Broader Market - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM1BFc09DcGY0QXFlMnQ5X0ZZSllHTnJDUlNlVFhwTFc4N2VSUnJqcE9jVEJ2d1E3SjFXckRRYUhkejQzQ09sNXllMnd6LUl6OFMySVB5VVVxNjVCOGRGVVBka1ZJNEM0UjZvanBBbFBIMjRKQUtKaVlpQmV6Vzg1V0hOaVRMYWpRanI2dzRMWkM0eWc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Inc (MU) Shares Fall 5.3% -- GF Value Says Sti - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMmkzdG5wQWZ5aVdVY2g5XzdQcXJ6NGo3NmJCUzhaenFscDZtcmplNFkyQi11Y0MzQ0hVZ0xKM0xRMzdrNWpNQ3Z2MDhaVTVvOWlyYmxIQnNYb09BTWdJd1pPbW9xYnhuZjAxTC1IQVBIMGt3UG1XdTJEOEw2ZTZ0X0x0UjMyRm02WVFmSVdFMXUyQ2FzMDAxdWFJaTdyUVhPSHpBeGxpQWc3V0pObWc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-30": {
     "date": "2026-10-30",
     "lastUpdated": "01:44 AM KST",
