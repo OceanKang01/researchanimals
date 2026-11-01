@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-11-01": {
+    "date": "2026-11-01",
+    "lastUpdated": "12:49 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 840.7,
+        "changePercent": -8.57,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum: Buy Before Earnings And A Potential Takeover (Rating Downgrade) (LITE) - Seeking Alpha: Lumentum: Buy Before Earnings And A Potential Takeover (Rating Downgrade) (LITE) Seeking Alpha...\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo Finance...\n- Marvell Technology in advanced talks to buy optics maker Lumentum, source says - Reuters: Marvell Technology in advanced talks to buy optics maker Lumentum, source says Reuters...",
+        "sources": [
+          {
+            "title": "Lumentum: Buy Before Earnings And A Potential Takeover (Rating Downgrade) (LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUmVyTUNLQlYzZGZHODFNOU5JWEdZMVkwNXlDYlRGcUtKU1NNSGVQOG5VNGZmaW91MDBNOXgzSjdHV0Q5VmpGcGtJY1pVZmNNWW55b3BMZDltTEFaVjN3czkyMV9SMXlIckU2R2dFRW5iNkJTTWZ2RWdMdkp2bGJnNWdNOTl2cjdBcnlRT1VWTU5BX0x3ZVlNYVFrbUpILVpPWGpPZVlxOGJ1ZlBrcjB6Tg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZEQyTEc1d2psMWllaVowR084bXgtdk4xV2lRUDhoTnV4MnVCdFBJaHBuTmdEZ0xzRWtBdWdsN1FMNnNCZjc1b3ZWV2JjMkI1VFJEUmdlUF9yQV9qb1lycHJ4dWJRVFMwU3NzbmxrUGtCa05yOXk5TUpPeHh0LXNhZUpTUE1Zd1Npd2tiSXdkSQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Marvell Technology in advanced talks to buy optics maker Lumentum, source says - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2xWTFdaYmFQNV9rVnZVcmltcTJqWGoyUVBzUlVPcDJaZm4xLXVCMmt4Szk2YnF1VjVXUEdjV0xDbGxRdjc2WjBzQjVnTnU0SWpSWkJmdlg0WS15eGNhc09ZNWpHUVc2Znk0aE9haUpPVlZOeUdqNl9CSzdHaUtITm1BTWh1d0tKTWtCYWM1M183ekZkSGptb3B4MUthVzhiM1hUOEhR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 65.76,
+        "changePercent": -28.58,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- SA Asks: Is Intel's stock a buy, hold, or sell after the monster sell-off? (INTC:NASDAQ) - Seeking Alpha: SA Asks: Is Intel's stock a buy, hold, or sell after the monster sell-off? (INTC:NASDAQ) Seeking Alpha...\n- Intel (NASDAQ:INTC) Stock Crashes 17% After Earnings as Weak Q4 Outlook Sparks Selloff - Stocks Down Under: Intel (NASDAQ:INTC) Stock Crashes 17% After Earnings as Weak Q4 Outlook Sparks Selloff Stocks Down Under...\n- Intel Corporation (INTC) stock price, news, quote and history - Yahoo Finance UK: Intel Corporation (INTC) stock price, news, quote and history Yahoo Finance UK...",
+        "sources": [
+          {
+            "title": "SA Asks: Is Intel's stock a buy, hold, or sell after the monster sell-off? (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkRYRHZDbVRSejZlTHFvSVN4akNFUVJWWkhtdTM5NWtrVkQzRWdHWUtMZGlrZk1fUzZvRzllV1NWcE9tRFk2Yy1NNDdwZnJpM2pfdkdfZGJGTmVoQ1l2Tmo5S05yMjR4S2UxYWNYTHZVWE5QMU9XU2RJY205dHJKWlQ5UmhnSXhjbzJkMEt6cjB5UEpfc054VjJNVHFNdjN2cDRFSVVQQXFHOHc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Crashes 17% After Earnings as Weak Q4 Outlook Sparks Selloff - Stocks Down Under",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44a2lOdGYwLXRJRVJPYml0Vi1OaENVZWt1RVNQY3Z6b3hySVRRa0lBN1VHUWJUNG9IU3JSWHZmcC1ablY1TzFKY09Ib0hMOUNNRWxWd1hDaFN5RjB6Ul9raTdwdk1JcFdnbG83R1ZVR3lJUkV0QkJF?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation (INTC) stock price, news, quote and history - Yahoo Finance UK",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lckVmX2RMX0w2T0RDVGRJdEpMTWRjdkdhb01MTlFZa3J3dFRNdGNfeUJQMmJmajRUMnZBZldsSGFMTS01dDFRUWxocmhSNW9BMEE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 504.8,
+        "changePercent": -10.88,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices slides 13% as part of tech selloff (AMD:NASDAQ) - Seeking Alpha: Advanced Micro Devices slides 13% as part of tech selloff (AMD:NASDAQ) Seeking Alpha...\n- Advanced Micro Devices, Inc. $AMD Stock: CFC Planning Co LLC Grows Position - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock: CFC Planning Co LLC Grows Position MarketBeat...\n- AMD Earnings Preview: The Bull Case Is Largely Priced In (NASDAQ:AMD) - Seeking Alpha: AMD Earnings Preview: The Bull Case Is Largely Priced In (NASDAQ:AMD) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices slides 13% as part of tech selloff (AMD:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGV3V2xDR1l0WWdPb1JuRk9WYm81cDQxdFB3NHFXUGZUamIxQzk2MTZ3MFFYSkx1c0VPQTNrT09mdmh5UERtTjZvVTBKRXVPc2NwMHJYMVlfZldGNW9CY2xobXpsTmZjUFRtcDE3dTJwemxHNVRRcU1vcG1uZUZZN1lidjJyWnRXRkVlX2w3ZnVmbEkxcG0yX3FB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock: CFC Planning Co LLC Grows Position - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUmRmMGNubmpMZXZDdWt0LWljRDFVeEVMQklfM01QX1MyUlZWZzlQZW4tLUpvZlJzMU1jZGtlNUJyY1lBVXRUVTh0LXV2blJUSk1KbjdEQzFFUllaQjFWUkFaN055WXBNaVZMTldWSG5iVzk2anUtd2JoMWwxekFNOFJTZUdLLTJBbGxLRHJ6R19MSHN6ekZSWi1fTlJVLVo2M0RCMHNtMjZOdHJVNzBMeS1qSzAzZUliQzhJeEx4N0NWYlBXWlV0bTNRcGY?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Earnings Preview: The Bull Case Is Largely Priced In (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3lGMDBoeWdCeklWb0RtZGxfSHZMb29uUTUxM1Q5dHgxOWxiaWpOak42R0Q2NzVWMXozbmFKWG5UMmlsOTNQai1aT3l6a1o3UzhXeFZKRFpMTWJwbDg3WnZaUS1DbTNDdHR4ZlRxMi1pVE51QktWQ0Vvay0zZW1HUDE5eFZJVlBPS1dhLVV4Ym1jXzdySDB6ZlJmOFk?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 884.74,
+        "changePercent": -5.3,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here's Why Micron (MU) Fell More Than Broader Market - Yahoo Finance: Here's Why Micron (MU) Fell More Than Broader Market Yahoo Finance...\n- Micron Stock: Why I'm Buying, Not Panicking (NASDAQ:MU) - Seeking Alpha: Micron Stock: Why I'm Buying, Not Panicking (NASDAQ:MU) Seeking Alpha...\n- Prediction: Micron’s Next Earnings Cycle Could Reset Expectations for the Stock - 24/7 Wall St.: Prediction: Micron’s Next Earnings Cycle Could Reset Expectations for the Stock 24/7 Wall St....",
+        "sources": [
+          {
+            "title": "Here's Why Micron (MU) Fell More Than Broader Market - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM1BFc09DcGY0QXFlMnQ5X0ZZSllHTnJDUlNlVFhwTFc4N2VSUnJqcE9jVEJ2d1E3SjFXckRRYUhkejQzQ09sNXllMnd6LUl6OFMySVB5VVVxNjVCOGRGVVBka1ZJNEM0UjZvanBBbFBIMjRKQUtKaVlpQmV6Vzg1V0hOaVRMYWpRanI2dzRMWkM0eWc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock: Why I'm Buying, Not Panicking (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMk1nQ0FUSXQtejZyZ2tjX2N3S19ManMxSG02bU5tVGowb3BzejFBUllTaVlqMUR6M1A0a3dpUldiRVBRWktfbnR4LVhjOXhldVBDSm1GWlNrU0ZNWnFrNDRtSjUyZHVHa2RBU1dpVFFJcFZTbTQ4UFdWVTVFaTR4dU1WaUJweEs1?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Prediction: Micron’s Next Earnings Cycle Could Reset Expectations for the Stock - 24/7 Wall St.",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNXdQdTdoRTRoMGc3X0V0RU1NaWdOR20zYXlLZExHZmN2MUR0aWE2cUY1NmJYTTFYei1MSE5IRUluS09lUjV6V1FLQjllR1E2bXRBYy04R2VGYkdRQnV3aHRVSkFYbkhCQ3BsSTFoQnpJUHJ6MkpPbEQwazd5Vk1idXF5M2ZtVE5nRDNUU0VSTzhxSnk2WmdWRlBzdm9vQ2hwdnE5VU5ZaEU4SXlrT21QUU5sMFZQTVNYd0NDSXdB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-31": {
     "date": "2026-10-31",
     "lastUpdated": "01:27 AM KST",
