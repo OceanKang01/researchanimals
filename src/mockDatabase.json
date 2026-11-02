@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-11-02": {
+    "date": "2026-11-02",
+    "lastUpdated": "01:22 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 840.7,
+        "changePercent": -8.57,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Earnings Preview: The AI Boom Is Already Priced In - Seeking Alpha: Lumentum Earnings Preview: The AI Boom Is Already Priced In Seeking Alpha...\n- Lumentum Jumped on Reports Marvell Is in Late-Stage Talks to Acquire the Company. LITE Stock Is a Buy No Matter What. - Barchart.com: Lumentum Jumped on Reports Marvell Is in Late-Stage Talks to Acquire the Company. LITE Stock Is a Buy No Matter What. Barchart.com...\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo! Finance Canada: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo! Finance Canada...",
+        "sources": [
+          {
+            "title": "Lumentum Earnings Preview: The AI Boom Is Already Priced In - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnpHT1BiUUxSLU9BU2JodmMtSGRKaGNFSEhKa0lOR1BRMTlqY3hNbVBQWUVLU0xab3RuV2ZSMlpSUFgyR0FhMVFuN0tRZ3llb3dvTC1DMDFteThvMmFlU2xOcWpHazVyTHBVeU1vdXVQUFZMZEZnNS1ZdW45LXF2bHF1dkRtR0ljU29xd1NwTkdkWkQyV0V4Vm85ZGFlQzdN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Jumped on Reports Marvell Is in Late-Stage Talks to Acquire the Company. LITE Stock Is a Buy No Matter What. - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaHJjbjJTQnZMVGF2dnhhcDI1UXdEekNyNFpJenp3VGVoRUhvbTM0NWYtazlzdG1zc0wtSm5pOVNEc3BDQ2o2ZGlhbUhKb25WNVFkNWt3ejNocm02YjB6WkdPdmU0VUgwQ3ppRWRvN0w0T2xZdlQ1ZUsxRVlsaGlmdUxfQXYwUkdVVHo0MW1FeU5wbVgxQUVMVVMxT0czOXFKdGN3VHZWWDI3TVQ1RVJ5bGs5U2VMNUdGVWpiMi1BcVk4YzVmVTV3YjhEYURFaW9BdFRLMWFiRmZmMWtucXNCYlNzdnpMUnctODRmZjk5dFM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSTlhaFJMa2tvVEdUV1V0WDJNVXVDMVQ3YVRzQUJPTEppSUppRTdVRm9udUhsWDVPd0JLcXJpLTd4eFUwd0R4V1VlRnVBd1hGU0Fya011VlhnbDk1MnBMS2g1a0pTa2tRcWVlT213cEM4RUFQOGdNaDJQLW5UTjhENHdNMEszTXczVWRleWliQmtDbjJH?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 65.76,
+        "changePercent": -28.58,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Intel (INTC) stock is trading lower today - Yahoo Finance: Why Intel (INTC) stock is trading lower today Yahoo Finance...\n- SA Asks: Is Intel's stock a buy, hold, or sell after the monster sell-off? (INTC:NASDAQ) - Seeking Alpha: SA Asks: Is Intel's stock a buy, hold, or sell after the monster sell-off? (INTC:NASDAQ) Seeking Alpha...\n- Intel (NASDAQ:INTC) Stock Crashes 17% After Earnings as Weak Q4 Outlook Sparks Selloff - Stocks Down Under: Intel (NASDAQ:INTC) Stock Crashes 17% After Earnings as Weak Q4 Outlook Sparks Selloff Stocks Down Under...",
+        "sources": [
+          {
+            "title": "Why Intel (INTC) stock is trading lower today - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFJxekNxajNUTXo3U0c2a3BEVzlOaXVOdk1nVnVBaFRmUlZlbll5aU9wd1B3LWFEUUFIU3p5Rm1xclFfY2p4Z3FGbUpJQWUxaXhlbEw3c200bThlSm02UTdaTXhQWkhFTUtrYXV6aW8ya1NXcTE4UENqcmFhYnVNbjdOS1ZHMl8xSlVpVjNIZDBERmxNeDBRbg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "SA Asks: Is Intel's stock a buy, hold, or sell after the monster sell-off? (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkRYRHZDbVRSejZlTHFvSVN4akNFUVJWWkhtdTM5NWtrVkQzRWdHWUtMZGlrZk1fUzZvRzllV1NWcE9tRFk2Yy1NNDdwZnJpM2pfdkdfZGJGTmVoQ1l2Tmo5S05yMjR4S2UxYWNYTHZVWE5QMU9XU2RJY205dHJKWlQ5UmhnSXhjbzJkMEt6cjB5UEpfc054VjJNVHFNdjN2cDRFSVVQQXFHOHc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel (NASDAQ:INTC) Stock Crashes 17% After Earnings as Weak Q4 Outlook Sparks Selloff - Stocks Down Under",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44a2lOdGYwLXRJRVJPYml0Vi1OaENVZWt1RVNQY3Z6b3hySVRRa0lBN1VHUWJUNG9IU3JSWHZmcC1ablY1TzFKY09Ib0hMOUNNRWxWd1hDaFN5RjB6Ul9raTdwdk1JcFdnbG83R1ZVR3lJUkV0QkJF?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 504.8,
+        "changePercent": -10.88,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices slides 13% as part of tech selloff (AMD:NASDAQ) - Seeking Alpha: Advanced Micro Devices slides 13% as part of tech selloff (AMD:NASDAQ) Seeking Alpha...\n- Advanced Micro Devices, Inc. $AMD Stock Sold by State of Wyoming - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock Sold by State of Wyoming MarketBeat...\n- AMD Earnings Preview: The Bull Case Is Largely Priced In (NASDAQ:AMD) - Seeking Alpha: AMD Earnings Preview: The Bull Case Is Largely Priced In (NASDAQ:AMD) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices slides 13% as part of tech selloff (AMD:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGV3V2xDR1l0WWdPb1JuRk9WYm81cDQxdFB3NHFXUGZUamIxQzk2MTZ3MFFYSkx1c0VPQTNrT09mdmh5UERtTjZvVTBKRXVPc2NwMHJYMVlfZldGNW9CY2xobXpsTmZjUFRtcDE3dTJwemxHNVRRcU1vcG1uZUZZN1lidjJyWnRXRkVlX2w3ZnVmbEkxcG0yX3FB?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock Sold by State of Wyoming - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcnU5SjBfY1o4NmctOUxXNXVGRDc1b3pNZlNwc0tDanpNMUJtZUdfMXk0LWV1MXJTd2xRU3VGYnh3UFJwZkVqWURfRUlPclIxQXlRZFFVMEdsRTdfa19LS3pHRGhZUm82QjZ1dlE2bTc3blNqSTJRQ1dmSWppenFsLW82MWs2LXhRZU9IRDBqOTU3NTFyWHk5UUpiQUpiWjgycTd3eDk1V3gxVnJnbElEbHRYT1JzYV9XNS1UZUh1Yw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Earnings Preview: The Bull Case Is Largely Priced In (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3lGMDBoeWdCeklWb0RtZGxfSHZMb29uUTUxM1Q5dHgxOWxiaWpOak42R0Q2NzVWMXozbmFKWG5UMmlsOTNQai1aT3l6a1o3UzhXeFZKRFpMTWJwbDg3WnZaUS1DbTNDdHR4ZlRxMi1pVE51QktWQ0Vvay0zZW1HUDE5eFZJVlBPS1dhLVV4Ym1jXzdySDB6ZlJmOFk?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 884.74,
+        "changePercent": -5.3,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here's Why Micron (MU) Fell More Than Broader Market - Yahoo Finance: Here's Why Micron (MU) Fell More Than Broader Market Yahoo Finance...\n- Micron Stock: Why I'm Buying, Not Panicking (NASDAQ:MU) - Seeking Alpha: Micron Stock: Why I'm Buying, Not Panicking (NASDAQ:MU) Seeking Alpha...\n- Micron Technology (NASDAQ:MU) Clears Eight Growth Tests as Fundamentals Improve - ChartMill: Micron Technology (NASDAQ:MU) Clears Eight Growth Tests as Fundamentals Improve ChartMill...",
+        "sources": [
+          {
+            "title": "Here's Why Micron (MU) Fell More Than Broader Market - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM1BFc09DcGY0QXFlMnQ5X0ZZSllHTnJDUlNlVFhwTFc4N2VSUnJqcE9jVEJ2d1E3SjFXckRRYUhkejQzQ09sNXllMnd6LUl6OFMySVB5VVVxNjVCOGRGVVBka1ZJNEM0UjZvanBBbFBIMjRKQUtKaVlpQmV6Vzg1V0hOaVRMYWpRanI2dzRMWkM0eWc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock: Why I'm Buying, Not Panicking (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMk1nQ0FUSXQtejZyZ2tjX2N3S19ManMxSG02bU5tVGowb3BzejFBUllTaVlqMUR6M1A0a3dpUldiRVBRWktfbnR4LVhjOXhldVBDSm1GWlNrU0ZNWnFrNDRtSjUyZHVHa2RBU1dpVFFJcFZTbTQ4UFdWVTVFaTR4dU1WaUJweEs1?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (NASDAQ:MU) Clears Eight Growth Tests as Fundamentals Improve - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXoyRE1TZzdYRmJmMS1FMUVfT2NZVnEyVWNpTzFlbFlEbzFUeXJETldyNnp1Q09neG1UWDFZN0taMFVUZEFIeXQ2Q3Bfck9zelhhZmlzcmlqRktEd2VXZlNBQmNhSjI3Y0NqUGZIQnVjdm1FSE5ET0VZc05sQ0VabjZjTHBoZ2F5UWd2aC0wYm5NLW9XU2lpaGJtTTlQZVViUUtKLUF2VWRPZDE5UTBYSGpEOG9weDh0WTdTQ1ZDdTF0N1U5?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-01": {
     "date": "2026-11-01",
     "lastUpdated": "12:49 AM KST",
