@@ -3,7 +3,7 @@
     {
       "ticker": "LITE",
       "name": "Lumentum Holdings Inc.",
-      "earningsDate": "2026-11-05 AMC (마감 후)"
+      "earningsDate": "2026-11-02 BMO (개장 전)"
     },
     {
       "ticker": "INTC",
@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-11-03": {
+    "date": "2026-11-03",
+    "lastUpdated": "03:22 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 684.4,
+        "changePercent": -18.59,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Jumped on Reports Marvell Is in Late-Stage Talks to Acquire the Company. LITE Stock Is a Buy No Matter What. - Barchart.com: Lumentum Jumped on Reports Marvell Is in Late-Stage Talks to Acquire the Company. LITE Stock Is a Buy No Matter What. Barchart.com...\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo Finance...\n- Lumentum: Marvell's $115 Billion Deal Is A Costly Mistake (Rating Downgrade) - Seeking Alpha: Lumentum: Marvell's $115 Billion Deal Is A Costly Mistake (Rating Downgrade) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Lumentum Jumped on Reports Marvell Is in Late-Stage Talks to Acquire the Company. LITE Stock Is a Buy No Matter What. - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaHJjbjJTQnZMVGF2dnhhcDI1UXdEekNyNFpJenp3VGVoRUhvbTM0NWYtazlzdG1zc0wtSm5pOVNEc3BDQ2o2ZGlhbUhKb25WNVFkNWt3ejNocm02YjB6WkdPdmU0VUgwQ3ppRWRvN0w0T2xZdlQ1ZUsxRVlsaGlmdUxfQXYwUkdVVHo0MW1FeU5wbVgxQUVMVVMxT0czOXFKdGN3VHZWWDI3TVQ1RVJ5bGs5U2VMNUdGVWpiMi1BcVk4YzVmVTV3YjhEYURFaW9BdFRLMWFiRmZmMWtucXNCYlNzdnpMUnctODRmZjk5dFM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbm81NEI3b2JLaHdvU0x2U0JvTDdwelcxMjhiMWZic1FId3FjeXBZV25BVmt0VmRaUDZ6TDZLM05iS2plVVNJYUV4TFpuUWVkcEtPcDE2TVc1SHpxT2VqNmVXNzBvSmhNbUI4a3lQVC1oQVFMemhCcXVfa1I4aHYyc2N6aXhhbEVXZ3NjNA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: Marvell's $115 Billion Deal Is A Costly Mistake (Rating Downgrade) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbVE0Z1JYZE1aMFQtUE1TaDBZVThNSzdKQzduUExjN0dWUmV3dVhWN3FpR0YzODhIdWJRT1U1QS1aUFdSR0V1c0Zqa283X1g5N09SRkNvenZyRzJGVVpYa0ZiMmNiSzAtdkFNSmpUQWhlOEtLQ2RtNFVoTnRqb0JQTVpDTWtRdWcxT3J6c0RYWHlsMWs?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 59.97,
+        "changePercent": -8.8,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Intel (INTC) stock is trading lower today - Yahoo Finance: Why Intel (INTC) stock is trading lower today Yahoo Finance...\n- SA Asks: Is Intel's stock a buy, hold, or sell after the monster sell-off? (INTC:NASDAQ) - Seeking Alpha: SA Asks: Is Intel's stock a buy, hold, or sell after the monster sell-off? (INTC:NASDAQ) Seeking Alpha...\n- Intel Corporation (INTC) Stock Price, News, Quote & History - Yahoo! Finance Canada: Intel Corporation (INTC) Stock Price, News, Quote & History Yahoo! Finance Canada...",
+        "sources": [
+          {
+            "title": "Why Intel (INTC) stock is trading lower today - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFJxekNxajNUTXo3U0c2a3BEVzlOaXVOdk1nVnVBaFRmUlZlbll5aU9wd1B3LWFEUUFIU3p5Rm1xclFfY2p4Z3FGbUpJQWUxaXhlbEw3c200bThlSm02UTdaTXhQWkhFTUtrYXV6aW8ya1NXcTE4UENqcmFhYnVNbjdOS1ZHMl8xSlVpVjNIZDBERmxNeDBRbg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "SA Asks: Is Intel's stock a buy, hold, or sell after the monster sell-off? (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkRYRHZDbVRSejZlTHFvSVN4akNFUVJWWkhtdTM5NWtrVkQzRWdHWUtMZGlrZk1fUzZvRzllV1NWcE9tRFk2Yy1NNDdwZnJpM2pfdkdfZGJGTmVoQ1l2Tmo5S05yMjR4S2UxYWNYTHZVWE5QMU9XU2RJY205dHJKWlQ5UmhnSXhjbzJkMEt6cjB5UEpfc054VjJNVHFNdjN2cDRFSVVQQXFHOHc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation (INTC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GNmJJZ1JaX0dkMjlYU1h4cW9JdzhibHV3ZTIwN0ZlOEpNSmtZaVdUaW81aGdaMndWd1dyMC1xWXFNSVlUbEk3WmJ5aEktWVp1NEE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 466.84,
+        "changePercent": -7.52,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why AMD Stock Is In Focus Before Q3 Earnings And AI Partnership Updates - Yahoo Finance: Why AMD Stock Is In Focus Before Q3 Earnings And AI Partnership Updates Yahoo Finance...\n- Ahead of Advanced Micro Devices Earnings, Here’s What Barchart Data Says Comes Next for AMD Stock - Barchart.com: Ahead of Advanced Micro Devices Earnings, Here’s What Barchart Data Says Comes Next for AMD Stock Barchart.com...\n- Chip and AI stocks give up some gains ahead of AMD earnings (AMD:NASDAQ) - Seeking Alpha: Chip and AI stocks give up some gains ahead of AMD earnings (AMD:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Why AMD Stock Is In Focus Before Q3 Earnings And AI Partnership Updates - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFZqQnJQc2E5bXlQbldmdWlHd1h5S3BhclFTYmNfNm1NQ0J5bmdfYkpEZXZ2dWZFX25NSW1vMEtUT2ZFQnd3N3d5SEw2SDRLTWp2QmM1czRxT09tVjdENldBY1hqcXdLLV9oVF9wWWZUS2Jvc1JkVnVOZEtzdzVBV2N3R0lCZEdXeTZhRXZmTk0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Ahead of Advanced Micro Devices Earnings, Here’s What Barchart Data Says Comes Next for AMD Stock - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbXJodzQtaWtBSi1tRFpVZ1VyQ0tObE5BOU5uY2htQU4ya0Fncm1ITE5xYXhoNlp5NUlwTGIxQ0ZfejExYzZvMXJYSUg0bUo4bE1fU3lOSTgyeS11U0YzRTZEODZncjVvTmtjeTdwWHJSMVVNY2E1QTlSbTdJMnpfZV92NUhSSEM4eGNjN0JyenFCWEo2OURpNmt6Z1AwaXhqMFVEVWgxa2NTbUJkSU92V3ZRVEVUeGgxaXhma2N6aXFXWjRyaGNTbkVWT1hkT3VuZzBYWlV3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Chip and AI stocks give up some gains ahead of AMD earnings (AMD:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2tWdkUzZldKRGVYT0FjMlRDZnJ6b2F6cWlQbTVxRWRjQjlMTDZFVERkYldQMnhqNmRwazN4X0pQQi1EYnlqbWNVTTRSOUNFUWtmUlVRa1FfcXdxdzh2TjlIdVlqUFl6WXlKNFFCVzFLRjBMWWRyaWVjOXQySTJsXy05RUZFcWU0NTZJTTRLeHlIdDh6QU5VRmdxclJQUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 833.59,
+        "changePercent": -5.78,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology, Inc. (MU) Stock Forecasts - Yahoo Finance: Micron Technology, Inc. (MU) Stock Forecasts Yahoo Finance...\n- Are Wall Street Analysts Predicting Micron Technology Stock Will Climb or Sink? - Barchart.com: Are Wall Street Analysts Predicting Micron Technology Stock Will Climb or Sink? Barchart.com...\n- Micron Stock: Why I'm Buying, Not Panicking (NASDAQ:MU) - Seeking Alpha: Micron Stock: Why I'm Buying, Not Panicking (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron Technology, Inc. (MU) Stock Forecasts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQandpQ3hfOTJidUo5X3JTUmFLTVNoREN2UC1hV2R3QWFoVVl2V2drMjJodmx6Y216dGhRVEI5RjFQbzFCVlI2aW9VeXJtYmtoQXJqYWx0RlZrbXowSUg1eThkMnFnRWRIOVp3cl80b01CeWFwN2xZeHJ5d1FGUUxmbVJYb1JIX2VFQW5Dcw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Are Wall Street Analysts Predicting Micron Technology Stock Will Climb or Sink? - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQzFLbG1SdzdfdFR3RDJLT29yZWxra25qekVZWlNCYVNhNmpFQVhpdmY0VUFnVDdsUXpSbzFsSlhxX2NIcGhvS3E4ZUxESzdCWVlOaUdMcUdJSXNnSml1VHAyal9iN3NEYTVQNGNHZVNEaWNUZ3hBQmk1NFFHWHZ2aUR5Ui0yVEJnbmc2ZktuZUhvT29CRE5wRTRjSUV2RlpvVUxmU256bFFkdGNoYVAyYWxBa1J6MUdQS0tmeXBIUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock: Why I'm Buying, Not Panicking (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMk1nQ0FUSXQtejZyZ2tjX2N3S19ManMxSG02bU5tVGowb3BzejFBUllTaVlqMUR6M1A0a3dpUldiRVBRWktfbnR4LVhjOXhldVBDSm1GWlNrU0ZNWnFrNDRtSjUyZHVHa2RBU1dpVFFJcFZTbTQ4UFdWVTVFaTR4dU1WaUJweEs1?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-02": {
     "date": "2026-11-02",
     "lastUpdated": "01:22 AM KST",
