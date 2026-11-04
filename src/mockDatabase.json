@@ -3,7 +3,7 @@
     {
       "ticker": "LITE",
       "name": "Lumentum Holdings Inc.",
-      "earningsDate": "2026-11-02 BMO (개장 전)"
+      "earningsDate": "2027-02-02 BMO (개장 전)"
     },
     {
       "ticker": "INTC",
@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-11-04": {
+    "date": "2026-11-04",
+    "lastUpdated": "02:01 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Jumped on Reports Marvell Is in Late-Stage Talks to Acquire the Company. LITE Stock Is a Buy No Matter What. - Barchart.com: Lumentum Jumped on Reports Marvell Is in Late-Stage Talks to Acquire the Company. LITE Stock Is a Buy No Matter What. Barchart.com...\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo Finance...\n- Halper Sadeh LLC is Investigating Whether LITE, RRC, SGRY are Obtaining Fair Deals for their Shareholders - Morningstar: Halper Sadeh LLC is Investigating Whether LITE, RRC, SGRY are Obtaining Fair Deals for their Shareholders Morningstar...",
+        "sources": [
+          {
+            "title": "Lumentum Jumped on Reports Marvell Is in Late-Stage Talks to Acquire the Company. LITE Stock Is a Buy No Matter What. - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaHJjbjJTQnZMVGF2dnhhcDI1UXdEekNyNFpJenp3VGVoRUhvbTM0NWYtazlzdG1zc0wtSm5pOVNEc3BDQ2o2ZGlhbUhKb25WNVFkNWt3ejNocm02YjB6WkdPdmU0VUgwQ3ppRWRvN0w0T2xZdlQ1ZUsxRVlsaGlmdUxfQXYwUkdVVHo0MW1FeU5wbVgxQUVMVVMxT0czOXFKdGN3VHZWWDI3TVQ1RVJ5bGs5U2VMNUdGVWpiMi1BcVk4YzVmVTV3YjhEYURFaW9BdFRLMWFiRmZmMWtucXNCYlNzdnpMUnctODRmZjk5dFM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbm81NEI3b2JLaHdvU0x2U0JvTDdwelcxMjhiMWZic1FId3FjeXBZV25BVmt0VmRaUDZ6TDZLM05iS2plVVNJYUV4TFpuUWVkcEtPcDE2TVc1SHpxT2VqNmVXNzBvSmhNbUI4a3lQVC1oQVFMemhCcXVfa1I4aHYyc2N6aXhhbEVXZ3NjNA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Halper Sadeh LLC is Investigating Whether LITE, RRC, SGRY are Obtaining Fair Deals for their Shareholders - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZ2JmVmFfeWtHWXpJbmJNOXpZLXdoSGNFdlVVOHpfLTdvUGNuRnZzX2RRUHgtdlNlWXpXc2ExRUxLNEZCeDBfT0cxSEx1Q0w5RFZHdS1mZkprWnRiYVdrSVBVdmdwTjhDWHZUYURnZ1BHbmVpLVhROFJ2bFUtZzFxdmVDaUFaUkIwVk4yNDJUcWV4dlpXajg1U2FTZjFUN216bUVDdnBBczJnS3cycThrZW12R09tSEJPVU1fV3czWk8ybnd4ZHUyYmFYVkpab0Q2c0Z5cUVGdkR3dmNyNnYybHVVZEVmMlQ2dXMxOGdKaFpuVXcyV19z?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Intel (INTC) stock is trading lower today - Yahoo Finance: Why Intel (INTC) stock is trading lower today Yahoo Finance...\n- Intel Corporation (INTC) Stock Forecasts - Yahoo Finance: Intel Corporation (INTC) Stock Forecasts Yahoo Finance...\n- Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast - Bloomberg.com: Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast Bloomberg.com...",
+        "sources": [
+          {
+            "title": "Why Intel (INTC) stock is trading lower today - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFJxekNxajNUTXo3U0c2a3BEVzlOaXVOdk1nVnVBaFRmUlZlbll5aU9wd1B3LWFEUUFIU3p5Rm1xclFfY2p4Z3FGbUpJQWUxaXhlbEw3c200bThlSm02UTdaTXhQWkhFTUtrYXV6aW8ya1NXcTE4UENqcmFhYnVNbjdOS1ZHMl8xSlVpVjNIZDBERmxNeDBRbg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation (INTC) Stock Forecasts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUElST1NqSTI5SFl5LUZyeUdQV05oQzVNYTkzZXBvc21YN0Q1aHZmOE5OakM5ampvMnZrWnBVNDY2YjZFOTN0UnRGdGlVWjRGYTZkR3didnY2azlDU2IzTHNNZWtqUFFfRmdYNEJSVWk5SnFjYklBTkh5UmxGbE53X08xLVdQcGlITVNORA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaURpSDFJSVlDdjY1d0wtcmQxOVpjYmowVTBSaEZCelVCWGNoVGI2VVR2UWNVcVZDVHVyUjFIMWdvQ0FfQ1dDdkpXWmdKUXRuNG9wVnlJRjNPTzFvcTB1TFV0QjdIVHhUZEZhOHFrdGJfSGNHbF9La09hYVhrempMWm5mTHZWMlJKUElqXzNYbjJKa3ZpZ0dZTE5Kb3JHb212eEtyNUQzNkltOUhnTlVNNWlR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD Forecast Exceeds Estimates After AI Chip Demand Soars - Bloomberg.com: AMD Forecast Exceeds Estimates After AI Chip Demand Soars Bloomberg.com...\n- AMD Beats Wall Street Expectations as it Pivots to Data-Center First Status - WSJ: AMD Beats Wall Street Expectations as it Pivots to Data-Center First Status WSJ...\n- AMD EPS: Intel's Drag Makes No Sense - Yahoo Finance: AMD EPS: Intel's Drag Makes No Sense Yahoo Finance...",
+        "sources": [
+          {
+            "title": "AMD Forecast Exceeds Estimates After AI Chip Demand Soars - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYURlOUxxRUMybEdmbkJoTHZiZEVTTUtCN0gyZ1RsV0s3YlEteXR1NFZIWDNwXzJKTUdCRUpJY0RWNlRqVC02M0VaMFgtY0piUFNGSkhKQmZ3bTVwMHFERHN6ZExPSnVFbWdBWDYxQnNnX0RJRnF6QVlld0FBeDhySGlrUEZ4bEtmWkkybFFVRU9EcnhRd2F5c1M1eGc2OFk5VG95X0dUa1dWUGhPZzJJ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Beats Wall Street Expectations as it Pivots to Data-Center First Status - WSJ",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTS1ackJyUFczU0ZLRnVmUkF2M2M2MUtueVFjd3ZpOEVkSlJQRWY3eUFNa2g2MVlHOTJDZTROanJCRkMzN0k0S0s2WWh6c2VMVW84VklCRmNBdW5CcmlMYzFXX2RpNmp2UDNPbjNWOFZRMVJUYWtyQkcxX0NPTE1FZU1TXzQ4d2VmaXZkNEVRNTRsQUVPTlUtcXIxRUg5endOZVZyT29sYmtEbmhCQ2pxUA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD EPS: Intel's Drag Makes No Sense - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZkoySkV4MG95dGFHRXUyaFJ3SlNtV3FzWTZVTUN2S0d5cURvVU9aY0VmYWNyc2NWSHNrZk5RN2ttbk1KLUJuTUJ0MWttTlZPYVkzUTBaR1g0bUIxdnFNMXNhQlRkYnA3RU5BVFBUcVNMcHNlbjNjcEc0THNmUklFcVc3bXdvY1hrX1VwLXAwLTNORGJB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Tech Gains as Tech Giants Scramble to Lock in Multiyear Supply - Yahoo Finance: Micron Tech Gains as Tech Giants Scramble to Lock in Multiyear Supply Yahoo Finance...\n- Are Wall Street Analysts Predicting Micron Technology Stock Will Climb or Sink? - Barchart.com: Are Wall Street Analysts Predicting Micron Technology Stock Will Climb or Sink? Barchart.com...\n- Micron Investors: Mark December 9 On Your Calendar (NASDAQ:MU) - Seeking Alpha: Micron Investors: Mark December 9 On Your Calendar (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron Tech Gains as Tech Giants Scramble to Lock in Multiyear Supply - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWtudFV6QUw5eHN3bGR5bThpblZ4azhIUW5NZ0xTWlg4UTFEV0FDTHVrcEdUZE5taXV2T3htR183YndhOXNERVRxY05ibHF4a1pZSWJ4S3dpVU41V2xidnN6YWtOYVJuNUYwZFgzT1VxN2QwdHJNbEZLZlJPZWR0cldJTElFOE9DLWUzclJpT0VFWV83bDFFaFBR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Are Wall Street Analysts Predicting Micron Technology Stock Will Climb or Sink? - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQzFLbG1SdzdfdFR3RDJLT29yZWxra25qekVZWlNCYVNhNmpFQVhpdmY0VUFnVDdsUXpSbzFsSlhxX2NIcGhvS3E4ZUxESzdCWVlOaUdMcUdJSXNnSml1VHAyal9iN3NEYTVQNGNHZVNEaWNUZ3hBQmk1NFFHWHZ2aUR5Ui0yVEJnbmc2ZktuZUhvT29CRE5wRTRjSUV2RlpvVUxmU256bFFkdGNoYVAyYWxBa1J6MUdQS0tmeXBIUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Investors: Mark December 9 On Your Calendar (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM2hSczhyTDFGck50RmRLOWFyT0VEbGxYYkhQQVpRUEFIVlpYdVBOVzJteXhUX054SVhlazIzS3NXR1VxWkJaclpYcDZkRW1zWVEwamd2Y2R6ZnJhaVNNRENEVDUycE1iU1JmN25HUzJGVEFuU1lMZEU3eXJwUXZNdVdURmNOMUtHZTQxS19lWG83SkhT?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-03": {
     "date": "2026-11-03",
     "lastUpdated": "03:22 AM KST",
