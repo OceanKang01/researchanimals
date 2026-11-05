@@ -13,7 +13,7 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "earningsDate": "2026-11-03 AMC (마감 후)"
+      "earningsDate": "2027-02-02 AMC (마감 후)"
     },
     {
       "ticker": "MU",
@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-11-05": {
+    "date": "2026-11-05",
+    "lastUpdated": "02:03 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo Finance...\n- Lumentum declines 8%, continues retreat after all-stock Marvell deal (LITE:NASDAQ) - Seeking Alpha: Lumentum declines 8%, continues retreat after all-stock Marvell deal (LITE:NASDAQ) Seeking Alpha...\n- Lumentum Jumped on Reports Marvell Is in Late-Stage Talks to Acquire the Company. LITE Stock Is a Buy No Matter What. - Barchart.com: Lumentum Jumped on Reports Marvell Is in Late-Stage Talks to Acquire the Company. LITE Stock Is a Buy No Matter What. Barchart.com...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDVsYk5hc1NYWmNtV0Y3Ul9MZ012MUJmblkzV2ZBR2lwclRfdjkwT3NDeHdTVU5NazJsM2FsUFFZcVdVRG9FclNIY0JTaXhkWXZhRkdnWTREdk1RY3RJaHhNOGNxYmtQTlI0dXM4WnoxODdPQlVXclBrSUUzZ0ZreFc1ajBDWUFqX0pEcVItRQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum declines 8%, continues retreat after all-stock Marvell deal (LITE:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWh0Zm1vVHk3TndmUC1WdnRLQUF6UDV3R2thcFZvMHJoVi1BWjVSclFSSUhvcUZWZl83RjM0LVhISmdyMW94UFpZamVmRWRDSDBnOGJ6V3U3Ung2MmZ5MUJUUjdZU0YxdGlPU19wLUVDQ2JQRlZxdURNN0dfclN1WFpSd1h0eEFCcG1tTk1jejd5ZkNxcHpUdVhVNjFsMXJoNWllRVNuMA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Jumped on Reports Marvell Is in Late-Stage Talks to Acquire the Company. LITE Stock Is a Buy No Matter What. - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaHJjbjJTQnZMVGF2dnhhcDI1UXdEekNyNFpJenp3VGVoRUhvbTM0NWYtazlzdG1zc0wtSm5pOVNEc3BDQ2o2ZGlhbUhKb25WNVFkNWt3ejNocm02YjB6WkdPdmU0VUgwQ3ppRWRvN0w0T2xZdlQ1ZUsxRVlsaGlmdUxfQXYwUkdVVHo0MW1FeU5wbVgxQUVMVVMxT0czOXFKdGN3VHZWWDI3TVQ1RVJ5bGs5U2VMNUdGVWpiMi1BcVk4YzVmVTV3YjhEYURFaW9BdFRLMWFiRmZmMWtucXNCYlNzdnpMUnctODRmZjk5dFM?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast - Bloomberg.com: Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast Bloomberg.com...\n- Intel: The Foundry Trap Is Getting Worse (NASDAQ:INTC) - Seeking Alpha: Intel: The Foundry Trap Is Getting Worse (NASDAQ:INTC) Seeking Alpha...\n- Why Intel (INTC) stock is trading lower today - Yahoo Finance: Why Intel (INTC) stock is trading lower today Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaURpSDFJSVlDdjY1d0wtcmQxOVpjYmowVTBSaEZCelVCWGNoVGI2VVR2UWNVcVZDVHVyUjFIMWdvQ0FfQ1dDdkpXWmdKUXRuNG9wVnlJRjNPTzFvcTB1TFV0QjdIVHhUZEZhOHFrdGJfSGNHbF9La09hYVhrempMWm5mTHZWMlJKUElqXzNYbjJKa3ZpZ0dZTE5Kb3JHb212eEtyNUQzNkltOUhnTlVNNWlR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: The Foundry Trap Is Getting Worse (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVHhVbUliaFIwWmloREJaYnc0ZWRFQWtyLXl4cG9HTWdQX29uUnl5YjRTZmJTa2Jhb2pLVXhkQlpRd3hGNEMtUUlSdHplSlI2UG5vaXRHWTlwOW05X2tUVi1vV3FkcEVQeVRCUjFwcGgyMFpFVzZMUEtTa1NTQVljcUZvLTNsVE0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Intel (INTC) stock is trading lower today - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFJxekNxajNUTXo3U0c2a3BEVzlOaXVOdk1nVnVBaFRmUlZlbll5aU9wd1B3LWFEUUFIU3p5Rm1xclFfY2p4Z3FGbUpJQWUxaXhlbEw3c200bThlSm02UTdaTXhQWkhFTUtrYXV6aW8ya1NXcTE4UENqcmFhYnVNbjdOS1ZHMl8xSlVpVjNIZDBERmxNeDBRbg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Advanced Micro Devices, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:AMD) 2026-11-03 - Seeking Alpha: Advanced Micro Devices, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:AMD) 2026-11-03 Seeking Alpha...\n- 2,231 Advanced Micro Devices, Inc. $AMD Shares Purchased by Provenance Wealth Advisors LLC - MarketBeat: 2,231 Advanced Micro Devices, Inc. $AMD Shares Purchased by Provenance Wealth Advisors LLC MarketBeat...\n- Why Is AMD Stock Soaring Wednesday? - Advanced Micro Devices (NASDAQ:AMD) - Benzinga: Why Is AMD Stock Soaring Wednesday? - Advanced Micro Devices (NASDAQ:AMD) Benzinga...",
+        "sources": [
+          {
+            "title": "Advanced Micro Devices, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:AMD) 2026-11-03 - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVFodFk5ZTYxa3RWRmtsTDJYbHVYWGlBZVNGMXN0VVlyXzBzMkRiZS1jSUE0SFM2RGZVN0FNVWRJTHNJb09PLWlKOERJbWNXWURlT2xqVXpfdlFHU2VIUkppQWh3U1pRcGhnTXBLck9jemZOWFZ3Q2djXy1QV0NJUU16WDNIa1hIS1cwaDhUWW1ZbkpIRW5uRXRvOU1xaExUQXAxakRkUWliUnE4MkUw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "2,231 Advanced Micro Devices, Inc. $AMD Shares Purchased by Provenance Wealth Advisors LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUThTamI3b1Q4SU1rdjZ3ZDJ1VEZFcXhkUllsRVhJYzFxRXhvTXo2VXdSVFY5Ykljd0NlZVVCa2ZGdnV2RXY0QjFUa1BmRUw1X0doSWRUQXNXM1JjZmZ2Vy1ySDB5Z1NVX0J6NndSbXdsYjVqNklhZzQ0MnVVdWZZNjFqeGVlTTQtMFN2S3c2MEd4T2tPa3NYNzhaa2F2V2x4eFNaNkExeF96dU9keGlhSjQ0bm8yN1RfajU4a05jcjZKSm1tQlp6R253TVpBWjIwandScVpmOWtrV3VFQndfdg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is AMD Stock Soaring Wednesday? - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWRjb0RZdGRWcjY2Z1NydUk0YWxONThTaEs1azgtZGxrTm9IYXNhdWk0TEhCSkpPVTJoQ0xXeTRTdkxaN3lGUU1oalVILXc0U2VGc3QzZGZ1NGM4YmUzaHFaMERadTNNVlRWY2xIQUtzYWpMNzdlM1VnUWVUME5mdGhLdFk1dE1hRXNHZlVXUGJGeVA1NmlncWVycXhiU2JHSTZDS0lB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU) Pulls Back Amid Broader AI Memory Sell-Off; Underweight Position Aids Relative Returns - Yahoo Finance: Micron Technology (MU) Pulls Back Amid Broader AI Memory Sell-Off; Underweight Position Aids Relative Returns Yahoo Finance...\n- MU Stock Quote Price and Forecast - CNN: MU Stock Quote Price and Forecast CNN...\n- 10 Information Technology Stocks With Whale Alerts In Today’s Session - Benzinga: 10 Information Technology Stocks With Whale Alerts In Today’s Session Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Technology (MU) Pulls Back Amid Broader AI Memory Sell-Off; Underweight Position Aids Relative Returns - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcmV6OW9ld041cUU0MWl4QU9wN3pGcnhKZER4NmlYYnI3R3NvWDcxbGFGTTNEdFBYX2ItY0JpY2RveHcxUzktNDBCRllGQmw4U29jMkJyY0pFcy1YUmhpbzhuLVhBMHlHdXhsdjh4VFhfRHdETU9pUTFDR1ByUHNrM0ZWb21nM1NPZGJtbHZ0VW00dGw0M192dGtqZ3o?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "MU Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12OGhUSWtGTk9iWTJqbXhwZ2hpa25tNUxnRWlMam1RYkNBckpUdlVCMXgzY2ZDbG1HUkdxeFlUMWRkZ3ljR2xXUkdJb285UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblNnNjlmUFBnaDJuTzEtcktSa1RkLWoyZ0RDa08yWHVteTl3QTg5VVpqNVVWYU10Y0ZCdzRZT0ZwSDgzUno4NldETXRCYWZlbnZaVkU0WUFkTlZneUszbWszN1o0aHAzc0c3YmNnQzdwZEtqZWNUWWJLZ202Q19rWHhSWWRmYzFFbXMxeE5GM00zZE9ZSmhyRHNJX2dOQy1CLVFFNjdkNnltSUp2Um5qcU9uQk9aTWZo?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-04": {
     "date": "2026-11-04",
     "lastUpdated": "02:01 AM KST",
