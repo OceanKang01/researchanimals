@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-11-06": {
+    "date": "2026-11-06",
+    "lastUpdated": "02:05 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) Stock Price, News, Quote & History - Yahoo! Finance Canada: Lumentum Holdings Inc. (LITE) Stock Price, News, Quote & History Yahoo! Finance Canada...\n- A Look at Lumentum Holdings Inc (LITE) After 18.7% Decline -- GF Value $185.06 vs Price $509.70 - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 18.7% Decline -- GF Value $185.06 vs Price $509.70 GuruFocus...\n- Lumentum Holdings Inc. (LITE) stock price, news, quote and history - Yahoo Finance Singapore: Lumentum Holdings Inc. (LITE) stock price, news, quote and history Yahoo Finance Singapore...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zMG1wX2dRdnd4cjgwU2R3dklRZUh6UnlUa2tXMlhIWWZIQ3lMWVdvVlNta3pETFFpbkNfczN0cnJWaWtqS0JwaDhzZkE4RnBNMXc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 18.7% Decline -- GF Value $185.06 vs Price $509.70 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14QjRlbHVFQ0FiTm8yZHIteDlVb2xTQ1hOdDlwOGdqNnZPb1FDcHhYS2UwSlFFSjZpOHBwNzc5UkhCeDE1cG4wUHY0c3BUNFk?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings Inc. (LITE) stock price, news, quote and history - Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84X1FvS3BYNkp2TjNkUV9KWEhMbE10cnYyYnQtZkl4NF85akxRLWV6X1RyU19Nc0NmM2E2cy1zbzdXUHNPcmZzdVdnWHNQT2E0Wmc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Shares Rise 6% To Intraday High After Key Trading Signal - Benzinga: Intel Shares Rise 6% To Intraday High After Key Trading Signal Benzinga...\n- Intel Corporation (INTC) stock price, news, quote and history - Yahoo Finance Singapore: Intel Corporation (INTC) stock price, news, quote and history Yahoo Finance Singapore...\n- Intel: I Warned Before The 40% Crash, Now I'm Bullish (Rating Upgrade) (NASDAQ:INTC) - Seeking Alpha: Intel: I Warned Before The 40% Crash, Now I'm Bullish (Rating Upgrade) (NASDAQ:INTC) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Intel Shares Rise 6% To Intraday High After Key Trading Signal - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSDJaSjd6a2RqNHJxV2kwVUxRMG5lWEltcEs5eVozdm9rVlFQTTlUSmZDM1pCS1hGLUVVUHpBMWE5dy1PRF9YN3pfeUZ2LWxNV0E3alFJTXJ6bmtSdlM2dkl4c1h6NExCZU9VZ3F1T3Rjb0k3UEtGT0xRX2J3QWwwMVQzVko1QmRTcUtwTUtQQmJzLW4wN2Y0eC1vdDd5Z0VJbHVQX291MEhoR01pNlVtRlJEWXZhVFND?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation (INTC) stock price, news, quote and history - Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95MGptU21XWDZrTzRVekxEZzEtVkFPeGQyNEQtWWt2cG8wV1VJa2hUY0RzTE1lN3lmYk5tTzd6eVFibUw5R050OUZYYzNicVE3Z0E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: I Warned Before The 40% Crash, Now I'm Bullish (Rating Upgrade) (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbmxyVUtqUmliYU16cF9OLWJOMjJsQ0xvQUx4THk1bE9YY1ZqRGlnb2NIazBtaFYzaE1tYjQ2Z3l4emhOS3lLRVFGUFA5NEd6ck5ZaFdYM283c1I5aG5ma1dwdFZSQ0ZaVzRiM3JLay1xbFVWbXBKZXZYdlVPbnFoWWpIWTdGMXQ5ZUdKMnNDV2VCc1NHcGZGbXE1NmdDZTg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What Advanced Micro Devices (AMD) Said on Its Q3 Earnings Call - Yahoo Finance: What Advanced Micro Devices (AMD) Said on Its Q3 Earnings Call Yahoo Finance...\n- Advanced Micro Devices Inc (AMD) Stock Down 17.3% but Still Over - GuruFocus: Advanced Micro Devices Inc (AMD) Stock Down 17.3% but Still Over GuruFocus...\n- Advanced Micro Devices (NASDAQ:AMD) Stock Gets Price Target Bump from JPMorgan Chase & Co. - MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Stock Gets Price Target Bump from JPMorgan Chase & Co. MarketBeat...",
+        "sources": [
+          {
+            "title": "What Advanced Micro Devices (AMD) Said on Its Q3 Earnings Call - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN25PeF9scXpqc0l3YjcxV2w3Z2VmQllIcXlxa0x1UTU4Q1lEdHJjcnFYLTBtM3c3UmdyMzNaZ3BsQ1FEUktFdmpJSklWc2E4V3U3ZF9tNzU2SWhaY1ZIQnA4cGJjSDRCdkRvcGlfLVE3Ukx4Z1NPdk1RUDJUbnpRY1VLMUhyYllTNEFvbTZKeG5wU0lkcXhDY3lhQm8?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc (AMD) Stock Down 17.3% but Still Over - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTW5ETEI2UEhtLVdUOXhRcFZ3TWtyS21vMWVkY0NoWExTZTMwekxlNXA3WlFIWFk3UkppcU54NjZpYnlaWjJ3MUJjY21FUWNHX0hVSW5TOEU3cmJ0WjJPeVBGdGxUY2Q4UnR4R3pBb093MW9SenFxNk5pYjdWaGJrdjFKNnR5UnByd1RMcUV3Y0ZBTWVwMHN1U05VZEp2cTdqMFpkaVQzVDVMemJFSUpvN2tzdU5ZX3Nkam1IZg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Gets Price Target Bump from JPMorgan Chase & Co. - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ0Zvem5TVGpTVGhITm1qNEhVci10cGZPck4zZ2U0UTdKM3JfcDYzVDBtMjlSalR6ajFvV2xrdUpWMVNRSlhKSlhiaU93MXdWV29wN3VtWmdPUk9PS2RCRFBid2RfMVp1OU1iZ2YtQ1dQcmdHWkJ5X1NDTFVHNUhjaGoyLTZLc2dFczRyc2h0T3ZXczV2cEtPY1RSMUZocVFCZkZFOUwyZkV2VjZpNHJpUm9MODAtYlNHUU02VjcyMVZ1Y1lGVUtNSHJqcm5KMGdWQ1pISzA0SXA3Wm8xcGZfNw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron's Selloff Is A Once-In-A-Decade Opportunity (NASDAQ:MU) - Seeking Alpha: Micron's Selloff Is A Once-In-A-Decade Opportunity (NASDAQ:MU) Seeking Alpha...\n- Micron Technology (MU) Pulls Back Amid Broader AI Memory Sell-Off; Underweight Position Aids Relative Returns - Yahoo Finance: Micron Technology (MU) Pulls Back Amid Broader AI Memory Sell-Off; Underweight Position Aids Relative Returns Yahoo Finance...\n- Bad memory: Some chip stocks are tumbling despite the broader post-election rally for tech. Here's why - Fast Company: Bad memory: Some chip stocks are tumbling despite the broader post-election rally for tech. Here's why Fast Company...",
+        "sources": [
+          {
+            "title": "Micron's Selloff Is A Once-In-A-Decade Opportunity (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONk5hLVZLVGVod0hrUmtVSlN5UXN2NWFXMmQ2NmJYNWVYc3NDem1aRnYxTmFtLTlKUFpDcW1jdTRLSDlNVlViVjVCQjhPU19wQTFFVDREUmlQOHE1cDF1TVpoOVBHRHdaX0tkY20wRi1UWTk2OWhQSFBqcGltOHpYUzYyTG9zQWYtemlwclpyWHRZU1k?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (MU) Pulls Back Amid Broader AI Memory Sell-Off; Underweight Position Aids Relative Returns - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcmV6OW9ld041cUU0MWl4QU9wN3pGcnhKZER4NmlYYnI3R3NvWDcxbGFGTTNEdFBYX2ItY0JpY2RveHcxUzktNDBCRllGQmw4U29jMkJyY0pFcy1YUmhpbzhuLVhBMHlHdXhsdjh4VFhfRHdETU9pUTFDR1ByUHNrM0ZWb21nM1NPZGJtbHZ0VW00dGw0M192dGtqZ3o?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Bad memory: Some chip stocks are tumbling despite the broader post-election rally for tech. Here's why - Fast Company",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGVpd3FXMHd4NldLbjJ1MjZmWFAzYWUxbzNFYUxaR0pQU0ZtM29KM3p2dl8tdnVZSmI1WWo2UVh0OG14WFU5N2gwanZKTkVDSlRsWDZWU2FOSzNnYTlfczNsSkcySEJrMmJuVkxJVlRiQWd5QzFlVFEtbUdOMkdFQ2pwYjNONUdUekg3TUlULS11MmpVVE1hXzNWbnhtQQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-05": {
     "date": "2026-11-05",
     "lastUpdated": "02:03 AM KST",
