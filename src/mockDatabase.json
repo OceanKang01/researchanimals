@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-11-07": {
+    "date": "2026-11-07",
+    "lastUpdated": "01:43 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) stock price, news, quote and history - Yahoo Finance Singapore: Lumentum Holdings Inc. (LITE) stock price, news, quote and history Yahoo Finance Singapore...\n- A Look at Lumentum Holdings Inc (LITE) After 18.7% Decline -- GF Value $185.06 vs Price $509.70 - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 18.7% Decline -- GF Value $185.06 vs Price $509.70 GuruFocus...\n- Lumentum declines 8%, continues retreat after all-stock Marvell deal (LITE:NASDAQ) - Seeking Alpha: Lumentum declines 8%, continues retreat after all-stock Marvell deal (LITE:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) stock price, news, quote and history - Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84X1FvS3BYNkp2TjNkUV9KWEhMbE10cnYyYnQtZkl4NF85akxRLWV6X1RyU19Nc0NmM2E2cy1zbzdXUHNPcmZzdVdnWHNQT2E0Wmc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 18.7% Decline -- GF Value $185.06 vs Price $509.70 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd293ajZtdGRBVk9CUHlJMURvYjBHWUZyVmYtWFpmUC0ySGEwZ2l5TWpYajJoNjZUV1g3engtZ1dnV2c0WllVWlBscU9iajkxZFpjZUtwWU4xSnRUcWpTem9vOHFxZkZMWGhkWl81OU02S3pUc2ZBcVUwU3FrUVlJOWdrQVRRRHh0RW1UcVd4VGRRUk1CM25GYjZkQ0U2VVJQazF3QlZ6NEt1ZGhqUTdvd1dYblB6Tjd6X2NfdkdWWGg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum declines 8%, continues retreat after all-stock Marvell deal (LITE:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWh0Zm1vVHk3TndmUC1WdnRLQUF6UDV3R2thcFZvMHJoVi1BWjVSclFSSUhvcUZWZl83RjM0LVhISmdyMW94UFpZamVmRWRDSDBnOGJ6V3U3Ung2MmZ5MUJUUjdZU0YxdGlPU19wLUVDQ2JQRlZxdURNN0dfclN1WFpSd1h0eEFCcG1tTk1jejd5ZkNxcHpUdVhVNjFsMXJoNWllRVNuMA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 56.28,
+        "changePercent": 7.71,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation (INTC) Stock Price, News, Quote & History - Yahoo! Finance Canada: Intel Corporation (INTC) Stock Price, News, Quote & History Yahoo! Finance Canada...\n- Intel Shares Are Down 40% Since Earnings. Is the Stock a Buy Now? - Morningstar: Intel Shares Are Down 40% Since Earnings. Is the Stock a Buy Now? Morningstar...\n- Intel: I Warned Before The 40% Crash, Now I'm Bullish (Rating Upgrade) (NASDAQ:INTC) - Seeking Alpha: Intel: I Warned Before The 40% Crash, Now I'm Bullish (Rating Upgrade) (NASDAQ:INTC) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Intel Corporation (INTC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GNmJJZ1JaX0dkMjlYU1h4cW9JdzhibHV3ZTIwN0ZlOEpNSmtZaVdUaW81aGdaMndWd1dyMC1xWXFNSVlUbEk3WmJ5aEktWVp1NEE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Shares Are Down 40% Since Earnings. Is the Stock a Buy Now? - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3VWNWpqc1A5SkxDWjRxWGo1SmM3SXJPRUxkNVhPeE9VWVN3bVAtSlJUWGswWWR6LTNmeFZoNU1BbHRrWGZQaVc0VkFxQWV1cGwtNHRxcm5Zb2JEUjk4QmJ2SGNyN3JpZnpFdXdjNDY1YnNSQXRFNm96NWJ5c1NUdmwzdjRSS2themhEUjNtU1VwaWFIRlE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: I Warned Before The 40% Crash, Now I'm Bullish (Rating Upgrade) (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbmxyVUtqUmliYU16cF9OLWJOMjJsQ0xvQUx4THk1bE9YY1ZqRGlnb2NIazBtaFYzaE1tYjQ2Z3l4emhOS3lLRVFGUFA5NEd6ck5ZaFdYM283c1I5aG5ma1dwdFZSQ0ZaVzRiM3JLay1xbFVWbXBKZXZYdlVPbnFoWWpIWTdGMXQ5ZUdKMnNDV2VCc1NHcGZGbXE1NmdDZTg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 449.04,
+        "changePercent": 11.04,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What Advanced Micro Devices (AMD) Said on Its Q3 Earnings Call - Yahoo Finance: What Advanced Micro Devices (AMD) Said on Its Q3 Earnings Call Yahoo Finance...\n- Advanced Micro Devices, Inc. $AMD Stock Bought by Kestra Advisory Services LLC - MarketBeat: Advanced Micro Devices, Inc. $AMD Stock Bought by Kestra Advisory Services LLC MarketBeat...\n- Advanced Micro Devices Inc (AMD) Stock Down 17.3% but Still Over - GuruFocus: Advanced Micro Devices Inc (AMD) Stock Down 17.3% but Still Over GuruFocus...",
+        "sources": [
+          {
+            "title": "What Advanced Micro Devices (AMD) Said on Its Q3 Earnings Call - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN25PeF9scXpqc0l3YjcxV2w3Z2VmQllIcXlxa0x1UTU4Q1lEdHJjcnFYLTBtM3c3UmdyMzNaZ3BsQ1FEUktFdmpJSklWc2E4V3U3ZF9tNzU2SWhaY1ZIQnA4cGJjSDRCdkRvcGlfLVE3Ukx4Z1NPdk1RUDJUbnpRY1VLMUhyYllTNEFvbTZKeG5wU0lkcXhDY3lhQm8?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. $AMD Stock Bought by Kestra Advisory Services LLC - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX04xaTR6cTByakt1cjUxcV8tdXBES1p5dnF5UVptOVhsbjFFb3FscmUxd2oxUEZOd3JsY3Z0UWY4c1lIVmdjeHIwSGoyN0p2a3RndVdHdVNrNThHUDR1SWE2cWdoMk9QQUVJR2pZQzZXQmxVbDBOM3ZiVTBiazlzX2lYV3h5bFplNWZTNUtSVl9lQmVYVzRROEdYd1RSaXFfaVg3U1VZUXJLNVcxeHl2SUhGU1BnSjg4cFpoQ1NzRERNNzlvN1laNUwwSkllQWdsOWc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices Inc (AMD) Stock Down 17.3% but Still Over - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTW5ETEI2UEhtLVdUOXhRcFZ3TWtyS21vMWVkY0NoWExTZTMwekxlNXA3WlFIWFk3UkppcU54NjZpYnlaWjJ3MUJjY21FUWNHX0hVSW5TOEU3cmJ0WjJPeVBGdGxUY2Q4UnR4R3pBb093MW9SenFxNk5pYjdWaGJrdjFKNnR5UnByd1RMcUV3Y0ZBTWVwMHN1U05VZEp2cTdqMFpkaVQzVDVMemJFSUpvN2tzdU5ZX3Nkam1IZg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 690.0,
+        "changePercent": 5.12,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology Stock Is Surging Friday: What's Going On? - Benzinga: Micron Technology Stock Is Surging Friday: What's Going On? Benzinga...\n- Micron (MU) Stock Sinks As Market Gains: Here's Why - Yahoo Finance: Micron (MU) Stock Sinks As Market Gains: Here's Why Yahoo Finance...\n- Micron: Right Call, Wrong Reason, And Why That Matters Now (NASDAQ:MU) - Seeking Alpha: Micron: Right Call, Wrong Reason, And Why That Matters Now (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Micron Technology Stock Is Surging Friday: What's Going On? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQajV3dEFsT2JWRVlVa25XTVk3M1ZqTm5uaGM3aTRib3RyWGVLMEkyWmJTbXVfY01iSUZreFlPVkswbV9mYWowVUJxVjNiVkpubkxnZVR3MzFEOVdObjFWRVp3VGhhN2VYdFlPbmRQb0VLVFVpdEY3SUllT0gtMmFZdHltc1FBSmtoTEhyUUpEellOdjhVOFZXdnN4bTA1RDBNMFk0Z2xxOGRwalNzSEE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron (MU) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3NNb1RNWmpjTFRUWWdBOC1mampaLWQ1YWFoYW9aRlNCcndUWXBWSkJEb2RnWWFPMVhkTS1mSG5sNmFNS0RmaEJ1aXFPVnBhTzdHc1hyUDA5enpSeFgzUjBqRnBhSURweGtoNHRNNTA5MWpabi1MMHpxTE91MFdJSzRDUGdmVkNCbERuV21fYVZMdUFyS2FHcg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: Right Call, Wrong Reason, And Why That Matters Now (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVGNWYXNOblhma1hMSnBkcUdsV0hqTGZOemY3RUFXVW9JM0loMnpTZ3B5SFRaREtHdzBJeHpPQmJQWm1qV1BZdFVOUkh6T3RfWUxKS0VRUGtoUGpHdmlNQzdVU0pOaUV4TEhwNGRCSnZoRzlwVDZ5Vmtwd0NibGx1RGprd2ZYaVp0VkxNR3BzNTVvbGtReFlqdHBxNk8?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-06": {
     "date": "2026-11-06",
     "lastUpdated": "02:05 AM KST",
