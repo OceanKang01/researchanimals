@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-11-08": {
+    "date": "2026-11-08",
+    "lastUpdated": "01:11 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 538.59,
+        "changePercent": 5.67,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) stock price, news, quote and history - Yahoo Finance Singapore: Lumentum Holdings Inc. (LITE) stock price, news, quote and history Yahoo Finance Singapore...\n- A Look at Lumentum Holdings Inc (LITE) After 18.7% Decline -- GF Value $185.06 vs Price $509.70 - GuruFocus: A Look at Lumentum Holdings Inc (LITE) After 18.7% Decline -- GF Value $185.06 vs Price $509.70 GuruFocus...\n- Lumentum declines 8%, continues retreat after all-stock Marvell deal (LITE:NASDAQ) - Seeking Alpha: Lumentum declines 8%, continues retreat after all-stock Marvell deal (LITE:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) stock price, news, quote and history - Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84X1FvS3BYNkp2TjNkUV9KWEhMbE10cnYyYnQtZkl4NF85akxRLWV6X1RyU19Nc0NmM2E2cy1zbzdXUHNPcmZzdVdnWHNQT2E0Wmc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "A Look at Lumentum Holdings Inc (LITE) After 18.7% Decline -- GF Value $185.06 vs Price $509.70 - GuruFocus",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd293ajZtdGRBVk9CUHlJMURvYjBHWUZyVmYtWFpmUC0ySGEwZ2l5TWpYajJoNjZUV1g3engtZ1dnV2c0WllVWlBscU9iajkxZFpjZUtwWU4xSnRUcWpTem9vOHFxZkZMWGhkWl81OU02S3pUc2ZBcVUwU3FrUVlJOWdrQVRRRHh0RW1UcVd4VGRRUk1CM25GYjZkQ0U2VVJQazF3QlZ6NEt1ZGhqUTdvd1dYblB6Tjd6X2NfdkdWWGg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum declines 8%, continues retreat after all-stock Marvell deal (LITE:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWh0Zm1vVHk3TndmUC1WdnRLQUF6UDV3R2thcFZvMHJoVi1BWjVSclFSSUhvcUZWZl83RjM0LVhISmdyMW94UFpZamVmRWRDSDBnOGJ6V3U3Ung2MmZ5MUJUUjdZU0YxdGlPU19wLUVDQ2JQRlZxdURNN0dfclN1WFpSd1h0eEFCcG1tTk1jejd5ZkNxcHpUdVhVNjFsMXJoNWllRVNuMA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 56.28,
+        "changePercent": 7.71,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation (INTC) stock price, news, quote and history - Yahoo Finance UK: Intel Corporation (INTC) stock price, news, quote and history Yahoo Finance UK...\n- Intel Shares Are Down 40% Since Earnings. Is the Stock a Buy Now? - Morningstar: Intel Shares Are Down 40% Since Earnings. Is the Stock a Buy Now? Morningstar...\n- Intel: I Warned Before The 40% Crash, Now I'm Bullish (Rating Upgrade) (NASDAQ:INTC) - Seeking Alpha: Intel: I Warned Before The 40% Crash, Now I'm Bullish (Rating Upgrade) (NASDAQ:INTC) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Intel Corporation (INTC) stock price, news, quote and history - Yahoo Finance UK",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lckVmX2RMX0w2T0RDVGRJdEpMTWRjdkdhb01MTlFZa3J3dFRNdGNfeUJQMmJmajRUMnZBZldsSGFMTS01dDFRUWxocmhSNW9BMEE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Shares Are Down 40% Since Earnings. Is the Stock a Buy Now? - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3VWNWpqc1A5SkxDWjRxWGo1SmM3SXJPRUxkNVhPeE9VWVN3bVAtSlJUWGswWWR6LTNmeFZoNU1BbHRrWGZQaVc0VkFxQWV1cGwtNHRxcm5Zb2JEUjk4QmJ2SGNyN3JpZnpFdXdjNDY1YnNSQXRFNm96NWJ5c1NUdmwzdjRSS2themhEUjNtU1VwaWFIRlE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: I Warned Before The 40% Crash, Now I'm Bullish (Rating Upgrade) (NASDAQ:INTC) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbmxyVUtqUmliYU16cF9OLWJOMjJsQ0xvQUx4THk1bE9YY1ZqRGlnb2NIazBtaFYzaE1tYjQ2Z3l4emhOS3lLRVFGUFA5NEd6ck5ZaFdYM283c1I5aG5ma1dwdFZSQ0ZaVzRiM3JLay1xbFVWbXBKZXZYdlVPbnFoWWpIWTdGMXQ5ZUdKMnNDV2VCc1NHcGZGbXE1NmdDZTg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 449.04,
+        "changePercent": 11.04,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD: I’m Buying The AI Selloff, But Not This Stock (NASDAQ:AMD) - Seeking Alpha: AMD: I’m Buying The AI Selloff, But Not This Stock (NASDAQ:AMD) Seeking Alpha...\n- AMD Stock Popped After Earnings, Then Gave It All Back. Is It a Buy Now? - The Motley Fool: AMD Stock Popped After Earnings, Then Gave It All Back. Is It a Buy Now? The Motley Fool...\n- From Micron to AMD, AI Stocks Crater — And Citi Just Flagged an 'Exponential' New Threat to Data Centers - Benzinga: From Micron to AMD, AI Stocks Crater — And Citi Just Flagged an 'Exponential' New Threat to Data Centers Benzinga...",
+        "sources": [
+          {
+            "title": "AMD: I’m Buying The AI Selloff, But Not This Stock (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXMyZXpwMXR4TnJPY2RMVUVZSWtwUzVTVnVsUXhMemZDb1M2UGxDRTBVdUIzMC1LVVVVUzB2dWtpREJXMDNXbVR3MnlDMXVyMkpadTF4OEpPUDRlWEJjMVgxeFJEd2FQb1Q0TTZiRWhIMGtYZHhUVGNsc0NTNXg1c0pQa2kxRG1kLXhvLWloei1zQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Popped After Earnings, Then Gave It All Back. Is It a Buy Now? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUTdRUFNfV2ZlYUFTSVFkNUFNd1VlSTVfWlg4OEJQM2VWT2FkdlRTd3VjV2tmU3FvWl9YYktGQ1VFRElRVWJ4WHFoaG8zVzJqdDJSWDJIbDhaNjFrUEZPYm83ZUUzc0dKaXY4RXdPNG1SVS04TVg2Wnc2SjZaMmdZaXVIck0yVUhocWRuc0tMVFhFam8yaHFJ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "From Micron to AMD, AI Stocks Crater — And Citi Just Flagged an 'Exponential' New Threat to Data Centers - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRkV2Q0JEVWZCanEzeGZEVUlScFB2eVl5Qjk3anBUSWRGZ0RCYjNfdC1iU0t3OVNsbk84WXByVWRPcmx0ZXFFdE1udGNEVGZXS1RfUlBZU0xDX2dOU2VDVUVsaHRsWTd2aHRXTWtHYzRTckVxSUFzM2V1b3VHUEItRld4aFpldUQ4ZDN0bnhjTjVzeHFIOXhQRTM0NUFpRmJiYmd2QVRsVFBKNVQ1c1Z5Q2tQcGxIQUkwU1M0SGlnV1ZYVXVRVWswb2ZLMktNa25BU0EtYnFGNk92TXRDRnhLQnhpeVFUeFU?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 690.0,
+        "changePercent": 5.12,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- MU Stock Quote Price and Forecast - CNN: MU Stock Quote Price and Forecast CNN...\n- Micron (MU) Stock Sinks As Market Gains: Here's Why - Yahoo Finance: Micron (MU) Stock Sinks As Market Gains: Here's Why Yahoo Finance...\n- Micron Technology Stock Is Surging Friday: What's Going On? - Benzinga: Micron Technology Stock Is Surging Friday: What's Going On? Benzinga...",
+        "sources": [
+          {
+            "title": "MU Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12OGhUSWtGTk9iWTJqbXhwZ2hpa25tNUxnRWlMam1RYkNBckpUdlVCMXgzY2ZDbG1HUkdxeFlUMWRkZ3ljR2xXUkdJb285UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron (MU) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3NNb1RNWmpjTFRUWWdBOC1mampaLWQ1YWFoYW9aRlNCcndUWXBWSkJEb2RnWWFPMVhkTS1mSG5sNmFNS0RmaEJ1aXFPVnBhTzdHc1hyUDA5enpSeFgzUjBqRnBhSURweGtoNHRNNTA5MWpabi1MMHpxTE91MFdJSzRDUGdmVkNCbERuV21fYVZMdUFyS2FHcg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology Stock Is Surging Friday: What's Going On? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQajV3dEFsT2JWRVlVa25XTVk3M1ZqTm5uaGM3aTRib3RyWGVLMEkyWmJTbXVfY01iSUZreFlPVkswbV9mYWowVUJxVjNiVkpubkxnZVR3MzFEOVdObjFWRVp3VGhhN2VYdFlPbmRQb0VLVFVpdEY3SUllT0gtMmFZdHltc1FBSmtoTEhyUUpEellOdjhVOFZXdnN4bTA1RDBNMFk0Z2xxOGRwalNzSEE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-07": {
     "date": "2026-11-07",
     "lastUpdated": "01:43 AM KST",
