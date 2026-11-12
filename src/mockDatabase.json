@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-11-12": {
+    "date": "2026-11-12",
+    "lastUpdated": "02:45 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 648.06,
+        "changePercent": 10.67,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Is Lumentum Stock Soaring Today? - Benzinga: Why Is Lumentum Stock Soaring Today? Benzinga...\n- Lumentum rises 15% amid broad technology rally (LITE:NASDAQ) - Seeking Alpha: Lumentum rises 15% amid broad technology rally (LITE:NASDAQ) Seeking Alpha...\n- FN vs LITE - Quantisnow: FN vs LITE Quantisnow...",
+        "sources": [
+          {
+            "title": "Why Is Lumentum Stock Soaring Today? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZE9ib1lsbmVXSWtwbHNuMG5LdVF1WWNqYlVOakxHWG9tdC12NzhJdVloTXl5OFprWHFaWlQ2LWxtMUpSd2I1dzFhX244a3RWcVZKcGQtTkJkV0RfT1lpaGp0Sk9LY3NxSHBaUjE5bTR1UlBSRjRsSEtxX0pXM3A3MzVJQmFlay02elhzUU1INUUzaUs5WWc5eElUNWU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum rises 15% amid broad technology rally (LITE:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzctRXh6SXE3V2ZyUGIwRDc2STNkN0tzLUtWRE5vQXgzVWUwVVliRmY0bHlIWFY0RjhxVHFfWGZIdU14RzFyQ0VPUVlCWHlBR1JibWs0VkhvMVZ4dUVTTEJKc3hBQTI1LVBoeFpDREpBUlRrektLR1NObWFzZC1Cc0tFV1BYbDVUVGxicE5ldFhmeGtQcnc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "FN vs LITE - Quantisnow",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXZTZyMkhMNkZ2U1U1bWE5LUNFTlYyeUplbDZTZ3Q3LTJYZS13NGdaY29nbmxOSW4wMDA4amE0U2RUMldXN2w4UlRERndtNTJuWkNVZERKNzY?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 62.5,
+        "changePercent": 7.52,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What's Going On With Intel Stock Wednesday? - Benzinga: What's Going On With Intel Stock Wednesday? Benzinga...\n- Intel Corp Stock (INTC) Opened Up by 5.60% on Nov 11: A Full Analysis - TradingKey: Intel Corp Stock (INTC) Opened Up by 5.60% on Nov 11: A Full Analysis TradingKey...\n- INTC vs. TSM: Which Semiconductor Stock Has More Upside Now? - Yahoo Finance: INTC vs. TSM: Which Semiconductor Stock Has More Upside Now? Yahoo Finance...",
+        "sources": [
+          {
+            "title": "What's Going On With Intel Stock Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGRkV2R5Q1JTaXBSeEdDckdRR21pNW9fZ0o4X2RCWXR5RW5Ba2dEQ205YzFoTkFFRTZYa2NSd2E3Q1QtZlpVMjhWTGNoRFVVV21iN09XaUxNUW13UU9fMUFJbVVveURMRlpjdEJrblI0dnRITDJJUjNOaldzY2xydmk0VVREcF9qdXJEZXdLTl96QWFWeFBBZFpsWXBCZw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Opened Up by 5.60% on Nov 11: A Full Analysis - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeGlLOEpUZEVKOWZjSlBKazZmRUxkdG5xRjA0RlJTVU52UDVDcHNtYVdDUmxtZHIzRmtKWXN2QTB2ekhGS1UyMnh4WFp0UWlrLWkza3RScnN3eUZYMUtpOWJGSFkzSTd6am9YLXhTT3NJcXpTV2lGdjBHWm9Ubm4zUFZRdE1aQTJQbENN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC vs. TSM: Which Semiconductor Stock Has More Upside Now? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcXRnLU02eDYwVUlGMVp0a2VFTEVzWjdkMWRlTGlxS1p5WTVRMmdKTjhQMTM3SURKUm1xajVBd1VBTjJIaUpwcWVtTkdDZkRwTTZyOEdhWDQ4NHI5N0ZTZFdRc2FjZjg2anpOQkxmalRFMmUtcmREdDg1RDE5dUxLLVItQWxsNmJqX3NHTVl5UTdNSGg2RjlB?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 552.9,
+        "changePercent": 7.32,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- 1 Unstoppable Stock-Split Stock to Buy Before It Joins the $1 Trillion Club - Yahoo Finance: 1 Unstoppable Stock-Split Stock to Buy Before It Joins the $1 Trillion Club Yahoo Finance...\n- Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results - The Motley Fool: Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results The Motley Fool...\n- AMD: Alphabet Just Announced A $1 Trillion Game Changer (NASDAQ:AMD) - Seeking Alpha: AMD: Alphabet Just Announced A $1 Trillion Game Changer (NASDAQ:AMD) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "1 Unstoppable Stock-Split Stock to Buy Before It Joins the $1 Trillion Club - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdDRkZW50bEpCWHhKa0RYQ1EyUHVPZllDT1o1RkNzMDJIOGNaMVRDZms2dWJoVHNMaGNPWHJtVVMwTkhoaVBXM1htMEdZY3VkRGE1UUdFNTJ4bVlKSEFubUNYWmFhb1p0ZXpBRy1Ca2lqX2I4SGtBUDFSbUxqNDdDRHRTYVVDVFNjd1NMYURDM0VfcklDWWRQaUJWQzE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTGgxdktvSEI0M2hDSUdFUktvLTFDVldrV1FDcXJyX1RQMDFPWDdoWUZyTXJyaFgzQmpmUkZaMUl5SEdjWTVqc2ZsQ3lXd0ZteXM1eTUwZ0YyUGptbDh3eVJUVk9GNWdFemkzX3VvZUI3eHpSRkxXS1RzMW52MDlWTzhDMzNCbFU2M3BnNzZfTXZucHdhclFDYWJHclN0eUFHZzdPS2o2dzBoU0FnSGhJNkFhdU1mSjhNNWRWRktSdmpnd2FGRW5SR0ZPVDF5Qi00aE5XX1BXdVNFLTVrRGo1ZFBvQ3RIVmlad1hxaUhac3c?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD: Alphabet Just Announced A $1 Trillion Game Changer (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc19lS2pIcHBDT0oxOE1oQXZYU2xQRlp1ZndxTDBQME4tSnp0UGx5V2VERDRERmhpcWFrSFJ6ejVjTE43VThWeGU1bXk3UEJuSlY2dmFlbkhJazc1NkU4UXpRTG92bWw4VXBwaGJYczNwU3ZtbklkUl94NDU3cnJLTE55ZDlnR2VyMGotcVJ3SDhmeXVvZl9SWHBR?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 811.3,
+        "changePercent": 11.89,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- MU Stock Quote Price and Forecast - CNN: MU Stock Quote Price and Forecast CNN...\n- Micron Technology climbs 13% as one-month slide reverses (MU:NASDAQ) - Seeking Alpha: Micron Technology climbs 13% as one-month slide reverses (MU:NASDAQ) Seeking Alpha...\n- Micron Technology (MU) Commits $1 Billion To Landmark AI Infrastructure IPO - Yahoo! Finance Canada: Micron Technology (MU) Commits $1 Billion To Landmark AI Infrastructure IPO Yahoo! Finance Canada...",
+        "sources": [
+          {
+            "title": "MU Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12OGhUSWtGTk9iWTJqbXhwZ2hpa25tNUxnRWlMam1RYkNBckpUdlVCMXgzY2ZDbG1HUkdxeFlUMWRkZ3ljR2xXUkdJb285UQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology climbs 13% as one-month slide reverses (MU:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSExVYU1oeW91UFFKa2VQNUx1ekRnOGFlVThvR3lGTmtxZnhQSXRsaHl4eG1YV2VGTkdxN0pZOWJmQnl5WTVXWDBaYy1IYjc4cTJ1MDZHVXAtbnZtRF96eXZfSnFVNWVwNl9iYlo1bXBjeV9XcHZmNGotRlJNNEt4al9wSWw0bTFGQXZUMGFfQXprVHhyeFNWM0lEdWJvUUFTRTM0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (MU) Commits $1 Billion To Landmark AI Infrastructure IPO - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTWoxVUJ4SmRSWjYzNFNsNVBwV1hfUEVtMlVZSmVSY3pibDdFaUVXbHVrVXNuRFR3b3RMS0o2TVpERVVmbU8yemRBNVpULW1WdjZoRVJ2bVFGbUJDZU1zMk5KcXpLUGJWd0JWcV9xamJmRG00TDJUTjJFV2VwWVVsS2FtUzFMUQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-11": {
     "date": "2026-11-11",
     "lastUpdated": "01:45 AM KST",
