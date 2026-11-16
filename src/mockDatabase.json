@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-11-16": {
+    "date": "2026-11-16",
+    "lastUpdated": "01:40 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 596.62,
+        "changePercent": -4.49,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum: The Selloff Makes Less Sense After Earnings (NASDAQ:LITE) - Seeking Alpha: Lumentum: The Selloff Makes Less Sense After Earnings (NASDAQ:LITE) Seeking Alpha...\n- How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance: How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom Yahoo Finance...\n- Why Is Lumentum Stock Soaring Today? - Benzinga: Why Is Lumentum Stock Soaring Today? Benzinga...",
+        "sources": [
+          {
+            "title": "Lumentum: The Selloff Makes Less Sense After Earnings (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1RNcHFtNVJwNDBIZ0M2RWFTaENtakpHRV9lSzdMREdQTzI5a002U0RkdTVXU0NqV21TT3NQVEgtWkVFX3YyLXdzSGhka2t4czdPRmVSbksyTDdESk1qLTExcFh4eHZ0S015clQ0QzJ5NF9BeF9lWHBocEtDYVF2Y0h2ekZEUDROeFJ2VDZjZUk2dXRGMUtaNQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVS11aUFSLTlkRVZxSkVBX0x3VzliVVAwV1FwNGFxQ08tcHVFUV9aLVB5R05VREZ0aUQ1Zi14ejh4MEtqNU55dW53aXpiQS1pRWxSRTRoMGNhOVA0OERPbUZhNlRXaDBOcE95WFNNRTZNQXZPWEkxM0MxbTFnV1ZPVWpmcFgyUWVXZDNBa041RkhzUkxzSno4OTBaejcwa1E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is Lumentum Stock Soaring Today? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZE9ib1lsbmVXSWtwbHNuMG5LdVF1WWNqYlVOakxHWG9tdC12NzhJdVloTXl5OFprWHFaWlQ2LWxtMUpSd2I1dzFhX244a3RWcVZKcGQtTkJkV0RfT1lpaGp0Sk9LY3NxSHBaUjE5bTR1UlBSRjRsSEtxX0pXM3A3MzVJQmFlay02elhzUU1INUUzaUs5WWc5eElUNWU?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 59.66,
+        "changePercent": -2.52,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Jim Cramer on Intel (INTC) Corporation, Earnings Performance, and Government Stake - Yahoo Finance: Jim Cramer on Intel (INTC) Corporation, Earnings Performance, and Government Stake Yahoo Finance...\n- Intel: Wall Street May Be Underestimating Its Comeback And Nvidia Opportunity (Upgrade) - Seeking Alpha: Intel: Wall Street May Be Underestimating Its Comeback And Nvidia Opportunity (Upgrade) Seeking Alpha...\n- What's Going On With Intel Stock Wednesday? - Benzinga: What's Going On With Intel Stock Wednesday? Benzinga...",
+        "sources": [
+          {
+            "title": "Jim Cramer on Intel (INTC) Corporation, Earnings Performance, and Government Stake - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVllqa1NMS1ZwNGstU25RLU1MSjhJRlVVRHh0Vl9hRVZ3ZWJmWEhNa3hiWG1NYmhvNVlEeHc0aUpVR0M3cVhXaXpJLXh5SDZoTFRuNHNrTWUyZ3laV3VpSnVLYkVvUld3QjU5aXNPaWZhNWZqeG5RS1RvUjNyczhETHdDbThHVVdNM29rbFBkZUs2a21oVkQ2R2NmSHRMemM?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: Wall Street May Be Underestimating Its Comeback And Nvidia Opportunity (Upgrade) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1pjTGhGMlpnTE10UndKcF9STW96MFlMTFlzSTJCMmQ5NTlObm1GNldHa2Vna0JjRkpJXzNELXJWN1ZLamY4aTR1LTRxbFRLeDl1LUJFWV9RaURIVWgtZW5JaXM1TFFwRFpDNk1wMXpmcURod2tpV1dNREotTkJhZ2lCNGw1VDFJRG1QN2lHLUR3WTRNMjUxYjZkdS11bVRVaTRjczBEWkdHdjhtbF9DY2dzWQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What's Going On With Intel Stock Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGRkV2R5Q1JTaXBSeEdDckdRR21pNW9fZ0o4X2RCWXR5RW5Ba2dEQ205YzFoTkFFRTZYa2NSd2E3Q1QtZlpVMjhWTGNoRFVVV21iN09XaUxNUW13UU9fMUFJbVVveURMRlpjdEJrblI0dnRITDJJUjNOaldzY2xydmk0VVREcF9qdXJEZXdLTl96QWFWeFBBZFpsWXBCZw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 534.06,
+        "changePercent": -8.75,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Nvidia Fell While AMD and Broadcom Jumped. Here’s What History Says Happens Next to All 3 Stocks. - The Motley Fool: Nvidia Fell While AMD and Broadcom Jumped. Here’s What History Says Happens Next to All 3 Stocks. The Motley Fool...\n- How to Play AMD Stock as Google Picks EPYC for Its Next-Gen TPUs - Barchart.com: How to Play AMD Stock as Google Picks EPYC for Its Next-Gen TPUs Barchart.com...\n- AMD: The AI Trade Just Entered Another Phase (NASDAQ:AMD) - Seeking Alpha: AMD: The AI Trade Just Entered Another Phase (NASDAQ:AMD) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Nvidia Fell While AMD and Broadcom Jumped. Here’s What History Says Happens Next to All 3 Stocks. - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYmhwWFhlaE9MSk9Za0RneWJlZ0IyYUN2aktVQmZNNTRXS3AwLXpCWmJnSFI1alg5YzVqWXRmWGRYc0xHcGwxZmJjY1dLUkF0UEdXX3BwVkxTc3pQTlV5QVB0dmluMEZBWEpHcEh6NE9HV0RuS2VQSWNpcHZyckpBeUZrWFU3VUg5MjZKU25qdVpXeVVfeG5WREdtQVRGVjJPVTd0ZzVsTnk1endSZ2NianFPeHpKNnVnNWFaX3V6YTRmdU1OMWx1LS1xWHEwdjRqOEp0bw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "How to Play AMD Stock as Google Picks EPYC for Its Next-Gen TPUs - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSHhROUlmYVBZV2NyTXp4YmF3SmUwT1EybVZVcVRrYWdGZGFOaVBrSW9FVmFnY0Q2WkliT0hkV252ZmhGLTQ5aXdFTlZJS08yTEFINlBhZkJvT05pSU16T2FtdV8za2hnR2FMWDN6YzNrbFNQQlh1N3lhYXhENFE3dUZja3BLd1NCWF9DaUZhMk9RWWphMEVDQjBBSk5vbWFucDhKZGlKbnptQU9Y?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD: The AI Trade Just Entered Another Phase (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa2VtWVFyQnFuVlFEeGpfN0NNUXlkYWNEZVRtM2dvMmpNX2FsREdkcGtoLVFIYThOeUJMbHN5WDVVMGIwR3pRZTJURzlUeTJnLVVLUEV4c2dwOV9BQl82WGEweGZZZnc1cHJ4Tkg2bVQzM09NMjZqNllLb0wtcGh5Q3BmNEt5TEk?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 778.31,
+        "changePercent": -2.52,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology (MU): Does a Low Earnings Multiple Understate Its AI Opportunity? - Yahoo Finance: Micron Technology (MU): Does a Low Earnings Multiple Understate Its AI Opportunity? Yahoo Finance...\n- DRAM Just Got More Expensive Than AI Memory. Here’s Why Micron Could Soar in 2027 - 24/7 Wall St.: DRAM Just Got More Expensive Than AI Memory. Here’s Why Micron Could Soar in 2027 24/7 Wall St....\n- What Is Going on With Micron Stock on Friday? - Benzinga: What Is Going on With Micron Stock on Friday? Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Technology (MU): Does a Low Earnings Multiple Understate Its AI Opportunity? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmFxb0NFNGNaVzBRdzExcGJ6a2Jremg4N1JFQk1lRHlQME04V3NnQ2ZocVlBR2RkeVpVWmwzQ3BaVmZSZjhrTFZZTndQSTJNR2hieUtXSzdaNUdraVFlU3ZUNllBRFpNTUtTZUFJeTg3TTdIWGtib0ZKZmROZGk1NHVSeERfLXZoOHNGNmY1TTlqZGpVWjl2Sg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "DRAM Just Got More Expensive Than AI Memory. Here’s Why Micron Could Soar in 2027 - 24/7 Wall St.",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUEk0MzFlS3ZUbzdJbjg3OHlCamtpbjBCYVZmWGNLWXZaZVNnRXlXNXl3aVJ5eFV4SW45UWFKaWY2MnFRTFVUVEItd01xdXk3V1lWZGNEZXNiMXdTc1FfZnRUQWZXdlRyV2x2U1loS3ZGYzRZU0JuTDhUNFV2NW0zTGZjRU5OcnRsYlNzeHl2NTI1U0V1U2N6WmJpRER4cXM1TFdkdlJzYnRpaEZvbUpCV2JCMGU0REptd01HemFoTUU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going on With Micron Stock on Friday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV21XaVk3OHBCQXdGdElzYmNzTUI1ek5pQzF2T1Z5SHRZTzd0MENiMEJBQV9ya0N1Wk91LURJTlRDa1lPZ1lvRklEOHY3QVFCU2tCM19aSENsMjRYalFsRnFxcnlZR3E5M0ZHZHVXdll2OWVRYzBtWkg5WnlDUkVHWXpkdDU1T2N2SXdFOWRDeFNndld3NS1vVEZYN2hrQQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-15": {
     "date": "2026-11-15",
     "lastUpdated": "01:36 AM KST",
