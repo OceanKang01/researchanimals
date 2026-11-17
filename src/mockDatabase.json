@@ -21,6 +21,76 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-11-17": {
+    "date": "2026-11-17",
+    "lastUpdated": "04:22 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 546.0,
+        "changePercent": -8.48,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n",
+        "sources": []
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 55.47,
+        "changePercent": -7.02,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Intel Stock Is Falling Monday - Yahoo Finance: Why Intel Stock Is Falling Monday Yahoo Finance...\n- Intel stock fans just got worrying news - Yahoo Finance: Intel stock fans just got worrying news Yahoo Finance...\n- Intel Corporation (INTC) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance: Intel Corporation (INTC) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Why Intel Stock Is Falling Monday - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmEwR2NscjluQTVoc2V3eUhyMGdGVkZTUDYtY2lGZlFkcHFsTHBvVGhtZ2hmNm9WSEJkdjFuYVlYTXhKTTZSM1VwNTczVDhaTlotVy1sTE96ZjV6d1h0LWRydFNUMXFuSXVmSW5Jb1NzcXZRRk5VT1dva1A1TkVzelVoTzFwd29nbkZaMWpmdFd6MUpCeGZFeTV2Zw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel stock fans just got worrying news - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYTI3cEtCcWtZNlp3N1U3bEJBSjB4VTc1dzVCVXM5cWFPaDNya1Jobm9yN1I5UXF5X0JOa1VUZF9yQW1Ca0RYbUlqbW9JTkRDWnZnVjNmRkV4TzM3LUN2cGpKb1BrdGRwVE5FNEVKUk9PYWxKc2ZxOW4tNDdUMkhxY0txUG1hajFvMm9ZamJJbnpQZERv?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation (INTC) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnpQcFVJaUthQUQ2YWpwS09FNXI4WXlibHhYRUJoQWFBbzFVYTQyU1VRblRudE1NeXdyN3h3RXJzWktTd25ZRkdvaWVNVU81LVZ3UzludTJ6SmlWaXFDb3JHOFJMS1hSdEtXUElxVFJucTVzN28zQVk1Vnp4cFFUbW1SQWo0U283SVg3NDRnUWVkQ2NrWDJhT2xSR2RKVHZJNmE5Qw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 504.28,
+        "changePercent": -5.58,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Is NVIDIA’s Turmoil Advanced Micro Devices’ (AMD) Biggest Opening Yet? - Yahoo Finance: Is NVIDIA’s Turmoil Advanced Micro Devices’ (AMD) Biggest Opening Yet? Yahoo Finance...\n- Is AMD Stock Still a Buy After Its Post-Earnings Jump? - The Motley Fool: Is AMD Stock Still a Buy After Its Post-Earnings Jump? The Motley Fool...\n- Broadcom Is Better Positioned Than AMD As Nvidia Struggles (NASDAQ:AMD) - Seeking Alpha: Broadcom Is Better Positioned Than AMD As Nvidia Struggles (NASDAQ:AMD) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Is NVIDIA’s Turmoil Advanced Micro Devices’ (AMD) Biggest Opening Yet? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeE4zN25uZ3h5c01LT2hKdFVrSncwaTlUWXpTUmNKZnpBZnB6b01JQTFIaW9IRms3NFVMS1lTLWZPNWVFajh5Vl90WXdjdEwxX29aTWhjLWtLeExZelZXRkpaZmV3VzVzakN2VzgwRjFkbi1BZkVESTlXZGx5d05LYm1SNnZRdlRhUW9NQ2d6UEh1R05TRFA0Q1MxcmJ6LXFmclRVbg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Is AMD Stock Still a Buy After Its Post-Earnings Jump? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3pfTDhZVFA2X1AzQVFxNGREbHlmdk9KRF9SeTkwakhtcXlsNnAwUzVSSnZYbkdHbGxDb21LY2hXTGFoN1NWZ2FpOFF3Q2RrR0VNZnFtaFFyNGkzOHFwWjRHX3ZDVmFOV19ENWJHOUZQd0lsQ1M1MVpUTVpWNE1iS2IwQi1wZ2FuMmhfQmM0M0NrcVhVTFQ4am5ZRG9WcmZhNTVEVUYzcjdnSHZpZG1FUWp4cw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Broadcom Is Better Positioned Than AMD As Nvidia Struggles (NASDAQ:AMD) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVNvOVdabnY3cFlGR0MtVm9ZcTRSRjlKS2t5WVBYbElRelBic3VORTdpYkZoclg3c3gxOHJ6b0NRLVNnbFUyTGdaMl9RQzREaWc4cl9wUEpCRXlyT1hoZkFzQkdsV3pvQ0F3V0FUWkw5dnkzUGVUYkVMM1N1RExBYUw5clJiVUN1UEJOQ0N1Z2I4cWVQcmpDREpWYkdEZFZm?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 719.02,
+        "changePercent": -7.62,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n",
+        "sources": []
+      }
+    ]
+  },
   "2026-11-16": {
     "date": "2026-11-16",
     "lastUpdated": "01:40 AM KST",
