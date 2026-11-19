@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-23 AMC (마감 후)"
     }
   ],
+  "2026-11-19": {
+    "date": "2026-11-19",
+    "lastUpdated": "03:00 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 551.07,
+        "changePercent": -1.59,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)? - Yahoo Finance: What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)? Yahoo Finance...\n- Lumentum: AI Fear Is Creating A Rare Buying Opportunity - Seeking Alpha: Lumentum: AI Fear Is Creating A Rare Buying Opportunity Seeking Alpha...\n- Lumentum Holdings (LITE) CEO Hurlston sold 548 shares for $310K at $566.38 under a 10b5-1 plan - Quantisnow: Lumentum Holdings (LITE) CEO Hurlston sold 548 shares for $310K at $566.38 under a 10b5-1 plan Quantisnow...",
+        "sources": [
+          {
+            "title": "What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXh4Zl90aHVPODZ6ZFNXTWs3WTU5VzlQY2xxNFltMFVodTFrQjUwckNERWprMlFjYVpJbHFobkZCbTZfcG5JWFotcl9TQmUwOHltZG1KUmtlQ1VuVWgwZXRoMzczbUJFYWdNRVlsVlNGYW1YQ3g2Rjd4NnNGcW9yc3d5ckU3dnhBTUhkelRraWxTZjREZTRoUE1lTUU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: AI Fear Is Creating A Rare Buying Opportunity - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGVYQ1ZFZkZsNDdhUVl1dUxiQld4SnNfcjk3TUNUX2V5ZEpyZk52c0NYa1lWQmkzLVdPSzZuMHFmM3h5WURDYXZuWDFyZHJRMHRzX1cwNjZaTnc1WmNJZW9GQ2JmdUlCQjZuNFdwaGV3cEYtWWdUU1A5c0plYlVUeUIzSXBwSFl3eWZGWElQZW9IbUdPT1ZVZVZoVU4?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings (LITE) CEO Hurlston sold 548 shares for $310K at $566.38 under a 10b5-1 plan - Quantisnow",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNem56OU5yMkg2d1lrUXVHMHFOaWJwcU9CTFNyR3QzTGtDMFFERW5ycmJHWXFmNUhQNGFkal9LbWpwZzRXeXNFS3RwRE5mRkNGajhiTWxMMzBZTzJ1dW1kRjFZeWNSR250ckVYa0s3R1gyRXRsMnJHUy10NE1Lc0Q1ZlA4cmI5a0ItU3h5REZMaG5La1lHcDRIQjE2QU5FMzQ1S3NwaFdycG5CR2RXNk5PU2U1MmU?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 54.67,
+        "changePercent": -0.91,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- INTC Stock Quote Price and Forecast - CNN: INTC Stock Quote Price and Forecast CNN...\n- INTC Stock Gains Overnight Amid Fresh Layoffs Buzz - Yahoo Finance: INTC Stock Gains Overnight Amid Fresh Layoffs Buzz Yahoo Finance...\n- Intel conducting another round of layoffs: report (INTC:NASDAQ) - Seeking Alpha: Intel conducting another round of layoffs: report (INTC:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "INTC Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lWkZjY0djMFFwSUlhcXJYVkRXQlptNHppd1R5NFlzSm9UckZacWJERUZpdWw5WlViaENhblBac0hQZ3BNdmZUZ1VONmU1dHp2?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Gains Overnight Amid Fresh Layoffs Buzz - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEMzSjNZU2didVhmaXA4NjM5MkxCcnNzbWtyYk00SFRUcExyeDNsZWZDOHpWdTNucUJ6NFg4MW81Slo0TVlocWlldHVqdmhsVURMdF95UXJWVFFBbjAyVHZFSUNCcy10LWVEZEVtZ29oSF9WazdhTEk3NUJhelFJZGVYTE5xR2tHQ1hOaWhBdjdBQTlBeHpZdGxnMmE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel conducting another round of layoffs: report (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS1VrUnpoanNWV2dJczhNWDRPWUZ0T1RYRTRvUmhLa1N0Sjh1ZXNIVzlrM2hTcFRGYW9ocUQ3cGtkWnF6YWNNMlZVTG9QS0NHblNfZ2Z4eW9UdG40N2dCemtoQWd6YXFRNk11WDFrNUVibC0xRjVzWnZDVUpkZENaU29rVEU4LXFmYkVmSWdETQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 530.14,
+        "changePercent": 5.31,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Prediction: These Will Be Nvidia’s and AMD’s Stock Prices by the End of 2027 (Hint: Only 1 Is a Buy). - Yahoo Finance: Prediction: These Will Be Nvidia’s and AMD’s Stock Prices by the End of 2027 (Hint: Only 1 Is a Buy). Yahoo Finance Why Is Everybody Paying A Premium For AMD Stock? Trefis AMD: The Strong AI Contender...\n- Nvidia’s soap opera could be AMD’s big opportunity. Here’s why I’m buying - CNBC: Nvidia’s soap opera could be AMD’s big opportunity. Here’s why I’m buying CNBC...\n- AMD Shares Climb as CEO Lisa Su Brushes Off Nvidia's Huang Turmoil, But the Real Opening Isn't Demand - Barchart.com: AMD Shares Climb as CEO Lisa Su Brushes Off Nvidia's Huang Turmoil, But the Real Opening Isn't Demand Barchart.com...",
+        "sources": [
+          {
+            "title": "Prediction: These Will Be Nvidia’s and AMD’s Stock Prices by the End of 2027 (Hint: Only 1 Is a Buy). - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQmFRNjZfd0twOVd2bDA0WVJMdm81OVJyVVc5LXFDWTdONTVOU1FLQlZFMWpRbTl0Y3Jxc3lqc2d6TF9UNUZmeEJ3c2FPLWNjZTlNa2ZYQjVpUmg4TjA3WGVvT2JjcUxhXzlWSGViQzF4cy1QeHl3V1IzQXJsN0ZEcDdJYVo5c3NRRXpkczlHWG1mZkhvMlJwcU1xTC1mbmxv?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Nvidia’s soap opera could be AMD’s big opportunity. Here’s why I’m buying - CNBC",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVE5KOHVIeDZjZ0k0ZEtSYkk2SUNFOGdZNldnNG1mZDFZZmViVDRyY3loZG8yeDREUmpTelByT3NYeXdTOEV0eEZCaVFPOEMtdklVd2Q0RS1rNERIbl92V2xCVExqaXNkYTNUakMxSDVmTWctb0tyMFRwZy1iaTJ4Ti10ZDBEN1pwZGlN?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Shares Climb as CEO Lisa Su Brushes Off Nvidia's Huang Turmoil, But the Real Opening Isn't Demand - Barchart.com",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN1NUNGlyTGNwWHdmVDBTY2RVSWpGQkEtMnZ5bExGY0U1eHhOa2UxRFVKXzJJZXVaUktBeEppcFJaMnFsc1BhNGkyNUV1em9MdVdTM1JJQzNleGkzb0dFQmtlUlpyVi1haGRJb0tUQ0xRY1Ywd0ZyWXp0X0JQLVFTbDJ1eFFhMmJaVWFPLTNjaGtkN1pnODNQczkyVVV0YXNLdkw1ZnAwN294eGh1VVA4M3hIdXktbmlUNHJHd0xPRVdhRVJOTDhMTy1nNzk2TVliVE9sUjhSVDVhTDNw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 705.27,
+        "changePercent": -1.0,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology, Inc. (MU) stock price, news, quote and history - Yahoo Finance UK: Micron Technology, Inc. (MU) stock price, news, quote and history Yahoo Finance UK...\n- What Is Going on With Micron Stock on Wednesday? - Benzinga: What Is Going on With Micron Stock on Wednesday? Benzinga...\n- Micron Technology (NASDAQ:MU) Meets High-Growth Screen With Strengthening Fundamentals - ChartMill: Micron Technology (NASDAQ:MU) Meets High-Growth Screen With Strengthening Fundamentals ChartMill...",
+        "sources": [
+          {
+            "title": "Micron Technology, Inc. (MU) stock price, news, quote and history - Yahoo Finance UK",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VU1ZudlZhZ29kQUxYcFdCdU1LaEgza1V3eUh4aVFaU3l0cEpqd2I1eTNqN3lCVWlNTHZNM2JXRGVhWmpEVEdxTHRfU3ZZWlU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going on With Micron Stock on Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3Z0Y2pqd3NpcU1oRmtJZTdJcTAtVjJlbk9EaG1KamQ2Skl1MERxTlU5dVJHenUyS0dBSU1sb25xQVdib0wyZGV3MTg5SE9ZdW5sbTdjRnhLdHFMV1BLbEFEcERjZVY1Zm9GWlo2b3g2RFVmZVVpS1kzVEQ0cmNzWV8xbUVaeGJ1OHJ2NldudDBQSGlnY1ZjWWR0SmRzcGl1aEpDag?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (NASDAQ:MU) Meets High-Growth Screen With Strengthening Fundamentals - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc3kyRXFHUTZBSS1wQ1dHdTFXczVQSk9vTUZzNGZHSUt3RFFTQ3NsUTRaakpKOWdiSlFaajgtTm1yY3A0Zy1UMXFlS3pjZ1BnM0NNUkJGeEpjY2RTcm5wQUlmZGR5a3RYQy1tUU1sM3J0V0dGY3FCQmg0OGREemF2dnI0bmppT3JFcXJaTmlHRlM1bEtfRWU5WGFUMV9KVFhWMFp2V1Z4VGFKY1RVN0xDaWZmVDBpMUNiMHRoSkVnYkk5Q2RrbzRqVnE5T2o3dw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-18": {
     "date": "2026-11-18",
     "lastUpdated": "03:27 AM KST",
