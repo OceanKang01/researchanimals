@@ -18,9 +18,111 @@
     {
       "ticker": "MU",
       "name": "Micron Technology, Inc.",
-      "earningsDate": "2026-12-23 AMC (마감 후)"
+      "earningsDate": "2026-12-17 AMC (마감 후)"
     }
   ],
+  "2026-11-20": {
+    "date": "2026-11-20",
+    "lastUpdated": "02:53 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": NaN,
+        "changePercent": NaN,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)? - Yahoo Finance: What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)? Yahoo Finance...\n- Lumentum: AI Fear Is Creating A Rare Buying Opportunity - Seeking Alpha: Lumentum: AI Fear Is Creating A Rare Buying Opportunity Seeking Alpha...\n- Lumentum Stock Climbs on Report of Looming U.S. Curbs on Chinese Data Center Gear - Benzinga: Lumentum Stock Climbs on Report of Looming U.S. Curbs on Chinese Data Center Gear Benzinga...",
+        "sources": [
+          {
+            "title": "What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXh4Zl90aHVPODZ6ZFNXTWs3WTU5VzlQY2xxNFltMFVodTFrQjUwckNERWprMlFjYVpJbHFobkZCbTZfcG5JWFotcl9TQmUwOHltZG1KUmtlQ1VuVWgwZXRoMzczbUJFYWdNRVlsVlNGYW1YQ3g2Rjd4NnNGcW9yc3d5ckU3dnhBTUhkelRraWxTZjREZTRoUE1lTUU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: AI Fear Is Creating A Rare Buying Opportunity - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGVYQ1ZFZkZsNDdhUVl1dUxiQld4SnNfcjk3TUNUX2V5ZEpyZk52c0NYa1lWQmkzLVdPSzZuMHFmM3h5WURDYXZuWDFyZHJRMHRzX1cwNjZaTnc1WmNJZW9GQ2JmdUlCQjZuNFdwaGV3cEYtWWdUU1A5c0plYlVUeUIzSXBwSFl3eWZGWElQZW9IbUdPT1ZVZVZoVU4?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Stock Climbs on Report of Looming U.S. Curbs on Chinese Data Center Gear - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbl95WGx0RTNwQzFCSWZHdW9CUWlUTFBuRG16R1FmU3dWbFBtZUw2Vmk2c1I5YzVnUWNGRXpiVS1CZjBmclNFRC1kcXFvVlBhUHA5SUZ1STdQWm1NY2tSNnh5QTNELUJTY3oxbmxWSGQ1ZGJrX3J0WGFVMHZRbmg3T3pxejFhSmdRMEVPRTEzVW82ZWN2NVd3VnRPSlNGQUNwTmVuUDhxY3g0M0FPVkVSVk5adGczaERLVnB6amNjUThGNklsUVVRUWxabmQ1VEJxVTJ3bXc5UQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 55.72,
+        "changePercent": 1.92,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- INTC Stock Gains Overnight Amid Fresh Layoffs Buzz - Yahoo Finance: INTC Stock Gains Overnight Amid Fresh Layoffs Buzz Yahoo Finance...\n- Why Is Intel Stock Trading Higher Today? - Intel (NASDAQ:INTC) - Benzinga: Why Is Intel Stock Trading Higher Today? - Intel (NASDAQ:INTC) Benzinga...\n- Nvidia emerges as biggest Intel holder in Q3 despite cutting stake by 25% (INTC:NASDAQ) - Seeking Alpha: Nvidia emerges as biggest Intel holder in Q3 despite cutting stake by 25% (INTC:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "INTC Stock Gains Overnight Amid Fresh Layoffs Buzz - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEMzSjNZU2didVhmaXA4NjM5MkxCcnNzbWtyYk00SFRUcExyeDNsZWZDOHpWdTNucUJ6NFg4MW81Slo0TVlocWlldHVqdmhsVURMdF95UXJWVFFBbjAyVHZFSUNCcy10LWVEZEVtZ29oSF9WazdhTEk3NUJhelFJZGVYTE5xR2tHQ1hOaWhBdjdBQTlBeHpZdGxnMmE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is Intel Stock Trading Higher Today? - Intel (NASDAQ:INTC) - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaWhmOTRKRjlOVU5tOVRvX0Z1WTNFLTlMQ0pPRVZYcjI3NXMxT0tMa3lTdktzRmdoaGY1MkxLd25GbjNLWkhwdGlPaU1KWUxvQlJJdGsxV2hDWUFmRzhXMDR3OEFqaGUtb2JnRWs3QkVaTDNaTVNvd0theXZlS3hoOXNubFk3cVRhVTJuemR1UDREQ29kbjA1X29zaDgtdVA2LXlTeExDQXlBWDJYU2F0RnhuX05PU3lFSUNKWF84a1NZUEhneWw4TzR1RUJqWFZCY1BOZHFUaU9CdFV2RGc4aEZ5LUk5ekpLblhHTA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Nvidia emerges as biggest Intel holder in Q3 despite cutting stake by 25% (INTC:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0QwTDFObzFMYkhtY1I3c1JUOXF4aGhibW1zYW81cGdWY2NGUzJ0aTBiUC1sMjZ1dm1vUFJLMkloMEVUMXVLX1p5WDFOd2l0MGRjNUpKLTBHbGY4TDE2RHRJMlVzX1oyM3lDbXJZLUljUmxuUDBLMmJEenpSUnZ1ZVZIUGZiYjFzZExNYWwwYnNJbGttTWJTYmZSVmVxaHlic24xaTYzX3lNMzYyUG1V?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 489.19,
+        "changePercent": -7.72,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD Shares Slump After Shortseller Raises China Concerns - Bloomberg.com: AMD Shares Slump After Shortseller Raises China Concerns Bloomberg.com AMD dives on short-seller report of alleged China exposure CNBC AMD Stock Drops After Short Report Says It Isn’t an Nvidia Replac...\n- Lisa Su Sells 70,000 Shares for $35.5 Million as AMD Stock Pops 147% in 2026: Her Direct Holdings Fall 2.32% - Yahoo Finance: Lisa Su Sells 70,000 Shares for $35.5 Million as AMD Stock Pops 147% in 2026: Her Direct Holdings Fall 2.32% Yahoo Finance...\n- Advanced Micro Devices, Inc. (AMD) Stock Price, News, Quote & History - Yahoo! Finance Canada: Advanced Micro Devices, Inc. (AMD) Stock Price, News, Quote & History Yahoo! Finance Canada...",
+        "sources": [
+          {
+            "title": "AMD Shares Slump After Shortseller Raises China Concerns - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkp6di1ZYkMzQlhjTmkxbHFwNzIzLWMyc3NKXzBqSV9hZ05wODRRYUhjYl9pSmIyNENPaHpXWmlScUpaYXhfT3AyQ1hKYVhWZnhHRVp1a0g2dkVGWmpYa2lXdmdjaE1TUTQwbFlyNjJVNjVkRmlIbWt3WHhWYjNJWXNGSG9RcFkwYUFRZzdYMVNpQXVnZllfU0ZlZEc0QnFsQ1RnWk9tUmc5d2luUVVSaWRKMA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lisa Su Sells 70,000 Shares for $35.5 Million as AMD Stock Pops 147% in 2026: Her Direct Holdings Fall 2.32% - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRktOOV9KQU43ZS1TbklVdTlpRXhTLU4zRjBqZHVHV1FVcC1KR2FEQkhaYS01SHA5d1llMlIxaEdEaUJ0enI1QzJSTXVJMXF3enRGVkg0R0pQM0FMWG1CczVNbW1mWkdLSTJKVEp6VjBaYS1iRGUzTnI0ZW9wYmNJQjlvZl84YTB1OWRhb1ZR?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpN0UzZUJHblJ0QnhpWG5oU0tNSVRTVHctNS1mR1Uyc0dydFZxS2d6dkZzRmdsQ0tEZGIwQnJ4V3FndXU0Y3daMXNET0hON1U0?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 690.44,
+        "changePercent": -2.1,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Stock Draws Big Hedge Fund Bets as AI Memory Demand Surges - Yahoo Finance: Micron Stock Draws Big Hedge Fund Bets as AI Memory Demand Surges Yahoo Finance...\n- Micron: A 40% Drop With A $150B Backlog (Rating Upgrade) (NASDAQ:MU) - Seeking Alpha: Micron: A 40% Drop With A $150B Backlog (Rating Upgrade) (NASDAQ:MU) Seeking Alpha...\n- What Is Going on With Micron Stock on Thursday? - Benzinga: What Is Going on With Micron Stock on Thursday? Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Stock Draws Big Hedge Fund Bets as AI Memory Demand Surges - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWtUX0FnNzhKM0QxXzByMkpoZUFNdXM5ZGlyNlZReFFqLWVoQXQwQWR5ZWtzR2NrMlRNZTV1UENVSEtNOVFKTVVIV2FBQWF1WUR5SVlpdG9IOFFrREtyTW9VbThmaUtvdl9Pc3NOWTA3UjhzOWNWR0R3TFg2c1puOFQ4SE1mcm1qenh2ak9YenZaUnJxVmZCUg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: A 40% Drop With A $150B Backlog (Rating Upgrade) (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWUNYci0tTXZWVW1TbkhJbUlDLXJtWGpOdnBhN3dQVlV6cmxuWmNPdl9ia2dicjRsSHVPaTdudlVVWGplOFJMc2NEMzZrLTFwdUxTdGxRRTdRYWN0OEY0OXdxOTFiZHBDWUpJVFJyRXFNSjQtRHBOYW1MMUNGdWluV002QTlhcmRnTDVlakFKdllWRm5oYzliUkRMZUx3bS1XS0E?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going on With Micron Stock on Thursday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeDBkSHp0N3JFV1phNjZQdUtNcmlIRTZZeDF1bHpQdEc3WkVGcFBvLWZxUVVTTjlzTzljRDhLaE5sbGFEaFRSeWxvSFh2TzRYM2dYa2hINUpNZW43bl95bEY3dDB0MDlseE1obG1NMm16TDJ4azh0eFpaenJzZHRRTDl4VkZBMmFCakkxOVhLVEJKQ3ZXYTlRQUFuWmJNR1BaMGhiUVhQaEhpQm9jd2c?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-19": {
     "date": "2026-11-19",
     "lastUpdated": "03:00 AM KST",
