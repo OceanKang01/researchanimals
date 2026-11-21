@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-17 AMC (마감 후)"
     }
   ],
+  "2026-11-21": {
+    "date": "2026-11-21",
+    "lastUpdated": "03:01 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 460.54,
+        "changePercent": -13.94,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum president sells $833,200 in LITE stock - Investing.com: Lumentum president sells $833,200 in LITE stock Investing.com...\n- What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)? - Yahoo Finance: What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)? Yahoo Finance...\n- Lumentum: The Drawdown Might Have Gone Too Far (Rating Upgrade) (NASDAQ:LITE) - Seeking Alpha: Lumentum: The Drawdown Might Have Gone Too Far (Rating Upgrade) (NASDAQ:LITE) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Lumentum president sells $833,200 in LITE stock - Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORXdmd0hHM2NMcmVZbkJSTUxTdlh6VUh1ZXhDTkVGNFM2M1o2OXVwQ01UVi1Ic3RNMEVZZVlZUUFXZ0staVRmOXB5dzFtWHJ6RzdfbVdPbWlKRHEwZzZiWUh5dENudjdPY2hfUHNYQmJTUHc3QWF6UUpVcF9aQkViam0tM2VJbVNOUmRZTnZybUI2Y3A2ajMxa0hjOE1FOHAtVFVqRTE0MDRjNU03Rkhv?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXh4Zl90aHVPODZ6ZFNXTWs3WTU5VzlQY2xxNFltMFVodTFrQjUwckNERWprMlFjYVpJbHFobkZCbTZfcG5JWFotcl9TQmUwOHltZG1KUmtlQ1VuVWgwZXRoMzczbUJFYWdNRVlsVlNGYW1YQ3g2Rjd4NnNGcW9yc3d5ckU3dnhBTUhkelRraWxTZjREZTRoUE1lTUU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: The Drawdown Might Have Gone Too Far (Rating Upgrade) (NASDAQ:LITE) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbjJ1cVdGeUF6TlV0MGhaZ0NsaW9qdmFNaXh4dzNnS01RLXQxZDFvQ2RtM1dybmVlOWw4eEN4cUJHOEIyVU9lcG1TQ3V3S0wwbU4zNE1xOVc3UDZVdXdPSEg3VDRlQmw4TVFiTDY0SUdpaHlmNXI3M2hFa3lRN2J0bEdsS1dxamUyRVE?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 51.28,
+        "changePercent": -7.97,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation (INTC) Faces a High-Stakes Turnaround as Server Demand Improves: Can the Stock Recover? - Yahoo Finance: Intel Corporation (INTC) Faces a High-Stakes Turnaround as Server Demand Improves: Can the Stock Recover? Yahoo Finance...\n- Intel: Further Pain Ahead, Still Expensive For What It Is - Seeking Alpha: Intel: Further Pain Ahead, Still Expensive For What It Is Seeking Alpha...\n- SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Intel Corporation (NASDAQ: INTC) — Investors Who Suffered Losses Are Encouraged to Contact the Firm - WBOC TV: SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Intel Corporation (NASDAQ: INTC) — Investors Who Suffered Losses Are Encouraged to Contact the Firm WBOC TV...",
+        "sources": [
+          {
+            "title": "Intel Corporation (INTC) Faces a High-Stakes Turnaround as Server Demand Improves: Can the Stock Recover? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLV9IRVpiaHdDSk10Wld3Rzk0S0pkX2NER0dlcWY1RVZFOVZMTHdNRFhrMWFCWExVd0NzZktYTm9pc2lrSUR2bUlpVnZDNjFmbnBZakJoWEdrc1ZZcTFRQTI1Ty1zTExhb0dRUUlpcWJCblQtVnJBS092OTBvSWlySTNuYl9QMTBjME0yek1PU3JVWlJFemJaQWd0T1ZLcUU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel: Further Pain Ahead, Still Expensive For What It Is - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZl9GM1l3T0RwajFvNHc0al81U0NyNFF4Tm5IZnVmWWg3VUE3TVdQQXl2Unpsa3BsZDE4dktfbzhUTlJtX3ItbUZsVV9PR21QZmRub0EtOXg1TTlSb1dWUDB3Wm5YVUFXNTVPak1TVTVsanh6SUU0RUpmbjZyazdITlhaQnVEdFZLY2dnUDZsVlViR0YwMlNRdnVxNzg?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Intel Corporation (NASDAQ: INTC) — Investors Who Suffered Losses Are Encouraged to Contact the Firm - WBOC TV",
+            "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQVFgzSVNvSjlmWlpHUDV6OGZHUlFEc1B6QVpvYmt6UVdicndTSkhCVlFzWEgtMHFJbk5OdXdSVHZwMkFtSFlZVE0wOGxPMERVUnh5a1BpNU1NV3hFZXV2cGZSMUhYNmhUbmU2aWhYQ3dyX2ptMTVpdXg5Q0ExTV9ra0NycEZBUDNrUzljeFJnOERWNzliOFRaVDBrS0xYMksySXI2SkZHdTVENnNXQThOT3BnNDFOdkJ3N01RV1lma0pvdkJSWFZXdnhfUVJBeDA5NkJmWl9VYldtbUc4UEd3RWJIXzRZcGJqS1drakNzLUJHMmJLYWdRN0hvZ1IyeGc2bUF1NXBzSkpOaW9vSHpJWkl0bmVvSXlMYW5DRXBuT2l6S1pZMFRtczJJUUtSUFA3aWVuaUtoRkJBM1U1VEpNSlE1dw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 424.39,
+        "changePercent": -13.25,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down - Yahoo Finance: Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down Yahoo Finance...\n- AMD Shares Slump After Shortseller Raises China Concerns - Bloomberg.com: AMD Shares Slump After Shortseller Raises China Concerns Bloomberg.com AMD Stock Gets Crushed by Anthropic’s Drop and a Short Report. It’s No Time to Panic. Barron's AMD dives on short seller report o...\n- AMD Is Down 26% and Intel Is Down 42%. Which AI Stock Is Worth Buying on the Dip? - The Motley Fool: AMD Is Down 26% and Intel Is Down 42%. Which AI Stock Is Worth Buying on the Dip? The Motley Fool...",
+        "sources": [
+          {
+            "title": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHB0U3N0WnlCMjZCUFZ3QlNZSEhXZnVVbUdMSElkZTJ3TkszdTFxQnlpMkpZV05ZajNXM0VJYXlDM293OEdkUWl4RHVTZXRvSG1rQnJMWVJrMEp3a00zSm9VbTF6eHByZmpwNGMxcFlEQ3ZFSDQwU0FpNHlzV2xDRndWMnVzdDUzbkdDamxKX2FZeWNBbTJBamg2SVFwamZWdEh1elZ3?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Shares Slump After Shortseller Raises China Concerns - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkp6di1ZYkMzQlhjTmkxbHFwNzIzLWMyc3NKXzBqSV9hZ05wODRRYUhjYl9pSmIyNENPaHpXWmlScUpaYXhfT3AyQ1hKYVhWZnhHRVp1a0g2dkVGWmpYa2lXdmdjaE1TUTQwbFlyNjJVNjVkRmlIbWt3WHhWYjNJWXNGSG9RcFkwYUFRZzdYMVNpQXVnZllfU0ZlZEc0QnFsQ1RnWk9tUmc5d2luUVVSaWRKMA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Is Down 26% and Intel Is Down 42%. Which AI Stock Is Worth Buying on the Dip? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR1M0ek8zcGxGYUdSUDBrMEdkX2VkTk5PTkdONzNFRkVnc21TTnFRejZIWUhyNmxLc2tjSXFHTzlhNGw1MmJlREt6WUlTY3B6VlVrbU1lVWFubXVyUUNmYTdkSk16cUZUTzVib0tlSmowa1lyRXl2bkJFRWw1anZlQkRqUXk4ZS1sX1BTdWhLeHpfMndJQUZPMVl0SndSaHZSVGVuYkN3al9Lakk4RDNkQTJYUExhWm8tNWQtNk1iNmc3NWJ1VHlpR2h3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 594.51,
+        "changePercent": -13.89,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Micron Stock Is Falling Today? - Benzinga: Why Micron Stock Is Falling Today? Benzinga...\n- Micron Technology, Inc. (MU) Stock Forecasts - Yahoo! Finance Canada: Micron Technology, Inc. (MU) Stock Forecasts Yahoo! Finance Canada...\n- Tech retreat takes Micron down 14% (MU:NASDAQ) - Seeking Alpha: Tech retreat takes Micron down 14% (MU:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Why Micron Stock Is Falling Today? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0ZiQWZJMk1hcGVMQld4QlRyNlZBWmdNZk5fOGMxX3lva3JkbzR6clFfWFFCSlpQWDZzaGNiSDhmTVoyeE9DTUw3cWhmZXV2bEs3Wl9XZ3Rvdjl1ZTNYZnJVdlVSYzh1OTBnWmVQcWd6b3lPdldUQkl4MFF3eDNkUDR0d3VmMnhoX0dPbTNfVQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology, Inc. (MU) Stock Forecasts - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORndKN2h5TG5DTnJzUTM3XzZ3dnNTSGktWmRYZkFYZFRjdEY3R2o5RXpUcmZHaFp0cmZjSklMcEM4RXFodEFpMkF0U2JVVGluUTRtekhqWDhaTEJfb2VybjlVTHR6SmxDWG0tNUgxdU5sWmNvUEI4WUp1ajQtY3NieGpBOXZibnFmUEJPTnh1Y1Q?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Tech retreat takes Micron down 14% (MU:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rYk5jSm5VRm9QLWlpUGRFZmR6eUZtTUxhMml2VzFKRk1yYnlqM1phcWlMYUpZbUJISi11TXd4bDJUX1QxNUpHYlBHd0JxMm1jRUZfaWNqcllpN2kyTnhXY2hodDBaOHg1ZmZ1TE5vYmRRc3cwMWlnTGZ3MA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-20": {
     "date": "2026-11-20",
     "lastUpdated": "02:53 AM KST",
