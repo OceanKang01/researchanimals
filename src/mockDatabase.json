@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-17 AMC (마감 후)"
     }
   ],
+  "2026-11-22": {
+    "date": "2026-11-22",
+    "lastUpdated": "01:58 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 460.54,
+        "changePercent": -13.94,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)? - Yahoo Finance: What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)? Yahoo Finance...\n- Lumentum: After A 54% Crash, I'm Upgrading To Strong Buy - Seeking Alpha: Lumentum: After A 54% Crash, I'm Upgrading To Strong Buy Seeking Alpha...\n- Lumentum CEO Says Marvell Deal Is ‘Even More Powerful’ Despite Stock Selloff - Benzinga: Lumentum CEO Says Marvell Deal Is ‘Even More Powerful’ Despite Stock Selloff Benzinga...",
+        "sources": [
+          {
+            "title": "What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXh4Zl90aHVPODZ6ZFNXTWs3WTU5VzlQY2xxNFltMFVodTFrQjUwckNERWprMlFjYVpJbHFobkZCbTZfcG5JWFotcl9TQmUwOHltZG1KUmtlQ1VuVWgwZXRoMzczbUJFYWdNRVlsVlNGYW1YQ3g2Rjd4NnNGcW9yc3d5ckU3dnhBTUhkelRraWxTZjREZTRoUE1lTUU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum: After A 54% Crash, I'm Upgrading To Strong Buy - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXJINUM1ckI2SEFBS203Ulp3WTZLbHZTRm9rVE4yRzdvNkpoYzlMMWdDeTF2VGx5cHhSbGRIT1I4MlYtaGdJbTRqMFZGSWNFdWVnVC1xakpOVTk4Vlc1WjFwVWt5LWhCcUE1dzBQSVhLdEEtZUl1TVctRWhIQkY1bTNuTGV1blVsZFVzdm1aSHpuSlc0MGV2czROdFdYZ3pDeng0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum CEO Says Marvell Deal Is ‘Even More Powerful’ Despite Stock Selloff - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeEVHdTZmLVlPaFdxdGNnUlFwVklHM3NWcDBHR2gyUS1EVnc3Q3hJWDVKUndrelhTT3R6WENTLWszZmlkSnJGbmNpWW9QN1ZJa0cybUhQbEZCaW5tRTEtQWlEY2ZNNkZJYnRYWHdST3I0YmVac3ZSbkRKVU1KMGt3cGpTS0pHNERub2FVcW1rV0pBMnpxRnF2QzZEdVJDYlRPY2lrWGR4WThoc3ZwcXNXQkFHYmRWU2ZSbGdOOG1vVlplc1ZDd1E?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 51.28,
+        "changePercent": -7.97,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation (INTC) Faces a High-Stakes Turnaround as Server Demand Improves: Can the Stock Recover? - Yahoo Finance: Intel Corporation (INTC) Faces a High-Stakes Turnaround as Server Demand Improves: Can the Stock Recover? Yahoo Finance...\n- Intel's Turnaround Story Remains Firmly Intact, Buy The Panic - Seeking Alpha: Intel's Turnaround Story Remains Firmly Intact, Buy The Panic Seeking Alpha...\n- INTC Stock Gains Overnight Amid Fresh Layoffs Buzz - TradingView: INTC Stock Gains Overnight Amid Fresh Layoffs Buzz TradingView...",
+        "sources": [
+          {
+            "title": "Intel Corporation (INTC) Faces a High-Stakes Turnaround as Server Demand Improves: Can the Stock Recover? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLV9IRVpiaHdDSk10Wld3Rzk0S0pkX2NER0dlcWY1RVZFOVZMTHdNRFhrMWFCWExVd0NzZktYTm9pc2lrSUR2bUlpVnZDNjFmbnBZakJoWEdrc1ZZcTFRQTI1Ty1zTExhb0dRUUlpcWJCblQtVnJBS092OTBvSWlySTNuYl9QMTBjME0yek1PU3JVWlJFemJaQWd0T1ZLcUU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel's Turnaround Story Remains Firmly Intact, Buy The Panic - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNEZpcFVidUVqWlFzQlB2U2U2TDZWYURaNmJNOVpzLWZyX0pjYWZMblQ2NmljQ01LUVk5cWFKQkNSUTZZZFFmejdKeEJfT1JDYXdYd2dseW52S21keGVWTXBNVGNLNlBVanVLUkdsSzNjSFBxbmxXRUswYzFEU3RXOGxlak56Uy1hcW1HZTRSVnhTR0FnMklVaTR4ZXI3cGhoTFE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "INTC Stock Gains Overnight Amid Fresh Layoffs Buzz - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDhsZWl5UzI3S0tpMVFXWHQ0Z21MZ0gxWEV2YW41STI3dlhRc09sX1VfeHNoamFXbkVuNWJhVG9iSTdCdDA4RmhQSVlxaGpKRUE4M0JncUxESnhRNk1ORTBIR0VaTGUzN24xaDZFWmpXN3dBQWE2bi03dkkxS1A4U2V0aVJLV1JZcmdHMEhjUVlDb2RLUV9MLTZtZ0JUcFY5SjMxMm9XSXpHWkNqUzRVWQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 424.39,
+        "changePercent": -13.25,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- AMD Shares Slump After Shortseller Raises China Concerns - Bloomberg.com: AMD Shares Slump After Shortseller Raises China Concerns Bloomberg.com AMD Stock Gets Crushed by Anthropic’s Drop and a Short Report. It’s No Time to Panic. Barron's AMD dives on short seller report o...\n- AMD vs. Nvidia: Which AI Chip Stock Is the Better Buy on the Dip? - The Motley Fool: AMD vs. Nvidia: Which AI Chip Stock Is the Better Buy on the Dip? The Motley Fool...\n- Advanced Micro Devices, Inc. (AMD) stock price, news, quote and history - Yahoo Finance Singapore: Advanced Micro Devices, Inc. (AMD) stock price, news, quote and history Yahoo Finance Singapore...",
+        "sources": [
+          {
+            "title": "AMD Shares Slump After Shortseller Raises China Concerns - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkp6di1ZYkMzQlhjTmkxbHFwNzIzLWMyc3NKXzBqSV9hZ05wODRRYUhjYl9pSmIyNENPaHpXWmlScUpaYXhfT3AyQ1hKYVhWZnhHRVp1a0g2dkVGWmpYa2lXdmdjaE1TUTQwbFlyNjJVNjVkRmlIbWt3WHhWYjNJWXNGSG9RcFkwYUFRZzdYMVNpQXVnZllfU0ZlZEc0QnFsQ1RnWk9tUmc5d2luUVVSaWRKMA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD vs. Nvidia: Which AI Chip Stock Is the Better Buy on the Dip? - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdDJjTUItNjhtVWNMb0FRa3hKZThKYXNDbWxweWdZTXVtUXBCalAwMC15d3M2LU1Ta216M3poTmo4eTVyQ0xqMGFTX2VHd0Z3LW9EZFJEaWVDaEtVdXFsWTBReFk4dlI2RE9BQVJDb0Z0a3A3dGpGNGtxaWlvdU93VW1TSy1OVFlIYkV3UkNDYk5mZnBpQWUxMzF5cm1HT2FJejlEY1hmYVU?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD) stock price, news, quote and history - Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iSjVIOGhXUS1ydEMtTFQybFQxX1VZWmNNM1hoSEM3bjAzdGFtU0pONEU2MGY4enBwTF8yXy10YUQ0U0d3YnNjcXJIcGl4Tjcz?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 594.51,
+        "changePercent": -13.89,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Why Micron Stock Is Falling Today? - Benzinga: Why Micron Stock Is Falling Today? Benzinga...\n- I Picked the Wrong Week to Buy the Dip, and Other Observations From a Miserable Few Days in the Market - 24/7 Wall St.: I Picked the Wrong Week to Buy the Dip, and Other Observations From a Miserable Few Days in the Market 24/7 Wall St....\n- Micron Technology (MU) Keeps DRAM Price Fixing Lawsuit Alive After Judge Rejection - Yahoo Finance: Micron Technology (MU) Keeps DRAM Price Fixing Lawsuit Alive After Judge Rejection Yahoo Finance...",
+        "sources": [
+          {
+            "title": "Why Micron Stock Is Falling Today? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0ZiQWZJMk1hcGVMQld4QlRyNlZBWmdNZk5fOGMxX3lva3JkbzR6clFfWFFCSlpQWDZzaGNiSDhmTVoyeE9DTUw3cWhmZXV2bEs3Wl9XZ3Rvdjl1ZTNYZnJVdlVSYzh1OTBnWmVQcWd6b3lPdldUQkl4MFF3eDNkUDR0d3VmMnhoX0dPbTNfVQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "I Picked the Wrong Week to Buy the Dip, and Other Observations From a Miserable Few Days in the Market - 24/7 Wall St.",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSXRJalVEVWhub3Q4S1JzcmU5Wm0zWF9KWU5veFEwRjdZb3NBSUNOcGRIRHFSc3JxOTVIRlJqZm1leWxRbzRCaVBLODRTMkd5WU5ESGN1ZUdOd1hwYjFPNU1Gc0J5NEY1alJmQVZDNzgtcDhUZlFJWWMtbGllZGZKZ0JKYTRsd1BKQWVibmUtb005bk9XUXpzd3JsQ0RrbDhQcUtXMTJRbVgyN1UtNGV0OW44aGNLdzd5R0dBWGlDS0s0OW1DUm9jY3VucXFJS1FFNHNlQWh1Nm5HcGdyQ3lRYy1ySFVQYW40Wmg0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology (MU) Keeps DRAM Price Fixing Lawsuit Alive After Judge Rejection - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZUpwaEUwOWZyeDh2VjJJaVlPVEtGSTBRNFJ0MVhHNzdGY2xmRHdzUkQtRy1SQmpMeHY5TUM2NFBEU2V6cDFBZV9JTGhyRDBhdFlUSHNYZFNMUThrU0diMUpJRzA5Q1QzLXU2SkRXRzZtZUJUdEdfV294dEoyRWdpMlhNX0RPWVdUTjcxT1lDX2tUWEd5TTJJdDFobzg?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-21": {
     "date": "2026-11-21",
     "lastUpdated": "03:01 AM KST",
