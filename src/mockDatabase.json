@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-17 AMC (마감 후)"
     }
   ],
+  "2026-11-25": {
+    "date": "2026-11-25",
+    "lastUpdated": "04:49 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 487.12,
+        "changePercent": -10.52,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- symbol__ Stock Quote Price and Forecast - CNN: symbol__ Stock Quote Price and Forecast CNN...\n- Why Lumentum Holdings Stock Trounced the Market Today - Yahoo Finance: Why Lumentum Holdings Stock Trounced the Market Today Yahoo Finance...\n- AAOI vs. Lumentum: Which Optical Networking Stock Has an Edge Now? - TradingView: AAOI vs. Lumentum: Which Optical Networking Stock Has an Edge Now? TradingView...",
+        "sources": [
+          {
+            "title": "symbol__ Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NVmtVMDJ1WWg5Yjh1ZFgyWUFsenRLU0xta05BVHMwZDlVNDdSMFBnNWxmZXZiWkZnOXd3ejI3cExJdjAtN0ZaQ3JRSkdlamJn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Lumentum Holdings Stock Trounced the Market Today - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHJnWVlRRllVaXBzdkdGQk9XY3hTaFVfZGFra2lTYVVNZWlMbGdtSnNKNDA1TjAxNGNXY2t2UzFTY1FaRWFva0hsSndxRlFlaC1TcVhud0Ruek93b2Z4cmZ4anpwcy1NaTh6c05EaDBoTmdVY0RWcmlXUVFEajA4UlJ3d0YwVEhiR0tkaXFvZ1ZGeW5BRFZJa2dZUTNMTVFwOGxF?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AAOI vs. Lumentum: Which Optical Networking Stock Has an Edge Now? - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOUxpTk1GNVpDcjlvTHRDcEM5b0R1TmFVOXpJU0IzOVphY0RTalN0TmtDcVNtSkhUY1JDSnVWTFp4MWs1V2tkOE5JNWNoOTJiMlUzVVI2d29MelVfamQ5eGE0c1JKc1p0dWNoWnhMRFFTdnJ0ZGVudHRpWXVBVzFwTnE0aTB6X3VpYzVPNTJKTXNPUUc2aFh6SlhscDBZX0FHN1hDZWctQ2M4VUJFWUtxVUJTaXBVMFgxd0Nr?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 54.8,
+        "changePercent": -8.15,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- INTC Stock Quote Price and Forecast - CNN: INTC Stock Quote Price and Forecast CNN...\n- Why Is Intel Stock Falling 5.8% Today? - Yahoo Finance: Why Is Intel Stock Falling 5.8% Today? Yahoo Finance...\n- Intel Corp Stock (INTC) Moved Down by 6.44% on Nov 24: Drivers Behind the Movement - TradingKey: Intel Corp Stock (INTC) Moved Down by 6.44% on Nov 24: Drivers Behind the Movement TradingKey...",
+        "sources": [
+          {
+            "title": "INTC Stock Quote Price and Forecast - CNN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lWkZjY0djMFFwSUlhcXJYVkRXQlptNHppd1R5NFlzSm9UckZacWJERUZpdWw5WlViaENhblBac0hQZ3BNdmZUZ1VONmU1dHp2?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Is Intel Stock Falling 5.8% Today? - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkpEWHNSWFFWS2E1aEZXcVdISU1nU3EtOXI1UWxwUDk0NWZWaEJMMVRudlZIc3d6a3A1Tmp0WF9LZmtuV0ZyTWdkT3JFWUdxLXlKckQwUkdCTVRFM3Biekp3RnpuaWJOM0pzYjdQaW44TEFmRGRIMDFVcC0wU1h3LThVRnhaMmZ3ekJNdnJDUG8ycUxT?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corp Stock (INTC) Moved Down by 6.44% on Nov 24: Drivers Behind the Movement - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU3JCRk8zVDBwQXhBeUI1YXBFUnVDT3QwN0V3djMtcnM1OHdtYi10V0dxQy1jQUZpQlBHZndxMGZKdEZ0NUlfbzVpVXpnZzh6cVZSRFE2Vk95WllVaEdWY3E0R0Y2NzVYLWh2SFRsaXBSaUJvRVdVbWZtYTVDZmpYTFdJdm12LUFuN3VJ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 413.27,
+        "changePercent": -8.86,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Here's where we stand on AMD shares after Jensen Huang's return to Nvidia - CNBC: Here's where we stand on AMD shares after Jensen Huang's return to Nvidia CNBC...\n- AMD Stock Shows the Market Has Stopped Making Sense After Huang’s Dramatic Return - Barron's: AMD Stock Shows the Market Has Stopped Making Sense After Huang’s Dramatic Return Barron's...\n- Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance: Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance How AMD Is Set To Exploit The Nvidia Rout (NASDAQ:AMD) Seeking Alpha Prediction: These W...",
+        "sources": [
+          {
+            "title": "Here's where we stand on AMD shares after Jensen Huang's return to Nvidia - CNBC",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTN3YnRUa0JOZUxWXzhPTlUtZmkzU1NrSmZzamgtTHBYdFNOSHdyYy1nUlg3ZWU1U29jVjBXTVEwbjJKNVpCVl9VUDlzMzR5ZWxNLWhDYVBQOWdrOVljOUNBOEw1dnNHWG5ZVFVObEJzeFB0aF96ZGtyNzRTV3l3NTJwRWdFc1VMdlZKSFB5b2J4WlhXNy11dUtwTmFwZjBBTHdLaER0LVNZMzRiSUI4eFhZZFBjUXdydkZzRTlHaGw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "AMD Stock Shows the Market Has Stopped Making Sense After Huang’s Dramatic Return - Barron's",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFZiUXAwenUzWFNOTXVsanB4ZEdoeU1nMFozQTF5T0NNRnZGZG1UVnhuWXFwb3Rhc2ZlU1h5dVc1aXUydlcxdEl3ZUZGY2p5MzBQUEZGSzNWb1ZkZ2tDQnh4NTJLX2FJUUtfSmVvQllMY3FESV9uc0g5Z25fTlpBV2FHMjhJY3M?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkZxQzNLc04tWGhod0c2ZmRjeW9pNHdhekQyOENwZ3A5YjhocURDeFpjUFZSNHNnUzRWQktUcGhZUnlmTGZBdTJVcVBxTFM0bC1DRWJidVlKemJlUktpYTQxTGtsUk1xSUZTRmdFRVhEbDdDakFyWl9YSHZ0NkRnaEszRGpZQ3VXM0JyQUxZUlFjS0ZvUGRkbVM4bw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 629.79,
+        "changePercent": -11.01,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Micron Technology, Inc. (MU) stock price, news, quote and history - Yahoo Finance Singapore: Micron Technology, Inc. (MU) stock price, news, quote and history Yahoo Finance Singapore...\n- Micron: The Music Has Stopped (NASDAQ:MU) - Seeking Alpha: Micron: The Music Has Stopped (NASDAQ:MU) Seeking Alpha...\n- Micron Stock Drops After Monday’s Surge as Nvidia Scrutiny Hits Chipmakers - Benzinga: Micron Stock Drops After Monday’s Surge as Nvidia Scrutiny Hits Chipmakers Benzinga...",
+        "sources": [
+          {
+            "title": "Micron Technology, Inc. (MU) stock price, news, quote and history - Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kQ041OExwalFFX25TenVnR05FU2tLb3RhY0UyeEZlY0h3aTUyQnl3MGNyOGVXeWsyUUY4MHJIQU9NUTlGbWRRYV8tcDljc2M?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron: The Music Has Stopped (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJT3NnXzhOZGpBckthQmpJSHZBdXhfR2tHTVE5ajV5eEdSbEs1VFg0QzNfbTh0SFFsaTlraHNTakxpLXFaMG4tZlZ6T2cxcUhON29vclg5cUFpc1I2aWtJTnItZXlhYzhvbDlXRjZFdjRWTlZLbFJ3TA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock Drops After Monday’s Surge as Nvidia Scrutiny Hits Chipmakers - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRHBRR3ozWWtCTmVrLTdaNHBiUy0zTlk3WVFYNHZpWDBUWkhBYmg3a0haclJwNXRLWW96RklNUVJncnNCTl9EaDBlanYzMEV1QkZvTlA5X0dpeVJaaWlwRGJFazVoLUJfTXhwQTFJV2VUeFRqcHBVV3dmUDQ2bmg3M2RDTHpWZXRjWHBNZ0lma2lqRHhQOFI1bm9jSHI3QjlXODh6eThxRE5uS05EN3JvSWpfSnJHUzFRMFJZYzh3TVVBTUFP?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-24": {
     "date": "2026-11-24",
     "lastUpdated": "05:46 AM KST",
