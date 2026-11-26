@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-17 AMC (마감 후)"
     }
   ],
+  "2026-11-26": {
+    "date": "2026-11-26",
+    "lastUpdated": "04:01 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 476.58,
+        "changePercent": -2.16,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance: Lumentum Holdings Inc. (LITE) Stock Forecasts Yahoo Finance...\n- Lumentum Holdings loses 9% as tech falls (LITE:NASDAQ) - Seeking Alpha: Lumentum Holdings loses 9% as tech falls (LITE:NASDAQ) Seeking Alpha...\n- S&P 500 Top Movers: Gainers and Losers From Today's US Session - ChartMill: S&P 500 Top Movers: Gainers and Losers From Today's US Session ChartMill...",
+        "sources": [
+          {
+            "title": "Lumentum Holdings Inc. (LITE) Stock Forecasts - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVE3YkJzMkJROTRFM2ZEQUpfRWhLQUZOYmYwdzJBd0FlN3dNa2R2VWRNNk9hR3RFMlQ3am9tSldSWDhHX1NVZWdUdnhiYWJ2UjRhSlliMDlNcm4yVUtNaE5LWWRaQjhmT3h1TjFhVUg2dnMzZFN5aFpZYkhZTG54c2FRclo1eTFUM1Fia3pjRQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings loses 9% as tech falls (LITE:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeE1pWFNiSnUtdmRENmk0SnZvYm1kNnpER3BiSmtKRkJkNTdLcUZvTkFlLXVGbGhKU2NmZUpFLU1NYmxnLU1Cc0FxaWJ2ZUtXN3FBdEN3Umk4bE80d09WOXJ2OUxURVpQQ0prektxaVJ1SGlUSGRrNDJvbnNiRzR0YWpqaw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "S&P 500 Top Movers: Gainers and Losers From Today's US Session - ChartMill",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSlZHaTZLYzNyRm1WeG50NGpaT0VOS0dwTG5iRTcxbDJueWNPUTNmazhXa05XNjNDN21GT3ZtdGhtWW9UTWRuVmhoX0F0SVVDWDJaeFE1YVAxRmJtN2VRZHV3a3oxVXVTZHFWQ0lTM2xRd1NkTWlHV21IaFBZcld0N3ZRMDJ3OHJpUUZRRzNzQl9CM1FxVkk3QzhraHZjV0NJOE5IZ1U1b0pITzU0RnN5UQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 54.47,
+        "changePercent": -0.6,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Shares Rise Over 3% After Key Trading Signal - Benzinga: Intel Shares Rise Over 3% After Key Trading Signal Benzinga...\n- Intel Corporation (INTC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance: Intel Corporation (INTC) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance...\n- Did You Lose Money Investing in Intel Corporation? Robbins LLP Urges Investors with Significant Losses to Contact the Firm About Their Rights Against INTC - Finviz: Did You Lose Money Investing in Intel Corporation? Robbins LLP Urges Investors with Significant Losses to Contact the Firm About Their Rights Against INTC Finviz...",
+        "sources": [
+          {
+            "title": "Intel Shares Rise Over 3% After Key Trading Signal - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWQwaDZsQkVldlk5YlRSaC0wS2k5SzlENkZXaU4wSHhILUptYXpCcmMxQXN1ZURTeUlfZThSeXh5bFRwaWI0ay0zbndybER3YnF0dm15VXFoTm1iYlMydndLdXhxel81YS1zWEdiR1owa0M5bXBsN2VBWFJMNnM4X05ubFRfS3VMT2ZKMUl3a1E0RkxvNThRa2h4OFRsUDY5SThaLUY3UGw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel Corporation (INTC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa1lQYjVCOUtzVVRkdVp0WnFIc0pJbWVqQTk1Tl9hb3d0QjNoNGFGX2hHYlVvMEQ4S29WWm9qakctaUhZOUJzZjl0d0QyY1pvVEQ3TWJ0b0pLbHN4MjJXUkllWWpGV1YwZy1MUWx1cTd5eDllZTRMbl82ZmhLWjdHMEF0cW16bXliTnptYzdKSnpNaDg1eHotZC1tTGNmTkpnNXNfSzlHYnlVTms?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Did You Lose Money Investing in Intel Corporation? Robbins LLP Urges Investors with Significant Losses to Contact the Firm About Their Rights Against INTC - Finviz",
+            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPOHdJM3ZEVFdwbExJVXJQTVdCLW1kQkJ2WTlfd3laVjZWM1lNT3hsbDZzQXlaUHlXYUYzbnBfbDhWLU1hTjFhZVotTzhhX3VvY3VRUm9pT2RhRTZNNzZ5Tm1oLTBkTzBzY09xQVk4RUl4U1hwa2szUk1yLXFNWHJkZWJoSnM5VlJUXzFSeFN4NjUtUHVKa2VkdEhNa1V0SFV4QUpXcjZ3Z3h2bkRJY0wxa3I0NGFRLU5BMEgzR3ZIMEFtOC1ZV083d0V1eEFCTFpEdjlFam51a0dnZmVGLXBDdjZfblhaRjBhMmFTX0w3clRXT1VuRzc0VHlfaVdqR211WHFIaFYzcnR6R2RXSWU3U0x3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 406.03,
+        "changePercent": -1.75,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What Is Going on With AMD Stock on Wednesday? - Benzinga: What Is Going on With AMD Stock on Wednesday? Benzinga...\n- Prediction: AMD Stock Could Rally 58% as Analysts Maintain Strong Buy Rating - Yahoo Finance: Prediction: AMD Stock Could Rally 58% as Analysts Maintain Strong Buy Rating Yahoo Finance...\n- Advanced Micro Devices falls 8% amid semiconductor and AI pullback (AMD:NASDAQ) - Seeking Alpha: Advanced Micro Devices falls 8% amid semiconductor and AI pullback (AMD:NASDAQ) Seeking Alpha AMD Stock Would Need to Rise About 57% to Get Back to Its Record. History Says How Long Past Comebacks Too...",
+        "sources": [
+          {
+            "title": "What Is Going on With AMD Stock on Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnU5WmVBMDl6MmdpTy1nNVh5dUU1c0xCWFhkbk5pVHV4RXFPNVMtSDN5eG5nV0NvQk9EbnpQQjFnQ3c3OUE3a2xjcGdBbmlvdDNzT3VhUGFvSmNJT1EycWY5TFZOUGdEUTlxcHl2a3VFY2c1WWpuRkk0VWZyMXJPSUtoSDRBanBNUW5Rbkh0bURTMmJ5OWt0bWlXRkVDMnA0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Prediction: AMD Stock Could Rally 58% as Analysts Maintain Strong Buy Rating - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWkxOdU01SzNIV196RU9WazhvcnhyeGs0QlJBdW5neUg5SzRwOVBYd0d1R25UbXpvTnBndlNCWGowNGpEbGpJRGJqQjFON1p6WUNNMkRJOUxjVDZDSWRHZWMzSm5HNk1CWFZDc3ZFcEwzVW9UQWtLVUhTSUNsR0dZVG05T1BDOUY3Wl9lMzludUU1NDRUc2J4ektoVkEwUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Advanced Micro Devices falls 8% amid semiconductor and AI pullback (AMD:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUg2QWlJLTRKcVhjVDhsSkEzY3Z1RHpyMHZ6U0dDUy04TkxiejBIYndFQU9xYXR5REU3X21JcWxuNDlMZTJXV0VDazdkWVFUcFFyOUp5aXFoelVhd19MTG5HSVBHc09VMjRxY0Y4THF1eE1TVXMyU3pnMU9DelZISzJheTUyVXRRY2dFb3hNTU1XcU1fQ1gyOEY1NmpaTFRSLURlSjA0VFpabDlzcnpUdQ?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 601.25,
+        "changePercent": -4.53,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What Is Going on With Micron Tech Stock on Wednesday? - Benzinga: What Is Going on With Micron Tech Stock on Wednesday? Benzinga...\n- Micron (MU) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo Finance: Micron (MU) Suffers a Larger Drop Than the General Market: Key Insights Yahoo Finance...\n- Micron Technology declines 11% as AI stocks drop (MU:NASDAQ) - Seeking Alpha: Micron Technology declines 11% as AI stocks drop (MU:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "What Is Going on With Micron Tech Stock on Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS25kX3lFaktpdXJYNUw0SFdDV3lHUjdiX2xZSUxoUDlKYUJYNFFrY1dpbXh4VW9VN1I2TWZ0djRYT2Vnem43NlhRZXF1Vkl5aEFBeDdtWTNOWVBtOHpoMTJSNFVXbUNEUmRLWkpIaVlOV0RXUnFfbUlXNTFYUmgyaXZjUlVMMmJqSk5VOWVVc1pRUzVtaHVyTUFoSUNaak1JbmpaT1Njd1BwN2FVeThtcDFETndkUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron (MU) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFhxdWN5cm52RUFXdlVrUWVyWEQyVi04YThGMVRlci00SW9fYlpPLUJuQkpLS3dZYTBoQzFqb3RSckRTbkhCLWVhMDlTdnBfYUxQNzh2ZTBId21NZXhFdmt3WmdPbndoLVoxeE95VHJlU3dPX3dBOU41SEVfOG1zbkFDV2dnYXNPZWxLN016M0tjTlNuWW1mUXdn?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology declines 11% as AI stocks drop (MU:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVhjd2ZXSC1VdWw4QTBBbUd3Zy0ydEE5Wnd2WGNvazFGb3gyZUZKdXRuYzJJbFZ2QlFWZlJtQ2t1S3VDYWF1UW10TUdxLVFwejN1bWNPWi1Pc0lDR2syTTJyU3BoSlBqTG9SWEV1dWI5YkpSWnc1elp1ejlDa3pLMzJkUDZMclpvZkRTWkF3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-25": {
     "date": "2026-11-25",
     "lastUpdated": "04:49 AM KST",
