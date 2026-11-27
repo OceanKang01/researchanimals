@@ -21,6 +21,108 @@
       "earningsDate": "2026-12-17 AMC (마감 후)"
     }
   ],
+  "2026-11-27": {
+    "date": "2026-11-27",
+    "lastUpdated": "03:59 AM KST",
+    "summaries": [
+      {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 476.58,
+        "changePercent": -2.16,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Lumentum Surges 55% in a Year: Should You Buy, Sell, or Hold the Stock? - TradingView: Lumentum Surges 55% in a Year: Should You Buy, Sell, or Hold the Stock? TradingView...\n- Why Lumentum Holdings Stock Trounced the Market Today - Yahoo Finance: Why Lumentum Holdings Stock Trounced the Market Today Yahoo Finance...\n- Lumentum Holdings loses 9% as tech falls (LITE:NASDAQ) - Seeking Alpha: Lumentum Holdings loses 9% as tech falls (LITE:NASDAQ) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "Lumentum Surges 55% in a Year: Should You Buy, Sell, or Hold the Stock? - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVUta2RlaWs4U2lYS19FQTJ1elQ5V1lIbHU0M0loU1I3UFlTVmZPRWljWlJMSXplcjJyZUc1ckZKMUVOQlRhYURhTHMxUU1GN3lmQnBQb1pFLWRCU0NOajJObzEzTWdaTG52ak1wNFlTb1J4OVRWcWFyX08zanQwLTlySUZ6eGR0N2ZncWs3aHB5X2ZoTDlBd1BWUEtDSUJxUTNJb2pCN1ZseUNiRUFVcUxqMVdROEJrbVhwOU04OA?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Why Lumentum Holdings Stock Trounced the Market Today - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHJnWVlRRllVaXBzdkdGQk9XY3hTaFVfZGFra2lTYVVNZWlMbGdtSnNKNDA1TjAxNGNXY2t2UzFTY1FaRWFva0hsSndxRlFlaC1TcVhud0Ruek93b2Z4cmZ4anpwcy1NaTh6c05EaDBoTmdVY0RWcmlXUVFEajA4UlJ3d0YwVEhiR0tkaXFvZ1ZGeW5BRFZJa2dZUTNMTVFwOGxF?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Lumentum Holdings loses 9% as tech falls (LITE:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeE1pWFNiSnUtdmRENmk0SnZvYm1kNnpER3BiSmtKRkJkNTdLcUZvTkFlLXVGbGhKU2NmZUpFLU1NYmxnLU1Cc0FxaWJ2ZUtXN3FBdEN3Umk4bE80d09WOXJ2OUxURVpQQ0prektxaVJ1SGlUSGRrNDJvbnNiRzR0YWpqaw?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "price": 54.47,
+        "changePercent": -0.6,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Intel Corporation (INTC) Stock Price, News, Quote & History - Yahoo! Finance Canada: Intel Corporation (INTC) Stock Price, News, Quote & History Yahoo! Finance Canada...\n- Intel’s (INTC) AI Opportunity Is Growing, But There’s One Big Problem Holding It Back - Yahoo Finance: Intel’s (INTC) AI Opportunity Is Growing, But There’s One Big Problem Holding It Back Yahoo Finance...\n- Did You Lose Money Investing in Intel Corporation? Robbins LLP Urges Investors with Significant Losses to Contact the Firm About Their Rights Against INTC - Finviz: Did You Lose Money Investing in Intel Corporation? Robbins LLP Urges Investors with Significant Losses to Contact the Firm About Their Rights Against INTC Finviz...",
+        "sources": [
+          {
+            "title": "Intel Corporation (INTC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GNmJJZ1JaX0dkMjlYU1h4cW9JdzhibHV3ZTIwN0ZlOEpNSmtZaVdUaW81aGdaMndWd1dyMC1xWXFNSVlUbEk3WmJ5aEktWVp1NEE?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Intel’s (INTC) AI Opportunity Is Growing, But There’s One Big Problem Holding It Back - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWElzQ3ZrX0ZkTmMzVG5GcVVZUDNrYzI1X0ZxbEdCRlZkaUxRNXVCTmhNWldScFRfUjFvMVlSRHQ4UFYxclZheUNoenAwMXVVXzVDakRfbEd3ejhJTUVwTDVKWXIwOG43aGs3alRRSUE0dVBJY3FBWVY5NTV2aWZKR29xWUhCYnE5b0ZFUmJxRnJ3Z255VGZjSTBkYU5qQQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Did You Lose Money Investing in Intel Corporation? Robbins LLP Urges Investors with Significant Losses to Contact the Firm About Their Rights Against INTC - Finviz",
+            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPOHdJM3ZEVFdwbExJVXJQTVdCLW1kQkJ2WTlfd3laVjZWM1lNT3hsbDZzQXlaUHlXYUYzbnBfbDhWLU1hTjFhZVotTzhhX3VvY3VRUm9pT2RhRTZNNzZ5Tm1oLTBkTzBzY09xQVk4RUl4U1hwa2szUk1yLXFNWHJkZWJoSnM5VlJUXzFSeFN4NjUtUHVKa2VkdEhNa1V0SFV4QUpXcjZ3Z3h2bkRJY0wxa3I0NGFRLU5BMEgzR3ZIMEFtOC1ZV083d0V1eEFCTFpEdjlFam51a0dnZmVGLXBDdjZfblhaRjBhMmFTX0w3clRXT1VuRzc0VHlfaVdqR211WHFIaFYzcnR6R2RXSWU3U0x3?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": 406.03,
+        "changePercent": -1.75,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade - Yahoo Finance: Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade Yahoo Finance...\n- What Is Going on With AMD Stock on Wednesday? - Benzinga: What Is Going on With AMD Stock on Wednesday? Benzinga...\n- Cathie Wood and Philippe Laffont Are on Opposite Sides of AMD Stock. Here's Who I Think Is Right. - The Motley Fool: Cathie Wood and Philippe Laffont Are on Opposite Sides of AMD Stock. Here's Who I Think Is Right. The Motley Fool...",
+        "sources": [
+          {
+            "title": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "What Is Going on With AMD Stock on Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnU5WmVBMDl6MmdpTy1nNVh5dUU1c0xCWFhkbk5pVHV4RXFPNVMtSDN5eG5nV0NvQk9EbnpQQjFnQ3c3OUE3a2xjcGdBbmlvdDNzT3VhUGFvSmNJT1EycWY5TFZOUGdEUTlxcHl2a3VFY2c1WWpuRkk0VWZyMXJPSUtoSDRBanBNUW5Rbkh0bURTMmJ5OWt0bWlXRkVDMnA0?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Cathie Wood and Philippe Laffont Are on Opposite Sides of AMD Stock. Here's Who I Think Is Right. - The Motley Fool",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNclFJWkVlR0txRlk0VUFfSGRLNlFOY3JIRVFfNVM4cnVoMkZEOF9hTU95T29rSGhJcFl4cTFmeTJwd1JQV1ZrS294ZHZxRUdUV1VOUVdlNVBzMjYwTmVqUTV5SHZ6a2FaSzFYaTZWbE5tYjN6cFNBSFRka2s5WHlMbVR3QjhIcllzRjJZNVJydEZCZXh0M09xRGhiYnd3VmNtNXFTWEFiUVN4cEM5Ty1rc2w5NUpnWnJaOEQwcURLQWtrYVdXMkQ4dFBmNU11ZUF4QjBfSA?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": 601.25,
+        "changePercent": -4.53,
+        "summary": "[AI 요약 대기 중 - 아래 원문 데이터 포함]\n\n- What Is Going on With Micron Tech Stock on Wednesday? - Benzinga: What Is Going on With Micron Tech Stock on Wednesday? Benzinga...\n- Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance: Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance...\n- Micron Stock: The Earnings Peak Is Nowhere In Sight (NASDAQ:MU) - Seeking Alpha: Micron Stock: The Earnings Peak Is Nowhere In Sight (NASDAQ:MU) Seeking Alpha...",
+        "sources": [
+          {
+            "title": "What Is Going on With Micron Tech Stock on Wednesday? - Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS25kX3lFaktpdXJYNUw0SFdDV3lHUjdiX2xZSUxoUDlKYUJYNFFrY1dpbXh4VW9VN1I2TWZ0djRYT2Vnem43NlhRZXF1Vkl5aEFBeDdtWTNOWVBtOHpoMTJSNFVXbUNEUmRLWkpIaVlOV0RXUnFfbUlXNTFYUmgyaXZjUlVMMmJqSk5VOWVVc1pRUzVtaHVyTUFoSUNaak1JbmpaT1Njd1BwN2FVeThtcDFETndkUQ?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOGJrYjVsOS1VejkyRzlkTUMzd0FMZXBpODRGWVN1Z1J3b2NSdVVmR0pKUnNWWlpoME9qLXlTcklVMC1tU3RFNk5lWnpRNndweWlBN0dHajNweXNVOUR3RWdTTHBDRXRFVVpETnR2XzdQdjNOQmU4WjVPUXB3ejdBOXhQUkw2bGNHQlpsV05QNlozSk5EV21takpmeU56MDBmamc?oc=5",
+            "provider": "Google News"
+          },
+          {
+            "title": "Micron Stock: The Earnings Peak Is Nowhere In Sight (NASDAQ:MU) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWFlyeDJJeXg4SmMwaTdrdXZwc0tHTFFrLWRieFl2UnBnVkFFcFV2dHVncTE1dnRDa1VsSUVNRUo0cnpaTzRKb3FCcDBiS29mRlhnblk4d3NOVGt1UGxWQWw5Z3NmMjBUaHNSejVBWlI4dW5ZdDVPa3kyWFlNMXVqcW91dWRxdjlINm5CMzl6ckRpZ29wRHc?oc=5",
+            "provider": "Google News"
+          }
+        ]
+      }
+    ]
+  },
   "2026-11-26": {
     "date": "2026-11-26",
     "lastUpdated": "04:01 AM KST",
